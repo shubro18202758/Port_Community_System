@@ -76,7 +76,7 @@ Built for **Mundra Port** (India's largest private port), this system handles:
 
 </div>
 
-![Berth Overview](docs/screenshots/02_berth_overview.png)
+![Berth Overview]()
 
 <p align="center">
   <i>CMA Berths 1, 2, 3 — all occupied by Maersk Horizon variants. Notice the 94% AI confidence scores? That's Claude Opus 4 analyzing vessel-berth compatibility, cargo requirements, and resource availability in real-time. The orange alerts? Proactive overstay warnings before they become problems.</i>
@@ -90,7 +90,7 @@ Built for **Mundra Port** (India's largest private port), this system handles:
 
 </div>
 
-![Upcoming Vessels](docs/screenshots/04_upcoming_vessels.png)
+![Upcoming Vessels](docs/screenshots/02_berth_overview.png)
 
 <p align="center">
   <i>MV Iron Carrier, MV Asia Link, MV Global Explorer... Each card is an AI-powered dossier. The accuracy percentages (70.3% to 99%) represent our hybrid ML ensemble's confidence. Notice CMA CGM Pride at 99%? That's what happens when historical patterns align perfectly with current conditions.</i>
@@ -104,7 +104,8 @@ Built for **Mundra Port** (India's largest private port), this system handles:
 
 </div>
 
-![Role Selection](docs/screenshots/05_role_selection.png)
+![Role Selection](docs/screenshots/04_upcoming_vessels.png)
+
 
 <p align="center">
   <i>Port Operator or Terminal Operator? Each role unlocks a different perspective. Port-wide analytics for the orchestrators, terminal-specific dashboards for the executors. One system, infinite possibilities.</i>
@@ -118,7 +119,7 @@ Built for **Mundra Port** (India's largest private port), this system handles:
 
 </div>
 
-![Browser Agent](docs/screenshots/06_browser_agent.png)
+![Browser Agent](docs/screenshots/07_agentic_browser_agent.png)
 
 <p align="center">
   <i>This isn't just a chatbot—it's an autonomous agent. Watch it navigate the UI, analyze berth utilization, and generate insights. Powered by Qwen3-8B locally and Claude Opus 4 in the cloud. The green "Completed" badge? That's task automation in action.</i>
