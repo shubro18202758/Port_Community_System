@@ -76,7 +76,8 @@ Built for **Mundra Port** (India's largest private port), this system handles:
 
 </div>
 
-![Berth Overview]()
+<img width="3199" height="1795" alt="Screenshot 2026-02-09 130216" src="https://github.com/user-attachments/assets/d57b218f-8670-4471-8d1e-8a8256222d02" />
+
 
 <p align="center">
   <i>CMA Berths 1, 2, 3 — all occupied by Maersk Horizon variants. Notice the 94% AI confidence scores? That's Claude Opus 4 analyzing vessel-berth compatibility, cargo requirements, and resource availability in real-time. The orange alerts? Proactive overstay warnings before they become problems.</i>
@@ -119,7 +120,7 @@ Built for **Mundra Port** (India's largest private port), this system handles:
 
 </div>
 
-![Browser Agent](docs/screenshots/07_agentic_browser_agent.png)
+<img width="3189" height="1804" alt="07_agentic_browser_agent" src="https://github.com/user-attachments/assets/5068d3d0-6387-49a0-b580-195f6687a08c" />
 
 <p align="center">
   <i>This isn't just a chatbot—it's an autonomous agent. Watch it navigate the UI, analyze berth utilization, and generate insights. Powered by Qwen3-8B locally and Claude Opus 4 in the cloud. The green "Completed" badge? That's task automation in action.</i>
