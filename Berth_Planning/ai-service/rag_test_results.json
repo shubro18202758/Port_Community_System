@@ -1,0 +1,691 @@
+{
+  "timestamp": "2026-02-05T01:33:25.650587",
+  "summary": {
+    "total_tests": 20,
+    "successful": 20,
+    "avg_topic_match": 0.875,
+    "avg_time_ms": 56.87662363052368,
+    "total_time_s": 1.1375324726104736
+  },
+  "results": [
+    {
+      "id": 1,
+      "category": "Physical Constraints",
+      "query": "What are the LOA constraints for berth allocation?",
+      "expected_topics": [
+        "LOA",
+        "length",
+        "berth",
+        "constraint"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.7001,
+          "method": "hybrid",
+          "content_preview": "Physical dimension constraints are the most fundamental berth allocation requirements. These are **non-negotiable HARD constraints** - physical incompatibility means NO allocation is possible, regardl"
+        },
+        {
+          "source": "unknown",
+          "score": 0.4598,
+          "method": "vector",
+          "content_preview": "The Berth Allocation Problem is a combinatorial optimization problem with O(N\u2074) complexity (source: Cornell ORIE research). Given N vessels, find optimal berth assignments minimizing: - Total waiting "
+        },
+        {
+          "source": "unknown",
+          "score": 0.4475,
+          "method": "vector",
+          "content_preview": "**Formula**: `vessel.loa \u2264 berth.max_loa` **Description**: The vessel's length overall (LOA) must not exceed the berth's maximum LOA capacity. This includes safety margins for mooring lines and vessel"
+        }
+      ],
+      "success": true,
+      "time_ms": 150.12,
+      "topic_match_score": 1.0
+    },
+    {
+      "id": 2,
+      "category": "Physical Constraints",
+      "query": "How does vessel draft affect berth selection?",
+      "expected_topics": [
+        "draft",
+        "depth",
+        "UKC",
+        "water"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.3958,
+          "method": "vector",
+          "content_preview": "Analysis of 2024 berth allocation patterns reveals clear preferences and efficiency metrics across different vessel types and berth configurations. This document provides AI agents with historical con"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3925,
+          "method": "vector",
+          "content_preview": "**Historical Data**: Mismatched berth assignments resulted in 12% longer dwell times. **Example**: - Grain vessels at E1 (specialized grain conveyor): 32.5 hours avg - Grain vessels at E2 (ore-focused"
+        },
+        {
+          "source": "unknown",
+          "score": 0.388,
+          "method": "vector",
+          "content_preview": "**Formula**: `vessel.draft \u2264 berth.max_draft` **Description**: The vessel's arrival draft must not exceed available water depth at the berth. **Important Notes**: - Static draft is measured when vesse"
+        }
+      ],
+      "success": true,
+      "time_ms": 50.6,
+      "topic_match_score": 1.0
+    },
+    {
+      "id": 3,
+      "category": "Physical Constraints",
+      "query": "What beam restrictions apply to container vessels?",
+      "expected_topics": [
+        "beam",
+        "width",
+        "container"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.7243,
+          "method": "hybrid",
+          "content_preview": "**Formula**: `vessel.beam \u2264 berth.max_beam` **Description**: Vessel beam must fit within berth alongside clearances, considering fender systems and adjacent berth operations. **Critical Considerations"
+        },
+        {
+          "source": "unknown",
+          "score": 0.6279,
+          "method": "hybrid",
+          "content_preview": "**Rule**: `vessel.beam/2 \u2264 crane.max_outreach` **Description**: Ship-to-Shore (STS) gantry cranes have maximum outreach (horizontal reach from crane rail to furthest container stack on vessel). **Cont"
+        },
+        {
+          "source": "unknown",
+          "score": 0.6237,
+          "method": "hybrid",
+          "content_preview": "```python # Rule: Vessel beam must fit within berth constraints if vessel.beam > berth.max_beam: return VIOLATION(\"Vessel beam {vessel.beam}m exceeds berth limit {berth.max_beam}m\") ``` **JNPT Beam Li"
+        }
+      ],
+      "success": true,
+      "time_ms": 51.23,
+      "topic_match_score": 1.0
+    },
+    {
+      "id": 4,
+      "category": "Physical Constraints",
+      "query": "Explain under-keel clearance requirements for deep draft vessels",
+      "expected_topics": [
+        "UKC",
+        "clearance",
+        "draft",
+        "safety"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.7031,
+          "method": "hybrid",
+          "content_preview": "- **IMO Resolution A.1120(30)**: Mooring arrangements for ships at berth - **PIANC Report 145**: Guidelines for berth design - **Port Authority Safety Code**: Minimum clearance requirements --- **Keyw"
+        },
+        {
+          "source": "unknown",
+          "score": 0.6981,
+          "method": "hybrid",
+          "content_preview": "- **Layer 2**: Berth Physical Constraints (berth-side specifications) - **Layer 4**: Tidal Windows (affects dynamic draft calculations) - **Layer 6**: Under Keel Clearance (UKC) - safety margins for d"
+        },
+        {
+          "source": "unknown",
+          "score": 0.4266,
+          "method": "vector",
+          "content_preview": "**Formula**: `vessel.draft \u2264 berth.max_draft` **Description**: The vessel's arrival draft must not exceed available water depth at the berth. **Important Notes**: - Static draft is measured when vesse"
+        }
+      ],
+      "success": true,
+      "time_ms": 45.89,
+      "topic_match_score": 1.0
+    },
+    {
+      "id": 5,
+      "category": "Cargo Matching",
+      "query": "Which terminals can handle LNG cargo?",
+      "expected_topics": [
+        "LNG",
+        "terminal",
+        "gas",
+        "specialized"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.5255,
+          "method": "hybrid",
+          "content_preview": "**Question**: \"Can MV Grain Master with wheat cargo berth at Container Terminal T1?\" **Expected RAG Response**: \"No. Based on cargo type compatibility constraints (V-CARGO-001), Container Terminal T1 "
+        },
+        {
+          "source": "unknown",
+          "score": 0.3395,
+          "method": "vector",
+          "content_preview": "**Rule**: `berth.cargo_handling_system = vessel.cargo_type` **Description**: Bulk terminals have specialized cargo handling systems that cannot handle incompatible cargoes. **Dry Bulk Systems**: - **G"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3342,
+          "method": "vector",
+          "content_preview": "| Terminal Code | Name | Operator | Type | Berths | |---------------|------|----------|------|--------| | INNSA-NSFT | Nhava Sheva Freeport Terminal | NSFT Pvt Ltd | Container | 3 | | INNSA-NSICT | DP"
+        }
+      ],
+      "success": true,
+      "time_ms": 44.88,
+      "topic_match_score": 0.5
+    },
+    {
+      "id": 6,
+      "category": "Cargo Matching",
+      "query": "What equipment is needed for container vessel operations?",
+      "expected_topics": [
+        "container",
+        "crane",
+        "equipment",
+        "gantry"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.4116,
+          "method": "vector",
+          "content_preview": "**Rule**: `berth.cargo_types CONTAINS vessel.cargo_type` **Description**: Berth must be equipped to handle the specific cargo type being loaded/discharged. **Primary Cargo Categories**: | Cargo Type |"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3958,
+          "method": "vector",
+          "content_preview": "- **Container Vessels:** 23 vessels (ranging from 1,620 to 24,346 TEU) - **Bulk Carriers:** 3 vessels (coal, grain, iron ore) - **Tankers:** 2 vessels (petroleum, chemicals) - **General Cargo:** 2 ves"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3911,
+          "method": "vector",
+          "content_preview": "**Description**: Ports have contractual berth productivity commitments (container moves per hour, tons per day for bulk). **Productivity KPIs**: - **Container terminals**: 25-35 moves per hour (MPH) p"
+        }
+      ],
+      "success": true,
+      "time_ms": 37.56,
+      "topic_match_score": 1.0
+    },
+    {
+      "id": 7,
+      "category": "Cargo Matching",
+      "query": "How are hazardous cargo vessels handled at port?",
+      "expected_topics": [
+        "hazardous",
+        "dangerous",
+        "cargo",
+        "safety"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.578,
+          "method": "hybrid",
+          "content_preview": "Cargo type compatibility constraints ensure that vessels are assigned to berths with appropriate cargo handling equipment and safety certifications. These are **HARD constraints** with safety, regulat"
+        },
+        {
+          "source": "unknown",
+          "score": 0.4082,
+          "method": "vector",
+          "content_preview": "- **Container Vessels:** 23 vessels (ranging from 1,620 to 24,346 TEU) - **Bulk Carriers:** 3 vessels (coal, grain, iron ore) - **Tankers:** 2 vessels (petroleum, chemicals) - **General Cargo:** 2 ves"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3966,
+          "method": "vector",
+          "content_preview": "- **Layer 2**: Berth Specialization & Equipment Constraints - **Safety Manual**: Dangerous Goods Handling Procedures - **IMDG Code**: International Maritime Dangerous Goods Regulations --- **Keywords*"
+        }
+      ],
+      "success": true,
+      "time_ms": 34.09,
+      "topic_match_score": 0.75
+    },
+    {
+      "id": 8,
+      "category": "Cargo Matching",
+      "query": "What are the berth requirements for bulk carriers?",
+      "expected_topics": [
+        "bulk",
+        "carrier",
+        "berth",
+        "terminal"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.6209,
+          "method": "hybrid",
+          "content_preview": "**Rule**: `berth.cargo_types CONTAINS vessel.cargo_type` **Description**: Berth must be equipped to handle the specific cargo type being loaded/discharged. **Primary Cargo Categories**: | Cargo Type |"
+        },
+        {
+          "source": "unknown",
+          "score": 0.4377,
+          "method": "vector",
+          "content_preview": "| Parameter | Requirement | |-----------|-------------| | Minimum Berths | 5+ berths | | Berth Occupancy | 50-70%+ | | Terminal Types | Container, Bulk, Multi-purpose | ---"
+        },
+        {
+          "source": "unknown",
+          "score": 0.4229,
+          "method": "vector",
+          "content_preview": "Physical dimension constraints are the most fundamental berth allocation requirements. These are **non-negotiable HARD constraints** - physical incompatibility means NO allocation is possible, regardl"
+        }
+      ],
+      "success": true,
+      "time_ms": 37.84,
+      "topic_match_score": 1.0
+    },
+    {
+      "id": 9,
+      "category": "Window Vessel",
+      "query": "What is a window vessel and what policies apply?",
+      "expected_topics": [
+        "window",
+        "vessel",
+        "policy",
+        "hazardous"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.4443,
+          "method": "vector",
+          "content_preview": "Window Vessel Operations are a **CRITICAL SMARTBERTH DIFFERENTIATOR** for managing scheduled liner services with contracted berthing windows. This feature handles the complexity of: - Guaranteed berth"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3898,
+          "method": "vector",
+          "content_preview": "# Port Operations Manual: Window Vessel Operations & Contract Management **Document Type**: Port Operations Manual - Critical Commercial Feature **Category**: Layer 5 - Policy & Commercial Constraints"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3702,
+          "method": "vector",
+          "content_preview": "**Window Vessel**: A vessel operating on a fixed, published schedule (weekly, bi-weekly) with a contracted berthing window at specific berths. **Characteristics**: - **Fixed schedule**: Same day/time "
+        }
+      ],
+      "success": true,
+      "time_ms": 37.51,
+      "topic_match_score": 0.75
+    },
+    {
+      "id": 10,
+      "category": "Window Vessel",
+      "query": "What are the daylight operation restrictions for dangerous cargo?",
+      "expected_topics": [
+        "daylight",
+        "dangerous",
+        "operation",
+        "restriction"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.6687,
+          "method": "hybrid",
+          "content_preview": "| Constraint ID | Constraint | Description | Type | |---------------|------------|-------------|------| | T-TIME-001 | Daylight-Only Operations | For certain vessel types | HARD | | T-TIME-002 | Night"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3849,
+          "method": "vector",
+          "content_preview": "#### Example 4.3.1: Daylight-Only for LNG Operations ``` SCENARIO: LNG Carrier Night Arrival \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Vessel: MV LNG Freedom ETA: 2100 hours (after sunset) Por"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3581,
+          "method": "vector",
+          "content_preview": "| Constraint Type | Override Permitted? | Conditions | Authority Level | |----------------|-------------------|------------|----------------| | **Physical Dimensions** | \u274c NEVER | Laws of physics cann"
+        }
+      ],
+      "success": true,
+      "time_ms": 40.09,
+      "topic_match_score": 0.75
+    },
+    {
+      "id": 11,
+      "category": "Window Vessel",
+      "query": "Explain exclusion zones for LNG vessel operations",
+      "expected_topics": [
+        "exclusion",
+        "zone",
+        "LNG",
+        "safety"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.6606,
+          "method": "hybrid",
+          "content_preview": "#### Example 4.3.1: Daylight-Only for LNG Operations ``` SCENARIO: LNG Carrier Night Arrival \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Vessel: MV LNG Freedom ETA: 2100 hours (after sunset) Por"
+        },
+        {
+          "source": "unknown",
+          "score": 0.5669,
+          "method": "hybrid",
+          "content_preview": "#### Example 3.1.1: Pilot Certification Mismatch ``` SCENARIO: LNG Carrier Arriving \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Vessel: MV LNG Pioneer (Q-Max LNG Carrier) Requirement: LNG-certif"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3553,
+          "method": "vector",
+          "content_preview": "**Rule**: `occupied_anchorage_positions < maximum_capacity` **Description**: Anchorage areas have limited capacity based on water area and safe separation distances. **Anchorage Design Standards**: - "
+        }
+      ],
+      "success": true,
+      "time_ms": 39.62,
+      "topic_match_score": 0.5
+    },
+    {
+      "id": 12,
+      "category": "Weather Impact",
+      "query": "How does wind speed affect berthing operations?",
+      "expected_topics": [
+        "wind",
+        "speed",
+        "berthing",
+        "operation"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.3926,
+          "method": "vector",
+          "content_preview": "- \"Vessel increased speed to {speed} knots, reducing ETA by {hours} hours\" - \"Weather conditions improved - clear skies and calm seas\" - \"Queue reduced - berth becoming available earlier than expected"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3883,
+          "method": "vector",
+          "content_preview": "- **< 1.0m:** Normal operations - **1.0-2.0m:** Reduced mooring efficiency - **> 2.0m:** Berthing operations suspended ---"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3773,
+          "method": "vector",
+          "content_preview": "- **Minimize waiting time**: Prioritize berth assignments that reduce ATA-to-ATB gap - **Optimize utilization**: Target 85-90% berth utilization - **Balance load**: Distribute vessels across berths to"
+        }
+      ],
+      "success": true,
+      "time_ms": 37.38,
+      "topic_match_score": 0.75
+    },
+    {
+      "id": 13,
+      "category": "Weather Impact",
+      "query": "What are the tidal window requirements for large vessels?",
+      "expected_topics": [
+        "tidal",
+        "window",
+        "tide",
+        "vessel"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.6459,
+          "method": "hybrid",
+          "content_preview": "Tidal windows are critical for deep-draft vessels (draft >12m). Analysis of 2024 tidal data reveals: - **High tide windows**: \u00b12 hours (4-hour total window per cycle) - **Tidal cycles per day**: 2 cyc"
+        },
+        {
+          "source": "unknown",
+          "score": 0.4367,
+          "method": "vector",
+          "content_preview": "**Rule**: `available_depth = charted_depth + tidal_height \u2265 vessel_draft + required_UKC` **Description**: Deep-draft vessels can only transit channels and berth during high tide windows when water dep"
+        },
+        {
+          "source": "unknown",
+          "score": 0.4072,
+          "method": "vector",
+          "content_preview": "**Formula**: `vessel.draft \u2264 berth.max_draft` **Description**: The vessel's arrival draft must not exceed available water depth at the berth. **Important Notes**: - Static draft is measured when vesse"
+        }
+      ],
+      "success": true,
+      "time_ms": 44.19,
+      "topic_match_score": 1.0
+    },
+    {
+      "id": 14,
+      "category": "Weather Impact",
+      "query": "How does visibility affect pilotage operations?",
+      "expected_topics": [
+        "visibility",
+        "pilot",
+        "fog",
+        "navigation"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.6938,
+          "method": "hybrid",
+          "content_preview": "| Visibility (km) | Speed Reduction | Notes | |-----------------|-----------------|-------| | > 5 | 0% | Normal operations | | 3-5 | 5% | Reduced speed | | 1-3 | 15% | Caution required | | 0.5-1.0 | 3"
+        },
+        {
+          "source": "unknown",
+          "score": 0.6287,
+          "method": "hybrid",
+          "content_preview": "**Rule**: `visibility \u2265 minimum_safe_visibility` **Type**: **HARD** constraint for pilotage **Visibility Standards**: - **Open sea/approach**: 2 nautical miles minimum - **Channel navigation**: 1 naut"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3406,
+          "method": "vector",
+          "content_preview": "- **> 3 km:** Normal operations - **1-3 km:** Reduced speed, caution - **< 1 km:** Pilotage suspended"
+        }
+      ],
+      "success": true,
+      "time_ms": 41.49,
+      "topic_match_score": 1.0
+    },
+    {
+      "id": 15,
+      "category": "ETA Prediction",
+      "query": "What factors affect vessel ETA prediction accuracy?",
+      "expected_topics": [
+        "ETA",
+        "prediction",
+        "factor",
+        "accuracy"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.5865,
+          "method": "hybrid",
+          "content_preview": "- \"High confidence (>85%): Vessel within 100nm, stable speed, good weather\" - \"Medium confidence (60-85%): Variable conditions, moderate distance\" - \"Low confidence (<60%): Far from port, weather unce"
+        },
+        {
+          "source": "unknown",
+          "score": 0.5371,
+          "method": "hybrid",
+          "content_preview": "```sql SELECT WindSpeed, WaveHeight, Visibility, WeatherCondition FROM WEATHER_DATA WHERE RecordedAt >= DATEADD(HOUR, -24, GETDATE()) AND (WindSpeed BETWEEN 45 AND 55) ORDER BY RecordedAt DESC; ``` **"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3997,
+          "method": "vector",
+          "content_preview": "- **Update PredictedETA regularly** (every 2-4 hours as vessel approaches) - **Target accuracy**: \u00b110 minutes within 24 hours of arrival - **Store predictions**: Log in OPTIMIZATION_RUNS or AUDIT_LOG "
+        }
+      ],
+      "success": true,
+      "time_ms": 58.73,
+      "topic_match_score": 1.0
+    },
+    {
+      "id": 16,
+      "category": "ETA Prediction",
+      "query": "How do weather conditions impact vessel arrival times?",
+      "expected_topics": [
+        "weather",
+        "arrival",
+        "delay",
+        "impact"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.4099,
+          "method": "vector",
+          "content_preview": "Analysis of 8,760 vessel arrivals in 2024 reveals waiting time patterns correlated with: - Time of day (peak: 08:00-10:00, avg 42 min wait) - Day of week (Monday/Friday peaks: +23% vs midweek) - Seaso"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3899,
+          "method": "vector",
+          "content_preview": "Storm events cause significant disruptions to port operations. Analysis of 18 major storms (wind >25 knots, wave height >3m) in 2023-2024 reveals: - **Average delay per storm**: 3.5 hours per vessel -"
+        },
+        {
+          "source": "unknown",
+          "score": 0.3894,
+          "method": "vector",
+          "content_preview": "**Description**: Berthing operations should avoid known weather interruptions when possible. **Weather Interruption Windows** (predictable patterns): - **Storm approach**: Operations suspended 2-4 hou"
+        }
+      ],
+      "success": true,
+      "time_ms": 61.17,
+      "topic_match_score": 1.0
+    },
+    {
+      "id": 17,
+      "category": "Resources",
+      "query": "What pilot and tug requirements exist for large tankers?",
+      "expected_topics": [
+        "pilot",
+        "tug",
+        "tanker",
+        "requirement"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.6974,
+          "method": "hybrid",
+          "content_preview": "- Layer 1: Vessel Readiness Requirements - Layer 4: Weather Constraints (affect tug requirements) - Safety Manual: Pilot Boarding Procedures, Tug Operations --- **Keywords**: pilotage, towage, pilot c"
+        },
+        {
+          "source": "unknown",
+          "score": 0.6702,
+          "method": "hybrid",
+          "content_preview": "Resource availability constraints ensure adequate pilotage, towage, and terminal labor resources are available for safe and efficient vessel operations. Pilot and tug requirements are HARD constraints"
+        },
+        {
+          "source": "unknown",
+          "score": 0.6147,
+          "method": "hybrid",
+          "content_preview": "**Rule**: Based on vessel size and port-specific regulations **Standard Tug Requirements**: | Vessel Gross Tonnage | Minimum Tugs | Conditions | |---------------------|--------------|-----------| | <1"
+        }
+      ],
+      "success": true,
+      "time_ms": 78.78,
+      "topic_match_score": 1.0
+    },
+    {
+      "id": 18,
+      "category": "Resources",
+      "query": "How are berth maintenance schedules managed?",
+      "expected_topics": [
+        "maintenance",
+        "berth",
+        "schedule",
+        "availability"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.6936,
+          "method": "hybrid",
+          "content_preview": "Berth availability and maintenance constraints manage temporal access to berths, ensuring: 1. No double-booking (HARD constraint - physical impossibility) 2. Planned maintenance windows are respected "
+        },
+        {
+          "source": "unknown",
+          "score": 0.5395,
+          "method": "hybrid",
+          "content_preview": "```sql SELECT b.BerthName, bm.MaintenanceType, bm.ScheduledStart, bm.ScheduledEnd, DATEDIFF(HOUR, bm.ScheduledStart, bm.ScheduledEnd) AS MaintenanceHours, bm.Status FROM BERTH_MAINTENANCE bm JOIN BERT"
+        },
+        {
+          "source": "unknown",
+          "score": 0.4318,
+          "method": "vector",
+          "content_preview": "- Maintenance Schedule (Annual Calendar) - Emergency Response Procedures - Labor Shift Rosters - Berth Utilization Reports (Monthly KPIs) --- **Keywords**: berth availability, double-booking, maintena"
+        }
+      ],
+      "success": true,
+      "time_ms": 96.89,
+      "topic_match_score": 1.0
+    },
+    {
+      "id": 19,
+      "category": "Conflict Resolution",
+      "query": "How are scheduling conflicts between vessels resolved?",
+      "expected_topics": [
+        "conflict",
+        "scheduling",
+        "resolution",
+        "priority"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.4499,
+          "method": "vector",
+          "content_preview": "| Conflict Type | Detection Rule | Severity | |---------------|----------------|----------| | Time Overlap | Two vessels at same berth at same time | CRITICAL | | Resource Clash | Same pilot/tug assig"
+        },
+        {
+          "source": "unknown",
+          "score": 0.434,
+          "method": "vector",
+          "content_preview": "1. Detect conflicts early (48+ hours advance warning) 2. Generate multiple resolution options (typically 3 alternatives) 3. Calculate cost impact of each option 4. Prefer shifting lower-priority vesse"
+        },
+        {
+          "source": "unknown",
+          "score": 0.417,
+          "method": "vector",
+          "content_preview": "**Time Overlap:** 1. Move earlier vessel's ETD earlier 2. Move later vessel's ETA later 3. Assign different berth **Resource Clash:** 1. Stagger operations by 30+ minutes 2. Assign backup resources 3."
+        }
+      ],
+      "success": true,
+      "time_ms": 77.27,
+      "topic_match_score": 0.75
+    },
+    {
+      "id": 20,
+      "category": "Conflict Resolution",
+      "query": "What priority rules apply when multiple vessels need the same berth?",
+      "expected_topics": [
+        "priority",
+        "berth",
+        "allocation",
+        "rule"
+      ],
+      "results": [
+        {
+          "source": "unknown",
+          "score": 0.6658,
+          "method": "hybrid",
+          "content_preview": "Priority and commercial constraints govern how vessels are ranked when competing for limited berth capacity. These are primarily SOFT constraints that can be optimized based on priority weights, comme"
+        },
+        {
+          "source": "unknown",
+          "score": 0.451,
+          "method": "vector",
+          "content_preview": "1. Detect conflicts early (48+ hours advance warning) 2. Generate multiple resolution options (typically 3 alternatives) 3. Calculate cost impact of each option 4. Prefer shifting lower-priority vesse"
+        },
+        {
+          "source": "unknown",
+          "score": 0.4508,
+          "method": "vector",
+          "content_preview": "**Respect vessel priorities** ```sql -- Priority-based allocation SELECT vs.ScheduleId, vs.VesselId, vs.Priority, vs.ETA, best_berth.BerthId FROM VESSEL_SCHEDULE vs CROSS APPLY ( SELECT TOP 1 b.BerthI"
+        }
+      ],
+      "success": true,
+      "time_ms": 72.19,
+      "topic_match_score": 0.75
+    }
+  ]
+}

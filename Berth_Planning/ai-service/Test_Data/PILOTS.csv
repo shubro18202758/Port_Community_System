@@ -1,0 +1,13 @@
+﻿PilotId,PortCode,PortName,PilotName,PilotCode,PilotType,PilotClass,CertificationLevel,ExperienceYears,MaxVesselGT,MaxVesselLOA,NightOperations,AdverseWeather,CanTrain,LicenseIssueDate,LicenseExpiryDate,Status,Languages,Certifications,CertificationsCount,CreatedAt
+1,INNSA,NULL,Capt. Mohammad Khan,JNP-001,Harbor,Class I,Master,30,235000,400,1,1,1,2019-01-10,2026-01-09,Active,"English, Hindi, Urdu","STCW, GMDSS, BRM, Container Terminal Safety, ULCV Handling",NULL,2026-02-04 10:39:59.1000000
+2,INNSA,NULL,Capt. Arvind Sawant,JNP-002,Harbor,Class I,Master,27,200000,400,1,1,1,2020-06-15,2027-06-14,Active,"English, Hindi, Marathi","STCW, GMDSS, BRM, Tanker Safety",NULL,2026-02-04 10:39:59.1000000
+3,INNSA,NULL,Capt. Rajan Pillai,JNP-003,Harbor,Class I,Class A,24,180000,366,1,1,0,2021-02-20,2028-02-19,Active,"English, Hindi, Malayalam","STCW, BRM, ECDIS",NULL,2026-02-04 10:39:59.1000000
+4,INNSA,NULL,Capt. Santosh Patil,JNP-004,Harbor,Class I,Class A,22,150000,350,1,1,0,2021-09-01,2028-08-31,Active,"English, Hindi, Marathi","STCW, GMDSS",NULL,2026-02-04 10:39:59.1000000
+5,INNSA,NULL,Capt. Vinod Tiwari,JNP-005,Harbor,Class II,Class B,18,120000,330,1,0,0,2022-04-10,2029-04-09,Active,"English, Hindi","STCW, GMDSS, Radar Observer",NULL,2026-02-04 10:39:59.1000000
+6,INNSA,NULL,Capt. Prakash Gaikwad,JNP-006,Harbor,Class II,Class B,16,100000,300,1,0,0,2023-01-15,2030-01-14,Active,"English, Hindi, Marathi","STCW, BRM",NULL,2026-02-04 10:39:59.1000000
+7,INNSA,NULL,Capt. Amit Choudhary,JNP-007,Harbor,Class II,Class B,14,80000,280,1,0,0,2023-06-20,2030-06-19,Active,"English, Hindi",STCW,NULL,2026-02-04 10:39:59.1000000
+8,INNSA,NULL,Capt. Suresh Kadam,JNP-008,Harbor,Class II,Class C,12,65000,250,0,0,0,2023-11-01,2030-10-31,Active,"English, Hindi, Marathi",STCW,NULL,2026-02-04 10:39:59.1000000
+9,INNSA,NULL,Capt. Kiran Jadhav,JNP-009,Harbor,Class III,Class C,8,40000,220,0,0,0,2024-05-01,2031-04-30,Active,"English, Hindi, Marathi",STCW,NULL,2026-02-04 10:39:59.1000000
+10,INNSA,NULL,Capt. Dinesh Gupta,JNP-010,Harbor,Class III,Class D,6,30000,200,0,0,0,2025-01-10,2032-01-09,Active,"English, Hindi",STCW,NULL,2026-02-04 10:39:59.1000000
+11,INNSA,NULL,Capt. Sunil Pawar,JNP-011,Harbor,Class III,Class D,5,25000,180,0,0,0,2025-06-01,2032-05-31,Active,"English, Hindi, Marathi",STCW,NULL,2026-02-04 10:39:59.1000000
+12,INNSA,NULL,Capt. Rahul Mane,JNP-012,Harbor,Class III,Class D,4,20000,150,0,0,0,2025-09-15,2032-09-14,Active,"English, Hindi",STCW,NULL,2026-02-04 10:39:59.1000000

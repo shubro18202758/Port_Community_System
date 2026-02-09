@@ -1,0 +1,8 @@
+﻿AnchorageId,PortId,AnchorageName,AnchorageType,Latitude,Longitude,Depth,MaxVessels,CurrentOccupancy,MaxVesselLOA,MaxVesselDraft,AverageWaitingTime,STSCargoOpsPermitted,QuarantineAnchorage,IsActive,CreatedAt
+1,1,JNPT Anchorage Alpha,General,18.9200000,72.9100000,13,15,5,400,14.00,3.50,0,0,1,2026-02-04 10:39:53.8000000
+2,1,JNPT Anchorage Bravo,General,18.9150000,72.9050000,12,12,3,350,13.00,4.00,0,0,1,2026-02-04 10:39:53.8000000
+3,1,JNPT Waiting Anchorage,Waiting,18.9100000,72.9000000,13,10,4,350,13.50,6.00,0,0,1,2026-02-04 10:39:53.8000000
+4,1,JNPT Deep Water Anchorage,Deep Water,18.9050000,72.8950000,15,8,1,400,16.00,3.00,0,0,1,2026-02-04 10:39:53.8000000
+5,1,JNPT Hazmat Anchorage,Hazmat,18.9000000,72.8900000,12,5,1,250,11.00,5.00,0,0,1,2026-02-04 10:39:53.8000000
+6,1,JNPT Quarantine Anchorage,Quarantine,18.8950000,72.8850000,11,4,0,300,12.00,12.00,0,1,1,2026-02-04 10:39:53.8000000
+7,1,JNPT Pilot Boarding Ground,General,18.8800000,72.8700000,14,6,2,400,16.00,0.50,0,0,1,2026-02-04 10:39:53.8000000

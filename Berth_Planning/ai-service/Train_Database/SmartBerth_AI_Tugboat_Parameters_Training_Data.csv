@@ -1,0 +1,1012 @@
+tugId,portCode,tugName,tugCode,imoNumber,mmsi,callSign,flagState,portOfRegistry,tugType,tugTypeFullName,tugClass,operator,bollardPull,length,beam,draft,enginePower,maxSpeed,yearBuilt,fifiClass,winchCapacity,crewSize,status
+1,SGSIN,Admiral,SGSIN-TRC-0001,9778049,563988088,9VDZT3,SG,Singapore,Tractor,Tractor Tug,Class B,Pan Ocean Tug,60,39.3,14.7,5.2,4845,14,2001,FiFi 2,50,7,Operational
+2,SGSIN,Ocean Pioneer,SGSIN-TRC-0002,9877980,563549120,9VBKM02,SG,Singapore,Tractor,Tractor Tug,Class B,PSA Marine,65,36.7,14.2,5.8,4164,12.8,2011,FiFi 1,30,7,Operational
+3,SGSIN,Mighty 7,SGSIN-TRC-0003,9606818,563128253,9VWV8,SG,Singapore,Tractor,Tractor Tug,Class B,PSA Marine,61,33.9,13,5.1,4413,12.1,2012,FiFi 1 WS,75,5,Maintenance
+4,SGSIN,Marine Pioneer,SGSIN-VSP-0004,9159822,563405951,9VNTL42,SG,Singapore,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Sembcorp Marine,62,35.1,11.6,5.1,3231,12.6,2014,FiFi 1,75,6,Operational
+5,SGSIN,Chief 2,SGSIN-ASD-0005,9560567,563309995,9VBR3,SG,Singapore,ASD,Azimuth Stern Drive,Class A,POSH Semco,80,36.2,11.1,5.9,4093,13.9,1997,None,150,7,Operational
+6,SGSIN,Goliath Champion,SGSIN-OCN-0006,9947360,563779732,9VAC21,SG,Singapore,Ocean-going,Ocean-going Salvage Tug,Class A+,COSCO Shipping,110,57.4,18.7,6.8,8817,17,2015,None,100,18,Operational
+7,SGSIN,Titan,SGSIN-ASD-0007,9918733,563824997,9VHVG80,SG,Singapore,ASD,Azimuth Stern Drive,Class C,China Tug,51,35.5,13.5,4.9,5673,12.5,2004,FiFi 1 WS,200,7,Operational
+8,SGSIN,Victoria V,SGSIN-ASD-0008,9983758,563758922,9VFEQ98,SG,Singapore,ASD,Azimuth Stern Drive,Class B,Shanghai Salvage,69,41.7,11.7,5.1,5928,13,2013,None,100,5,Maintenance
+9,SGSIN,Poseidon Guardian,SGSIN-CON-0009,9327982,538339638,V7YJ2,MH,Majuro,Conventional,Conventional Twin Screw,Class D,Sembcorp Marine,39,28.9,11.1,4.8,2592,11.4,2021,None,30,3,Operational
+10,SGSIN,Smit Cheetah,SGSIN-TRC-0010,9212919,563849801,9VLJ6,SG,Singapore,Tractor,Tractor Tug,Class B,Keppel Smit Towage,66,33.2,13.4,5.8,4305,13.6,1995,FiFi 1 WS,75,7,Operational
+11,SGSIN,Rotterdam V,SGSIN-TRC-0011,9763601,563539950,9VVDH7,SG,Singapore,Tractor,Tractor Tug,Class B,PSA Marine,73,35.1,12.4,6.2,5741,12.2,2008,FiFi 1 WS,50,4,Operational
+12,SGSIN,Mighty Champion,SGSIN-ASD-0012,9796610,538573557,V7RQ72,MH,Majuro,ASD,Azimuth Stern Drive,Class A,Pan Ocean Tug,88,35.4,12.1,6.3,5639,12.3,2019,FiFi 1,120,6,Operational
+13,SGSIN,Dubai Defender,SGSIN-CON-0013,9236560,563865844,9VQHF5,SG,Singapore,Conventional,Conventional Twin Screw,Class D,Korea Salvage,31,34.4,11.6,4,2131,11.3,2005,None,75,4,Operational
+14,SGSIN,Quick Glory,SGSIN-TRC-0014,9603631,563508381,9VPZ99,SG,Singapore,Tractor,Tractor Tug,Class A,Shanghai Salvage,80,34.9,13.2,6,6140,12.2,2016,FiFi 2,30,4,Operational
+15,SGSIN,Pilot Voyager,SGSIN-VSP-0015,9609958,563796460,9VZP19,SG,Singapore,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Sembcorp Marine,62,34.8,11.1,4.1,3081,12.8,2019,None,50,6,Operational
+16,SGSIN,Chief III,SGSIN-CON-0016,9481230,563685517,9VUD5,SG,Singapore,Conventional,Conventional Twin Screw,Class C,Nihon Kai Tug,51,33,12,5.4,2982,11.7,2024,None,50,4,Operational
+17,SGSIN,Strong Voyager,SGSIN-TRC-0017,9223684,563450825,9VWT7,SG,Singapore,Tractor,Tractor Tug,Class B,PSA Marine,66,34.7,12,5.1,4753,12.2,1996,FiFi 1 WS,30,5,Operational
+18,SGSIN,Pilot I,SGSIN-TRC-0018,9245205,563662000,9VAPY70,SG,Singapore,Tractor,Tractor Tug,Class B,Pan Ocean Tug,73,35.4,13.1,6.2,4681,12.3,2007,FiFi 2,30,5,Operational
+19,SGSIN,Dubai Guardian,SGSIN-CON-0019,9213211,563136889,9VHT4,SG,Singapore,Conventional,Conventional Twin Screw,Class D,COSCO Shipping,36,28,10,5,4315,10.5,1998,None,50,5,Operational
+20,SGSIN,Atlantic 7,SGSIN-TRC-0020,9289229,563400916,9VVAQ95,SG,Singapore,Tractor,Tractor Tug,Class C,Pan Ocean Tug,57,32.2,13.5,5.5,6431,12.7,2017,FiFi 1 WS,50,8,Operational
+21,SGSIN,Chief 7,SGSIN-ASD-0021,9688632,563378629,9VZKN4,SG,Singapore,ASD,Azimuth Stern Drive,Class B,Smit Lamnalco,76,40.9,12,4.5,6163,13.9,2016,FiFi 1 WS,75,4,Operational
+22,SGSIN,Singapore II,SGSIN-VSP-0022,9785140,563369604,9VJZ25,SG,Singapore,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,POSH Semco,52,35.2,10.7,5,4560,11.9,2016,None,50,4,Operational
+23,SGSIN,Ocean,SGSIN-VSP-0023,9086044,563178005,9VAR9,SG,Singapore,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Sembcorp Marine,67,29.5,13,4.4,5071,11.2,2002,FiFi 1 WS,75,6,Operational
+24,SGSIN,Condor 1,SGSIN-TRC-0024,9370311,563868355,9VXYA4,SG,Singapore,Tractor,Tractor Tug,Class C,Nippon Salvage,57,39.5,12.3,5.9,4378,12.7,1997,FiFi 1,75,4,Operational
+25,SGSIN,Mumbai 9,SGSIN-TRC-0025,9294286,563778842,9VUS4,SG,Singapore,Tractor,Tractor Tug,Class C,Adani Marine,56,33,12.2,5.7,4242,13.8,2015,FiFi 1 WS,50,4,Operational
+26,SGSIN,Commodore Guardian,SGSIN-ASD-0026,9069152,563812806,9VTWK7,SG,Singapore,ASD,Azimuth Stern Drive,Class B,Sembcorp Marine,79,39.9,12.4,5,3723,13.5,1999,FiFi 2,120,6,Maintenance
+27,SGSIN,Falcon,SGSIN-CON-0027,9515113,351898744,HPZNU6,PA,Panama City,Conventional,Conventional Twin Screw,Class D,China Tug,37,26.8,10.4,4.9,3390,10.7,2016,None,50,6,Operational
+28,SGSIN,Pilot 4,SGSIN-CON-0028,9492746,563343770,9VNW6,SG,Singapore,Conventional,Conventional Twin Screw,Class C,Keppel Smit Towage,50,26.8,10,4.4,4167,11.1,2006,None,30,5,Operational
+29,SGSIN,Eagle 5,SGSIN-ASD-0029,9333697,563553501,9VGFU3,SG,Singapore,ASD,Azimuth Stern Drive,Class A,Pan Ocean Tug,81,33,14.6,5.1,5020,13.5,1996,FiFi 2,100,6,Standby
+30,CNSHA,Quick,CNSHA-OCN-0030,9719679,412345097,BAJC8,CN,Shanghai,Ocean-going,Ocean-going Salvage Tug,Class A+,Hai Gong Tug,116,55.8,18.8,6.6,19593,17.9,2013,FiFi 1,120,17,Operational
+31,CNSHA,Resolute 1,CNSHA-TRC-0031,9849689,412851259,BWCU68,CN,Shanghai,Tractor,Tractor Tug,Class C,Hai Gong Tug,58,38.8,12.3,5.7,5528,12.3,1995,FiFi 1,30,6,Operational
+32,CNSHA,Orca 6,CNSHA-ASD-0032,9951326,412979370,BEDN54,CN,Shanghai,ASD,Azimuth Stern Drive,Class B,Westport Tug,74,38.1,13.3,5.5,5094,12.3,2001,None,200,5,Operational
+33,CNSHA,Nimble 7,CNSHA-ASD-0033,9547361,412904583,BKUD5,CN,Shanghai,ASD,Azimuth Stern Drive,Class B,Adani Marine,60,34.9,13.9,5.5,5381,12.9,2002,FiFi 1,200,7,Operational
+34,CNSHA,Swift Guardian,CNSHA-ASD-0034,9699633,412793850,BBZL7,CN,Shanghai,ASD,Azimuth Stern Drive,Class B,Sembcorp Marine,74,31.1,11.3,6,6381,12.6,2022,FiFi 1,150,4,Operational
+35,CNSHA,Victoria Warrior,CNSHA-TRC-0035,9899013,412874337,BWTY14,CN,Shanghai,Tractor,Tractor Tug,Class C,Westport Tug,52,31.9,13.2,5.5,5365,13.5,1998,FiFi 1 WS,30,6,Operational
+36,CNSHA,Lion Warrior,CNSHA-TRC-0036,9699741,215971159,9HRH45,MT,Valletta,Tractor,Tractor Tug,Class B,Smit Lamnalco,77,34,13.9,6,6093,13.1,2007,FiFi 1,75,7,Operational
+37,CNSHA,Reliable Voyager,CNSHA-ASD-0037,9428625,412419567,BBT4,CN,Shanghai,ASD,Azimuth Stern Drive,Class C,COSCO Shipping,51,30.2,13.6,5.6,5958,13.3,2010,FiFi 1,150,5,Operational
+38,CNSHA,Falcon 5,CNSHA-ASD-0038,9925198,412952684,BKKQ17,CN,Shanghai,ASD,Azimuth Stern Drive,Class B,Sembcorp Marine,61,28.2,14.8,4.7,5342,12.2,2015,FiFi 1,150,7,Operational
+39,CNSHA,Mighty 2,CNSHA-TRC-0039,9917928,412691481,BNYH4,CN,Shanghai,Tractor,Tractor Tug,Class C,Shanghai Salvage,57,33.4,12.1,6.1,5844,12.6,2021,FiFi 1,30,5,Operational
+40,CNSHA,Rapid,CNSHA-ESC-0040,9206005,412407086,BTW63,CN,Shanghai,Escort,Escort Tug,Class B,Keppel Smit Towage,77,44.6,17.9,5.8,8660,14.3,2015,FiFi 1,200,7,Operational
+41,CNSHA,Strong Spirit,CNSHA-TRC-0041,9708596,412405978,BDT9,CN,Shanghai,Tractor,Tractor Tug,Class B,Sembcorp Marine,68,39.3,14.7,6.3,5919,13.6,2023,FiFi 1,50,4,Standby
+42,CNSHA,Neptune Pride,CNSHA-CON-0042,9705165,412369661,BXZJ7,CN,Shanghai,Conventional,Conventional Twin Screw,Class C,Pelabuhan Tug,53,32.8,10.2,5,2089,11.1,1998,None,30,6,Operational
+43,CNSHA,Shark,CNSHA-ASD-0043,9151660,412828099,BEL82,CN,Shanghai,ASD,Azimuth Stern Drive,Class A,PSA Marine,84,30.7,14.2,5.5,3891,13.1,2023,FiFi 1 WS,50,7,Operational
+44,CNSHA,Rotterdam Champion,CNSHA-CON-0044,9554306,412642619,BLT53,CN,Shanghai,Conventional,Conventional Twin Screw,Class C,POSH Semco,57,31.5,9.5,5.4,3853,11.3,2011,None,50,5,Operational
+45,CNSHA,Houston,CNSHA-TRC-0045,9726529,412776314,BSAP97,CN,Shanghai,Tractor,Tractor Tug,Class A,China Tug,83,33.4,12.8,6.1,4561,12.6,1998,FiFi 2,50,8,Operational
+46,CNSHA,Pilot Guardian,CNSHA-CON-0046,9774837,412320331,BTFM05,CN,Shanghai,Conventional,Conventional Twin Screw,Class D,Nihon Kai Tug,38,31.2,9.1,4.7,3423,11.3,2010,None,30,5,Operational
+47,CNSHA,Falcon Voyager,CNSHA-VSP-0047,9066028,412750364,BAK59,CN,Shanghai,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Nihon Kai Tug,49,35.5,11.9,4.2,4624,12.7,2010,FiFi 2,50,6,Operational
+48,CNSHA,Singapore 4,CNSHA-TRC-0048,9018959,412469569,BCA6,CN,Shanghai,Tractor,Tractor Tug,Class B,Nippon Salvage,75,38.2,12.2,6.1,5361,12.3,2018,FiFi 1,75,7,Operational
+49,CNSHA,Captain 3,CNSHA-ASD-0049,9699112,412803826,BEZ84,CN,Shanghai,ASD,Azimuth Stern Drive,Class C,Sembcorp Marine,54,37.8,13,5.3,6425,12.5,2006,FiFi 1,75,8,Maintenance
+50,CNSHA,Steady Pioneer,CNSHA-HBR-0050,9851178,412795234,BUXV47,CN,Shanghai,Harbor,Harbor Assist Tug,Class D,Westport Tug,39,24.6,8.7,4.8,2778,11.9,2000,None,30,4,Operational
+51,CNSHA,Chief Spirit,CNSHA-OCN-0051,9429285,308558474,C6PSE90,BS,Nassau,Ocean-going,Ocean-going Salvage Tug,Class A+,COSCO Shipping,147,55.9,15.9,7.8,16790,16.4,2009,FiFi 2,100,12,Operational
+52,CNSHA,Captain Warrior,CNSHA-ESC-0052,9711344,412485620,BHPP01,CN,Shanghai,Escort,Escort Tug,Class A,Hai Gong Tug,83,44.5,15.3,6.8,5742,13.6,2002,FiFi 1,150,6,Operational
+53,CNSHA,Atlas III,CNSHA-VSP-0053,9477445,412205123,BSGH16,CN,Shanghai,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Nippon Salvage,58,33.9,12.3,5.4,3480,12,2005,FiFi 1,50,6,Operational
+54,CNSHA,Hercules Pride,CNSHA-ESC-0054,9728890,412443033,BJES88,CN,Shanghai,Escort,Escort Tug,Class A,Nippon Salvage,80,35.5,14.9,6.8,8502,14.4,1999,None,75,4,Operational
+55,CNSHA,Swift,CNSHA-CON-0055,9385590,412349964,BCQ92,CN,Shanghai,Conventional,Conventional Twin Screw,Class D,Korea Salvage,36,33.1,10.4,4.9,4312,10.1,1999,None,50,3,Operational
+56,CNSHA,Hawk Warrior,CNSHA-CON-0056,9907255,209872611,5BSPJ7,CY,Limassol,Conventional,Conventional Twin Screw,Class D,China Tug,31,33.8,11.2,5.5,3927,11.3,2014,None,30,5,Operational
+57,CNSHA,Pilot,CNSHA-ASD-0057,9201205,215458963,9HMAB08,MT,Valletta,ASD,Azimuth Stern Drive,Class B,Nihon Kai Tug,71,33.5,11.5,4.8,3592,13.4,1996,FiFi 1,100,8,Maintenance
+58,CNSHA,Thor Voyager,CNSHA-ASD-0058,9224406,412698497,BWZ9,CN,Shanghai,ASD,Azimuth Stern Drive,Class B,Adani Marine,61,41.8,12.3,5,4768,13,2017,FiFi 1,75,7,Operational
+59,CNSHA,Poseidon 1,CNSHA-CON-0059,9206861,412348221,BSZU1,CN,Shanghai,Conventional,Conventional Twin Screw,Class C,Nippon Salvage,45,26,9.1,5.4,3962,10.6,2014,None,30,4,Operational
+60,CNSHA,Quick Pride,CNSHA-ASD-0060,9289027,412373857,BEU06,CN,Shanghai,ASD,Azimuth Stern Drive,Class C,Smit Lamnalco,57,38.5,14.5,6,5180,12.9,2004,FiFi 1 WS,200,5,Operational
+61,CNSHA,Titan 9,CNSHA-ASD-0061,9009775,412568422,BMDG8,CN,Shanghai,ASD,Azimuth Stern Drive,Class B,Hai Gong Tug,76,41.4,14.2,5.4,6423,13.5,2023,FiFi 1 WS,150,4,Operational
+62,CNSHA,Hamburg Spirit,CNSHA-VSP-0062,9806220,412884670,BGH1,CN,Shanghai,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Pelabuhan Tug,40,29.7,12.3,5.3,4759,11.6,2018,FiFi 2,50,4,Operational
+63,CNSHA,Bear III,CNSHA-ASD-0063,9018840,412384260,BBPP7,CN,Shanghai,ASD,Azimuth Stern Drive,Class B,Westport Tug,69,29,13.6,4.7,5879,13.4,1998,FiFi 1,100,8,Operational
+64,CNSHA,Triton Star,CNSHA-CON-0064,9048737,412560078,BJW12,CN,Shanghai,Conventional,Conventional Twin Screw,Class D,Hai Gong Tug,31,25.5,11,4.8,2076,10.9,2024,None,50,3,Operational
+65,CNSHA,Captain Voyager,CNSHA-ASD-0065,9135662,412954272,BAD0,CN,Shanghai,ASD,Azimuth Stern Drive,Class B,Adani Marine,63,31,11.8,5.4,3703,13.2,2017,None,150,6,Operational
+66,CNSHA,Agile,CNSHA-CON-0066,9605687,412377500,BAA77,CN,Shanghai,Conventional,Conventional Twin Screw,Class D,Westport Tug,38,29.8,12,4.1,4323,11.9,2017,None,30,6,Operational
+67,CNSHA,Goliath,CNSHA-ASD-0067,9739785,412487330,BDQ5,CN,Shanghai,ASD,Azimuth Stern Drive,Class C,POSH Semco,56,40.1,14.4,6,6938,13.5,2012,FiFi 1,200,6,Operational
+68,CNSHA,Mumbai 5,CNSHA-TRC-0068,9642597,412754811,BTU0,CN,Shanghai,Tractor,Tractor Tug,Class B,Keppel Smit Towage,70,33.5,14.7,5.4,5067,13,2018,FiFi 1,50,6,Operational
+69,CNSHA,Goliath 4,CNSHA-ESC-0069,9134867,412638486,BFT91,CN,Shanghai,Escort,Escort Tug,Class A,China Tug,96,44.1,14.9,6.3,8701,14.1,2010,None,200,7,Operational
+70,CNSHA,Nimble Glory,CNSHA-ASD-0070,9534908,215839771,9HWFP4,MT,Valletta,ASD,Azimuth Stern Drive,Class B,Westport Tug,62,28.5,13,5.2,5694,13.7,2024,FiFi 1 WS,50,5,Operational
+71,CNSHA,Chief II,CNSHA-OCN-0071,9760786,412283706,BUTS2,CN,Shanghai,Ocean-going,Ocean-going Salvage Tug,Class A+,Westport Tug,112,69.9,18.8,7.5,9782,14.8,2001,None,120,15,Operational
+72,CNSHA,Baltic V,CNSHA-HBR-0072,9513399,412667934,BPYG2,CN,Shanghai,Harbor,Harbor Assist Tug,Class C,Hai Gong Tug,45,28.1,10.4,4.1,1912,10.2,2007,None,75,3,Maintenance
+73,CNSZX,Powerful,CNSZX-CON-0073,9448474,412803590,BDK06,CN,Shenzhen,Conventional,Conventional Twin Screw,Class D,Korea Salvage,37,28.5,11.9,5.4,3175,10.4,2009,None,50,5,Operational
+74,CNSZX,Hamburg Guardian,CNSZX-VSP-0074,9544424,412663572,BKU88,CN,Shenzhen,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,China Tug,64,36.9,11.1,4.4,3926,12.7,2003,FiFi 1,30,6,Standby
+75,CNSZX,Power,CNSZX-VSP-0075,9437282,412822739,BUX36,CN,Shenzhen,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Pan Ocean Tug,59,31.7,11.5,5.5,3236,12.9,2004,FiFi 1,30,3,Operational
+76,CNSZX,Hawk Pioneer,CNSZX-CON-0076,9488394,412810713,BNT24,CN,Shenzhen,Conventional,Conventional Twin Screw,Class C,Nihon Kai Tug,46,31.6,9.5,4.4,2037,11.9,2016,None,50,6,Operational
+77,CNSZX,Atlas 2,CNSZX-CON-0077,9664646,412366968,BHXN35,CN,Shenzhen,Conventional,Conventional Twin Screw,Class D,Smit Lamnalco,42,34.1,9.9,4.7,3295,11.6,2017,None,30,4,Operational
+78,CNSZX,Captain,CNSZX-ASD-0078,9930594,412167891,BGUJ97,CN,Shenzhen,ASD,Azimuth Stern Drive,Class A,Pan Ocean Tug,87,40.7,13.7,5,4539,13.2,2005,FiFi 1 WS,75,4,Operational
+79,CNSZX,Houston 6,CNSZX-VSP-0079,9756534,412128902,BRXN3,CN,Shenzhen,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Shanghai Salvage,44,31.8,10.2,5.2,5057,13,2018,None,50,6,Operational
+80,CNSZX,Condor 4,CNSZX-TRC-0080,9380403,412904138,BGT19,CN,Shenzhen,Tractor,Tractor Tug,Class B,Shanghai Salvage,64,35,13.9,5.2,4762,12.9,2001,FiFi 1 WS,50,7,Operational
+81,CNSZX,Aqua,CNSZX-ASD-0081,9817138,576232968,YJBXE54,VU,Port Vila,ASD,Azimuth Stern Drive,Class A,POSH Semco,86,28.1,14.1,6.4,4205,13.3,1995,FiFi 1,75,8,Operational
+82,CNSZX,Rotterdam 3,CNSZX-ESC-0082,9279715,412787668,BYPD49,CN,Shenzhen,Escort,Escort Tug,Class A+,Nihon Kai Tug,117,41,18,6.4,7477,15.9,2014,FiFi 2,150,4,Operational
+83,CNSZX,Hercules,CNSZX-ASD-0083,9765244,412468357,BVY7,CN,Shenzhen,ASD,Azimuth Stern Drive,Class B,Westport Tug,66,30.2,13.5,5.7,6825,13.1,2004,FiFi 2,75,7,Operational
+84,CNSZX,Quick II,CNSZX-CON-0084,9488180,412969093,BAKM69,CN,Shenzhen,Conventional,Conventional Twin Screw,Class D,Westport Tug,30,29,9.8,4.7,3615,10.2,2006,None,75,4,Operational
+85,CNSZX,Rotterdam 10,CNSZX-TRC-0085,9817763,412232331,BUTX61,CN,Shenzhen,Tractor,Tractor Tug,Class A,Nihon Kai Tug,84,38.9,13.6,6.4,4145,12.3,2012,FiFi 1,50,6,Operational
+86,CNSZX,Baltic,CNSZX-CON-0086,9344954,412293336,BND76,CN,Shenzhen,Conventional,Conventional Twin Screw,Class D,Hai Gong Tug,36,27,10,5,2748,11.2,2004,None,75,4,Operational
+87,CNSZX,Commodore Pioneer,CNSZX-HBR-0087,9608006,412770151,BRWM3,CN,Shenzhen,Harbor,Harbor Assist Tug,Class D,COSCO Shipping,40,25.2,9.7,4.4,3425,11.7,2021,None,75,4,Operational
+88,CNSZX,Baltic 5,CNSZX-CON-0088,9601379,412643009,BMSY8,CN,Shenzhen,Conventional,Conventional Twin Screw,Class D,China Tug,38,29.9,10.3,4.7,3837,11.6,2023,None,30,3,Operational
+89,CNSZX,Lion,CNSZX-ASD-0089,9176355,412786347,BYNN61,CN,Shenzhen,ASD,Azimuth Stern Drive,Class B,Pan Ocean Tug,61,38.7,14.4,5.4,5908,13.9,2014,FiFi 1,100,5,Operational
+90,CNSZX,Agile Warrior,CNSZX-ASD-0090,9189920,412928837,BBG47,CN,Shenzhen,ASD,Azimuth Stern Drive,Class A,Sembcorp Marine,90,37.4,13.6,5.5,4117,12.3,1999,FiFi 1,50,4,Operational
+91,CNSZX,Titan Pride,CNSZX-ASD-0091,9379122,412739689,BXXA45,CN,Shenzhen,ASD,Azimuth Stern Drive,Class A,Westport Tug,85,36.6,11.9,5.4,3536,13.1,2007,FiFi 1 WS,120,4,Operational
+92,CNSZX,Marine,CNSZX-OCN-0092,9939646,412935367,BCMU6,CN,Shenzhen,Ocean-going,Ocean-going Salvage Tug,Class A+,Pelabuhan Tug,179,70.3,19.7,6.3,16633,15.9,2013,FiFi 2,75,13,Operational
+93,CNNBO,Master Warrior,CNNBO-ESC-0093,9772105,412489600,BPYG66,CN,Ningbo-Zhoushan,Escort,Escort Tug,Class A,Sembcorp Marine,92,40.5,17,5.9,6041,13.4,2017,FiFi 1,75,8,Operational
+94,CNNBO,Triton 8,CNNBO-CON-0094,9186523,412630460,BBAG83,CN,Ningbo-Zhoushan,Conventional,Conventional Twin Screw,Class D,PSA Marine,33,27.5,9.7,5.1,2117,11.1,2024,None,30,6,Operational
+95,CNNBO,Rapid Warrior,CNNBO-HBR-0095,9640532,412248238,BSJZ0,CN,Ningbo-Zhoushan,Harbor,Harbor Assist Tug,Class D,Nippon Salvage,30,28.3,9.7,4.8,2246,10.2,2002,None,50,5,Operational
+96,CNNBO,Thor 4,CNNBO-VSP-0096,9574884,412365035,BHUW7,CN,Ningbo-Zhoushan,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,PSA Marine,41,34.4,13.6,5.2,4878,11.9,2018,FiFi 1 WS,30,3,Operational
+97,CNNBO,Valiant 2,CNNBO-CON-0097,9182120,412337557,BBBD14,CN,Ningbo-Zhoushan,Conventional,Conventional Twin Screw,Class B,Smit Lamnalco,60,27.5,11.3,4.4,2791,11.9,2000,None,75,6,Operational
+98,CNNBO,Singapore Star,CNNBO-TRC-0098,9092974,412181842,BPUS9,CN,Ningbo-Zhoushan,Tractor,Tractor Tug,Class C,Adani Marine,54,39,13.6,5.4,6168,13.6,2014,FiFi 1 WS,30,5,Operational
+99,CNNBO,Reliable,CNNBO-CON-0099,9875765,412603732,BBW8,CN,Ningbo-Zhoushan,Conventional,Conventional Twin Screw,Class C,Westport Tug,58,34.3,9.2,5,4403,10.3,2020,None,50,3,Operational
+100,CNNBO,Orca,CNNBO-CON-0100,9661285,412731646,BRNW53,CN,Ningbo-Zhoushan,Conventional,Conventional Twin Screw,Class D,PSA Marine,33,33.6,11,4,4133,10.2,1998,None,30,3,Standby
+101,CNNBO,Agile Defender,CNNBO-ASD-0101,9780221,636754663,ELTK7,LR,Monrovia,ASD,Azimuth Stern Drive,Class C,Sembcorp Marine,50,38.6,15,5.3,6532,13,2021,FiFi 2,50,4,Operational
+102,CNNBO,Santos Glory,CNNBO-OCN-0102,9454621,412197439,BKCZ1,CN,Ningbo-Zhoushan,Ocean-going,Ocean-going Salvage Tug,Class A+,Adani Marine,193,65.3,19.4,7,15521,15.4,2017,FiFi 1,200,18,Operational
+103,CNNBO,Force,CNNBO-VSP-0103,9564223,412326993,BTQ8,CN,Ningbo-Zhoushan,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Hai Gong Tug,56,29,12.5,5.4,4596,11.5,1999,FiFi 1,75,5,Operational
+104,CNNBO,Hawk Glory,CNNBO-ASD-0104,9230937,412659768,BYF20,CN,Ningbo-Zhoushan,ASD,Azimuth Stern Drive,Class B,Nippon Salvage,64,39.6,11.1,6.4,4315,13,2018,FiFi 1 WS,200,4,Operational
+105,CNNBO,Steady Defender,CNNBO-ESC-0105,9872622,412187576,BLG4,CN,Ningbo-Zhoushan,Escort,Escort Tug,Class A,Smit Lamnalco,99,36.6,16.4,6.3,5643,13.9,2023,FiFi 2,100,7,Operational
+106,CNNBO,Rotterdam 1,CNNBO-ASD-0106,9145355,412901058,BHS58,CN,Ningbo-Zhoushan,ASD,Azimuth Stern Drive,Class B,Korea Salvage,65,40.5,14.8,6,4480,12.4,1997,None,200,5,Operational
+107,CNNBO,Condor Champion,CNNBO-TRC-0107,9319033,412961175,BVEV1,CN,Ningbo-Zhoushan,Tractor,Tractor Tug,Class B,Adani Marine,74,30.6,14,5.3,5721,13.6,2017,FiFi 2,30,4,Operational
+108,CNNBO,Condor 10,CNNBO-CON-0108,9004144,215333492,9HWD68,MT,Valletta,Conventional,Conventional Twin Screw,Class D,Westport Tug,37,32.1,11,5.5,3713,10.3,2007,None,30,5,Operational
+109,CNNBO,Hamburg Voyager,CNNBO-CON-0109,9484161,412406313,BPY8,CN,Ningbo-Zhoushan,Conventional,Conventional Twin Screw,Class C,China Tug,51,32.2,10.4,4,3321,10.8,2023,None,50,4,Operational
+110,CNNBO,Steady 10,CNNBO-VSP-0110,9693341,412562819,BBU14,CN,Ningbo-Zhoushan,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Hai Gong Tug,56,34.1,11,4.6,3630,11.4,1996,FiFi 1 WS,50,3,Operational
+111,CNNBO,Triton III,CNNBO-ESC-0111,9669873,412261645,BGNH35,CN,Ningbo-Zhoushan,Escort,Escort Tug,Class A,China Tug,90,40.2,15.6,5.5,7659,14.6,2020,FiFi 1,50,6,Operational
+112,CNNBO,Marine Defender,CNNBO-TRC-0112,9663484,412880598,BGU3,CN,Ningbo-Zhoushan,Tractor,Tractor Tug,Class B,Westport Tug,76,35.7,14.6,6.1,4165,13.5,2011,None,50,4,Operational
+113,CNQIN,Commodore Warrior,CNQIN-VSP-0113,9993056,412227691,BBU7,CN,Qingdao,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Nippon Salvage,58,36,11,4.1,4113,12.1,2004,None,50,3,Operational
+114,CNQIN,Hamburg 6,CNQIN-VSP-0114,9311944,412572131,BAWF8,CN,Qingdao,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Pan Ocean Tug,51,37.3,13.6,4.5,3456,12.6,2015,FiFi 1 WS,30,3,Operational
+115,CNQIN,Goliath IV,CNQIN-TRC-0115,9168396,412651567,BBEY93,CN,Qingdao,Tractor,Tractor Tug,Class B,Westport Tug,77,31.4,12.9,5.5,4744,13.2,2016,FiFi 1 WS,75,8,Operational
+116,CNQIN,Triton,CNQIN-TRC-0116,9047838,412383759,BAFH4,CN,Qingdao,Tractor,Tractor Tug,Class C,Keppel Smit Towage,59,32.3,14.6,5.5,6097,13.1,2010,FiFi 1,50,5,Operational
+117,CNQIN,Tiger,CNQIN-ASD-0117,9024422,538500871,V7JRU54,MH,Majuro,ASD,Azimuth Stern Drive,Class C,Nihon Kai Tug,51,37.3,12,5.9,4166,12.6,2020,FiFi 1,75,7,Operational
+118,CNQIN,Ocean Glory,CNQIN-CON-0118,9648013,412988894,BCJ8,CN,Qingdao,Conventional,Conventional Twin Screw,Class C,Pan Ocean Tug,53,26.9,10.5,4.2,2157,11.3,1996,None,50,4,Operational
+119,CNQIN,Thor V,CNQIN-ASD-0119,9330286,412817783,BUW3,CN,Qingdao,ASD,Azimuth Stern Drive,Class B,Pelabuhan Tug,67,38.1,11.5,5.7,6250,13.3,2005,FiFi 1,150,4,Operational
+120,CNQIN,Orca III,CNQIN-ESC-0120,9940162,412863127,BSLY63,CN,Qingdao,Escort,Escort Tug,Class A+,Pelabuhan Tug,116,43.1,15.7,6.5,7375,14.6,1996,FiFi 1,150,6,Maintenance
+121,CNQIN,Hamburg 8,CNQIN-TRC-0121,9565737,412658280,BKP6,CN,Qingdao,Tractor,Tractor Tug,Class A,PSA Marine,83,34.4,14.6,5.8,5941,13.6,2011,FiFi 2,30,4,Maintenance
+122,CNQIN,Commodore 4,CNQIN-TRC-0122,9873961,636408488,ELHXX4,LR,Monrovia,Tractor,Tractor Tug,Class C,Pelabuhan Tug,54,33.4,13.1,6,5321,12.4,2024,FiFi 1,30,4,Operational
+123,HKHKG,Lion Champion,HKHKG-VSP-0123,9515914,477443658,VRAP52,HK,Hong,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,POSH Semco,51,35.2,10.1,5.2,5358,11.6,2002,FiFi 2,50,5,Operational
+124,HKHKG,Aqua 5,HKHKG-VSP-0124,9270620,477902999,VRNBF2,HK,Hong,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Nihon Kai Tug,43,32.1,13.6,5.4,3952,11.7,2006,FiFi 1 WS,50,5,Operational
+125,HKHKG,Thor,HKHKG-ASD-0125,9797051,477786281,VRRFD3,HK,Hong,ASD,Azimuth Stern Drive,Class A,Shanghai Salvage,90,30.5,12.4,4.9,5807,12.7,2024,FiFi 2,150,5,Operational
+126,HKHKG,Commodore 7,HKHKG-CON-0126,9107902,215617764,9HULC82,MT,Valletta,Conventional,Conventional Twin Screw,Class D,Nippon Salvage,34,34.1,9.4,4.6,3347,10.8,2011,None,50,5,Operational
+127,HKHKG,Hawk Defender,HKHKG-ASD-0127,9506988,477485543,VRBX26,HK,Hong,ASD,Azimuth Stern Drive,Class B,China Tug,69,31.3,14.8,6,4712,12.5,2019,FiFi 1 WS,120,6,Operational
+128,HKHKG,Resolute Warrior,HKHKG-OCN-0128,9738434,477467543,VRKR9,HK,Hong,Ocean-going,Ocean-going Salvage Tug,Class A+,Sembcorp Marine,183,53.9,19.9,7.3,14994,14.4,2021,None,120,13,Standby
+129,HKHKG,Pacific Pioneer,HKHKG-ASD-0129,9779708,477971996,VRUY14,HK,Hong,ASD,Azimuth Stern Drive,Class B,Pelabuhan Tug,61,33.4,12.7,5,4478,12.6,2001,FiFi 1,50,4,Operational
+130,HKHKG,Victoria Guardian,HKHKG-ASD-0130,9161421,477957990,VRNVG4,HK,Hong,ASD,Azimuth Stern Drive,Class B,Korea Salvage,78,39.2,14.9,5.6,5524,12.5,2009,FiFi 1 WS,150,6,Operational
+131,HKHKG,Aqua 4,HKHKG-CON-0131,9832901,477604045,VRYC6,HK,Hong,Conventional,Conventional Twin Screw,Class C,Pelabuhan Tug,57,25.4,11.5,5.4,2346,11.4,2006,None,75,6,Maintenance
+132,HKHKG,Atlantic Glory,HKHKG-HBR-0132,9611652,477462143,VRQV3,HK,Hong,Harbor,Harbor Assist Tug,Class E,COSCO Shipping,29,23.4,10.4,4.7,1573,10.5,2010,None,75,4,Operational
+133,HKHKG,Valiant Spirit,HKHKG-ASD-0133,9929573,477649219,VRJFX5,HK,Hong,ASD,Azimuth Stern Drive,Class C,COSCO Shipping,53,32.7,14.7,4.8,5157,13,2006,FiFi 2,50,7,Operational
+134,HKHKG,Condor Spirit,HKHKG-OCN-0134,9205670,477736067,VRGTV5,HK,Hong,Ocean-going,Ocean-going Salvage Tug,Class A+,Smit Lamnalco,176,74.9,15.9,7.9,8293,15.4,2015,FiFi 1 WS,100,11,Operational
+135,HKHKG,Chief Guardian,HKHKG-VSP-0135,9928779,215110943,9HXU25,MT,Valletta,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Shanghai Salvage,65,29.6,12.9,4.6,4840,12.3,2012,FiFi 2,75,6,Operational
+136,HKHKG,Agile Voyager,HKHKG-VSP-0136,9751591,477586822,VRTZF68,HK,Hong,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Pelabuhan Tug,42,33.8,10.1,4.5,4156,12.9,2015,FiFi 1 WS,75,4,Operational
+137,HKHKG,Houston 8,HKHKG-TRC-0137,9047132,477785807,VRPH9,HK,Hong,Tractor,Tractor Tug,Class B,Smit Lamnalco,60,37.7,14.4,5.8,5316,12.2,2003,FiFi 2,30,7,Operational
+138,HKHKG,Lion Pride,HKHKG-CON-0138,9031486,477333936,VRZJ70,HK,Hong,Conventional,Conventional Twin Screw,Class C,COSCO Shipping,51,34.1,10.3,5.1,2219,10.8,2014,None,30,6,Operational
+139,HKHKG,Houston V,HKHKG-TRC-0139,9589783,477285868,VRWE94,HK,Hong,Tractor,Tractor Tug,Class B,Shanghai Salvage,79,34.3,12.5,6.2,4227,13.2,2006,FiFi 2,30,7,Operational
+140,HKHKG,Swift 10,HKHKG-CON-0140,9602499,477707176,VRED38,HK,Hong,Conventional,Conventional Twin Screw,Class D,Nihon Kai Tug,38,26.6,9.1,5,2820,11.2,2008,None,30,4,Operational
+141,HKHKG,Santos I,HKHKG-ASD-0141,9011614,477571329,VRNVN9,HK,Hong,ASD,Azimuth Stern Drive,Class A,COSCO Shipping,88,32.1,11.3,5,4296,12.1,2004,FiFi 1 WS,120,7,Operational
+142,HKHKG,Pilot 5,HKHKG-ESC-0142,9971999,477544624,VREK0,HK,Hong,Escort,Escort Tug,Class A+,COSCO Shipping,101,37.2,17.7,6.9,5535,13.8,2008,FiFi 1,100,4,Operational
+143,HKHKG,Chief,HKHKG-TRC-0143,9323047,477772236,VRKF7,HK,Hong,Tractor,Tractor Tug,Class B,Nihon Kai Tug,63,36.1,13.5,5.2,4997,12.9,2016,None,50,5,Operational
+144,HKHKG,Neptune,HKHKG-CON-0144,9382661,209392567,5BEAT0,CY,Limassol,Conventional,Conventional Twin Screw,Class D,Adani Marine,40,31.1,9.5,4.3,3896,10.9,2003,None,30,3,Operational
+145,HKHKG,Mumbai Pride,HKHKG-ESC-0145,9356391,477291223,VRAR4,HK,Hong,Escort,Escort Tug,Class A,Hai Gong Tug,86,39.3,16.1,5.5,8332,14.8,2013,None,150,8,Operational
+146,HKHKG,Titan Pioneer,HKHKG-ASD-0146,9388558,215140151,9HWJC94,MT,Valletta,ASD,Azimuth Stern Drive,Class C,Hai Gong Tug,56,38.8,12.3,4.9,4037,13.7,1996,FiFi 2,50,7,Operational
+147,HKHKG,Triton Guardian,HKHKG-ESC-0147,9124157,477159069,VRZNR31,HK,Hong,Escort,Escort Tug,Class A+,Korea Salvage,119,44.4,15.5,6.4,7276,13.4,2024,FiFi 1,100,8,Operational
+148,HKHKG,Bear,HKHKG-VSP-0148,9317191,477583256,VRKTD84,HK,Hong,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,POSH Semco,47,32.1,13.2,4.5,4746,11.6,2006,FiFi 1,50,4,Operational
+149,HKHKG,Reliable Guardian,HKHKG-CON-0149,9756806,351926807,HPKP4,PA,Panama City,Conventional,Conventional Twin Screw,Class D,Nippon Salvage,36,29.1,10.6,4.7,2919,10.7,2014,None,50,6,Operational
+150,HKHKG,Master,HKHKG-CON-0150,9777653,477273493,VRCLX0,HK,Hong,Conventional,Conventional Twin Screw,Class C,POSH Semco,46,30.6,10.2,4.9,3526,10.5,1995,None,30,5,Maintenance
+151,HKHKG,Sea,HKHKG-ESC-0151,9570586,477921213,VRLXR1,HK,Hong,Escort,Escort Tug,Class B,Shanghai Salvage,72,37.3,17.5,5.8,8833,13.5,2024,None,100,4,Operational
+152,HKHKG,Singapore Champion,HKHKG-ESC-0152,9112731,477267162,VRHGD59,HK,Hong,Escort,Escort Tug,Class A+,China Tug,102,38.2,18,6.3,8454,13.6,2003,FiFi 2,100,6,Operational
+153,HKHKG,Hawk I,HKHKG-ESC-0153,9550677,477230325,VRATP3,HK,Hong,Escort,Escort Tug,Class A+,Korea Salvage,115,44.6,14,5.8,6199,15.5,2006,FiFi 1,120,4,Operational
+154,HKHKG,Master I,HKHKG-TRC-0154,9632307,477295459,VRZLM14,HK,Hong,Tractor,Tractor Tug,Class B,POSH Semco,70,39.1,14.6,5.9,4604,12.5,2009,FiFi 1,50,6,Operational
+155,HKHKG,Santos Pioneer,HKHKG-ESC-0155,9083492,477622496,VRHNZ7,HK,Hong,Escort,Escort Tug,Class A+,Shanghai Salvage,105,43.4,17.7,6.7,7146,14.8,2021,None,120,4,Operational
+156,HKHKG,Valiant,HKHKG-CON-0156,9448411,477288314,VRRGA36,HK,Hong,Conventional,Conventional Twin Screw,Class C,Sembcorp Marine,51,29.5,10.8,5.5,2102,10.9,2012,None,75,4,Operational
+157,HKHKG,Wolf,HKHKG-VSP-0157,9330542,477997041,VRBV6,HK,Hong,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Pan Ocean Tug,67,31.7,13.7,5.4,4824,11.8,2000,None,30,6,Operational
+158,KRPUS,Valiant Pride,KRPUS-CON-0158,9404506,440656397,HLRJ22,KR,Busan,Conventional,Conventional Twin Screw,Class B,Pelabuhan Tug,60,34.6,9.4,4.5,2175,11.7,2019,None,30,4,Operational
+159,KRPUS,Pilot Defender,KRPUS-TRC-0159,9187289,440174620,HLWCK17,KR,Busan,Tractor,Tractor Tug,Class A,Westport Tug,82,37.2,12.2,6.4,4734,13.5,2005,FiFi 1,75,8,Operational
+160,KRPUS,Shark 9,KRPUS-TRC-0160,9739772,351579775,HPKDU42,PA,Panama City,Tractor,Tractor Tug,Class B,Hai Gong Tug,69,33.3,14.9,5.7,4025,13.1,2022,FiFi 1,75,7,Operational
+161,KRPUS,Master Pioneer,KRPUS-ESC-0161,9299817,440325333,HLUM30,KR,Busan,Escort,Escort Tug,Class A+,POSH Semco,104,40.6,17.4,5.9,7083,15.7,2014,FiFi 2,200,6,Operational
+162,KRPUS,Strong III,KRPUS-TRC-0162,9711975,538229379,V7GT03,MH,Majuro,Tractor,Tractor Tug,Class B,Pelabuhan Tug,72,35.1,14.3,6.4,5706,13.4,2017,FiFi 2,75,7,Operational
+163,KRPUS,Rapid Guardian,KRPUS-CON-0163,9091660,440674762,HLTW43,KR,Busan,Conventional,Conventional Twin Screw,Class C,POSH Semco,46,30.7,10.1,5.4,3348,10.3,2009,None,30,6,Operational
+164,KRPUS,Strong V,KRPUS-TRC-0164,9235936,440391067,HLYYM9,KR,Busan,Tractor,Tractor Tug,Class B,Korea Salvage,65,37.6,12.9,5.9,5542,12.2,2004,FiFi 1 WS,75,8,Operational
+165,KRPUS,Dubai Pride,KRPUS-ESC-0165,9612547,308831431,C6FQ09,BS,Nassau,Escort,Escort Tug,Class B,Westport Tug,74,37.6,16.2,6.4,5644,13.1,2016,FiFi 1,120,5,Operational
+166,KRPUS,Rapid 2,KRPUS-ESC-0166,9106481,440675451,HLTC27,KR,Busan,Escort,Escort Tug,Class B,Shanghai Salvage,79,43.8,14.9,6.4,7512,15.7,2009,FiFi 1,100,8,Operational
+167,KRPUS,Orca 4,KRPUS-CON-0167,9435685,440539503,HLNS84,KR,Busan,Conventional,Conventional Twin Screw,Class D,Nihon Kai Tug,38,28.1,10.4,5,2644,11.3,2021,None,50,6,Operational
+168,KRPUS,Power IV,KRPUS-CON-0168,9166167,440584947,HLURS68,KR,Busan,Conventional,Conventional Twin Screw,Class C,Hai Gong Tug,53,31.7,11.5,4.3,2348,11,2016,None,30,5,Operational
+169,KRPUS,Dolphin II,KRPUS-ASD-0169,9215465,440421220,HLJY17,KR,Busan,ASD,Azimuth Stern Drive,Class B,Hai Gong Tug,76,37.2,14.9,6.1,3572,12.4,2019,FiFi 1 WS,150,6,Operational
+170,KRPUS,Smit Panther,KRPUS-ASD-0170,9465571,440334132,HLYLE75,KR,Busan,ASD,Azimuth Stern Drive,Class A,Keppel Smit Towage,82,39.8,13.5,5.7,4554,12.3,2015,FiFi 1,100,6,Operational
+171,KRPUS,Pacific,KRPUS-ASD-0171,9278647,440678421,HLGKZ46,KR,Busan,ASD,Azimuth Stern Drive,Class B,Hai Gong Tug,79,33,13.4,5.4,5408,13.5,2021,FiFi 1,100,7,Operational
+172,KRPUS,Reliable IV,KRPUS-TRC-0172,9679500,440398668,HLPPP30,KR,Busan,Tractor,Tractor Tug,Class B,Keppel Smit Towage,60,35.1,12.7,5.4,5989,13,2000,FiFi 2,30,4,Operational
+173,KRPUS,Sea Warrior,KRPUS-ASD-0173,9634961,636216958,ELWKT4,LR,Monrovia,ASD,Azimuth Stern Drive,Class A,Nippon Salvage,82,35.3,14.7,5.3,6872,12.4,2001,FiFi 2,120,6,Operational
+174,KRPUS,Falcon Pride,KRPUS-OCN-0174,9217133,440849801,HLTT63,KR,Busan,Ocean-going,Ocean-going Salvage Tug,Class A+,COSCO Shipping,166,78.6,15.9,6.7,15109,16.4,2018,FiFi 1,100,14,Operational
+175,KRPUS,Titan 10,KRPUS-CON-0175,9742304,351159623,HPJUP58,PA,Panama City,Conventional,Conventional Twin Screw,Class C,Pelabuhan Tug,57,31.8,11.1,4.8,2548,10.6,2014,None,50,3,Operational
+176,KRPUS,Titan IV,KRPUS-CON-0176,9186501,636863881,ELYV65,LR,Monrovia,Conventional,Conventional Twin Screw,Class C,PSA Marine,49,31.8,10.6,5.3,3218,11.2,2003,None,75,3,Operational
+177,KRPUS,Master Champion,KRPUS-ASD-0177,9624383,440229391,HLVY6,KR,Busan,ASD,Azimuth Stern Drive,Class B,Pan Ocean Tug,72,31.6,13.3,6,4090,13.1,1996,FiFi 2,100,5,Operational
+178,KRPUS,Rotterdam Pioneer,KRPUS-OCN-0178,9824863,440590946,HLMB64,KR,Busan,Ocean-going,Ocean-going Salvage Tug,Class A+,China Tug,109,66.8,17.5,7.8,11998,17.7,1999,FiFi 1,150,12,Operational
+179,KRPUS,Shark Warrior,KRPUS-TRC-0179,9845380,538919653,V7AM3,MH,Majuro,Tractor,Tractor Tug,Class A,China Tug,82,32.8,12.9,6.4,4879,12.1,2008,FiFi 2,75,8,Maintenance
+180,JPYOK,Force 10,JPYOK-ASD-0180,9436240,431157610,JBEE7,JP,Yokohama,ASD,Azimuth Stern Drive,Class C,Pan Ocean Tug,59,41.1,14.5,6.3,6292,13,2004,FiFi 1 WS,50,4,Operational
+181,JPYOK,Pilot II,JPYOK-ASD-0181,9913290,431534660,JKG7,JP,Yokohama,ASD,Azimuth Stern Drive,Class C,Westport Tug,51,31.9,11.6,6.4,5709,13.5,2016,FiFi 1,50,5,Operational
+182,JPYOK,Nimble,JPYOK-CON-0182,9047359,431640462,JYA3,JP,Yokohama,Conventional,Conventional Twin Screw,Class C,Shanghai Salvage,45,30.7,9.6,5.2,2753,10.4,2013,None,30,3,Operational
+183,JPYOK,Force 1,JPYOK-ESC-0183,9616179,431813688,JLM9,JP,Yokohama,Escort,Escort Tug,Class A+,Shanghai Salvage,100,35.5,16.3,6.4,5768,14.2,2001,FiFi 1 WS,200,5,Operational
+184,JPYOK,Atlantic,JPYOK-TRC-0184,9262457,431777411,JXY7,JP,Yokohama,Tractor,Tractor Tug,Class C,China Tug,50,32,13,6.3,5325,13.4,2006,FiFi 2,30,8,Operational
+185,JPYOK,Reliable 4,JPYOK-ASD-0185,9115809,636232634,ELCZA6,LR,Monrovia,ASD,Azimuth Stern Drive,Class C,Pan Ocean Tug,59,28.3,13.5,5.5,5847,12.4,1998,FiFi 1,50,6,Operational
+186,JPYOK,Tiger Spirit,JPYOK-ASD-0186,9188938,431184856,JHF76,JP,Yokohama,ASD,Azimuth Stern Drive,Class A,China Tug,83,41.2,13.8,5.1,4323,12.4,2014,FiFi 1,200,5,Operational
+187,JPYOK,Master Star,JPYOK-ASD-0187,9068026,431644069,JTN24,JP,Yokohama,ASD,Azimuth Stern Drive,Class B,China Tug,71,40.9,12.4,6,4083,13.9,2017,None,120,6,Operational
+188,JPYOK,Condor III,JPYOK-CON-0188,9778084,431274248,JMKK51,JP,Yokohama,Conventional,Conventional Twin Screw,Class D,Pan Ocean Tug,39,26.3,11.3,4.5,2844,11.7,2007,None,50,4,Operational
+189,JPYOK,Steady IV,JPYOK-ASD-0189,9123995,209415970,5BXP3,CY,Limassol,ASD,Azimuth Stern Drive,Class C,Pelabuhan Tug,52,40.1,11.2,5.2,6275,12.6,2023,FiFi 1,200,5,Operational
+190,JPYOK,Agile Pioneer,JPYOK-CON-0190,9845144,431328677,JVYU00,JP,Yokohama,Conventional,Conventional Twin Screw,Class D,Westport Tug,40,29.2,11.8,4.8,3572,11.1,2013,None,50,3,Operational
+191,JPYOK,Bear Glory,JPYOK-VSP-0191,9169168,431329096,JZUJ55,JP,Yokohama,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Pelabuhan Tug,60,32.9,10.9,4.1,4067,11.2,2014,None,30,6,Operational
+192,JPYOK,Steady Star,JPYOK-ASD-0192,9612171,431169916,JVM5,JP,Yokohama,ASD,Azimuth Stern Drive,Class B,Hai Gong Tug,71,38.7,13.6,5.2,4056,12.5,2020,FiFi 2,150,8,Operational
+193,JPYOK,Powerful Pride,JPYOK-CON-0193,9481820,431532795,JAL4,JP,Yokohama,Conventional,Conventional Twin Screw,Class C,Pelabuhan Tug,52,33.4,10.1,4.2,4185,10.1,2020,None,50,5,Operational
+194,JPYOK,Power Glory,JPYOK-ASD-0194,9452537,431103541,JML62,JP,Yokohama,ASD,Azimuth Stern Drive,Class B,Hai Gong Tug,66,36.2,12.6,5.4,3976,13.3,1996,None,75,4,Operational
+195,JPYOK,Victoria Pioneer,JPYOK-ASD-0195,9386321,431379724,JWQV2,JP,Yokohama,ASD,Azimuth Stern Drive,Class B,Hai Gong Tug,63,29.4,12.9,5.1,4466,12.9,2003,FiFi 1 WS,75,6,Maintenance
+196,JPYOK,Hercules Pioneer,JPYOK-ASD-0196,9202299,431147124,JMU6,JP,Yokohama,ASD,Azimuth Stern Drive,Class C,Pan Ocean Tug,53,35.9,11.2,5.9,6053,12,2018,FiFi 1,50,8,Operational
+197,MYKLG,Hawk,MYKLG-ASD-0197,9434918,209644546,5BMEN5,CY,Limassol,ASD,Azimuth Stern Drive,Class A,China Tug,90,30.4,11.6,4.6,5158,13.7,1999,FiFi 1,150,6,Operational
+198,MYKLG,Commodore V,MYKLG-CON-0198,9943259,533155597,9MDAY05,MY,Port,Conventional,Conventional Twin Screw,Class D,Pelabuhan Tug,35,27.1,10.1,4.1,2922,10.3,2010,None,30,4,Standby
+199,MYKLG,Aqua Spirit,MYKLG-VSP-0199,9454281,533246557,9MYL74,MY,Port,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Sembcorp Marine,49,29,12.4,4.6,3531,12.6,2022,FiFi 2,30,6,Operational
+200,MYKLG,Resolute Spirit,MYKLG-ASD-0200,9318383,533385224,9MFF3,MY,Port,ASD,Azimuth Stern Drive,Class B,Sembcorp Marine,77,40.2,13.9,5.8,6674,12.9,2009,FiFi 1 WS,100,4,Operational
+201,MYKLG,Santos,MYKLG-ASD-0201,9200911,533997234,9MYB73,MY,Port,ASD,Azimuth Stern Drive,Class B,Nippon Salvage,61,41.2,13.1,4.9,5262,13.3,1998,FiFi 1 WS,75,6,Maintenance
+202,MYKLG,Atlas Defender,MYKLG-VSP-0202,9421472,533787957,9MAJY91,MY,Port,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Keppel Smit Towage,57,35.2,13.9,5.1,3163,11.1,1999,FiFi 2,30,6,Operational
+203,MYKLG,Wolf Warrior,MYKLG-ASD-0203,9965106,533948569,9MCVB9,MY,Port,ASD,Azimuth Stern Drive,Class A,POSH Semco,83,30.2,14.9,5.9,6335,13,2000,FiFi 1,200,4,Operational
+204,MYKLG,Aqua Guardian,MYKLG-ESC-0204,9919678,576590422,YJAN30,VU,Port Vila,Escort,Escort Tug,Class A+,POSH Semco,112,39.5,16.5,6.5,6148,15.7,2008,None,75,7,Operational
+205,MYKLG,Reliable II,MYKLG-ASD-0205,9154926,533599413,9MGF88,MY,Port,ASD,Azimuth Stern Drive,Class A,Adani Marine,80,31.6,11.7,5.9,5516,12.5,2011,FiFi 2,50,6,Operational
+206,MYKLG,Smit Tiger,MYKLG-ASD-0206,9093118,533455428,9MSWE79,MY,Port,ASD,Azimuth Stern Drive,Class C,Keppel Smit Towage,58,38.3,14.9,5.8,4225,13.6,2001,FiFi 2,200,4,Maintenance
+207,MYKLG,Resolute,MYKLG-VSP-0207,9740325,533458596,9MBH24,MY,Port,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,COSCO Shipping,57,36.1,13.2,4.2,3037,12.8,2007,FiFi 1 WS,50,3,Operational
+208,MYKLG,Tiger Guardian,MYKLG-VSP-0208,9187945,533572419,9MYJQ4,MY,Port,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Sembcorp Marine,68,30.7,12.8,4.7,3581,11.4,2001,FiFi 1,50,6,Operational
+209,MYKLG,Atlantic Pioneer,MYKLG-VSP-0209,9253494,209500503,5BEE1,CY,Limassol,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Nippon Salvage,69,37.1,13.3,4.2,3463,12.3,2020,FiFi 1,50,3,Operational
+210,MYKLG,Lion Pioneer,MYKLG-ASD-0210,9778076,533721036,9MDJ0,MY,Port,ASD,Azimuth Stern Drive,Class B,Westport Tug,63,35.3,13.8,5.4,4657,12.6,2001,FiFi 1,100,7,Operational
+211,MYKLG,Atlantic 9,MYKLG-VSP-0211,9463938,533860577,9MEQH64,MY,Port,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Westport Tug,61,35.2,13.6,5.1,3089,11.4,1995,FiFi 1,50,6,Operational
+212,MYKLG,Atlas,MYKLG-VSP-0212,9413859,533831729,9MYZ4,MY,Port,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Pan Ocean Tug,66,31.7,13,5.4,4628,12.1,1997,FiFi 1,50,4,Operational
+213,MYKLG,Houston Champion,MYKLG-TRC-0213,9358387,533391320,9MQZY3,MY,Port,Tractor,Tractor Tug,Class B,Korea Salvage,67,34.1,12.3,6.4,4696,12,2005,FiFi 1,30,7,Operational
+214,MYKLG,Marine Pride,MYKLG-TRC-0214,9947882,533638363,9MGGT90,MY,Port,Tractor,Tractor Tug,Class B,China Tug,70,39,13.4,5.1,5101,14,2014,FiFi 1 WS,50,7,Operational
+215,MYKLG,Rotterdam Warrior,MYKLG-TRC-0215,9509861,533911205,9MDU9,MY,Port,Tractor,Tractor Tug,Class B,COSCO Shipping,76,38.9,13.7,5.6,6051,13.4,2014,None,30,5,Operational
+216,MYKLG,Admiral Warrior,MYKLG-CON-0216,9347220,533890556,9MXXQ02,MY,Port,Conventional,Conventional Twin Screw,Class C,China Tug,57,26.5,10.2,4.4,4385,10.5,2003,None,30,6,Operational
+217,MYTPP,Chief 5,MYTPP-VSP-0217,9238847,533637164,9MLJ77,MY,Tanjung,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Nihon Kai Tug,59,33.4,13.5,4.2,3412,11.2,1995,FiFi 1 WS,30,6,Operational
+218,MYTPP,Hawk Spirit,MYTPP-ASD-0218,9333100,533652551,9MER62,MY,Tanjung,ASD,Azimuth Stern Drive,Class B,Nippon Salvage,61,28.9,11.4,4.8,6846,13.7,2024,FiFi 1,150,6,Operational
+219,MYTPP,Master Pride,MYTPP-VSP-0219,9039257,533263689,9MJJ8,MY,Tanjung,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Smit Lamnalco,61,28.9,12.9,4.4,5341,12.6,2010,FiFi 2,75,4,Operational
+220,MYTPP,Ocean Guardian,MYTPP-ASD-0220,9583408,533874249,9MHHM4,MY,Tanjung,ASD,Azimuth Stern Drive,Class C,Pelabuhan Tug,59,40.4,14.1,5.8,4428,12.5,2023,None,150,6,Maintenance
+221,MYTPP,Marine Warrior,MYTPP-CON-0221,9633817,533775293,9MYF3,MY,Tanjung,Conventional,Conventional Twin Screw,Class D,Sembcorp Marine,41,34.8,10,4.3,3920,11.7,2001,None,50,6,Operational
+222,MYTPP,Titan 7,MYTPP-ASD-0222,9279290,533160215,9MASD9,MY,Tanjung,ASD,Azimuth Stern Drive,Class C,China Tug,50,31.5,11.5,5.3,6767,13.4,2024,None,200,6,Operational
+223,MYTPP,Sea 4,MYTPP-CON-0223,9005427,533305551,9MUZQ8,MY,Tanjung,Conventional,Conventional Twin Screw,Class C,Hai Gong Tug,49,28.4,9.6,4.1,2587,11.3,2018,None,50,5,Operational
+224,MYTPP,Sea 2,MYTPP-VSP-0224,9114305,533479729,9MYB2,MY,Tanjung,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Pan Ocean Tug,43,31.3,13.3,4.1,5001,12.5,2002,None,75,4,Operational
+225,MYTPP,Commodore,MYTPP-ESC-0225,9698091,533956090,9MNH86,MY,Tanjung,Escort,Escort Tug,Class A+,Shanghai Salvage,108,44.7,14.9,5.9,7226,14.7,2014,FiFi 2,100,8,Operational
+226,MYTPP,Pacific 2,MYTPP-VSP-0226,9929700,538197783,V7FT9,MH,Majuro,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Pelabuhan Tug,63,34.9,10.6,5.1,5336,12.2,2011,FiFi 1,30,3,Operational
+227,MYTPP,Resolute Star,MYTPP-TRC-0227,9564657,533304671,9MXZ40,MY,Tanjung,Tractor,Tractor Tug,Class B,Adani Marine,69,37.7,14,5.1,4936,12.6,2002,FiFi 1,75,4,Operational
+228,MYTPP,Singapore Voyager,MYTPP-ASD-0228,9244866,533662696,9MEB52,MY,Tanjung,ASD,Azimuth Stern Drive,Class B,Korea Salvage,75,40.9,15,4.9,5789,13.8,2014,None,200,7,Operational
+229,MYTPP,Neptune 3,MYTPP-TRC-0229,9510661,533786633,9MLK50,MY,Tanjung,Tractor,Tractor Tug,Class B,Smit Lamnalco,60,35,14.8,5.6,6210,13.3,2004,FiFi 1,50,7,Operational
+230,THLCH,Titan Glory,THLCH-ASD-0230,9107318,567869153,HSBWC0,TH,Laem,ASD,Azimuth Stern Drive,Class A,COSCO Shipping,89,40.5,12.5,6.4,6604,13.6,1997,None,150,4,Operational
+231,THLCH,Atlas Guardian,THLCH-OCN-0231,9853109,567470949,HSRFV77,TH,Laem,Ocean-going,Ocean-going Salvage Tug,Class A+,Pan Ocean Tug,160,58.1,15.3,7.2,14442,17,2022,FiFi 1,150,15,Operational
+232,THLCH,Dolphin Star,THLCH-VSP-0232,9973981,567393675,HSPLH46,TH,Laem,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Smit Lamnalco,42,33,12,5.5,4429,12.3,2008,FiFi 2,30,4,Operational
+233,THLCH,Captain Pioneer,THLCH-VSP-0233,9955065,567781726,HSPH9,TH,Laem,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,POSH Semco,48,37.8,10.8,4.9,4671,12.9,2009,FiFi 1,50,6,Operational
+234,THLCH,Hawk 8,THLCH-ASD-0234,9123591,567611575,HSBJ07,TH,Laem,ASD,Azimuth Stern Drive,Class B,Hai Gong Tug,67,31,11.6,5.9,6618,13.4,2009,FiFi 2,120,4,Operational
+235,THLCH,Houston Guardian,THLCH-CON-0235,9755481,567133431,HSWL99,TH,Laem,Conventional,Conventional Twin Screw,Class D,Adani Marine,42,33.5,10.8,4.7,2152,10.4,2000,None,50,6,Operational
+236,THLCH,Atlantic 2,THLCH-ASD-0236,9305375,567951268,HSPLS47,TH,Laem,ASD,Azimuth Stern Drive,Class A,Westport Tug,90,37.1,14.8,5.3,6472,13.9,2002,FiFi 1,120,4,Operational
+237,THLCH,Reliable Pride,THLCH-CON-0237,9548361,567121109,HSXBV9,TH,Laem,Conventional,Conventional Twin Screw,Class C,Pan Ocean Tug,53,30,9.8,5.1,2267,10.9,1998,None,75,5,Operational
+238,THLCH,Victoria Pride,THLCH-CON-0238,9351413,567833664,HSZT01,TH,Laem,Conventional,Conventional Twin Screw,Class C,Nihon Kai Tug,51,26.1,11.5,4.5,2142,11.4,2012,None,30,5,Operational
+239,INBOM,Mumbai 6,INBOM-TRC-0239,9568101,419364038,VTXX56,IN,Mumbai,Tractor,Tractor Tug,Class A,Nihon Kai Tug,80,37.2,12.3,5.5,5428,12.8,2008,FiFi 1,75,4,Operational
+240,INBOM,Pilot 10,INBOM-TRC-0240,9596488,419501957,VTTE0,IN,Mumbai,Tractor,Tractor Tug,Class C,Nippon Salvage,55,32.2,13.7,5.2,5201,13.8,2002,None,75,5,Operational
+241,INBOM,Resolute Pioneer,INBOM-ASD-0241,9199932,419776004,VTBH2,IN,Mumbai,ASD,Azimuth Stern Drive,Class B,Nihon Kai Tug,68,37.7,11.9,5.6,6824,12.9,2023,FiFi 1,75,5,Operational
+242,INBOM,Titan Spirit,INBOM-TRC-0242,9345368,419885255,VTBHH3,IN,Mumbai,Tractor,Tractor Tug,Class B,Korea Salvage,65,32.1,12.8,5.8,6311,12.7,1998,FiFi 1,30,8,Operational
+243,INBOM,Smit Lion,INBOM-OCN-0243,9121596,419600571,VTSTN6,IN,Mumbai,Ocean-going,Ocean-going Salvage Tug,Class A+,Keppel Smit Towage,134,58.7,16.8,7.7,8781,16.3,2017,FiFi 1,150,10,Operational
+244,INBOM,Aqua Champion,INBOM-ASD-0244,9089014,419328255,VTXVV77,IN,Mumbai,ASD,Azimuth Stern Drive,Class B,POSH Semco,73,35.8,13.8,5,3713,12.9,2012,FiFi 1 WS,75,8,Operational
+245,INBOM,Pilot Pride,INBOM-ASD-0245,9952584,419746306,VTUFD9,IN,Mumbai,ASD,Azimuth Stern Drive,Class B,COSCO Shipping,76,30.1,12.7,5.3,3602,13.3,1996,FiFi 1,75,6,Operational
+246,INBOM,Singapore III,INBOM-ASD-0246,9878156,576546142,YJWXB7,VU,Port Vila,ASD,Azimuth Stern Drive,Class C,PSA Marine,50,40.8,14.5,5.8,5967,13.4,2024,FiFi 2,120,7,Operational
+247,INBOM,Bear 5,INBOM-TRC-0247,9653410,308314151,C6UJD2,BS,Nassau,Tractor,Tractor Tug,Class C,Sembcorp Marine,54,34.7,13.7,5.2,5247,12.6,2020,FiFi 1,75,7,Operational
+248,INBOM,Falcon II,INBOM-VSP-0248,9674316,419800862,VTCNY4,IN,Mumbai,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Adani Marine,53,29.4,11.9,5.4,4436,12,2019,FiFi 2,50,6,Operational
+249,INBOM,Rapid Spirit,INBOM-ASD-0249,9404706,419474309,VTHTX6,IN,Mumbai,ASD,Azimuth Stern Drive,Class C,Westport Tug,58,37.6,11.2,5.9,4822,12.2,2007,FiFi 1 WS,75,7,Operational
+250,INBOM,Poseidon,INBOM-CON-0250,9790885,419774286,VTGTL31,IN,Mumbai,Conventional,Conventional Twin Screw,Class D,POSH Semco,31,33.9,10,5.4,4500,10.4,2012,None,50,3,Operational
+251,INBOM,Goliath Pioneer,INBOM-CON-0251,9738734,419162386,VTEQX52,IN,Mumbai,Conventional,Conventional Twin Screw,Class C,Hai Gong Tug,55,28.8,10.9,5.3,3960,11.4,2017,None,30,4,Operational
+252,INBOM,Marine 4,INBOM-ASD-0252,9885170,419190809,VTHWJ68,IN,Mumbai,ASD,Azimuth Stern Drive,Class A,PSA Marine,85,36.7,14,6.4,5634,13.4,2012,FiFi 1,150,8,Operational
+253,INBOM,Atlantic 4,INBOM-ESC-0253,9583299,419202395,VTDUF46,IN,Mumbai,Escort,Escort Tug,Class A+,Nippon Salvage,113,42.4,16.6,6.2,7853,14.2,2008,FiFi 1,150,5,Operational
+254,INBOM,Powerful Glory,INBOM-CON-0254,9876830,215400818,9HFH22,MT,Valletta,Conventional,Conventional Twin Screw,Class C,Pelabuhan Tug,58,25.2,10.6,5.3,3981,11.3,2013,None,30,5,Operational
+255,INBOM,Bear Pioneer,INBOM-ESC-0255,9256114,419382010,VTXZ7,IN,Mumbai,Escort,Escort Tug,Class A,Nihon Kai Tug,85,36.6,17,6.6,6082,14.5,2019,FiFi 1,150,6,Operational
+256,INBOM,Nimble Defender,INBOM-TRC-0256,9202110,419927676,VTZMF99,IN,Mumbai,Tractor,Tractor Tug,Class A,Smit Lamnalco,85,38.6,13.8,5.3,6475,13.8,2004,None,75,7,Operational
+257,INNSA,Rapid 4,INNSA-TRC-0257,9512268,419314635,VTDG31,IN,Jawaharlal,Tractor,Tractor Tug,Class B,Westport Tug,64,39.4,13.6,5.1,5581,12.2,2023,FiFi 2,50,6,Operational
+258,INNSA,Swift Pride,INNSA-ASD-0258,9565991,419809296,VTLQ8,IN,Jawaharlal,ASD,Azimuth Stern Drive,Class B,Sembcorp Marine,79,37.5,14.5,6.2,5726,12.7,1996,FiFi 1,75,6,Operational
+259,INNSA,Marine IV,INNSA-ASD-0259,9790588,215889338,9HRED94,MT,Valletta,ASD,Azimuth Stern Drive,Class C,Westport Tug,57,29.8,11,5.1,5576,12.5,1996,FiFi 1,120,8,Operational
+260,INNSA,Rotterdam,INNSA-CON-0260,9203413,419470450,VTVGU05,IN,Jawaharlal,Conventional,Conventional Twin Screw,Class D,Korea Salvage,43,25.3,12,4.8,2758,10.2,2004,None,30,4,Operational
+261,INNSA,Bear Champion,INNSA-CON-0261,9016538,419989445,VTECR06,IN,Jawaharlal,Conventional,Conventional Twin Screw,Class D,China Tug,31,25.6,10.5,5,2293,10.2,2015,None,50,3,Operational
+262,INNSA,Singapore Guardian,INNSA-TRC-0262,9446493,419791530,VTRDM2,IN,Jawaharlal,Tractor,Tractor Tug,Class C,Nihon Kai Tug,55,39.1,14.6,6.4,4898,13.6,2009,FiFi 1,30,8,Operational
+263,INNSA,Baltic 3,INNSA-ASD-0263,9639552,419630179,VTFEU14,IN,Jawaharlal,ASD,Azimuth Stern Drive,Class B,Sembcorp Marine,72,38.7,11.4,6.3,6791,12.3,2007,None,200,8,Operational
+264,INNSA,Santos Defender,INNSA-VSP-0264,9886076,636713203,ELWK3,LR,Monrovia,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,PSA Marine,48,31.1,13.9,4.3,4064,12.1,2006,FiFi 1,50,4,Operational
+265,INNSA,Condor II,INNSA-ASD-0265,9434155,419262273,VTCW17,IN,Jawaharlal,ASD,Azimuth Stern Drive,Class B,Adani Marine,63,40.6,12,6,5190,12.6,2012,FiFi 1,50,6,Operational
+266,INMAA,Condor,INMAA-ASD-0266,9807250,419931172,VTMW86,IN,Chennai,ASD,Azimuth Stern Drive,Class C,Nihon Kai Tug,51,39.6,14.6,5.3,4695,12.4,2000,FiFi 2,75,4,Operational
+267,INMAA,Steady Voyager,INMAA-TRC-0267,9344486,419711672,VTVL6,IN,Chennai,Tractor,Tractor Tug,Class B,Shanghai Salvage,76,38.8,12.2,5.5,4505,13.6,1996,FiFi 1,50,5,Operational
+268,INMAA,Lion 4,INMAA-ESC-0268,9131566,419684337,VTNA82,IN,Chennai,Escort,Escort Tug,Class A+,Pelabuhan Tug,102,42.9,15.7,6.1,5854,15.1,2024,None,100,4,Operational
+269,INMAA,Rapid Glory,INMAA-TRC-0269,9483333,419655330,VTANG58,IN,Chennai,Tractor,Tractor Tug,Class A,Keppel Smit Towage,84,34.9,13.5,5.9,5003,13.5,2013,FiFi 1 WS,50,5,Operational
+270,INMAA,Condor 2,INMAA-TRC-0270,9933020,419488616,VTCQD8,IN,Chennai,Tractor,Tractor Tug,Class C,Westport Tug,56,30.1,12.8,6.2,5629,12.3,2018,FiFi 1 WS,50,5,Operational
+271,INMAA,Rapid I,INMAA-ASD-0271,9136832,419866692,VTPJN24,IN,Chennai,ASD,Azimuth Stern Drive,Class B,PSA Marine,63,30.5,11.6,5,4211,13.9,2022,None,200,4,Operational
+272,INMAA,Mumbai 3,INMAA-OCN-0272,9945668,419546239,VTTWM29,IN,Chennai,Ocean-going,Ocean-going Salvage Tug,Class A+,China Tug,141,71.6,17.8,7.6,8649,16,2024,None,120,17,Operational
+273,INMAA,Steady 5,INMAA-VSP-0273,9015396,419886716,VTBBF0,IN,Chennai,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Pelabuhan Tug,40,36.8,13.1,4.9,4762,11.9,2001,FiFi 1,50,5,Operational
+274,AEJEA,Mighty Pioneer,AEJEA-ASD-0274,9321640,470507925,A6NUD5,AE,Jebel,ASD,Azimuth Stern Drive,Class C,Topaz Marine,50,32.1,14.5,5.2,4600,13.4,2001,FiFi 1,120,4,Operational
+275,AEJEA,Hawk Star,AEJEA-ESC-0275,9814459,470919357,A6WC5,AE,Jebel,Escort,Escort Tug,Class B,Al Masaood Tug,78,39.1,15.3,6.4,6062,14,2000,FiFi 2,50,5,Operational
+276,AEJEA,Valiant Defender,AEJEA-ASD-0276,9921139,470544425,A6WA0,AE,Jebel,ASD,Azimuth Stern Drive,Class B,Smit Lamnalco,65,40.2,13.6,5.3,4310,13,2004,FiFi 1,120,4,Operational
+277,AEJEA,Baltic Guardian,AEJEA-VSP-0277,9278502,470373811,A6NEM2,AE,Jebel,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Zamil Offshore,47,30.9,13.6,4,5099,11.4,2022,FiFi 1,30,3,Operational
+278,AEJEA,Chief Glory,AEJEA-ASD-0278,9035632,470374208,A6ZT3,AE,Jebel,ASD,Azimuth Stern Drive,Class C,Stanford Marine,51,29.1,11.4,6.2,4403,13.6,2009,FiFi 1,150,4,Operational
+279,AEJEA,Santos Warrior,AEJEA-TRC-0279,9656894,470250972,A6MT3,AE,Jebel,Tractor,Tractor Tug,Class A,Oman Drydock Tug,80,34.1,13.1,6.5,4334,12.2,2006,FiFi 1 WS,30,7,Operational
+280,AEJEA,Hamburg,AEJEA-ASD-0280,9387453,470149981,A6XDJ4,AE,Jebel,ASD,Azimuth Stern Drive,Class C,Gulf Tug,51,37,14.2,5.1,5735,12.7,2022,FiFi 1,200,7,Operational
+281,AEJEA,Aqua 2,AEJEA-VSP-0281,9846884,470990021,A6DWG61,AE,Jebel,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Bourbon Gulf,69,33.2,10.5,4.2,4958,12.3,2001,FiFi 1 WS,30,3,Operational
+282,AEJEA,Resolute 9,AEJEA-VSP-0282,9003444,308602498,C6JVH10,BS,Nassau,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Bourbon Gulf,41,33.7,11.7,4.7,4406,11.5,2006,FiFi 1 WS,75,4,Operational
+283,AEJEA,Force Glory,AEJEA-ESC-0283,9296475,470587534,A6NZ82,AE,Jebel,Escort,Escort Tug,Class A,Gulf Tug,94,44.3,15.6,6.3,6613,15.4,2002,FiFi 1,200,7,Operational
+284,AEJEA,Steady,AEJEA-OCN-0284,9583710,470262118,A6XU5,AE,Jebel,Ocean-going,Ocean-going Salvage Tug,Class A+,Oman Drydock Tug,189,71.7,19.9,7.4,16850,16.7,2018,FiFi 1,120,17,Operational
+285,AEJEA,Dolphin Pride,AEJEA-ASD-0285,9632946,209149840,5BXG85,CY,Limassol,ASD,Azimuth Stern Drive,Class A,Oman Drydock Tug,89,30.6,11.7,4.7,6598,13.8,2014,None,75,4,Operational
+286,AEJEA,Houston 1,AEJEA-ASD-0286,9976614,209470810,5BBG9,CY,Limassol,ASD,Azimuth Stern Drive,Class A,Gulf Tug,83,37.8,11.4,5.6,3517,13.6,2006,FiFi 1,75,5,Operational
+287,AEJEA,Swift 2,AEJEA-TRC-0287,9204580,470960599,A6NU27,AE,Jebel,Tractor,Tractor Tug,Class B,Stanford Marine,78,30.2,12.8,5.1,5793,12.3,2021,FiFi 2,50,4,Operational
+288,AEJEA,Resolute Pride,AEJEA-ASD-0288,9777697,470101413,A6MXE93,AE,Jebel,ASD,Azimuth Stern Drive,Class B,Zamil Offshore,61,40.2,14.3,5.3,6214,13,2024,FiFi 1,120,5,Operational
+289,AEJEA,Force Defender,AEJEA-VSP-0289,9074245,470757086,A6PA8,AE,Jebel,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Arabian Tug,47,28.8,11.9,4.6,3011,11.6,2001,FiFi 2,75,5,Operational
+290,AEJEA,Dubai Spirit,AEJEA-ASD-0290,9264837,470736476,A6FVL6,AE,Jebel,ASD,Azimuth Stern Drive,Class A,Al Mansoori,88,30.1,11.4,4.6,5659,13.9,2023,FiFi 2,100,5,Standby
+291,AEJEA,Rotterdam Guardian,AEJEA-ASD-0291,9892727,470725741,A6PR6,AE,Jebel,ASD,Azimuth Stern Drive,Class B,Oman Drydock Tug,67,40.9,13,5.2,6817,12.8,2021,None,150,6,Operational
+292,AEJEA,Captain Champion,AEJEA-ASD-0292,9375440,470268924,A6LXD9,AE,Jebel,ASD,Azimuth Stern Drive,Class B,Topaz Marine,75,40.4,12.4,6,6572,12.9,2004,FiFi 2,75,8,Operational
+293,AEJEA,Agile Champion,AEJEA-VSP-0293,9167057,470174210,A6BR3,AE,Jebel,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Oman Drydock Tug,69,35.7,11.2,5.3,3077,11.3,1995,FiFi 1,30,3,Operational
+294,AEJEA,Resolute 8,AEJEA-VSP-0294,9186527,470425389,A6CAR92,AE,Jebel,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Al Masaood Tug,40,28.8,10.7,4.3,4845,12.7,2010,FiFi 1,75,3,Operational
+295,AEJEA,Poseidon I,AEJEA-TRC-0295,9107485,308727161,C6KZ79,BS,Nassau,Tractor,Tractor Tug,Class A,Al Masaood Tug,85,39,12.1,5.9,4379,13.3,2016,FiFi 1,30,4,Operational
+296,AEJEA,Houston Star,AEJEA-ASD-0296,9763527,470926170,A6ZF4,AE,Jebel,ASD,Azimuth Stern Drive,Class A,Topaz Marine,84,30.8,12.8,4.8,4157,12.4,2021,None,50,8,Operational
+297,AEJEA,Reliable I,AEJEA-TRC-0297,9707764,308229856,C6HG2,BS,Nassau,Tractor,Tractor Tug,Class B,Al Mansoori,77,32.8,13.3,5.6,6413,12.8,2017,FiFi 1,30,4,Operational
+298,AEJEA,Tiger Pioneer,AEJEA-CON-0298,9302600,209886932,5BSNV16,CY,Limassol,Conventional,Conventional Twin Screw,Class D,Arabian Tug,41,27.6,11.9,4.4,3403,11.1,2013,None,30,3,Operational
+299,AEFJR,Mumbai V,AEFJR-TRC-0299,9192058,470368756,A6PJ95,AE,Fujairah,Tractor,Tractor Tug,Class C,RAK Ports Tug,56,38.6,14.6,5,6162,12.4,2005,FiFi 1,30,5,Standby
+300,AEFJR,Hercules 7,AEFJR-CON-0300,9824335,470678447,A6PL51,AE,Fujairah,Conventional,Conventional Twin Screw,Class C,Zamil Offshore,56,29.7,10.4,5.2,3741,11.7,2018,None,30,4,Operational
+301,AEFJR,Strong 9,AEFJR-TRC-0301,9826030,470371801,A6BB93,AE,Fujairah,Tractor,Tractor Tug,Class B,Topaz Marine,71,30.3,14,5.4,4435,12.5,1997,FiFi 1,75,8,Operational
+302,AEFJR,Pilot Warrior,AEFJR-ASD-0302,9076053,470276115,A6XCG1,AE,Fujairah,ASD,Azimuth Stern Drive,Class A,Al Mansoori,85,30.9,12.9,5.1,4073,13.9,2019,FiFi 1 WS,100,6,Operational
+303,AEFJR,Force Champion,AEFJR-ASD-0303,9296119,470578465,A6RTQ55,AE,Fujairah,ASD,Azimuth Stern Drive,Class B,Smit Lamnalco,66,31.6,11.2,6.3,4086,13.9,2006,FiFi 1,150,7,Operational
+304,AEFJR,Poseidon 6,AEFJR-ASD-0304,9553545,470632399,A6MH86,AE,Fujairah,ASD,Azimuth Stern Drive,Class B,Dubai Marine,64,38.8,13.9,6.4,5570,13.3,2020,FiFi 1,200,4,Operational
+305,AEFJR,Mumbai 10,AEFJR-ASD-0305,9378181,470435186,A6MP9,AE,Fujairah,ASD,Azimuth Stern Drive,Class B,Al Masaood Tug,61,34.8,13.6,5,5864,13.4,2022,FiFi 1 WS,120,8,Operational
+306,AEFJR,Rotterdam II,AEFJR-ASD-0306,9164500,470651038,A6DW7,AE,Fujairah,ASD,Azimuth Stern Drive,Class C,Topaz Marine,51,37,11.6,5.9,6690,12.9,2007,FiFi 1 WS,200,8,Operational
+307,SAJED,Atlas Star,SAJED-CON-0307,9075744,403216816,HZXL2,SA,Jeddah,Conventional,Conventional Twin Screw,Class D,Gulf Tug,44,29.3,10.7,5.5,2758,11,2020,None,75,5,Operational
+308,SAJED,Admiral 9,SAJED-CON-0308,9544688,209532563,5BADQ0,CY,Limassol,Conventional,Conventional Twin Screw,Class D,Zamil Offshore,34,35,11.8,4.7,2054,10.4,1997,None,30,4,Operational
+309,SAJED,Commodore Champion,SAJED-CON-0309,9207667,403179840,HZNCD0,SA,Jeddah,Conventional,Conventional Twin Screw,Class C,Zamil Offshore,45,34.7,11.5,4.5,4066,11,1999,None,75,3,Operational
+310,SAJED,Shark 1,SAJED-CON-0310,9128001,403660519,HZWRN6,SA,Jeddah,Conventional,Conventional Twin Screw,Class C,Dubai Marine,48,25.4,11.2,5.2,2424,11.3,2009,None,75,6,Operational
+311,SAJED,Smit Puma,SAJED-ESC-0311,9749960,403582226,HZKT65,SA,Jeddah,Escort,Escort Tug,Class B,Smit Lamnalco,76,42.5,17.2,6.5,8332,14.5,1996,FiFi 1,150,4,Operational
+312,SAJED,Quick 1,SAJED-ASD-0312,9429336,403654461,HZWY3,SA,Jeddah,ASD,Azimuth Stern Drive,Class B,Bourbon Gulf,67,30.4,11,5.1,6965,12.9,1995,FiFi 2,200,8,Operational
+313,SAJED,Powerful 8,SAJED-ESC-0313,9776596,403617684,HZTZS13,SA,Jeddah,Escort,Escort Tug,Class A+,Al Masaood Tug,104,41.7,14.8,5.7,5911,14.9,2008,FiFi 1,150,5,Operational
+314,SAJED,Falcon Glory,SAJED-VSP-0314,9457063,403802817,HZKGA61,SA,Jeddah,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Gulf Tug,64,30.2,13.7,4.1,4474,12.1,2004,FiFi 1,30,3,Operational
+315,SAJED,Commodore I,SAJED-ASD-0315,9156703,403477779,HZZRZ63,SA,Jeddah,ASD,Azimuth Stern Drive,Class B,Al Mansoori,65,32.4,14.1,6,6571,12.1,2014,FiFi 1 WS,100,7,Operational
+316,SAJED,Reliable Glory,SAJED-ESC-0316,9074876,403970074,HZYCE3,SA,Jeddah,Escort,Escort Tug,Class A+,Al Masaood Tug,120,42.9,14.1,6,7801,15.8,2014,FiFi 1,120,6,Operational
+317,SAJED,Pacific Champion,SAJED-TRC-0317,9282559,403440405,HZYQK1,SA,Jeddah,Tractor,Tractor Tug,Class B,Bourbon Gulf,68,36.8,13.8,5.6,5663,12.3,2020,FiFi 1,75,4,Operational
+318,SAJED,Victoria Champion,SAJED-ASD-0318,9525496,403774770,HZFYE87,SA,Jeddah,ASD,Azimuth Stern Drive,Class B,Smit Lamnalco,79,31,14.6,4.6,3580,12.6,2016,FiFi 2,100,6,Operational
+319,SAJED,Pilot 2,SAJED-OCN-0319,9296790,403762621,HZDBG10,SA,Jeddah,Ocean-going,Ocean-going Salvage Tug,Class A+,Stanford Marine,111,61.4,19,6.4,17231,15,2003,FiFi 1,100,10,Operational
+320,SADMM,Reliable Pioneer,SADMM-CON-0320,9555512,403162272,HZXJ5,SA,King,Conventional,Conventional Twin Screw,Class D,Al Masaood Tug,42,28.2,11.3,5.3,3174,11,2023,None,50,6,Operational
+321,SADMM,Chief V,SADMM-ASD-0321,9938255,403979722,HZYCV91,SA,King,ASD,Azimuth Stern Drive,Class A,RAK Ports Tug,80,35.2,11.4,4.7,4206,12.8,2024,FiFi 1,75,6,Operational
+322,SADMM,Force 2,SADMM-TRC-0322,9629990,403649627,HZPFC0,SA,King,Tractor,Tractor Tug,Class C,Zamil Offshore,52,32.5,13.7,6.2,4077,14,2002,FiFi 1,50,4,Operational
+323,SADMM,Steady II,SADMM-ASD-0323,9850792,403483045,HZULT08,SA,King,ASD,Azimuth Stern Drive,Class B,Smit Lamnalco,62,36.1,12.7,4.7,3641,13.8,2023,None,50,4,Maintenance
+324,SADMM,Strong Pride,SADMM-ESC-0324,9672529,403502746,HZNUV5,SA,King,Escort,Escort Tug,Class A,Zamil Offshore,80,42,14.5,5.7,7649,14.2,2021,FiFi 1,100,8,Operational
+325,SADMM,Reliable 8,SADMM-TRC-0325,9266797,403399669,HZAE50,SA,King,Tractor,Tractor Tug,Class B,Topaz Marine,79,39.5,12.5,5.3,6376,12.7,2007,FiFi 1,75,7,Operational
+326,SADMM,Mighty Defender,SADMM-ASD-0326,9874257,403810786,HZCN24,SA,King,ASD,Azimuth Stern Drive,Class B,Arabian Tug,65,28.9,13.7,6.1,3907,12.1,2014,FiFi 1,150,5,Operational
+327,SADMM,Hamburg 1,SADMM-ESC-0327,9253707,538836895,V7TJF6,MH,Majuro,Escort,Escort Tug,Class A+,Stanford Marine,116,37.9,18,5.8,6498,14,1996,None,75,6,Operational
+328,SADMM,Admiral Champion,SADMM-ESC-0328,9064226,403268003,HZPUP2,SA,King,Escort,Escort Tug,Class A,RAK Ports Tug,80,44.9,16,5.8,5840,15.4,2004,FiFi 1,50,4,Operational
+329,SADMM,Rapid Voyager,SADMM-ESC-0329,9956413,403209866,HZDMM11,SA,King,Escort,Escort Tug,Class A+,Smit Lamnalco,113,39,17.4,6.4,7553,15.1,2021,None,75,8,Operational
+330,SADMM,Steady Guardian,SADMM-CON-0330,9518654,403616127,HZYPP24,SA,King,Conventional,Conventional Twin Screw,Class C,Arabian Tug,55,34.7,9.1,4.9,2001,10.3,1998,None,75,5,Maintenance
+331,SADMM,Valiant Voyager,SADMM-VSP-0331,9053952,403951938,HZNFV91,SA,King,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Zamil Offshore,53,33.4,11,5.4,3032,12.9,2007,FiFi 1,30,4,Operational
+332,SADMM,Agile 10,SADMM-HBR-0332,9573659,403745733,HZRTV8,SA,King,Harbor,Harbor Assist Tug,Class E,Bourbon Gulf,23,28.4,8.3,3.6,2001,11.2,2013,None,75,4,Operational
+333,SADMM,Rotterdam Voyager,SADMM-TRC-0333,9907219,403779718,HZMFX85,SA,King,Tractor,Tractor Tug,Class B,Topaz Marine,64,30.1,13.4,5.7,5183,12.1,2005,FiFi 1 WS,50,8,Maintenance
+334,SADMM,Mumbai 8,SADMM-VSP-0334,9994617,403240742,HZQE9,SA,King,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Gulf Tug,58,29.5,13.4,4.8,3283,12.6,2016,FiFi 1 WS,50,4,Operational
+335,SADMM,Poseidon Defender,SADMM-CON-0335,9776013,403875859,HZYVS7,SA,King,Conventional,Conventional Twin Screw,Class C,Al Masaood Tug,58,28.2,9.9,4.1,2113,11.5,2020,None,30,4,Operational
+336,OMSLL,Baltic Pride,OMSLL-VSP-0336,9142163,461159528,A4LXC1,OM,Salalah,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Stanford Marine,47,29.7,10.1,4.4,5123,11.4,2001,FiFi 1,50,4,Operational
+337,OMSLL,Titan V,OMSLL-CON-0337,9098354,461283686,A4LKF68,OM,Salalah,Conventional,Conventional Twin Screw,Class D,Zamil Offshore,41,31.9,10.6,5.1,2788,11.2,2022,None,30,5,Operational
+338,OMSLL,Condor Star,OMSLL-ASD-0338,9091458,461104775,A4AD26,OM,Salalah,ASD,Azimuth Stern Drive,Class B,Bourbon Gulf,62,30.8,11.8,5.5,6531,13.6,2018,None,200,8,Operational
+339,OMSLL,Master V,OMSLL-ASD-0339,9114479,461945590,A4PU5,OM,Salalah,ASD,Azimuth Stern Drive,Class B,RAK Ports Tug,68,40,13.3,5.1,6049,12.6,2023,FiFi 1 WS,120,5,Maintenance
+340,OMSLL,Atlantic II,OMSLL-CON-0340,9085883,461426114,A4AG3,OM,Salalah,Conventional,Conventional Twin Screw,Class C,Arabian Tug,53,27,11,4.8,4229,10.2,2023,None,50,6,Operational
+341,OMSLL,Tiger Warrior,OMSLL-ASD-0341,9100733,461414665,A4EH67,OM,Salalah,ASD,Azimuth Stern Drive,Class B,Zamil Offshore,66,30.4,14.7,5.7,5206,12.2,2000,FiFi 1,100,8,Operational
+342,OMSLL,Mumbai,OMSLL-OCN-0342,9452353,209442115,5BULX5,CY,Limassol,Ocean-going,Ocean-going Salvage Tug,Class A+,Zamil Offshore,179,62.4,19.1,7.1,14958,16.4,2001,FiFi 2,150,11,Operational
+343,OMSLL,Dubai,OMSLL-VSP-0343,9799233,461353420,A4USJ63,OM,Salalah,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Arabian Tug,43,29.7,11,5.1,4107,12,2002,FiFi 1 WS,30,3,Operational
+344,OMSLL,Hamburg Warrior,OMSLL-TRC-0344,9550814,461444592,A4QYL18,OM,Salalah,Tractor,Tractor Tug,Class B,Bourbon Gulf,78,34.8,14.7,6.5,5271,13.7,2003,FiFi 1 WS,50,8,Operational
+345,OMSLL,Triton 6,OMSLL-TRC-0345,9991190,351101804,HPEZ2,PA,Panama City,Tractor,Tractor Tug,Class B,Oman Drydock Tug,74,34,12.1,6.4,6048,13,2009,FiFi 1,75,4,Operational
+346,OMSLL,Captain Pride,OMSLL-VSP-0346,9786997,636156604,ELTMA43,LR,Monrovia,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Zamil Offshore,44,35.9,12.6,5.1,5288,12.7,2020,FiFi 1,75,5,Operational
+347,NLRTM,Chief 10,NLRTM-VSP-0347,9661138,244395549,PPYP73,NL,Rotterdam,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Targe Towing,52,35.2,13.5,4.2,4911,11.2,2015,FiFi 1,50,5,Operational
+348,NLRTM,Valiant 7,NLRTM-VSP-0348,9069232,215491097,9HJFV7,MT,Valletta,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Forth Ports Tug,64,30.9,13.4,4.9,4890,11.5,2011,None,75,5,Operational
+349,NLRTM,Chief 9,NLRTM-ESC-0349,9507478,244171181,PTZM6,NL,Rotterdam,Escort,Escort Tug,Class A,Smit Towage,97,44.5,17.8,6,7016,13.6,2023,FiFi 1 WS,50,6,Standby
+350,NLRTM,Mighty,NLRTM-CON-0350,9077231,244269902,PGM4,NL,Rotterdam,Conventional,Conventional Twin Screw,Class C,Briggs Marine,59,30.9,9.6,4.9,2488,11.7,2019,None,30,3,Operational
+351,NLRTM,Pilot III,NLRTM-ASD-0351,9215182,244990974,PVDB24,NL,Rotterdam,ASD,Azimuth Stern Drive,Class B,Briggs Marine,60,35.2,12.9,4.8,3760,14,2010,FiFi 2,200,5,Operational
+352,NLRTM,Valiant II,NLRTM-CON-0352,9122466,244962227,PPQP97,NL,Rotterdam,Conventional,Conventional Twin Screw,Class D,Buksér og Berging,41,25.8,11.4,4.8,4485,11.8,2008,None,30,6,Operational
+353,NLRTM,Valiant Guardian,NLRTM-CON-0353,9090801,244289678,PEND4,NL,Rotterdam,Conventional,Conventional Twin Screw,Class D,Rimorchiatori Riuniti,40,33.7,10.9,4.3,2292,10.7,2022,None,50,4,Operational
+354,NLRTM,Smit Leopard,NLRTM-ASD-0354,9426743,244715592,PAS16,NL,Rotterdam,ASD,Azimuth Stern Drive,Class C,Smit Towage,59,40.5,12.4,5.5,3984,13.2,2004,FiFi 1,75,5,Standby
+355,NLRTM,Sea Star,NLRTM-OCN-0355,9296353,244764889,PJM2,NL,Rotterdam,Ocean-going,Ocean-going Salvage Tug,Class A+,Med Tug,169,61.2,16.7,6.1,12407,17.1,2001,FiFi 1,50,15,Operational
+356,NLRTM,Agile III,NLRTM-VSP-0356,9806042,244924834,PMV9,NL,Rotterdam,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Ostensjo Rederi,59,30.6,12.7,5.4,3584,11.8,2005,FiFi 1 WS,75,3,Operational
+357,NLRTM,Strong 4,NLRTM-ASD-0357,9104889,244604050,PYN93,NL,Rotterdam,ASD,Azimuth Stern Drive,Class C,Briggs Marine,58,32.5,14.3,6.3,6935,13.1,2021,FiFi 1 WS,75,4,Operational
+358,NLRTM,Victoria 1,NLRTM-ASD-0358,9664741,244752180,PLV61,NL,Rotterdam,ASD,Azimuth Stern Drive,Class A,Wagenborg Towage,85,29.3,12.3,6.2,6192,13.8,2019,FiFi 1,200,8,Operational
+359,NLRTM,Neptune V,NLRTM-ASD-0359,9248402,308568427,C6KR03,BS,Nassau,ASD,Azimuth Stern Drive,Class A,Ostensjo Rederi,81,32.8,13.9,5.1,6234,13.3,2015,FiFi 1,120,7,Operational
+360,NLRTM,Steady Pride,NLRTM-CON-0360,9423033,244568557,PWHU99,NL,Rotterdam,Conventional,Conventional Twin Screw,Class D,Thomas Maltby,30,26.7,10,4.4,3236,10.4,1997,None,75,3,Operational
+361,NLRTM,Resolute Guardian,NLRTM-ASD-0361,9378980,244773515,PNE5,NL,Rotterdam,ASD,Azimuth Stern Drive,Class B,Rimorchiatori Riuniti,76,40.3,11.1,5.8,6720,12,2008,FiFi 1,120,4,Operational
+362,NLRTM,Santos III,NLRTM-VSP-0362,9060207,244608713,PBW3,NL,Rotterdam,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Briggs Marine,60,35,13.3,4,3537,11.3,2021,None,30,6,Standby
+363,NLRTM,Baltic 2,NLRTM-TRC-0363,9368805,244694030,PSZ4,NL,Rotterdam,Tractor,Tractor Tug,Class B,Ostensjo Rederi,78,37.1,13.5,6.3,5828,12.7,2005,FiFi 1,75,4,Operational
+364,NLRTM,Tiger III,NLRTM-CON-0364,9860211,244231919,PVUG59,NL,Rotterdam,Conventional,Conventional Twin Screw,Class C,Thomas Maltby,59,26.3,9.7,4.4,3486,11.6,2019,None,30,3,Operational
+365,NLRTM,Resolute 5,NLRTM-TRC-0365,9797448,244908282,PAK35,NL,Rotterdam,Tractor,Tractor Tug,Class A,Forth Ports Tug,85,32.8,14.1,5.8,5422,12.8,2007,FiFi 1,50,8,Operational
+366,NLRTM,Marine 8,NLRTM-TRC-0366,9237833,244116892,PJS12,NL,Rotterdam,Tractor,Tractor Tug,Class C,Buksér og Berging,55,34.1,14,6.1,5347,12.9,2009,FiFi 1,30,8,Operational
+367,NLRTM,Dubai 1,NLRTM-CON-0367,9601393,244586361,PLVD3,NL,Rotterdam,Conventional,Conventional Twin Screw,Class D,Med Tug,37,33.9,10.5,5.4,2297,11.3,2017,None,50,4,Operational
+368,NLRTM,Marine Spirit,NLRTM-ASD-0368,9598954,538385457,V7SCG62,MH,Majuro,ASD,Azimuth Stern Drive,Class A,Rimorchiatori Riuniti,90,37.7,13.3,6,5109,13.8,2000,FiFi 1 WS,150,6,Operational
+369,NLRTM,Pilot V,NLRTM-CON-0369,9079976,244622210,PUT31,NL,Rotterdam,Conventional,Conventional Twin Screw,Class D,Smit Towage,32,28.2,9.3,5.3,3238,10.4,2010,None,75,6,Operational
+370,NLRTM,Singapore 7,NLRTM-ASD-0370,9959239,244195624,PVXD9,NL,Rotterdam,ASD,Azimuth Stern Drive,Class B,Rimorchiatori Riuniti,60,30,11.9,5.2,3775,13.5,2024,FiFi 2,120,7,Operational
+371,NLRTM,Power 5,NLRTM-CON-0371,9617820,244206630,PSQ0,NL,Rotterdam,Conventional,Conventional Twin Screw,Class D,Thomas Maltby,38,31.4,12,4.5,3339,10.6,1996,None,30,6,Operational
+372,NLRTM,Condor I,NLRTM-ESC-0372,9505656,576915216,YJWL12,VU,Port Vila,Escort,Escort Tug,Class A+,Buksér og Berging,104,41.4,17,6.5,8589,13.6,2017,FiFi 2,150,8,Operational
+373,NLRTM,Goliath Spirit,NLRTM-TRC-0373,9552935,244278366,PLV91,NL,Rotterdam,Tractor,Tractor Tug,Class B,Fairplay Towage,64,31.9,13,5.1,4043,14,2003,FiFi 2,30,4,Operational
+374,NLRTM,Force II,NLRTM-VSP-0374,9159297,308375908,C6SVV13,BS,Nassau,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Wagenborg Towage,66,36.8,11.8,4.3,3987,12.8,2007,FiFi 1 WS,30,5,Operational
+375,NLRTM,Neptune IV,NLRTM-ESC-0375,9780375,209662947,5BZGH3,CY,Limassol,Escort,Escort Tug,Class A+,Briggs Marine,108,41.9,15.9,6.1,6909,14,2008,FiFi 1 WS,120,4,Standby
+376,NLRTM,Admiral Guardian,NLRTM-OCN-0376,9319742,244725886,PXN09,NL,Rotterdam,Ocean-going,Ocean-going Salvage Tug,Class A+,Rimorchiatori Riuniti,177,56.9,19.6,7.7,17653,14,2003,FiFi 1,75,15,Operational
+377,NLRTM,Shark 5,NLRTM-ESC-0377,9859410,244274669,PVX6,NL,Rotterdam,Escort,Escort Tug,Class A+,Briggs Marine,116,40.3,17.1,6.9,8631,13.4,2010,FiFi 2,120,8,Operational
+378,NLRTM,Commodore Voyager,NLRTM-OCN-0378,9275750,244723122,PBJS3,NL,Rotterdam,Ocean-going,Ocean-going Salvage Tug,Class A+,Multraship,107,70.5,18.8,7.9,14955,17.3,2004,FiFi 2,120,13,Operational
+379,NLRTM,Admiral Pride,NLRTM-CON-0379,9450104,244254283,PVFC82,NL,Rotterdam,Conventional,Conventional Twin Screw,Class D,Svitzer,34,27.2,9.8,4.6,4351,11,2012,None,75,3,Operational
+380,NLRTM,Resolute IV,NLRTM-CON-0380,9652078,244255091,PYUR9,NL,Rotterdam,Conventional,Conventional Twin Screw,Class D,Smit Towage,30,33.1,9.6,5.3,2826,11.1,2000,None,75,3,Operational
+381,NLRTM,Dubai 8,NLRTM-HBR-0381,9112583,215106464,9HEJ1,MT,Valletta,Harbor,Harbor Assist Tug,Class E,Med Tug,22,23.7,9,3.8,1675,11.4,2021,None,75,3,Operational
+382,NLRTM,Condor 9,NLRTM-ASD-0382,9374453,576598696,YJXB77,VU,Port Vila,ASD,Azimuth Stern Drive,Class A,Multraship,89,39.5,14,5.8,6031,12.2,2006,FiFi 1 WS,120,8,Operational
+383,NLRTM,Atlantic Pride,NLRTM-TRC-0383,9797476,244755836,PQJ72,NL,Rotterdam,Tractor,Tractor Tug,Class C,Boluda Towage,51,39.9,13.5,5.9,6425,12.1,1997,FiFi 1,30,5,Maintenance
+384,NLRTM,Victoria 3,NLRTM-ASD-0384,9842292,244328890,PAZU45,NL,Rotterdam,ASD,Azimuth Stern Drive,Class C,Briggs Marine,57,34.8,13.6,5.6,6590,13.1,2010,FiFi 1 WS,120,7,Operational
+385,NLRTM,Nimble Voyager,NLRTM-CON-0385,9692017,244427311,PFTB9,NL,Rotterdam,Conventional,Conventional Twin Screw,Class C,Wagenborg Towage,57,33.5,11.3,4.6,2134,10.9,2000,None,50,6,Operational
+386,NLRTM,Sea 1,NLRTM-CON-0386,9839742,244214905,PCB92,NL,Rotterdam,Conventional,Conventional Twin Screw,Class C,Wagenborg Towage,48,33,10.9,4.4,3525,10.3,2017,None,30,3,Operational
+387,NLRTM,Svitzer Ferriby,NLRTM-ASD-0387,9386041,244101854,PEC66,NL,Rotterdam,ASD,Azimuth Stern Drive,Class A,Svitzer,82,38.8,13.1,4.9,5572,12.4,2003,FiFi 1,100,8,Operational
+388,NLRTM,Victoria,NLRTM-CON-0388,9754329,538732664,V7PFM3,MH,Majuro,Conventional,Conventional Twin Screw,Class D,SMS Towage,34,33.9,10.8,5.2,4019,10.8,2024,None,75,6,Maintenance
+389,NLRTM,Rapid V,NLRTM-ASD-0389,9455045,209602852,5BWJB3,CY,Limassol,ASD,Azimuth Stern Drive,Class B,Briggs Marine,74,37.3,14.4,5,5059,13.7,2012,FiFi 1 WS,120,5,Operational
+390,NLRTM,Goliath 2,NLRTM-ASD-0390,9544906,244622881,PDEY0,NL,Rotterdam,ASD,Azimuth Stern Drive,Class B,Ostensjo Rederi,63,32.5,12.1,4.5,6527,12.6,2007,FiFi 2,150,8,Operational
+391,NLRTM,Force III,NLRTM-ESC-0391,9442704,244782696,PWEG8,NL,Rotterdam,Escort,Escort Tug,Class B,Forth Ports Tug,75,41.3,14.4,6,8994,13.5,2015,FiFi 1,100,4,Operational
+392,BEANR,Hawk 1,BEANR-ASD-0392,9917648,205341166,OGB3,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class B,Wagenborg Towage,74,40,13.4,5.1,5740,12.9,2005,FiFi 1,100,5,Operational
+393,BEANR,Rapid Pride,BEANR-VSP-0393,9813505,205585306,OWAB01,BE,Antwerp-Bruges,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Wagenborg Towage,65,34.5,12.8,5.4,4053,12.6,2003,FiFi 1 WS,50,5,Operational
+394,BEANR,Dolphin 9,BEANR-ASD-0394,9284302,205581512,OABN4,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class B,Iskes Towage,73,28.5,14.6,4.6,5558,13.5,2017,FiFi 1,75,8,Operational
+395,BEANR,Rotterdam IV,BEANR-VSP-0395,9281428,205382391,OQV06,BE,Antwerp-Bruges,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Multraship,58,32.6,12.2,5.1,4050,12.4,2020,FiFi 1 WS,75,6,Operational
+396,BEANR,Bear I,BEANR-VSP-0396,9250761,205302716,OKN84,BE,Antwerp-Bruges,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Targe Towing,50,31.1,11.8,5.3,4403,11.8,2023,FiFi 1,75,4,Standby
+397,BEANR,Houston II,BEANR-ASD-0397,9671531,205582650,OUH12,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class B,Kotug,71,39.7,11.8,5.8,5900,13.1,2000,FiFi 1,100,7,Operational
+398,BEANR,Strong,BEANR-CON-0398,9570354,205765492,OPQ57,BE,Antwerp-Bruges,Conventional,Conventional Twin Screw,Class C,Targe Towing,55,34,9.1,5.4,3544,10.5,2023,None,75,6,Standby
+399,BEANR,Svitzer Stanlow,BEANR-ASD-0399,9937594,205566470,OAH8,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class A,Svitzer,86,31.8,13.6,5.1,6110,13.1,2014,None,200,7,Operational
+400,BEANR,Condor 6,BEANR-ASD-0400,9328778,205267253,OFN64,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class B,Rimorchiatori Riuniti,70,39.7,13.9,5.1,5803,12.4,2010,FiFi 2,120,8,Operational
+401,BEANR,Power 4,BEANR-HBR-0401,9390574,205203571,ODTV6,BE,Antwerp-Bruges,Harbor,Harbor Assist Tug,Class D,Forth Ports Tug,39,28.2,8.7,3.7,2464,11.4,2021,None,30,4,Operational
+402,BEANR,Swift 5,BEANR-ASD-0402,9826466,205577493,OQW85,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class B,Rimorchiatori Riuniti,61,39.2,11.8,5.3,5431,13.3,1998,FiFi 1,50,8,Operational
+403,BEANR,Goliath Star,BEANR-ASD-0403,9486171,205596524,OVET12,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class B,Buksér og Berging,74,29.1,11.1,5.6,4128,13,1999,FiFi 1 WS,50,6,Operational
+404,BEANR,Baltic IV,BEANR-VSP-0404,9255443,205841952,OXBM4,BE,Antwerp-Bruges,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Rimorchiatori Riuniti,40,37.8,10.6,5.5,4217,12.3,2008,FiFi 1,30,5,Operational
+405,BEANR,Poseidon Warrior,BEANR-ASD-0405,9334859,205709268,OFGR7,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class B,Buksér og Berging,79,32.7,14.3,5.4,6843,13.4,2022,FiFi 1,50,6,Operational
+406,BEANR,Svitzer Bootle,BEANR-TRC-0406,9976201,205453794,OHGL34,BE,Antwerp-Bruges,Tractor,Tractor Tug,Class C,Svitzer,51,39.7,14.1,6.2,4241,12.2,2006,None,30,7,Operational
+407,BEANR,Master IV,BEANR-TRC-0407,9734480,205337602,ORZT3,BE,Antwerp-Bruges,Tractor,Tractor Tug,Class B,Multraship,62,37.3,14.6,5.3,6369,12.3,1999,None,30,4,Standby
+408,BEANR,Steady Warrior,BEANR-VSP-0408,9760085,205536976,OTZ3,BE,Antwerp-Bruges,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Thomas Maltby,56,30,13.5,4.6,3417,11.1,2011,FiFi 1 WS,30,6,Operational
+409,BEANR,Hawk Champion,BEANR-ASD-0409,9531593,205583868,OGMB96,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class B,Rimorchiatori Riuniti,66,37.8,11.9,6.5,4211,12.5,2003,FiFi 1 WS,75,4,Operational
+410,BEANR,Baltic 8,BEANR-TRC-0410,9142343,205502945,OQCE40,BE,Antwerp-Bruges,Tractor,Tractor Tug,Class B,Svitzer,64,36.7,13.6,5.1,5332,12.5,2024,FiFi 1 WS,50,4,Operational
+411,BEANR,Tiger V,BEANR-CON-0411,9514338,205484799,OPBC02,BE,Antwerp-Bruges,Conventional,Conventional Twin Screw,Class D,Med Tug,31,30.9,11,4.4,3986,11.4,2008,None,50,3,Operational
+412,BEANR,Master 7,BEANR-VSP-0412,9153778,205143880,OKQ1,BE,Antwerp-Bruges,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Ostensjo Rederi,49,30.9,13.9,4.8,3184,12,1997,FiFi 1 WS,50,5,Operational
+413,BEANR,Thor Guardian,BEANR-HBR-0413,9069512,205774693,OXV3,BE,Antwerp-Bruges,Harbor,Harbor Assist Tug,Class E,Thomas Maltby,25,24.8,8.3,3.8,2407,10.7,1996,None,75,5,Operational
+414,BEANR,Rotterdam Pride,BEANR-ASD-0414,9634823,205839223,OGW77,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class C,Targe Towing,54,31.1,12.4,5.4,6614,13.5,2011,FiFi 1,100,8,Operational
+415,BEANR,Neptune Warrior,BEANR-ASD-0415,9380601,205167312,OFJ5,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class B,Boluda Towage,77,32,12.7,6,6650,13.2,2005,FiFi 1,50,8,Operational
+416,BEANR,Mumbai Voyager,BEANR-OCN-0416,9617510,205174147,ODW41,BE,Antwerp-Bruges,Ocean-going,Ocean-going Salvage Tug,Class A+,Wagenborg Towage,115,61.9,15.2,7.8,17459,17.1,2006,FiFi 2,75,10,Operational
+417,BEANR,Svitzer Deben,BEANR-ASD-0417,9436122,205533086,OTZ8,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class B,Svitzer,74,30.1,12.9,5.9,6664,12.2,2021,FiFi 2,200,7,Operational
+418,BEANR,Thor Defender,BEANR-TRC-0418,9689201,205187572,OZE9,BE,Antwerp-Bruges,Tractor,Tractor Tug,Class B,Smit Towage,67,38.2,14.7,6.4,4838,13.2,2006,FiFi 1 WS,30,5,Operational
+419,BEANR,Svitzer Bidston,BEANR-CON-0419,9286805,538197457,V7YEZ1,MH,Majuro,Conventional,Conventional Twin Screw,Class D,Svitzer,35,29.3,11,4.4,3448,10.9,2020,None,75,4,Operational
+420,BEANR,RT Power,BEANR-ASD-0420,9050791,205556001,OMFA66,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class B,Kotug,63,38.4,11.8,4.9,6570,14,2002,None,150,5,Operational
+421,BEANR,Pilot Star,BEANR-ASD-0421,9100826,205350017,OUKZ10,BE,Antwerp-Bruges,ASD,Azimuth Stern Drive,Class B,Fairplay Towage,79,41.7,13.9,5,6131,12.3,2020,None,200,5,Operational
+422,BEANR,Sea 3,BEANR-TRC-0422,9000157,205745520,OEUC41,BE,Antwerp-Bruges,Tractor,Tractor Tug,Class C,Boluda Towage,50,31.7,14,6.4,5381,13.5,2011,FiFi 2,75,5,Operational
+423,DEHAM,Thor Glory,DEHAM-CON-0423,9885364,211827042,DTP2,DE,Hamburg,Conventional,Conventional Twin Screw,Class D,SMS Towage,30,28.2,10.5,5.4,4475,11.4,1995,None,30,5,Operational
+424,DEHAM,Wolf IV,DEHAM-CON-0424,9673973,211824349,DTBB76,DE,Hamburg,Conventional,Conventional Twin Screw,Class C,SMS Towage,46,33.5,11.1,4.2,2576,10.2,2010,None,50,3,Operational
+425,DEHAM,Powerful 4,DEHAM-CON-0425,9736163,211218063,DJW72,DE,Hamburg,Conventional,Conventional Twin Screw,Class D,Rimorchiatori Riuniti,42,29,10.2,5,2352,11.2,1999,None,50,4,Maintenance
+426,DEHAM,Dolphin Glory,DEHAM-OCN-0426,9257074,211494143,DEYX1,DE,Hamburg,Ocean-going,Ocean-going Salvage Tug,Class A+,Med Tug,141,53.9,18.3,7.4,19146,17.3,2005,FiFi 2,75,11,Operational
+427,DEHAM,Swift Champion,DEHAM-CON-0427,9268922,211331839,DMB2,DE,Hamburg,Conventional,Conventional Twin Screw,Class C,Med Tug,45,28.6,9.2,4,2946,10,2020,None,75,5,Operational
+428,DEHAM,Chief I,DEHAM-VSP-0428,9497781,211924104,DFB9,DE,Hamburg,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Wagenborg Towage,68,29.5,13.5,4.8,4232,12.3,2013,FiFi 1 WS,30,4,Operational
+429,DEHAM,Ocean V,DEHAM-ASD-0429,9316023,211213362,DXCP8,DE,Hamburg,ASD,Azimuth Stern Drive,Class C,Thomas Maltby,57,36.7,13.2,6.4,4047,13.6,2001,FiFi 1,75,4,Operational
+430,DEHAM,Swift Spirit,DEHAM-VSP-0430,9313864,209811195,5BLX29,CY,Limassol,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Thomas Maltby,61,37.9,10.6,5,3205,11.4,2002,FiFi 1 WS,75,4,Operational
+431,DEHAM,Force 8,DEHAM-ASD-0431,9603962,211795527,DWN07,DE,Hamburg,ASD,Azimuth Stern Drive,Class B,Briggs Marine,66,28.6,12.3,5.3,3727,12.5,1997,FiFi 2,50,8,Standby
+432,DEHAM,Shark 10,DEHAM-OCN-0432,9931606,211683373,DPXK40,DE,Hamburg,Ocean-going,Ocean-going Salvage Tug,Class A+,SMS Towage,103,59.9,16.9,7.5,11666,16.5,1996,FiFi 1 WS,150,14,Maintenance
+433,DEHAM,Eagle II,DEHAM-VSP-0433,9994909,215367251,9HNLM20,MT,Valletta,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Kotug,44,31,12.7,5.3,5306,12.2,1996,FiFi 1,50,4,Maintenance
+434,DEHAM,Agile Spirit,DEHAM-TRC-0434,9436538,211400789,DPXU9,DE,Hamburg,Tractor,Tractor Tug,Class C,Boluda Towage,56,38.1,14.4,6.1,4381,12.1,2020,FiFi 2,75,5,Operational
+435,DEHAM,Lion III,DEHAM-ASD-0435,9851375,211703302,DVV28,DE,Hamburg,ASD,Azimuth Stern Drive,Class C,Med Tug,56,40.4,13.1,5.7,5202,12.3,2023,FiFi 1,50,8,Operational
+436,DEHAM,Tiger Defender,DEHAM-TRC-0436,9522688,636102966,ELXYR50,LR,Monrovia,Tractor,Tractor Tug,Class A,Thomas Maltby,84,31,13.8,5.2,5537,13.2,2004,FiFi 2,75,7,Standby
+437,DEHAM,Commodore Spirit,DEHAM-ASD-0437,9574236,211331422,DGU6,DE,Hamburg,ASD,Azimuth Stern Drive,Class C,Rimorchiatori Riuniti,52,38.1,11.3,4.8,6881,13.1,2020,None,75,7,Operational
+438,DEHAM,Quick Pioneer,DEHAM-ESC-0438,9136677,211986335,DQVV97,DE,Hamburg,Escort,Escort Tug,Class A,Briggs Marine,94,40.6,15.6,6.6,8865,15.3,2019,FiFi 1,50,5,Operational
+439,DEHAM,Swift Star,DEHAM-TRC-0439,9531899,211849960,DTJF4,DE,Hamburg,Tractor,Tractor Tug,Class C,Boluda Towage,58,30.5,13,6.3,6133,13,2012,FiFi 1 WS,30,5,Operational
+440,DEHAM,Hercules Champion,DEHAM-CON-0440,9637057,211580490,DGB2,DE,Hamburg,Conventional,Conventional Twin Screw,Class C,Wagenborg Towage,54,28,11.9,5.2,3709,11.4,2011,None,30,4,Operational
+441,DEHAM,Resolute Defender,DEHAM-TRC-0441,9489878,211423286,DCS5,DE,Hamburg,Tractor,Tractor Tug,Class B,Boluda Towage,74,39.3,14.6,6.2,5337,12.7,2016,FiFi 1,50,7,Operational
+442,DEHAM,Force Pioneer,DEHAM-ASD-0442,9896292,211341094,DZWQ87,DE,Hamburg,ASD,Azimuth Stern Drive,Class B,Fairplay Towage,74,41.3,11.6,6.4,6582,13.1,2005,FiFi 1,120,8,Operational
+443,DEHAM,Chief 6,DEHAM-OCN-0443,9845731,211993258,DMT32,DE,Hamburg,Ocean-going,Ocean-going Salvage Tug,Class A+,SMS Towage,134,77.5,18.3,6.6,13255,15.6,2000,FiFi 2,150,18,Operational
+444,DEHAM,Rapid Star,DEHAM-ASD-0444,9820200,211830585,DBA0,DE,Hamburg,ASD,Azimuth Stern Drive,Class C,Buksér og Berging,57,31.7,15,5.2,3789,12.8,1995,None,100,7,Maintenance
+445,DEHAM,Orca IV,DEHAM-ESC-0445,9849820,211301925,DJZC48,DE,Hamburg,Escort,Escort Tug,Class A,Rimorchiatori Riuniti,88,36.5,15.2,6.1,6174,15.9,2019,None,150,5,Operational
+446,DEHAM,Baltic Glory,DEHAM-ASD-0446,9929349,211200893,DUM1,DE,Hamburg,ASD,Azimuth Stern Drive,Class B,Buksér og Berging,73,35.5,13.2,6.5,3572,12.9,2003,FiFi 1,150,5,Operational
+447,DEHAM,Pilot 7,DEHAM-CON-0447,9168207,209215853,5BKM02,CY,Limassol,Conventional,Conventional Twin Screw,Class C,Boluda Towage,47,30.3,11.5,5.5,3571,11.7,2019,None,75,5,Standby
+448,DEHAM,Sea Glory,DEHAM-CON-0448,9219412,211957886,DUCR45,DE,Hamburg,Conventional,Conventional Twin Screw,Class D,Ostensjo Rederi,37,26.9,10.7,5.3,2074,10.1,2017,None,75,6,Operational
+449,DEHAM,Ocean 9,DEHAM-OCN-0449,9802624,211523421,DQTP39,DE,Hamburg,Ocean-going,Ocean-going Salvage Tug,Class A+,Med Tug,133,64.5,16.6,6.5,13400,15.9,1997,FiFi 2,150,11,Operational
+450,DEHAM,Bear Defender,DEHAM-VSP-0450,9792972,211795653,DZUS55,DE,Hamburg,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Med Tug,65,36.3,12.3,5.1,4255,12.3,2012,FiFi 1,75,6,Operational
+451,DEHAM,Goliath III,DEHAM-ASD-0451,9956668,211906892,DNNU4,DE,Hamburg,ASD,Azimuth Stern Drive,Class A,Thomas Maltby,83,36.4,14.8,5.9,4605,13.5,2022,FiFi 2,100,5,Standby
+452,DEHAM,Singapore 2,DEHAM-ASD-0452,9715745,211692332,DRR5,DE,Hamburg,ASD,Azimuth Stern Drive,Class B,Boluda Towage,74,40.3,12.6,5.1,4821,12.9,2019,FiFi 2,100,8,Operational
+453,DEHAM,Svitzer Orwell,DEHAM-TRC-0453,9799877,211160388,DHGJ44,DE,Hamburg,Tractor,Tractor Tug,Class B,Svitzer,79,32,12.5,5.2,5556,13.2,1998,FiFi 1,30,6,Operational
+454,DEHAM,Neptune I,DEHAM-CON-0454,9392237,211366010,DFHE7,DE,Hamburg,Conventional,Conventional Twin Screw,Class C,Kotug,58,25.4,11.1,5.3,4330,10.4,2022,None,75,4,Operational
+455,DEHAM,Rapid 5,DEHAM-CON-0455,9462074,211302386,DSYK75,DE,Hamburg,Conventional,Conventional Twin Screw,Class D,Iskes Towage,37,28.7,10,5,3663,11.6,2012,None,30,3,Operational
+456,DEHAM,Bear 8,DEHAM-TRC-0456,9091972,211734811,DHJZ0,DE,Hamburg,Tractor,Tractor Tug,Class B,Targe Towing,72,30.3,14.7,6.4,5731,13.8,2004,None,30,8,Operational
+457,DEHAM,Nimble Guardian,DEHAM-TRC-0457,9470819,211139648,DZE46,DE,Hamburg,Tractor,Tractor Tug,Class B,Wagenborg Towage,74,30.7,14.6,5.1,4958,12.8,2015,None,50,7,Operational
+458,DEHAM,Valiant Warrior,DEHAM-TRC-0458,9331036,211395167,DGL4,DE,Hamburg,Tractor,Tractor Tug,Class C,Thomas Maltby,53,39.1,13.5,5,6483,12.9,2010,FiFi 2,30,7,Operational
+459,DEHAM,Force Warrior,DEHAM-TRC-0459,9789603,211162446,DGSP19,DE,Hamburg,Tractor,Tractor Tug,Class C,Targe Towing,51,30.4,14.3,5.3,6220,13.8,2016,None,30,4,Operational
+460,DEHAM,Thor Pride,DEHAM-ASD-0460,9788656,211899030,DRU60,DE,Hamburg,ASD,Azimuth Stern Drive,Class C,Smit Towage,59,40.1,12.7,5.8,6362,13,1997,FiFi 2,150,6,Maintenance
+461,DEHAM,Force IV,DEHAM-VSP-0461,9456308,211536758,DEM1,DE,Hamburg,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Fairplay Towage,56,29.1,13.4,4.7,3088,11.6,2004,None,75,4,Operational
+462,DEHAM,Pilot 6,DEHAM-ASD-0462,9843186,211631724,DXC34,DE,Hamburg,ASD,Azimuth Stern Drive,Class C,Iskes Towage,56,35,11.5,5.3,4624,12,2010,FiFi 1,150,4,Maintenance
+463,DEBRV,Power Pioneer,DEBRV-ASD-0463,9581123,211203363,DDMN3,DE,Bremerhaven,ASD,Azimuth Stern Drive,Class B,Forth Ports Tug,69,28.4,14.1,5.1,6991,13.7,2009,None,150,6,Operational
+464,DEBRV,Aqua II,DEBRV-ASD-0464,9224414,211283273,DBBB9,DE,Bremerhaven,ASD,Azimuth Stern Drive,Class B,SMS Towage,70,32.5,11.4,4.6,3866,12.3,2003,FiFi 1,150,4,Operational
+465,DEBRV,Aqua Star,DEBRV-ASD-0465,9134766,209969509,5BTZZ0,CY,Limassol,ASD,Azimuth Stern Drive,Class B,Wagenborg Towage,67,33.4,12.6,4.8,5354,12.5,2001,None,50,7,Maintenance
+466,DEBRV,Sea 8,DEBRV-OCN-0466,9739852,211427680,DJYU4,DE,Bremerhaven,Ocean-going,Ocean-going Salvage Tug,Class A+,Thomas Maltby,143,70.9,16.6,6.7,12869,14.5,2020,FiFi 2,75,17,Operational
+467,DEBRV,Valiant I,DEBRV-ASD-0467,9210978,211825452,DRYL59,DE,Bremerhaven,ASD,Azimuth Stern Drive,Class C,Wagenborg Towage,54,30.3,12.6,5,4243,12,2017,FiFi 1,200,8,Operational
+468,DEBRV,Aqua 6,DEBRV-ESC-0468,9135993,308508835,C6KAS7,BS,Nassau,Escort,Escort Tug,Class A,SMS Towage,99,44.9,14.8,6.9,8142,14.8,2002,FiFi 1,200,6,Operational
+469,DEBRV,Singapore Defender,DEBRV-TRC-0469,9478274,211169929,DDJ3,DE,Bremerhaven,Tractor,Tractor Tug,Class A,Wagenborg Towage,81,31.3,14.4,5.6,4901,13.8,2024,None,50,7,Operational
+470,DEBRV,Valiant 6,DEBRV-VSP-0470,9938104,211805549,DGV8,DE,Bremerhaven,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Smit Towage,70,32.6,12.8,5.3,5494,12.5,2000,FiFi 1,30,3,Operational
+471,DEBRV,Force Pride,DEBRV-ASD-0471,9930180,211602617,DFJ7,DE,Bremerhaven,ASD,Azimuth Stern Drive,Class B,Svitzer,70,35,14.1,5.1,4985,13.7,2004,None,75,7,Operational
+472,DEBRV,Poseidon Spirit,DEBRV-ASD-0472,9860893,211104462,DTBU6,DE,Bremerhaven,ASD,Azimuth Stern Drive,Class A,Ostensjo Rederi,80,31.1,13.4,4.6,3914,12.5,2002,FiFi 1,100,8,Operational
+473,DEBRV,Singapore V,DEBRV-ASD-0473,9813173,211334420,DBD10,DE,Bremerhaven,ASD,Azimuth Stern Drive,Class B,SMS Towage,78,30.7,11.7,6.2,6569,12.1,2020,None,200,7,Operational
+474,DEBRV,Admiral 10,DEBRV-ASD-0474,9125963,211902229,DGGJ5,DE,Bremerhaven,ASD,Azimuth Stern Drive,Class B,Smit Towage,62,41.6,12.9,4.7,5203,12.4,2022,FiFi 1,200,7,Operational
+475,DEBRV,Valiant V,DEBRV-ASD-0475,9650281,211756397,DRL83,DE,Bremerhaven,ASD,Azimuth Stern Drive,Class C,SMS Towage,56,33.6,13.6,4.7,5254,14,2010,FiFi 1,150,5,Operational
+476,GBFXT,RT Spirit,GBFXT-ASD-0476,9776409,232913451,MSEC6,GB,Felixstowe,ASD,Azimuth Stern Drive,Class B,Kotug,74,36,13.1,4.9,4193,12.5,2018,FiFi 2,50,4,Operational
+477,GBFXT,Captain Glory,GBFXT-CON-0477,9089263,209490447,5BNTR0,CY,Limassol,Conventional,Conventional Twin Screw,Class C,Ostensjo Rederi,59,29,10.1,5,2330,11.9,2024,None,50,6,Operational
+478,GBFXT,Aqua Pride,GBFXT-CON-0478,9774388,232515520,MCZ5,GB,Felixstowe,Conventional,Conventional Twin Screw,Class D,Briggs Marine,37,33.3,11.2,4.1,2704,11.2,2014,None,50,6,Operational
+479,GBFXT,Shark 7,GBFXT-VSP-0479,9657206,636552907,ELRNM59,LR,Monrovia,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Kotug,67,36.6,12.6,5,4146,12,2020,FiFi 1,30,3,Standby
+480,GBFXT,Falcon Defender,GBFXT-ESC-0480,9020068,232376705,MVY5,GB,Felixstowe,Escort,Escort Tug,Class A+,Rimorchiatori Riuniti,106,35.3,15.6,6.9,7706,14.9,2021,FiFi 1 WS,120,7,Operational
+481,GBFXT,Nimble Spirit,GBFXT-CON-0481,9935001,232794301,MFBA7,GB,Felixstowe,Conventional,Conventional Twin Screw,Class C,Wagenborg Towage,52,25.4,10.2,4.9,2894,10.7,2020,None,30,6,Operational
+482,GBFXT,Baltic Voyager,GBFXT-ASD-0482,9691562,232396322,MZJ0,GB,Felixstowe,ASD,Azimuth Stern Drive,Class A,Fairplay Towage,89,30.7,13.8,4.7,6237,12.9,2006,FiFi 1,75,8,Operational
+483,GBFXT,Neptune Defender,GBFXT-ASD-0483,9808692,232943227,MZK57,GB,Felixstowe,ASD,Azimuth Stern Drive,Class A,Wagenborg Towage,80,29.2,14.2,5.1,4525,13.2,2021,FiFi 1,75,6,Operational
+484,GBFXT,Lion Spirit,GBFXT-TRC-0484,9159678,232342607,MUMV34,GB,Felixstowe,Tractor,Tractor Tug,Class B,Boluda Towage,74,36.7,14.4,5.8,4433,12.6,2017,FiFi 1 WS,30,7,Operational
+485,GBFXT,Pilot Spirit,GBFXT-ASD-0485,9141410,232193073,MBE4,GB,Felixstowe,ASD,Azimuth Stern Drive,Class B,Targe Towing,78,40.5,12.4,5.4,5287,13.6,2007,FiFi 1 WS,150,7,Operational
+486,GBFXT,Poseidon 7,GBFXT-CON-0486,9741081,232198873,MAL3,GB,Felixstowe,Conventional,Conventional Twin Screw,Class B,Wagenborg Towage,60,27.1,10.6,4.4,2536,11.2,2000,None,30,6,Operational
+487,GBFXT,Hercules III,GBFXT-OCN-0487,9461726,232827187,MTQN43,GB,Felixstowe,Ocean-going,Ocean-going Salvage Tug,Class A+,Smit Towage,118,58.6,18.9,6.8,8968,17.3,2001,FiFi 1,100,14,Standby
+488,GBFXT,Bear Warrior,GBFXT-TRC-0488,9415400,232237687,MPPZ10,GB,Felixstowe,Tractor,Tractor Tug,Class C,Iskes Towage,56,31.8,13.9,5.9,4773,12.8,2011,FiFi 2,75,6,Maintenance
+489,GBFXT,Ocean 1,GBFXT-ASD-0489,9846800,232877349,MAN9,GB,Felixstowe,ASD,Azimuth Stern Drive,Class A,Forth Ports Tug,86,41.3,12.8,5.2,3727,13.3,2000,FiFi 1,200,5,Operational
+490,GBFXT,Atlantic Voyager,GBFXT-VSP-0490,9092048,232989902,MPPM3,GB,Felixstowe,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Boluda Towage,44,35.3,10.6,4.9,5128,11.1,2004,FiFi 1 WS,30,6,Operational
+491,GBFXT,RT Innovation,GBFXT-ASD-0491,9862254,232962104,MGF30,GB,Felixstowe,ASD,Azimuth Stern Drive,Class C,Kotug,57,35.3,12,4.9,6562,13.9,1996,None,75,7,Operational
+492,GBFXT,Rapid 8,GBFXT-OCN-0492,9205050,232103999,MHV2,GB,Felixstowe,Ocean-going,Ocean-going Salvage Tug,Class A+,Iskes Towage,194,55.8,18.8,6.1,11124,15.6,2012,FiFi 1,75,12,Operational
+493,GBFXT,Marine 1,GBFXT-TRC-0493,9891550,232839677,MGC90,GB,Felixstowe,Tractor,Tractor Tug,Class B,Rimorchiatori Riuniti,69,30.2,13,6.1,5083,13.6,2022,FiFi 1,30,7,Operational
+494,GBFXT,Admiral Spirit,GBFXT-VSP-0494,9792920,232766696,MJY52,GB,Felixstowe,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Buksér og Berging,42,37.8,12.7,4.3,3519,12.1,1997,FiFi 1,75,4,Maintenance
+495,GBFXT,Santos 2,GBFXT-ASD-0495,9291489,232948352,MXD61,GB,Felixstowe,ASD,Azimuth Stern Drive,Class B,Rimorchiatori Riuniti,65,31.6,12.6,5,5742,13,2011,FiFi 1,150,6,Operational
+496,GBFXT,Captain Star,GBFXT-VSP-0496,9550314,232506941,MQU89,GB,Felixstowe,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Smit Towage,60,37.8,13.9,4.6,5428,12.4,2012,FiFi 1,30,6,Standby
+497,GBLGP,Singapore Glory,GBLGP-OCN-0497,9357560,232676617,MWD9,GB,London,Ocean-going,Ocean-going Salvage Tug,Class A+,Briggs Marine,173,60.4,15.2,6.2,8960,15.7,2016,None,150,10,Operational
+498,GBLGP,Sea III,GBLGP-ASD-0498,9391380,232838481,MUW49,GB,London,ASD,Azimuth Stern Drive,Class B,Briggs Marine,75,30.3,12.1,6.2,3500,13.6,2004,None,200,4,Operational
+499,GBLGP,Houston 7,GBLGP-CON-0499,9214488,232331552,MTKG14,GB,London,Conventional,Conventional Twin Screw,Class C,Boluda Towage,45,32.4,9.8,4.4,2916,10.3,2019,None,30,3,Operational
+500,GBLGP,Rapid III,GBLGP-ESC-0500,9800139,232369702,MGXH0,GB,London,Escort,Escort Tug,Class A,Svitzer,97,43,15.9,6.1,5974,14.3,2017,FiFi 1,120,7,Operational
+501,GBLGP,Wolf Star,GBLGP-ASD-0501,9732444,232604760,MZEW51,GB,London,ASD,Azimuth Stern Drive,Class A,Targe Towing,89,35.7,14.4,5.2,6981,13.8,2000,FiFi 1 WS,100,5,Operational
+502,GBLGP,Shark 8,GBLGP-VSP-0502,9245461,232110665,MFL5,GB,London,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Boluda Towage,60,32,12.7,4.4,4971,11.2,2023,FiFi 1,50,6,Operational
+503,GBLGP,Nimble Pioneer,GBLGP-ASD-0503,9933209,232805630,MFM9,GB,London,ASD,Azimuth Stern Drive,Class B,Iskes Towage,66,30.8,11.8,6.3,6121,13.4,2007,None,150,5,Operational
+504,GBLGP,Pacific Guardian,GBLGP-OCN-0504,9149928,232497158,MEK7,GB,London,Ocean-going,Ocean-going Salvage Tug,Class A+,Svitzer,105,72.6,17.2,6.5,9139,14.2,2018,FiFi 1 WS,150,11,Operational
+505,GBLGP,Mighty V,GBLGP-VSP-0505,9576096,232807261,MFVU1,GB,London,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Forth Ports Tug,56,33.2,10.4,5.1,5269,11.9,1998,FiFi 1 WS,30,3,Operational
+506,GBLGP,Pacific IV,GBLGP-CON-0506,9943043,232782247,MDU76,GB,London,Conventional,Conventional Twin Screw,Class C,Fairplay Towage,56,34.3,11.2,4.2,2261,11.7,2019,None,50,3,Operational
+507,GBLGP,Agile Star,GBLGP-ASD-0507,9654247,232759414,MWHV84,GB,London,ASD,Azimuth Stern Drive,Class A,Kotug,86,34.8,14.7,5.2,4594,14,2013,FiFi 1,50,5,Operational
+508,GBLGP,Admiral 2,GBLGP-TRC-0508,9360621,232580798,MDPY6,GB,London,Tractor,Tractor Tug,Class B,Iskes Towage,65,34.8,13.7,6.4,5488,13,2017,FiFi 1,30,5,Operational
+509,GBLGP,Mighty Guardian,GBLGP-ASD-0509,9229847,232519242,MJJR26,GB,London,ASD,Azimuth Stern Drive,Class A,Thomas Maltby,83,36.6,12.8,5.9,3972,12.8,2000,FiFi 2,50,4,Operational
+510,GBLGP,Shark Guardian,GBLGP-CON-0510,9982228,232704438,MSN31,GB,London,Conventional,Conventional Twin Screw,Class D,Svitzer,34,28.9,9.5,4,2119,10.4,2006,None,50,6,Operational
+511,GBSOU,Valiant Pioneer,GBSOU-ASD-0511,9394334,232632760,MCG70,GB,Southampton,ASD,Azimuth Stern Drive,Class A,Buksér og Berging,86,28.7,11.5,4.9,4477,12.2,2007,None,50,8,Maintenance
+512,GBSOU,Neptune Voyager,GBSOU-OCN-0512,9332185,232265029,MHH4,GB,Southampton,Ocean-going,Ocean-going Salvage Tug,Class A+,Thomas Maltby,102,53.5,16.1,8,11499,15.4,2000,FiFi 1 WS,100,11,Operational
+513,GBSOU,Admiral Glory,GBSOU-ASD-0513,9265223,232213160,MCH2,GB,Southampton,ASD,Azimuth Stern Drive,Class A,Ostensjo Rederi,90,30.3,12.7,6.4,5709,13.6,2011,FiFi 2,150,5,Operational
+514,GBSOU,Titan 3,GBSOU-ASD-0514,9465735,232362752,MWDY3,GB,Southampton,ASD,Azimuth Stern Drive,Class B,SMS Towage,62,37.2,14.1,5.1,6128,13.1,2017,FiFi 1,120,8,Operational
+515,GBSOU,Lion 3,GBSOU-CON-0515,9718701,215313141,9HZZ4,MT,Valletta,Conventional,Conventional Twin Screw,Class D,Ostensjo Rederi,30,28.9,11.9,4.5,4057,10.1,2011,None,30,6,Operational
+516,GBSOU,Marine 6,GBSOU-ASD-0516,9820904,232459173,MDLY92,GB,Southampton,ASD,Azimuth Stern Drive,Class B,SMS Towage,72,35.4,13.4,5.1,6756,12.4,2000,FiFi 1 WS,50,6,Operational
+517,GBSOU,Mighty 4,GBSOU-OCN-0517,9339679,232658950,MDJ59,GB,Southampton,Ocean-going,Ocean-going Salvage Tug,Class A+,Ostensjo Rederi,195,74.3,18.6,7.6,14784,17.9,2024,FiFi 1 WS,75,18,Operational
+518,GBSOU,Baltic Champion,GBSOU-TRC-0518,9258245,232861654,MDE0,GB,Southampton,Tractor,Tractor Tug,Class C,Buksér og Berging,57,31.2,13.3,6.3,5223,12.5,2022,FiFi 1,30,7,Operational
+519,GBSOU,Quick 8,GBSOU-VSP-0519,9102118,232461421,MTDZ4,GB,Southampton,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Svitzer,59,28.8,11.1,4.7,3147,11.7,2008,FiFi 1,30,6,Operational
+520,GBSOU,Sea IV,GBSOU-ASD-0520,9647952,232459369,MBXZ8,GB,Southampton,ASD,Azimuth Stern Drive,Class B,Thomas Maltby,62,41.1,14.4,6,5460,12.3,1998,FiFi 2,200,8,Operational
+521,GBSOU,Titan 2,GBSOU-CON-0521,9502836,232580949,MKW4,GB,Southampton,Conventional,Conventional Twin Screw,Class C,Multraship,55,28.9,11.7,4.1,3949,11,1997,None,75,4,Maintenance
+522,GBSOU,Lion Voyager,GBSOU-VSP-0522,9942347,232801775,MDSC12,GB,Southampton,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Med Tug,66,37.9,10.5,4.6,3010,11.2,1995,None,30,6,Operational
+523,GBSOU,Hawk 4,GBSOU-VSP-0523,9708386,232668162,MZG3,GB,Southampton,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Forth Ports Tug,46,31.1,11.3,5.5,3539,12,2019,FiFi 1 WS,30,5,Operational
+524,GBSOU,Atlantic Defender,GBSOU-ASD-0524,9784829,232463080,MVD81,GB,Southampton,ASD,Azimuth Stern Drive,Class B,Med Tug,62,37.8,11.7,5.2,4653,12.6,2008,FiFi 2,100,8,Operational
+525,GBSOU,Dolphin Defender,GBSOU-ASD-0525,9781739,232193339,MLLU81,GB,Southampton,ASD,Azimuth Stern Drive,Class B,SMS Towage,76,31.5,13.3,5.7,4590,12.2,2006,FiFi 1,200,7,Operational
+526,FRLEH,Mumbai IV,FRLEH-ASD-0526,9393508,226259703,FAB61,FR,Le,ASD,Azimuth Stern Drive,Class B,Briggs Marine,67,40.1,12.3,4.6,3821,13.9,2022,FiFi 1 WS,50,8,Operational
+527,FRLEH,Powerful 9,FRLEH-VSP-0527,9535376,226212973,FGS06,FR,Le,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Forth Ports Tug,43,32.1,10.2,4.2,4964,12.6,2007,FiFi 1,75,5,Operational
+528,FRLEH,Titan III,FRLEH-OCN-0528,9526508,226418432,FEMD88,FR,Le,Ocean-going,Ocean-going Salvage Tug,Class A+,Ostensjo Rederi,195,70,17.5,6.3,13526,15.4,2003,FiFi 1 WS,200,14,Operational
+529,FRLEH,Neptune Glory,FRLEH-TRC-0529,9670946,226816215,FLGU59,FR,Le,Tractor,Tractor Tug,Class C,Buksér og Berging,56,38.5,14.6,6.1,4434,14,2017,FiFi 1,50,5,Operational
+530,FRLEH,Santos 8,FRLEH-VSP-0530,9742612,226198226,FXQH5,FR,Le,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Rimorchiatori Riuniti,40,37.2,11,5.1,3121,11.6,2001,FiFi 2,75,6,Operational
+531,FRLEH,Eagle Spirit,FRLEH-VSP-0531,9081222,226791852,FRH0,FR,Le,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Targe Towing,48,31.9,12.7,4.7,4999,11.6,1997,FiFi 1,75,5,Maintenance
+532,FRLEH,Titan Guardian,FRLEH-TRC-0532,9964173,226238560,FSJP0,FR,Le,Tractor,Tractor Tug,Class B,Briggs Marine,63,32.3,13.7,6.5,5833,13.9,2017,FiFi 1 WS,75,5,Operational
+533,FRLEH,Santos Guardian,FRLEH-ASD-0533,9624579,226915270,FSBH36,FR,Le,ASD,Azimuth Stern Drive,Class B,Forth Ports Tug,68,41.5,12.9,4.9,4102,12.9,2019,FiFi 1,200,4,Operational
+534,FRLEH,Powerful 1,FRLEH-TRC-0534,9463414,226757831,FGP1,FR,Le,Tractor,Tractor Tug,Class C,Iskes Towage,54,38.3,13.1,6.4,4199,12.8,1997,None,75,6,Operational
+535,FRLEH,Commodore Star,FRLEH-VSP-0535,9737192,226327679,FWEJ37,FR,Le,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Multraship,51,36.1,12.8,5.3,3518,11.3,2002,None,30,4,Operational
+536,FRLEH,Mumbai Guardian,FRLEH-CON-0536,9173790,226754987,FCP89,FR,Le,Conventional,Conventional Twin Screw,Class B,Briggs Marine,60,35,9.3,4.9,3128,10.6,2002,None,30,6,Operational
+537,FRLEH,Ocean III,FRLEH-ESC-0537,9734856,226572936,FHQ3,FR,Le,Escort,Escort Tug,Class B,Targe Towing,77,44.5,16.2,5.8,8539,13.3,2000,FiFi 2,150,5,Operational
+538,FRLEH,Mumbai 7,FRLEH-TRC-0538,9271394,226911895,FHY9,FR,Le,Tractor,Tractor Tug,Class A,Forth Ports Tug,85,37.5,14.5,6.4,5846,13,1997,FiFi 2,50,4,Operational
+539,FRLEH,Thor Spirit,FRLEH-CON-0539,9107974,308208399,C6LMY63,BS,Nassau,Conventional,Conventional Twin Screw,Class D,Forth Ports Tug,33,28.7,11.5,5.2,2418,11.3,2014,None,50,6,Maintenance
+540,FRLEH,Commodore Pride,FRLEH-ASD-0540,9833092,538651178,V7SRA52,MH,Majuro,ASD,Azimuth Stern Drive,Class A,Ostensjo Rederi,81,33.6,14.4,6.4,3761,13.1,2011,FiFi 1 WS,75,4,Operational
+541,FRLEH,Lion II,FRLEH-OCN-0541,9885095,226851836,FGTZ48,FR,Le,Ocean-going,Ocean-going Salvage Tug,Class A+,Boluda Towage,163,63.6,18.1,6.9,19518,17.6,1999,FiFi 2,200,18,Operational
+542,ESVLC,Goliath Voyager,ESVLC-VSP-0542,9025926,224319247,EBGL5,ES,Valencia,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Rimorchiatori Riuniti,55,37.9,13.2,4.6,4946,12.6,2022,FiFi 1 WS,50,6,Operational
+543,ESVLC,Captain Defender,ESVLC-ASD-0543,9114907,224201097,ETG9,ES,Valencia,ASD,Azimuth Stern Drive,Class A,Boluda Towage,85,35.1,13.8,6.4,6546,13.8,1995,FiFi 2,150,7,Maintenance
+544,ESVLC,Pacific Pride,ESVLC-ASD-0544,9950401,224968893,ESDQ3,ES,Valencia,ASD,Azimuth Stern Drive,Class B,Targe Towing,75,31.5,14.4,5.3,4921,12.7,2010,None,150,6,Operational
+545,ESVLC,Titan Voyager,ESVLC-ESC-0545,9798034,636968432,ELNP7,LR,Monrovia,Escort,Escort Tug,Class B,Rimorchiatori Riuniti,79,41.2,15.8,6.8,6158,13.1,2000,FiFi 1,50,5,Operational
+546,ESVLC,Mighty Warrior,ESVLC-VSP-0546,9979517,224900675,ECTM37,ES,Valencia,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Thomas Maltby,63,36.1,13.4,4.1,4605,12.3,2007,FiFi 1 WS,75,3,Operational
+547,ESVLC,Commodore 1,ESVLC-ASD-0547,9817003,224226324,ERVD2,ES,Valencia,ASD,Azimuth Stern Drive,Class B,Wagenborg Towage,79,33.1,12.1,5.9,5817,12.7,2021,FiFi 1,120,6,Operational
+548,ESVLC,Pacific 1,ESVLC-ASD-0548,9494678,224435281,EVD17,ES,Valencia,ASD,Azimuth Stern Drive,Class B,Iskes Towage,78,36.3,12.6,4.6,5618,12.1,2011,FiFi 1,200,4,Maintenance
+549,ESVLC,Singapore,ESVLC-VSP-0549,9001022,224761898,EDGK01,ES,Valencia,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Buksér og Berging,64,32.2,13.3,4.4,5012,12.8,2003,FiFi 2,75,4,Operational
+550,ESVLC,Admiral 4,ESVLC-ESC-0550,9895533,538455872,V7TE4,MH,Majuro,Escort,Escort Tug,Class A+,Smit Towage,116,36.1,15.3,6,6312,14.9,2004,FiFi 2,120,6,Standby
+551,ESALG,Hercules 5,ESALG-ASD-0551,9857416,224162626,EES52,ES,Algeciras,ASD,Azimuth Stern Drive,Class A,Buksér og Berging,89,35.4,14.3,4.5,5536,13.3,1995,FiFi 1,50,7,Operational
+552,ESALG,Resolute 10,ESALG-OCN-0552,9486014,224814262,EAAN1,ES,Algeciras,Ocean-going,Ocean-going Salvage Tug,Class A+,Forth Ports Tug,160,74.8,17.2,6.5,13599,14.1,2021,FiFi 2,100,15,Operational
+553,ESALG,Master 6,ESALG-ASD-0553,9327268,224376141,EKB4,ES,Algeciras,ASD,Azimuth Stern Drive,Class A,Fairplay Towage,81,40,12.4,6.2,5559,14,1996,FiFi 2,75,4,Operational
+554,ESALG,Reliable III,ESALG-VSP-0554,9059895,224216784,EVPU28,ES,Algeciras,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,SMS Towage,43,29.2,11.3,4,4380,11.6,1999,None,75,4,Operational
+555,ESALG,Pilot Champion,ESALG-CON-0555,9789013,224215220,EWMU4,ES,Algeciras,Conventional,Conventional Twin Screw,Class D,Med Tug,32,27.7,9.1,4.2,3722,11.7,1995,None,75,5,Operational
+556,ESALG,Hawk 2,ESALG-ASD-0556,9785886,224724249,EJLP80,ES,Algeciras,ASD,Azimuth Stern Drive,Class C,Fairplay Towage,55,36.1,13.7,5.6,6712,13.9,2004,FiFi 1,200,4,Operational
+557,ESALG,Eagle 7,ESALG-ASD-0557,9409318,224861125,EWY98,ES,Algeciras,ASD,Azimuth Stern Drive,Class B,Ostensjo Rederi,73,37.2,13.3,6.5,3506,12.6,2014,FiFi 2,200,7,Operational
+558,ESALG,Rotterdam Glory,ESALG-ASD-0558,9423018,224978426,EXA6,ES,Algeciras,ASD,Azimuth Stern Drive,Class B,Briggs Marine,79,33.6,12.2,4.9,6851,13.3,2005,None,120,8,Operational
+559,ESALG,Strong Pioneer,ESALG-ASD-0559,9288551,224946823,EJP19,ES,Algeciras,ASD,Azimuth Stern Drive,Class B,Forth Ports Tug,79,35,13.9,4.8,6319,13.4,2009,FiFi 1,100,7,Operational
+560,ESALG,Force V,ESALG-TRC-0560,9521110,224378244,EPQ82,ES,Algeciras,Tractor,Tractor Tug,Class B,Iskes Towage,66,38.5,13.5,5.6,4086,13.9,1996,FiFi 1 WS,50,8,Operational
+561,ESALG,Sea Champion,ESALG-TRC-0561,9575098,576667930,YJWQ7,VU,Port Vila,Tractor,Tractor Tug,Class A,Multraship,84,38.5,14.9,6.1,5806,13.2,1997,FiFi 2,50,6,Operational
+562,ESALG,Poseidon 3,ESALG-ASD-0562,9918389,224401381,EXSK7,ES,Algeciras,ASD,Azimuth Stern Drive,Class B,Med Tug,67,39.2,13.3,6.2,6849,12.5,2013,FiFi 1,200,7,Operational
+563,ESALG,Poseidon Star,ESALG-ASD-0563,9993050,224720553,EZPP3,ES,Algeciras,ASD,Azimuth Stern Drive,Class A,Med Tug,87,32.9,12.3,4.9,6216,12.3,2011,FiFi 1,200,6,Operational
+564,ESALG,Santos Star,ESALG-CON-0564,9007981,224619155,EQER7,ES,Algeciras,Conventional,Conventional Twin Screw,Class D,SMS Towage,30,25.5,9,4.7,2631,11.7,2014,None,50,3,Operational
+565,GRPIR,Shark Star,GRPIR-ASD-0565,9127434,237518544,SVAVY5,GR,Piraeus,ASD,Azimuth Stern Drive,Class A,Svitzer,84,30.8,13.6,4.5,4750,13.2,2006,FiFi 2,200,6,Operational
+566,GRPIR,Wolf V,GRPIR-CON-0566,9428495,237628412,SVGCE88,GR,Piraeus,Conventional,Conventional Twin Screw,Class D,Boluda Towage,31,30.1,11.6,4.7,4495,11.7,2015,None,50,3,Operational
+567,GRPIR,Bear Guardian,GRPIR-CON-0567,9554309,576370029,YJZFF90,VU,Port Vila,Conventional,Conventional Twin Screw,Class D,Forth Ports Tug,37,30.6,9.1,4.6,3784,11.7,2006,None,30,4,Operational
+568,GRPIR,Dolphin,GRPIR-ASD-0568,9148559,237260035,SVXJ81,GR,Piraeus,ASD,Azimuth Stern Drive,Class A,Targe Towing,85,36.8,12.3,6,4005,13,2004,FiFi 1 WS,200,4,Operational
+569,GRPIR,Thor I,GRPIR-ASD-0569,9469994,237634728,SVJW2,GR,Piraeus,ASD,Azimuth Stern Drive,Class A,Boluda Towage,88,38.6,11.6,5.5,6833,13.8,2012,FiFi 1 WS,100,4,Operational
+570,GRPIR,Shark 3,GRPIR-ASD-0570,9035152,237355862,SVRJ6,GR,Piraeus,ASD,Azimuth Stern Drive,Class C,Smit Towage,59,30.9,12.2,5.9,6534,12.6,2012,FiFi 1 WS,120,4,Operational
+571,GRPIR,Poseidon V,GRPIR-CON-0571,9675579,237740667,SVXX42,GR,Piraeus,Conventional,Conventional Twin Screw,Class D,Med Tug,37,33.3,9.1,4.5,3755,10.3,2007,None,30,6,Operational
+572,GRPIR,Orca 3,GRPIR-ASD-0572,9581054,237345223,SVSHW88,GR,Piraeus,ASD,Azimuth Stern Drive,Class B,Smit Towage,67,35.4,11.8,5.1,5932,12.5,2010,FiFi 1,200,8,Operational
+573,RULED,Mumbai Warrior,RULED-ASD-0573,9463982,308994812,C6PP81,BS,Nassau,ASD,Azimuth Stern Drive,Class B,Fairplay Towage,73,34.8,11.5,6,6606,13.3,2013,None,75,4,Operational
+574,RULED,Eagle Star,RULED-ASD-0574,9578007,209373140,5BBT79,CY,Limassol,ASD,Azimuth Stern Drive,Class A,Med Tug,90,28.5,11.6,6.3,5106,12.7,1997,FiFi 1 WS,50,6,Operational
+575,RULED,Chief 8,RULED-CON-0575,9459403,273943213,UPDT31,RU,Big,Conventional,Conventional Twin Screw,Class C,Targe Towing,45,31.3,9.6,4.9,2782,10.2,2007,None,50,6,Operational
+576,RULED,Bear 3,RULED-CON-0576,9072570,308738824,C6TB60,BS,Nassau,Conventional,Conventional Twin Screw,Class B,Boluda Towage,60,26.9,10.4,4.2,4130,12,2002,None,50,6,Operational
+577,RULED,Houston I,RULED-CON-0577,9361391,273844805,UVAF49,RU,Big,Conventional,Conventional Twin Screw,Class D,Forth Ports Tug,41,30.8,10.2,4,3669,10,2002,None,75,6,Operational
+578,RULED,Atlantic 5,RULED-VSP-0578,9903919,215786674,9HMH03,MT,Valletta,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Fairplay Towage,65,35.3,11.1,5,4541,12.3,1996,FiFi 1,50,3,Operational
+579,RULED,Wolf 6,RULED-VSP-0579,9244757,273649451,UAUR48,RU,Big,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,SMS Towage,49,30.3,10.2,4.4,3170,12.2,2014,FiFi 1,30,6,Operational
+580,RULED,Mighty Glory,RULED-CON-0580,9392283,636600978,ELFB94,LR,Monrovia,Conventional,Conventional Twin Screw,Class D,Rimorchiatori Riuniti,38,27.5,11.6,4.2,3530,11.3,2016,None,30,5,Operational
+581,RULED,Quick 6,RULED-OCN-0581,9519531,209442618,5BNF8,CY,Limassol,Ocean-going,Ocean-going Salvage Tug,Class A+,Svitzer,172,59.9,19.8,7.1,8340,17.2,2019,FiFi 1,100,17,Standby
+582,RULED,Mighty III,RULED-ASD-0582,9651871,215548115,9HKMP0,MT,Valletta,ASD,Azimuth Stern Drive,Class B,Briggs Marine,77,39.3,14.2,5.4,6991,13.8,2015,FiFi 1 WS,200,7,Operational
+583,RULED,Thor 8,RULED-ESC-0583,9979681,351564066,HPHW5,PA,Panama City,Escort,Escort Tug,Class A+,Briggs Marine,113,43.9,14.8,6.6,7114,15.6,2011,None,50,4,Operational
+584,RULED,Pacific Defender,RULED-ASD-0584,9018641,273471250,UAQ40,RU,Big,ASD,Azimuth Stern Drive,Class A,SMS Towage,87,41.4,12.8,6.2,6110,12,2011,FiFi 1,50,6,Operational
+585,RULED,Orca II,RULED-CON-0585,9100352,273554894,UDEV49,RU,Big,Conventional,Conventional Twin Screw,Class D,Thomas Maltby,44,32.7,10.4,4.3,2696,11.2,1997,None,75,6,Operational
+586,RULED,Shark Pride,RULED-CON-0586,9932801,273758556,UHNG41,RU,Big,Conventional,Conventional Twin Screw,Class D,Briggs Marine,44,27,9.1,5.4,3389,11.6,2018,None,30,4,Operational
+587,RULED,Chief Champion,RULED-ESC-0587,9075824,273650618,UUF86,RU,Big,Escort,Escort Tug,Class A,Ostensjo Rederi,80,42.5,17.9,6.2,8976,13.5,1997,FiFi 2,150,7,Operational
+588,RULED,Orca Pioneer,RULED-TRC-0588,9282522,273767814,UNS83,RU,Big,Tractor,Tractor Tug,Class B,Svitzer,67,38.1,13.2,5.5,5716,12.3,2020,FiFi 1 WS,75,5,Operational
+589,RULED,Admiral IV,RULED-TRC-0589,9339689,273430271,UTW24,RU,Big,Tractor,Tractor Tug,Class B,Fairplay Towage,64,32.5,12.9,5.5,4170,13.1,2021,FiFi 2,30,6,Operational
+590,RUNVS,Orca Pride,RUNVS-CON-0590,9024050,273929885,UDMB47,RU,Novorossiysk,Conventional,Conventional Twin Screw,Class D,Iskes Towage,34,27.4,9.6,5.3,2519,11.7,2001,None,50,6,Operational
+591,RUNVS,Dubai I,RUNVS-OCN-0591,9738824,273552177,UNYH42,RU,Novorossiysk,Ocean-going,Ocean-going Salvage Tug,Class A+,Fairplay Towage,177,58.3,16.1,7.3,9106,16.5,2015,FiFi 2,75,14,Operational
+592,RUNVS,Resolute 2,RUNVS-ASD-0592,9442379,273694817,UWAS4,RU,Novorossiysk,ASD,Azimuth Stern Drive,Class B,Svitzer,78,38.4,14.3,6.1,5782,12.7,2006,None,150,5,Maintenance
+593,RUNVS,Resolute II,RUNVS-CON-0593,9298012,273144797,UZLY8,RU,Novorossiysk,Conventional,Conventional Twin Screw,Class C,Kotug,45,29.4,9.9,4.9,3565,11.2,2018,None,30,3,Operational
+594,RUNVS,Quick Warrior,RUNVS-CON-0594,9680235,273962277,UWJ3,RU,Novorossiysk,Conventional,Conventional Twin Screw,Class C,Ostensjo Rederi,48,30.5,11.4,5.4,3512,11.4,1997,None,50,4,Operational
+595,RUNVS,Pacific 9,RUNVS-ASD-0595,9407576,273305035,UCPX30,RU,Novorossiysk,ASD,Azimuth Stern Drive,Class A,Med Tug,80,29.3,13.2,6,5618,14,1998,FiFi 1,50,4,Operational
+596,RUNVS,Resolute V,RUNVS-ASD-0596,9866530,273485361,UAG2,RU,Novorossiysk,ASD,Azimuth Stern Drive,Class B,Kotug,72,40.6,12.3,4.6,3956,12.6,1995,FiFi 1 WS,100,4,Operational
+597,RUNVS,Bear Star,RUNVS-VSP-0597,9618443,273268990,UHM3,RU,Novorossiysk,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Smit Towage,51,37.1,12.7,4.6,5434,11.2,1997,FiFi 1,75,6,Operational
+598,RUNVS,Orca Star,RUNVS-CON-0598,9131699,273124935,UVCN5,RU,Novorossiysk,Conventional,Conventional Twin Screw,Class D,Iskes Towage,41,26.2,9.5,4.5,2906,10.6,2009,None,75,6,Operational
+599,RUNVS,Nimble III,RUNVS-ASD-0599,9648422,308640260,C6AS7,BS,Nassau,ASD,Azimuth Stern Drive,Class C,Thomas Maltby,52,34.4,13.6,5.9,6722,13.7,2018,FiFi 2,200,6,Operational
+600,MATNG,Mighty 9,MATNG-ASD-0600,9472261,242207879,CNHYB6,MA,Tanger,ASD,Azimuth Stern Drive,Class B,TNPA Tugs,64,35.4,12.4,4.7,4213,13.8,2013,FiFi 2,100,4,Operational
+601,MATNG,Falcon 4,MATNG-CON-0601,9183789,242772114,CNXP5,MA,Tanger,Conventional,Conventional Twin Screw,Class D,Smit Amandla Marine,35,30.9,10.9,4.9,2702,11.1,2010,None,30,5,Maintenance
+602,MATNG,Rotterdam Defender,MATNG-VSP-0602,9696216,576825609,YJPB46,VU,Port Vila,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,African Marine,58,35.1,10.7,4.8,4503,12.2,2000,None,30,3,Operational
+603,MATNG,Pacific III,MATNG-ASD-0603,9767630,242290838,CNVTF88,MA,Tanger,ASD,Azimuth Stern Drive,Class B,TNPA Tugs,61,33.4,14.3,5.7,4197,13.3,2021,FiFi 1,75,8,Operational
+604,MATNG,Nimble 2,MATNG-ASD-0604,9693267,242348623,CNQB06,MA,Tanger,ASD,Azimuth Stern Drive,Class C,Svitzer Africa,55,39.2,13.9,5.5,3736,13.5,2011,FiFi 1,75,5,Operational
+605,MATNG,Wolf Pioneer,MATNG-TRC-0605,9526091,538257523,V7HAY08,MH,Majuro,Tractor,Tractor Tug,Class C,Damen Shipyards Cape,59,34.5,12.3,5.5,4907,13.8,2004,FiFi 1,50,8,Operational
+606,MATNG,Neptune 5,MATNG-OCN-0606,9736227,242886076,CNQX33,MA,Tanger,Ocean-going,Ocean-going Salvage Tug,Class A+,African Marine,189,61.5,15,7.2,13588,16.2,2016,FiFi 2,100,12,Operational
+607,MATNG,Bear 2,MATNG-CON-0607,9770850,242532549,CNTYS4,MA,Tanger,Conventional,Conventional Twin Screw,Class D,Smit Amandla Marine,30,29.9,12,4.5,3531,10.6,2021,None,30,5,Operational
+608,MATNG,Singapore Spirit,MATNG-ASD-0608,9776717,242853448,CNMJ23,MA,Tanger,ASD,Azimuth Stern Drive,Class C,Svitzer Africa,50,37.8,12,4.9,4683,13.2,2024,FiFi 1 WS,50,7,Standby
+609,MATNG,Pilot IV,MATNG-CON-0609,9307211,242223093,CNPB4,MA,Tanger,Conventional,Conventional Twin Screw,Class D,Transnet Tug,34,26.5,11.6,4.3,2034,10.1,2020,None,30,3,Maintenance
+610,MATNG,Tiger I,MATNG-ASD-0610,9293490,242485538,CNVWX8,MA,Tanger,ASD,Azimuth Stern Drive,Class A,African Marine,90,39.5,14.6,5.4,4024,12.3,1999,FiFi 1,120,5,Operational
+611,ZADUR,Powerful 10,ZADUR-TRC-0611,9999139,601373997,ZSZMR48,ZA,Durban,Tractor,Tractor Tug,Class C,Transnet Tug,50,38.1,12.9,5.3,6016,12.8,2001,FiFi 1,75,7,Operational
+612,ZADUR,Houston Defender,ZADUR-CON-0612,9103136,601671410,ZSQDL31,ZA,Durban,Conventional,Conventional Twin Screw,Class C,African Marine,54,25.1,11.7,4.5,4032,11.3,2021,None,75,4,Operational
+613,ZADUR,Victoria Defender,ZADUR-TRC-0613,9131821,601482048,ZSDXB48,ZA,Durban,Tractor,Tractor Tug,Class C,Transnet Tug,58,31.1,13.7,5.4,4281,13.2,1999,FiFi 1 WS,75,6,Operational
+614,ZADUR,Hamburg IV,ZADUR-CON-0614,9951677,601893366,ZSBM2,ZA,Durban,Conventional,Conventional Twin Screw,Class C,Svitzer Africa,45,27.4,9.9,5.4,3976,10.5,2000,None,30,4,Operational
+615,ZADUR,Condor Warrior,ZADUR-TRC-0615,9208091,601965826,ZSAP41,ZA,Durban,Tractor,Tractor Tug,Class B,TNPA Tugs,69,38.6,13.8,5.2,5089,12.3,1999,FiFi 1,50,8,Operational
+616,ZADUR,Aqua 7,ZADUR-ASD-0616,9631960,601688078,ZSKM8,ZA,Durban,ASD,Azimuth Stern Drive,Class C,African Marine,58,34.2,12.2,6.1,6167,12.8,2023,FiFi 1 WS,200,7,Operational
+617,ZADUR,Falcon 9,ZADUR-CON-0617,9322970,538350937,V7ZFG9,MH,Majuro,Conventional,Conventional Twin Screw,Class C,TNPA Tugs,57,30.6,10.8,4.1,2467,10.4,2022,None,50,4,Operational
+618,ZADUR,Atlas I,ZADUR-ASD-0618,9912314,601783922,ZSJMB3,ZA,Durban,ASD,Azimuth Stern Drive,Class B,Sturrock Grindrod,70,36.2,13.9,5.9,3557,13.1,2004,FiFi 2,50,4,Operational
+619,ZACPT,Powerful Defender,ZACPT-TRC-0619,9285986,209474581,5BVQ8,CY,Limassol,Tractor,Tractor Tug,Class B,African Marine,70,32.1,13.8,5.2,4491,12.9,2000,FiFi 1,50,4,Operational
+620,ZACPT,Mumbai Pioneer,ZACPT-CON-0620,9267182,601654018,ZSKYX5,ZA,Cape,Conventional,Conventional Twin Screw,Class D,Damen Shipyards Cape,40,30.3,10.4,4.5,3518,11,1999,None,30,3,Operational
+621,ZACPT,Bear Pride,ZACPT-ESC-0621,9431479,601804921,ZSCM7,ZA,Cape,Escort,Escort Tug,Class B,Svitzer Africa,75,38.4,17,5.7,7987,14.5,2006,FiFi 1 WS,120,5,Operational
+622,ZACPT,Neptune III,ZACPT-ASD-0622,9497140,601898399,ZSSET8,ZA,Cape,ASD,Azimuth Stern Drive,Class B,Smit Amandla Marine,61,34.9,13.8,4.6,3906,12.3,2022,FiFi 1,200,7,Operational
+623,ZACPT,Quick Guardian,ZACPT-CON-0623,9584856,601138202,ZSAKS1,ZA,Cape,Conventional,Conventional Twin Screw,Class D,African Marine,35,34,9.6,5.5,3154,10.3,2021,None,30,6,Operational
+624,ZACPT,Thor 1,ZACPT-TRC-0624,9099014,308356892,C6AUP2,BS,Nassau,Tractor,Tractor Tug,Class C,Transnet Tug,51,36.9,13.1,5.8,5006,13.2,2013,FiFi 1,50,7,Operational
+625,ZACPT,Eagle,ZACPT-VSP-0625,9161514,601699522,ZSPC0,ZA,Cape,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Svitzer Africa,43,34.8,13.3,4.4,4159,11.2,2011,FiFi 1,75,4,Operational
+626,ZACPT,Santos 10,ZACPT-ASD-0626,9929906,576910394,YJFSY72,VU,Port Vila,ASD,Azimuth Stern Drive,Class B,Smit Amandla Marine,72,30.1,12.7,5.6,6969,12.4,2015,FiFi 2,150,4,Operational
+627,ZACPT,Hawk Pride,ZACPT-TRC-0627,9490615,601949447,ZSGH9,ZA,Cape,Tractor,Tractor Tug,Class B,Smit Amandla Marine,65,36.7,14.3,5.5,4636,13,1996,FiFi 2,30,7,Operational
+628,ZACPT,Neptune 1,ZACPT-VSP-0628,9729035,601967695,ZSNGP37,ZA,Cape,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,TNPA Tugs,57,28.7,12.6,4.1,4804,12.3,2009,FiFi 1,75,4,Operational
+629,ZACPT,Steady 8,ZACPT-CON-0629,9204235,601953873,ZSWC52,ZA,Cape,Conventional,Conventional Twin Screw,Class D,TNPA Tugs,34,27.6,10.9,5,2681,11.4,2006,None,30,4,Maintenance
+630,ZACPT,Power I,ZACPT-VSP-0630,9247554,601206715,ZSRV2,ZA,Cape,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Damen Shipyards Cape,59,28.3,13.5,4,5337,12,2003,FiFi 1,75,4,Operational
+631,ZACPT,Commodore IV,ZACPT-ESC-0631,9367430,601373372,ZSHU2,ZA,Cape,Escort,Escort Tug,Class A+,Transnet Tug,116,37.8,15.7,7,6928,15.5,2003,FiFi 1,75,7,Operational
+632,ZACPT,Master 1,ZACPT-ASD-0632,9181683,636846916,ELPK7,LR,Monrovia,ASD,Azimuth Stern Drive,Class B,Smit Amandla Marine,60,29.6,11.9,5.2,4445,12.6,2004,FiFi 2,50,8,Operational
+633,ZACPT,Dubai 9,ZACPT-CON-0633,9033564,601218864,ZSULP0,ZA,Cape,Conventional,Conventional Twin Screw,Class D,Transnet Tug,30,29.4,10.7,5.2,2920,10.6,2000,None,50,3,Standby
+634,ZACPT,Rotterdam 6,ZACPT-CON-0634,9475513,601274716,ZSWYK7,ZA,Cape,Conventional,Conventional Twin Screw,Class D,Damen Shipyards Cape,31,27.4,10,4.2,4350,11.8,2022,None,30,4,Operational
+635,ZACPT,Commodore II,ZACPT-TRC-0635,9222891,601886399,ZSCLC8,ZA,Cape,Tractor,Tractor Tug,Class C,African Marine,57,39.9,13.3,6.4,4706,13.6,1999,FiFi 1,30,7,Operational
+636,NGLOS,Nimble V,NGLOS-ASD-0636,9440140,657469132,5NRSG7,NG,Lagos,ASD,Azimuth Stern Drive,Class C,African Marine,52,36.8,11.8,5.7,5413,12.5,2009,FiFi 1 WS,50,7,Operational
+637,NGLOS,Master 9,NGLOS-TRC-0637,9960961,657942185,5NBG0,NG,Lagos,Tractor,Tractor Tug,Class C,Damen Shipyards Cape,54,31.2,12.8,6,6268,12.4,2005,FiFi 1 WS,30,7,Operational
+638,NGLOS,Atlas Pride,NGLOS-TRC-0638,9389586,657165676,5NEC70,NG,Lagos,Tractor,Tractor Tug,Class B,TNPA Tugs,62,31,14.8,5.6,4576,13.5,1998,FiFi 1 WS,75,5,Operational
+639,NGLOS,Master Voyager,NGLOS-ASD-0639,9393194,657801232,5NWPS03,NG,Lagos,ASD,Azimuth Stern Drive,Class B,Damen Shipyards Cape,71,29.1,12.4,5,3943,13.4,1998,FiFi 1 WS,50,7,Operational
+640,NGLOS,Hamburg 4,NGLOS-CON-0640,9029922,657139863,5NYSQ8,NG,Lagos,Conventional,Conventional Twin Screw,Class C,Svitzer Africa,51,29.2,9.8,5.1,2939,12,1995,None,30,3,Operational
+641,NGLOS,Ocean Champion,NGLOS-ESC-0641,9497939,657503920,5NHZ45,NG,Lagos,Escort,Escort Tug,Class A+,Svitzer Africa,104,36.2,15.9,5.6,8616,15,2011,FiFi 1,120,6,Operational
+642,NGLOS,Bear 9,NGLOS-CON-0642,9933102,657481994,5NJT29,NG,Lagos,Conventional,Conventional Twin Screw,Class D,Smit Amandla Marine,44,30.8,10.4,5,2276,11.5,2015,None,50,6,Operational
+643,NGLOS,Swift 3,NGLOS-OCN-0643,9356633,657218349,5NHTK5,NG,Lagos,Ocean-going,Ocean-going Salvage Tug,Class A+,Transnet Tug,163,76.4,19.4,6,19557,16.9,2010,FiFi 2,150,16,Operational
+644,NGLOS,Houston Spirit,NGLOS-ASD-0644,9055520,657956939,5NRVA51,NG,Lagos,ASD,Azimuth Stern Drive,Class A,TNPA Tugs,82,34.3,11.8,5.1,6337,13.6,2021,FiFi 1,100,7,Operational
+645,NGLOS,Marine Glory,NGLOS-VSP-0645,9867562,657136184,5NXEM8,NG,Lagos,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Smit Amandla Marine,44,36.7,13.8,4.1,4908,11,2000,FiFi 2,30,4,Operational
+646,NGLOS,Lion Defender,NGLOS-TRC-0646,9906297,657187774,5NWD37,NG,Lagos,Tractor,Tractor Tug,Class B,Damen Shipyards Cape,74,34.6,13.7,6.2,4387,13.3,2009,FiFi 1,50,5,Operational
+647,NGLOS,Quick Voyager,NGLOS-ASD-0647,9308774,657637172,5NFG15,NG,Lagos,ASD,Azimuth Stern Drive,Class B,TNPA Tugs,74,37.8,12.2,5.3,5849,13.3,2020,None,200,4,Operational
+648,NGLOS,Thor Pioneer,NGLOS-ESC-0648,9177479,657766177,5NGNT8,NG,Lagos,Escort,Escort Tug,Class A,TNPA Tugs,93,35.8,15.5,6.9,8384,13.8,2000,None,100,5,Operational
+649,NGLOS,Powerful Warrior,NGLOS-TRC-0649,9553697,657532187,5NLRR76,NG,Lagos,Tractor,Tractor Tug,Class A,Damen Shipyards Cape,85,36,12.9,6.2,4206,12.2,2023,FiFi 1,50,5,Operational
+650,NGLOS,Powerful Spirit,NGLOS-ASD-0650,9581911,657288393,5NJT65,NG,Lagos,ASD,Azimuth Stern Drive,Class A,African Marine,85,38.4,11.4,5.9,5429,13.8,2022,FiFi 1,75,4,Operational
+651,NGLOS,Resolute Glory,NGLOS-ESC-0651,9329468,657531905,5NUCT22,NG,Lagos,Escort,Escort Tug,Class A,Sturrock Grindrod,88,35.3,17,6.7,5690,14.4,2015,FiFi 1,200,5,Operational
+652,NGLOS,Pacific 10,NGLOS-TRC-0652,9886195,215508725,9HTM9,MT,Valletta,Tractor,Tractor Tug,Class B,Damen Shipyards Cape,79,34.1,13.6,6.1,4187,12.2,2013,FiFi 1,50,5,Operational
+653,USLAX,Tiger 3,USLAX-CON-0653,9771809,538929993,V7FVT4,MH,Majuro,Conventional,Conventional Twin Screw,Class C,Signet Maritime,50,28.2,10.1,4.1,2638,10.8,2006,None,75,6,Operational
+654,USLAX,Mumbai I,USLAX-ASD-0654,9982058,366619670,WFAL2,US,Los,ASD,Azimuth Stern Drive,Class A,Ultratug,88,34.5,11.8,4.6,4865,13.4,2018,FiFi 2,50,4,Operational
+655,USLAX,Agile 8,USLAX-TRC-0655,9759695,366231285,WTZE59,US,Los,Tractor,Tractor Tug,Class B,G&H Towing,62,39.9,12.8,5.7,5388,12.8,2012,FiFi 1,30,4,Operational
+656,USLAX,Dolphin 7,USLAX-ESC-0656,9372161,636551111,ELZK68,LR,Monrovia,Escort,Escort Tug,Class A+,Intertug,112,36.4,16.2,6,8482,13,1996,FiFi 2,50,6,Operational
+657,USLAX,Reliable Spirit,USLAX-ASD-0657,9623339,576953467,YJAYY12,VU,Port Vila,ASD,Azimuth Stern Drive,Class A,Wilson Sons,85,33.8,14.2,5.6,3918,13.5,2019,FiFi 2,200,5,Operational
+658,USLAX,Valiant 4,USLAX-ASD-0658,9708610,366155860,WUEP35,US,Los,ASD,Azimuth Stern Drive,Class B,Seabulk Towing,73,41.6,12.9,6.3,3612,13.7,2015,None,150,5,Maintenance
+659,USLAX,Dubai 4,USLAX-ASD-0659,9459435,366783032,WVVN2,US,Los,ASD,Azimuth Stern Drive,Class A,Moran Towing,86,36.9,14.7,4.9,4785,14,1995,FiFi 2,100,4,Operational
+660,USLAX,Steady 6,USLAX-TRC-0660,9231645,366796478,WJMF9,US,Los,Tractor,Tractor Tug,Class B,Moran Towing,76,31.7,14.2,5,4573,13.3,2016,FiFi 1,75,5,Operational
+661,USLAX,Poseidon Champion,USLAX-ASD-0661,9338300,366724546,WELR3,US,Los,ASD,Azimuth Stern Drive,Class C,Seabulk Towing,56,32.6,12.5,6.2,4043,12.7,2022,FiFi 1,200,7,Operational
+662,USLAX,Atlas 5,USLAX-ESC-0662,9388595,366957184,WADW04,US,Los,Escort,Escort Tug,Class A,Wilson Sons,88,43,15.4,5.7,6048,14.4,2012,FiFi 1,75,7,Operational
+663,USLAX,Pacific 3,USLAX-TRC-0663,9627375,366671968,WWXQ98,US,Los,Tractor,Tractor Tug,Class B,G&H Towing,72,39.1,12.3,6.4,5251,13.5,1997,FiFi 2,75,6,Operational
+664,USLAX,Commodore 6,USLAX-ASD-0664,9255066,366506978,WAB5,US,Los,ASD,Azimuth Stern Drive,Class C,Foss Maritime,51,28.1,14.6,4.8,4185,12.9,2023,FiFi 1,150,8,Operational
+665,USLAX,Hercules 4,USLAX-HBR-0665,9135555,366245496,WNP75,US,Los,Harbor,Harbor Assist Tug,Class D,Suderman & Young,37,21.9,9.1,4.2,2619,10.2,2017,None,30,5,Operational
+666,USLAX,Dubai Glory,USLAX-ASD-0666,9856937,366874310,WWC02,US,Los,ASD,Azimuth Stern Drive,Class B,Seabulk Towing,66,37.8,12.4,4.9,5902,12.6,2005,FiFi 1,50,6,Operational
+667,USLAX,Hamburg 10,USLAX-ASD-0667,9842127,366925608,WYD5,US,Los,ASD,Azimuth Stern Drive,Class C,Smit Rebras,55,28.9,12.1,5.7,5202,12.2,2001,None,150,8,Operational
+668,USLAX,Hawk 3,USLAX-CON-0668,9251527,366533474,WBNE13,US,Los,Conventional,Conventional Twin Screw,Class D,Suderman & Young,43,33.7,10.4,5.2,3651,11.7,1997,None,50,6,Operational
+669,USLAX,Powerful 2,USLAX-ASD-0669,9037304,366359369,WTA8,US,Los,ASD,Azimuth Stern Drive,Class A,Moran Towing,85,34.5,11.4,4.9,3820,13.7,2013,FiFi 1,100,5,Operational
+670,USLAX,Marine I,USLAX-VSP-0670,9028256,366544389,WTU78,US,Los,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,G&H Towing,64,30.6,11.1,4.3,4511,11.9,1998,FiFi 1 WS,50,3,Operational
+671,USLAX,Mumbai Spirit,USLAX-ASD-0671,9119754,366848343,WBC4,US,Los,ASD,Azimuth Stern Drive,Class B,Signet Maritime,71,32.3,14.4,6.5,5534,12.8,2012,FiFi 1,120,8,Operational
+672,USLAX,Marine Voyager,USLAX-ASD-0672,9159114,366948420,WPTL3,US,Los,ASD,Azimuth Stern Drive,Class A,Intertug,81,36.5,14.3,5.4,6769,12.4,2011,FiFi 1,200,4,Operational
+673,USLAX,Hawk IV,USLAX-ASD-0673,9254583,366359156,WPN89,US,Los,ASD,Azimuth Stern Drive,Class B,Wilson Sons,69,34.5,12.5,5.1,5610,13.5,2014,FiFi 1 WS,50,4,Operational
+674,USLAX,Sea Pride,USLAX-TRC-0674,9715711,366186142,WYLF00,US,Los,Tractor,Tractor Tug,Class B,Bisso Towboat,71,33.7,14.4,5.4,4374,12.8,2004,FiFi 1,30,8,Operational
+675,USLAX,Chief Defender,USLAX-ASD-0675,9788283,215807178,9HCKK3,MT,Valletta,ASD,Azimuth Stern Drive,Class A,Crowley Maritime,90,37.6,13.8,6.1,4905,12.6,1995,FiFi 2,50,8,Operational
+676,USLAX,Santos 9,USLAX-VSP-0676,9499457,366835563,WQJ9,US,Los,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Smit Rebras,40,36.5,10.9,5,5158,11.8,2019,FiFi 2,50,6,Operational
+677,USLAX,Mighty I,USLAX-TRC-0677,9987821,366830214,WWG6,US,Los,Tractor,Tractor Tug,Class B,Signet Maritime,60,37.9,13.2,5.7,6262,12.8,2021,FiFi 1,50,8,Operational
+678,USLAX,Powerful IV,USLAX-ASD-0678,9204620,366972024,WCV27,US,Los,ASD,Azimuth Stern Drive,Class C,Signet Maritime,52,28.3,11.7,5.5,5510,13.9,2023,None,120,4,Maintenance
+679,USLAX,Reliable V,USLAX-ESC-0679,9315743,366103722,WKJ9,US,Los,Escort,Escort Tug,Class A+,Atlantic Towing,113,44.7,15.3,5.6,5917,14.4,2008,FiFi 1,75,6,Operational
+680,USLAX,Lion Guardian,USLAX-CON-0680,9672325,366636679,WBZL20,US,Los,Conventional,Conventional Twin Screw,Class C,SAAM Towage,56,32.8,10.2,4.8,2996,10.9,2007,None,50,4,Operational
+681,USLAX,Nimble 10,USLAX-ASD-0681,9229146,366743284,WUVS50,US,Los,ASD,Azimuth Stern Drive,Class B,Bay-Houston Towing,60,28.4,12.8,5.4,6328,12.3,2021,None,75,4,Operational
+682,USLAX,Bear Voyager,USLAX-VSP-0682,9068841,366858845,WYG57,US,Los,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Atlantic Towing,49,29,11.5,4.4,3282,12.5,2018,None,75,6,Operational
+683,USLAX,Eagle 4,USLAX-ASD-0683,9414874,366146499,WPGS84,US,Los,ASD,Azimuth Stern Drive,Class A,G&H Towing,89,39.9,11.1,5.9,5303,13.3,1997,FiFi 2,100,8,Operational
+684,USLAX,Admiral II,USLAX-CON-0684,9399156,366842283,WMC27,US,Los,Conventional,Conventional Twin Screw,Class D,Foss Maritime,31,34.3,10.3,4.1,2386,12,2013,None,30,3,Operational
+685,USLAX,Hawk 7,USLAX-VSP-0685,9434552,366518705,WLZU42,US,Los,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,SAAM Towage,68,34.2,11.8,5.1,4959,12.7,2012,FiFi 2,30,6,Standby
+686,USLAX,Power 6,USLAX-TRC-0686,9531532,366754445,WQE79,US,Los,Tractor,Tractor Tug,Class B,SAAM Towage,78,35.6,14,6.4,6174,12.1,2009,None,30,8,Operational
+687,USLAX,Aqua 3,USLAX-ASD-0687,9980728,366660166,WQC39,US,Los,ASD,Azimuth Stern Drive,Class C,Intertug,54,40.5,13.1,5.7,6777,13.3,2022,FiFi 1,75,4,Operational
+688,USLAX,Hamburg Defender,USLAX-ASD-0688,9361760,366431313,WTQ48,US,Los,ASD,Azimuth Stern Drive,Class B,Bisso Towboat,69,29.2,11.2,4.9,6980,13.8,1999,FiFi 1 WS,100,7,Operational
+689,USLAX,Nimble Champion,USLAX-ESC-0689,9478550,366127098,WNHN53,US,Los,Escort,Escort Tug,Class A+,Bay-Houston Towing,112,41.3,15.1,6.9,7526,14.8,2021,FiFi 1,150,8,Operational
+690,USLAX,Sea Pioneer,USLAX-ASD-0690,9397393,366387375,WNNP1,US,Los,ASD,Azimuth Stern Drive,Class C,Moran Towing,52,30.9,14.4,4.8,4525,14,2021,FiFi 2,150,7,Operational
+691,USLAX,Valiant Champion,USLAX-ASD-0691,9356442,366577869,WDAP7,US,Los,ASD,Azimuth Stern Drive,Class A,Foss Maritime,87,28.2,13.2,6.5,4683,12,2018,FiFi 1,50,7,Operational
+692,USLAX,Victoria III,USLAX-ASD-0692,9471676,366353300,WGS05,US,Los,ASD,Azimuth Stern Drive,Class A,Bisso Towboat,80,33.8,11.3,5.4,6736,13.6,2018,FiFi 1,150,7,Operational
+693,USLAX,Master 4,USLAX-ASD-0693,9694343,366188102,WUWY61,US,Los,ASD,Azimuth Stern Drive,Class B,Bay-Houston Towing,75,31.9,13.8,5.9,6588,13.3,2010,FiFi 1,50,6,Operational
+694,USLAX,Eagle Voyager,USLAX-ASD-0694,9513852,366834947,WXLH9,US,Los,ASD,Azimuth Stern Drive,Class C,Wilson Sons,55,37.3,14.8,5.2,5417,13.8,2003,FiFi 1,200,5,Operational
+695,USLAX,Condor 3,USLAX-VSP-0695,9874681,366418805,WYMF66,US,Los,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,McAllister Towing,53,37,12.1,5.5,5095,11.8,2010,FiFi 1,30,5,Operational
+696,USLGB,Strong Guardian,USLGB-VSP-0696,9540680,576657018,YJSZW87,VU,Port Vila,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Signet Maritime,41,34.4,10.5,5.3,3886,11.4,2012,FiFi 2,30,3,Operational
+697,USLGB,Neptune Star,USLGB-ASD-0697,9296802,209653323,5BCK8,CY,Limassol,ASD,Azimuth Stern Drive,Class C,Foss Maritime,57,28.8,12.5,5.9,5942,13.6,2024,None,150,7,Operational
+698,USLGB,Quick Defender,USLGB-VSP-0698,9411725,366859106,WQFQ5,US,Long,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Crowley Maritime,69,30.4,11.7,4.9,4386,11,1997,FiFi 1 WS,50,5,Maintenance
+699,USLGB,Powerful Star,USLGB-CON-0699,9568876,366471008,WZX8,US,Long,Conventional,Conventional Twin Screw,Class C,Wilson Sons,48,28.5,9.1,4.8,3573,10.2,2006,None,30,4,Operational
+700,USLGB,Chief Pioneer,USLGB-CON-0700,9188493,576523012,YJLKN7,VU,Port Vila,Conventional,Conventional Twin Screw,Class D,Bisso Towboat,37,28.4,9.1,5.2,2289,10.2,2012,None,50,3,Operational
+701,USLGB,Reliable Champion,USLGB-VSP-0701,9023928,366427538,WXC90,US,Long,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,G&H Towing,59,36,11.6,4.4,3050,11,2007,FiFi 1,30,5,Operational
+702,USLGB,Victoria Voyager,USLGB-CON-0702,9543538,538358471,V7SLB51,MH,Majuro,Conventional,Conventional Twin Screw,Class C,Suderman & Young,54,31.9,10.8,5.3,2553,10.9,2011,None,30,4,Operational
+703,USLGB,Aqua Pioneer,USLGB-ASD-0703,9471013,366459246,WUB28,US,Long,ASD,Azimuth Stern Drive,Class A,Smit Rebras,82,40.9,13.2,6.3,5172,12,2014,FiFi 1,100,8,Maintenance
+704,USLGB,Lion 2,USLGB-CON-0704,9137786,366793113,WZCJ2,US,Long,Conventional,Conventional Twin Screw,Class C,Atlantic Towing,57,32.2,11.9,4.7,2492,10.2,2004,None,75,6,Operational
+705,USLGB,Hercules IV,USLGB-ASD-0705,9471797,366696834,WVZ1,US,Long,ASD,Azimuth Stern Drive,Class B,Foss Maritime,77,31.8,11.5,4.5,3786,13.2,2014,FiFi 2,75,6,Operational
+706,USLGB,Strong Glory,USLGB-CON-0706,9440673,366953156,WUC9,US,Long,Conventional,Conventional Twin Screw,Class D,Ultratug,44,33.3,11.7,4.4,3388,11.8,1996,None,50,3,Operational
+707,USLGB,Admiral Pioneer,USLGB-ASD-0707,9240935,366777387,WNEQ54,US,Long,ASD,Azimuth Stern Drive,Class A,McAllister Towing,88,37.9,14,5.6,4769,12.5,2002,FiFi 1 WS,150,8,Operational
+708,USLGB,Orca Spirit,USLGB-ASD-0708,9696440,366853037,WJDJ35,US,Long,ASD,Azimuth Stern Drive,Class B,Smit Rebras,62,37.4,14.2,5.8,6851,12.5,2021,FiFi 1,100,6,Operational
+709,USLGB,Bear 10,USLGB-ASD-0709,9818049,366757087,WWU09,US,Long,ASD,Azimuth Stern Drive,Class B,Atlantic Towing,75,37.1,13.2,6.3,3850,12.2,2006,FiFi 1,150,8,Operational
+710,USLGB,Admiral III,USLGB-ASD-0710,9801118,636800698,ELALS2,LR,Monrovia,ASD,Azimuth Stern Drive,Class C,Bisso Towboat,50,35.1,11.5,6,4278,12.7,2007,None,200,6,Maintenance
+711,USLGB,Force 5,USLGB-OCN-0711,9005641,366367873,WZZZ8,US,Long,Ocean-going,Ocean-going Salvage Tug,Class A+,Bay-Houston Towing,174,61.3,17,6,9611,16.5,2024,FiFi 1 WS,150,16,Operational
+712,USLGB,Captain 6,USLGB-CON-0712,9079848,366703473,WSSU95,US,Long,Conventional,Conventional Twin Screw,Class C,Suderman & Young,56,27.6,9.9,4.8,2476,10.3,2015,None,50,6,Operational
+713,USLGB,Ocean Defender,USLGB-TRC-0713,9365034,366245107,WANL26,US,Long,Tractor,Tractor Tug,Class B,Crowley Maritime,69,30.6,12.1,6.2,5660,12.7,2012,FiFi 1,30,5,Operational
+714,USLGB,Falcon Warrior,USLGB-ASD-0714,9229901,351505533,HPXK7,PA,Panama City,ASD,Azimuth Stern Drive,Class C,Crowley Maritime,57,35.7,12.3,6,3730,13.1,2001,FiFi 1 WS,200,8,Maintenance
+715,USLGB,Victoria 9,USLGB-ASD-0715,9647926,366656787,WLUK58,US,Long,ASD,Azimuth Stern Drive,Class A,Bisso Towboat,80,31.8,12.4,5.4,4465,12.1,2003,None,150,7,Operational
+716,USLGB,Mumbai Star,USLGB-ASD-0716,9754674,636462910,ELFZX98,LR,Monrovia,ASD,Azimuth Stern Drive,Class A,McAllister Towing,80,32.3,12.6,5.4,5643,12.6,2022,FiFi 1,75,4,Operational
+717,USLGB,Rapid 7,USLGB-VSP-0717,9657456,366703132,WRXF24,US,Long,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,McAllister Towing,62,30.9,12.9,4.8,4193,13,2023,None,30,5,Operational
+718,USLGB,Triton I,USLGB-ASD-0718,9248655,366690195,WEET19,US,Long,ASD,Azimuth Stern Drive,Class C,Foss Maritime,50,38.9,13.9,4.6,6288,12.4,2014,None,100,5,Operational
+719,USLGB,Hercules Warrior,USLGB-VSP-0719,9902941,366709145,WGQ4,US,Long,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Crowley Maritime,40,33.4,13.2,5.4,3767,11.5,2023,FiFi 1,50,6,Operational
+720,USLGB,Swift 8,USLGB-TRC-0720,9248976,366501202,WSV8,US,Long,Tractor,Tractor Tug,Class B,Foss Maritime,64,35.6,14.3,5.1,4676,12.9,2001,FiFi 1 WS,30,4,Operational
+721,USLGB,Poseidon Glory,USLGB-CON-0721,9614611,366367171,WKH4,US,Long,Conventional,Conventional Twin Screw,Class D,Seabulk Towing,35,29.8,11.7,5.4,2823,11.1,1996,None,50,6,Operational
+722,USLGB,Mighty Spirit,USLGB-TRC-0722,9604762,366732851,WHJ81,US,Long,Tractor,Tractor Tug,Class A,Ultratug,80,31.5,13.2,5.3,5278,12.9,2002,None,75,4,Operational
+723,USLGB,Captain 10,USLGB-CON-0723,9793604,366513072,WCX41,US,Long,Conventional,Conventional Twin Screw,Class C,Intertug,49,31.8,9.5,5.1,2318,11.8,2024,None,50,5,Operational
+724,USLGB,Captain Spirit,USLGB-CON-0724,9078671,366209647,WEB84,US,Long,Conventional,Conventional Twin Screw,Class D,Crowley Maritime,35,26.9,10,4.4,2187,10.2,2015,None,75,6,Operational
+725,USLGB,Pacific Glory,USLGB-ASD-0725,9741070,366904707,WAP1,US,Long,ASD,Azimuth Stern Drive,Class B,Wilson Sons,61,28.7,13.3,6.4,4810,12.4,2021,None,100,5,Operational
+726,USLGB,Atlas 10,USLGB-ASD-0726,9498548,366153828,WLK70,US,Long,ASD,Azimuth Stern Drive,Class A,Bisso Towboat,81,30.8,12.2,4.7,4272,13.7,2022,FiFi 1,150,5,Maintenance
+727,USNYC,Santos Champion,USNYC-CON-0727,9142114,308435151,C6VB65,BS,Nassau,Conventional,Conventional Twin Screw,Class D,Bay-Houston Towing,44,30.8,10.8,4.3,3394,10.5,2009,None,75,5,Maintenance
+728,USNYC,Wolf Defender,USNYC-TRC-0728,9432958,209271533,5BJBB10,CY,Limassol,Tractor,Tractor Tug,Class A,Smit Rebras,82,39.5,12.7,6.3,6137,12.5,2006,None,75,8,Operational
+729,USNYC,Shark II,USNYC-VSP-0729,9338372,366544745,WPL8,US,New,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Intertug,62,29,13.8,5.4,3901,12.2,2020,FiFi 1,75,6,Operational
+730,USNYC,Falcon Spirit,USNYC-ESC-0730,9245284,366186680,WGM41,US,New,Escort,Escort Tug,Class B,Foss Maritime,79,41.2,14.5,6.8,6823,15.2,2004,None,100,6,Standby
+731,USNYC,Hamburg Champion,USNYC-OCN-0731,9723757,366772104,WTV2,US,New,Ocean-going,Ocean-going Salvage Tug,Class A+,Signet Maritime,190,59.8,19.9,7.2,12442,16.4,1997,FiFi 1 WS,120,16,Operational
+732,USNYC,Master Defender,USNYC-ASD-0732,9061404,366640958,WGRJ93,US,New,ASD,Azimuth Stern Drive,Class B,Crowley Maritime,72,32,12.7,5.5,4230,12.2,2010,FiFi 1,200,6,Operational
+733,USNYC,Neptune Champion,USNYC-TRC-0733,9164645,366705188,WRQG4,US,New,Tractor,Tractor Tug,Class C,Wilson Sons,55,31.9,14.6,5.8,5783,12.8,2004,FiFi 1,75,5,Operational
+734,USNYC,Shark III,USNYC-ASD-0734,9001942,366146258,WMFV9,US,New,ASD,Azimuth Stern Drive,Class C,Intertug,56,41.1,13.8,5.1,4907,13.2,1997,FiFi 1 WS,150,5,Operational
+735,USNYC,Wolf Champion,USNYC-ESC-0735,9704909,366988505,WBD21,US,New,Escort,Escort Tug,Class A,Moran Towing,80,39.3,16.1,6.9,8439,15.5,2003,None,50,6,Operational
+736,USNYC,Thor 10,USNYC-ASD-0736,9268167,366621964,WBNE68,US,New,ASD,Azimuth Stern Drive,Class B,Seabulk Towing,71,36.5,13.2,6,5245,12.4,2003,FiFi 1,120,8,Maintenance
+737,USNYC,Triton 10,USNYC-TRC-0737,9110798,366739606,WYX2,US,New,Tractor,Tractor Tug,Class B,Wilson Sons,63,30,13.7,5.5,5199,13.5,1995,FiFi 1 WS,30,6,Operational
+738,USNYC,Wolf II,USNYC-VSP-0738,9928366,366470840,WJQW89,US,New,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Crowley Maritime,58,30.4,10.3,5,3168,11.7,2013,FiFi 1,75,6,Operational
+739,USNYC,Agile Glory,USNYC-OCN-0739,9078175,366861840,WQUJ26,US,New,Ocean-going,Ocean-going Salvage Tug,Class A+,Intertug,143,61.9,18.4,6.3,13740,14.5,1999,FiFi 1,150,14,Maintenance
+740,USNYC,Mumbai Defender,USNYC-CON-0740,9494059,366866352,WQAJ76,US,New,Conventional,Conventional Twin Screw,Class D,Moran Towing,40,31,11.1,4.4,4232,10.6,1997,None,30,5,Operational
+741,USNYC,Captain 4,USNYC-ASD-0741,9829667,366138969,WXM19,US,New,ASD,Azimuth Stern Drive,Class B,Bisso Towboat,73,39.8,11.7,4.7,4977,13,2001,FiFi 1 WS,75,5,Operational
+742,USNYC,Quick Spirit,USNYC-VSP-0742,9524206,366438417,WBK7,US,New,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,SAAM Towage,57,30.4,10.6,4,3629,12.4,2007,None,30,5,Operational
+743,USNYC,Victoria Glory,USNYC-ASD-0743,9253874,576891343,YJME7,VU,Port Vila,ASD,Azimuth Stern Drive,Class C,Foss Maritime,50,38.4,13,4.9,3559,12.1,2009,FiFi 2,200,7,Operational
+744,USNYC,Thor 6,USNYC-ESC-0744,9207005,366995258,WZN8,US,New,Escort,Escort Tug,Class A+,SAAM Towage,107,44.8,16.3,5.9,7175,13.3,2023,FiFi 2,150,8,Operational
+745,USNYC,Admiral Voyager,USNYC-CON-0745,9624087,366198767,WZW8,US,New,Conventional,Conventional Twin Screw,Class C,Wilson Sons,59,26.3,10.6,4.1,4409,10.1,1996,None,50,4,Operational
+746,USNYC,Master II,USNYC-VSP-0746,9440159,366492709,WWZD79,US,New,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Wilson Sons,63,35.9,10.3,5.2,4419,12.1,2023,FiFi 1,50,4,Operational
+747,USNYC,Santos Pride,USNYC-TRC-0747,9046493,366623931,WQT06,US,New,Tractor,Tractor Tug,Class B,Ultratug,75,39.3,13.6,5.9,4810,13.3,1998,FiFi 2,50,4,Operational
+748,USNYC,Force 4,USNYC-HBR-0748,9196703,366379157,WZXQ68,US,New,Harbor,Harbor Assist Tug,Class C,Suderman & Young,45,24.3,10.9,3.6,3082,11.7,1998,None,75,6,Operational
+749,USNYC,Baltic 10,USNYC-VSP-0749,9904362,366972222,WBKP2,US,New,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Smit Rebras,46,34.5,12.1,5,3670,12.8,2000,FiFi 1,75,5,Operational
+750,USNYC,Poseidon Voyager,USNYC-OCN-0750,9100861,366430616,WAT19,US,New,Ocean-going,Ocean-going Salvage Tug,Class A+,Bay-Houston Towing,134,65.6,17.4,6.5,10889,14.4,2005,FiFi 1,120,15,Operational
+751,USNYC,Powerful Voyager,USNYC-ESC-0751,9144227,308782999,C6GN7,BS,Nassau,Escort,Escort Tug,Class A,Bisso Towboat,84,44.6,14.9,6.1,5966,15.5,2006,None,50,5,Operational
+752,USNYC,Thor III,USNYC-OCN-0752,9420256,209511243,5BFJD0,CY,Limassol,Ocean-going,Ocean-going Salvage Tug,Class A+,Bay-Houston Towing,124,72.5,19.7,8,16442,17.3,2000,None,50,11,Standby
+753,USNYC,Swift III,USNYC-ESC-0753,9020957,209848055,5BCMB56,CY,Limassol,Escort,Escort Tug,Class B,Bay-Houston Towing,70,38,16.3,6.5,7189,13.7,1995,FiFi 1,75,8,Operational
+754,USNYC,Force I,USNYC-ASD-0754,9074668,366382663,WSCN81,US,New,ASD,Azimuth Stern Drive,Class B,Foss Maritime,66,38.9,11.2,5.7,3767,13.4,2011,FiFi 1 WS,150,8,Operational
+755,USNYC,Steady 2,USNYC-ASD-0755,9868868,366249188,WSMY4,US,New,ASD,Azimuth Stern Drive,Class B,Ultratug,60,30.2,11.6,6.1,6337,12.4,1999,FiFi 1,150,5,Operational
+756,USNYC,Houston 2,USNYC-ASD-0756,9135869,366739361,WGS65,US,New,ASD,Azimuth Stern Drive,Class A,Bisso Towboat,88,41.6,13,6.2,3834,12.4,2013,FiFi 1,120,4,Operational
+757,USNYC,Eagle III,USNYC-ASD-0757,9433668,366839179,WUZP84,US,New,ASD,Azimuth Stern Drive,Class B,Crowley Maritime,64,40.5,13.8,4.5,3554,13.7,2006,FiFi 2,200,5,Operational
+758,USNYC,Triton Pioneer,USNYC-TRC-0758,9927542,366292730,WYN35,US,New,Tractor,Tractor Tug,Class C,Moran Towing,56,37,13.8,5,4340,12.5,1997,FiFi 1,75,7,Operational
+759,USNYC,Aqua 10,USNYC-ASD-0759,9646213,366293646,WNVJ36,US,New,ASD,Azimuth Stern Drive,Class B,SAAM Towage,78,34.1,14.6,6,5534,12.9,2007,None,120,4,Operational
+760,USNYC,Singapore Pioneer,USNYC-CON-0760,9921787,366384852,WNF39,US,New,Conventional,Conventional Twin Screw,Class D,Bisso Towboat,41,25.4,11.3,5.3,2383,11.6,2017,None,50,3,Operational
+761,USNYC,Chief Warrior,USNYC-OCN-0761,9011076,366896284,WXS51,US,New,Ocean-going,Ocean-going Salvage Tug,Class A+,SAAM Towage,106,58.2,18.3,6.1,18726,14.9,2014,None,200,13,Operational
+762,USNYC,Reliable Star,USNYC-ASD-0762,9512298,366417935,WTS76,US,New,ASD,Azimuth Stern Drive,Class B,Moran Towing,69,32.2,13.5,5.5,4002,12.8,1995,FiFi 1,120,4,Operational
+763,USNYC,Atlas Spirit,USNYC-VSP-0763,9912404,366971769,WHP28,US,New,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Atlantic Towing,45,33.5,11.4,5.2,5446,11.6,2007,None,50,4,Standby
+764,USSAV,Rapid Champion,USSAV-ASD-0764,9064787,366830455,WDEA73,US,Savannah,ASD,Azimuth Stern Drive,Class C,Bay-Houston Towing,59,28.7,13.5,4.8,4248,13.6,2018,None,100,5,Operational
+765,USSAV,Reliable Warrior,USSAV-ASD-0765,9891681,366170066,WFYE10,US,Savannah,ASD,Azimuth Stern Drive,Class C,SAAM Towage,57,33.3,11.1,6.1,4070,12.9,2022,FiFi 2,50,6,Operational
+766,USSAV,Power Guardian,USSAV-ASD-0766,9447374,366895233,WGGB25,US,Savannah,ASD,Azimuth Stern Drive,Class C,Smit Rebras,57,33.8,13.1,4.7,5223,13.7,2006,None,120,4,Operational
+767,USSAV,Pacific 7,USSAV-CON-0767,9457193,366746923,WZL29,US,Savannah,Conventional,Conventional Twin Screw,Class C,G&H Towing,45,25.8,11.4,4.5,2186,11.5,2007,None,50,6,Operational
+768,USSAV,Victoria 7,USSAV-HBR-0768,9256791,366366876,WAC5,US,Savannah,Harbor,Harbor Assist Tug,Class D,Seabulk Towing,30,28.8,8.7,4.8,3007,11.1,2006,None,75,4,Operational
+769,USSAV,Lion Glory,USSAV-ASD-0769,9931686,366966144,WZHX11,US,Savannah,ASD,Azimuth Stern Drive,Class C,McAllister Towing,55,28.2,11.7,5.5,5448,12.3,2018,FiFi 1,200,8,Operational
+770,USSAV,Wolf 2,USSAV-ASD-0770,9308782,366641379,WZRK9,US,Savannah,ASD,Azimuth Stern Drive,Class A,Seabulk Towing,86,29.6,12.3,6.4,6792,12.5,2010,FiFi 2,120,8,Operational
+771,USSAV,Eagle Guardian,USSAV-CON-0771,9349433,366167747,WNY1,US,Savannah,Conventional,Conventional Twin Screw,Class C,Crowley Maritime,54,31.6,11.4,5.3,3207,10.6,2022,None,75,5,Operational
+772,USSAV,Orca Defender,USSAV-ASD-0772,9710353,366911355,WLSQ4,US,Savannah,ASD,Azimuth Stern Drive,Class A,McAllister Towing,86,39.3,11.2,6,3526,13.7,2023,FiFi 1,100,4,Operational
+773,USSAV,Marine Star,USSAV-ESC-0773,9516993,366961453,WGE26,US,Savannah,Escort,Escort Tug,Class A+,SAAM Towage,115,41.8,17.8,5.6,5632,14.4,1999,FiFi 1,100,8,Operational
+774,USSAV,Thor Star,USSAV-CON-0774,9663434,366878851,WBLW3,US,Savannah,Conventional,Conventional Twin Screw,Class D,Moran Towing,35,33.7,9.8,5,4491,11,2020,None,50,3,Operational
+775,USSAV,Swift Warrior,USSAV-CON-0775,9422524,366168618,WGSV2,US,Savannah,Conventional,Conventional Twin Screw,Class C,Smit Rebras,48,25.4,10.7,5.2,4284,10.3,2020,None,75,4,Operational
+776,USSAV,Dubai 6,USSAV-CON-0776,9101948,366101336,WQQ86,US,Savannah,Conventional,Conventional Twin Screw,Class D,Foss Maritime,34,26,11.8,4.1,2804,10.3,1997,None,50,3,Operational
+777,USSAV,Dolphin 2,USSAV-ASD-0777,9112159,366982267,WFXG12,US,Savannah,ASD,Azimuth Stern Drive,Class A,Suderman & Young,86,29.9,13.2,5.1,5965,12.1,2013,None,150,6,Operational
+778,USSAV,Triton 3,USSAV-ASD-0778,9256530,366126801,WVYA12,US,Savannah,ASD,Azimuth Stern Drive,Class B,Signet Maritime,71,37.5,12.7,5.6,4365,12.9,2021,FiFi 1 WS,50,4,Operational
+779,USSAV,Singapore Warrior,USSAV-ESC-0779,9256775,366267870,WUHD09,US,Savannah,Escort,Escort Tug,Class B,McAllister Towing,75,39.4,17.1,6.1,6026,13.4,2021,FiFi 1 WS,120,5,Operational
+780,USSAV,Captain II,USSAV-ASD-0780,9130404,366529916,WFED00,US,Savannah,ASD,Azimuth Stern Drive,Class C,Atlantic Towing,57,30.5,11.8,4.9,6689,12.2,2012,FiFi 1 WS,75,4,Operational
+781,USSAV,Tiger Voyager,USSAV-VSP-0781,9387885,366248434,WWAL3,US,Savannah,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Wilson Sons,46,28.4,12.5,5.1,3599,12.8,2004,FiFi 2,50,6,Operational
+782,USSAV,Power V,USSAV-OCN-0782,9347309,366586879,WYH34,US,Savannah,Ocean-going,Ocean-going Salvage Tug,Class A+,Ultratug,110,78.9,19.7,7.7,10653,17.2,2020,FiFi 1,150,15,Operational
+783,USSAV,Rotterdam I,USSAV-CON-0783,9039882,366739995,WTW97,US,Savannah,Conventional,Conventional Twin Screw,Class D,Bisso Towboat,40,26.2,10.3,5.2,3262,10.7,2012,None,30,3,Operational
+784,USHOU,Atlas Pioneer,USHOU-ASD-0784,9786723,366709801,WYC7,US,Houston,ASD,Azimuth Stern Drive,Class B,G&H Towing,75,30.9,11.6,5.5,5376,13.9,2014,FiFi 1,150,4,Maintenance
+785,USHOU,Hercules 6,USHOU-ASD-0785,9930539,366117807,WCM52,US,Houston,ASD,Azimuth Stern Drive,Class A,Moran Towing,83,40,14.7,5.8,4426,13.9,2006,FiFi 1,50,8,Operational
+786,USHOU,Commodore 5,USHOU-OCN-0786,9150805,366500928,WVMT6,US,Houston,Ocean-going,Ocean-going Salvage Tug,Class A+,McAllister Towing,157,56.4,18,6,10430,17,2019,FiFi 1,150,17,Operational
+787,USHOU,Aqua III,USHOU-VSP-0787,9457381,538384937,V7WJ9,MH,Majuro,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Atlantic Towing,45,35.1,13.9,5.2,5481,11.6,2016,None,50,5,Standby
+788,USHOU,Quick 10,USHOU-ASD-0788,9143906,636294176,ELLX9,LR,Monrovia,ASD,Azimuth Stern Drive,Class A,Bisso Towboat,89,28.9,13.9,5.5,5285,12.7,2013,FiFi 1,75,5,Operational
+789,USHOU,Dubai Champion,USHOU-TRC-0789,9998053,366120633,WVSP9,US,Houston,Tractor,Tractor Tug,Class A,Ultratug,80,37.1,14.3,6.4,4125,12.8,1996,None,75,7,Operational
+790,USHOU,Strong 1,USHOU-VSP-0790,9403407,366853146,WJV99,US,Houston,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,G&H Towing,62,31.4,13.4,4.7,3703,12.7,2018,FiFi 1,50,5,Operational
+791,USHOU,Mumbai II,USHOU-CON-0791,9538972,366958288,WQAF8,US,Houston,Conventional,Conventional Twin Screw,Class C,McAllister Towing,51,33.3,11,5.1,3114,10.4,2019,None,50,6,Operational
+792,USHOU,Hercules 3,USHOU-ASD-0792,9752687,366425614,WCLT0,US,Houston,ASD,Azimuth Stern Drive,Class B,Foss Maritime,68,28.9,11.8,4.7,6142,12.9,2010,FiFi 1,75,5,Operational
+793,USHOU,Sea 5,USHOU-VSP-0793,9877675,308875162,C6HVR3,BS,Nassau,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,McAllister Towing,65,34.3,10.8,4.5,3514,12.4,2018,FiFi 1,30,6,Operational
+794,USHOU,Hercules Spirit,USHOU-ASD-0794,9496558,215636322,9HTFB08,MT,Valletta,ASD,Azimuth Stern Drive,Class C,Wilson Sons,56,40.7,11.8,4.8,5101,12.7,2015,FiFi 1 WS,75,5,Operational
+795,USHOU,Neptune Pioneer,USHOU-ESC-0795,9865761,366761049,WBGY30,US,Houston,Escort,Escort Tug,Class B,Wilson Sons,74,43.5,14.3,6.4,7348,16,2021,FiFi 1,100,8,Operational
+796,USHOU,Steady 1,USHOU-TRC-0796,9411235,366606642,WJX37,US,Houston,Tractor,Tractor Tug,Class A,Wilson Sons,83,39.9,14.9,5.8,4556,12.3,2004,FiFi 2,50,7,Maintenance
+797,USHOU,Lion I,USHOU-ESC-0797,9930134,366890535,WXF5,US,Houston,Escort,Escort Tug,Class A+,Smit Rebras,117,41.4,16.4,6.5,7438,14.5,2019,FiFi 2,75,7,Operational
+798,USHOU,Orca 1,USHOU-ASD-0798,9474210,366438781,WCFE4,US,Houston,ASD,Azimuth Stern Drive,Class B,Crowley Maritime,66,29,14.7,6.2,4081,12,2005,None,150,6,Operational
+799,USHOU,Ocean 5,USHOU-ASD-0799,9818849,366425923,WZUP1,US,Houston,ASD,Azimuth Stern Drive,Class B,Suderman & Young,68,40.4,12.7,4.5,3904,13.7,1998,None,120,4,Standby
+800,USHOU,Quick 5,USHOU-ASD-0800,9931228,366274066,WYHS77,US,Houston,ASD,Azimuth Stern Drive,Class B,Smit Rebras,63,32,11.7,5.3,6003,13.3,2016,None,75,4,Maintenance
+801,USHOU,Commodore Glory,USHOU-VSP-0801,9243678,366973564,WTNV41,US,Houston,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Intertug,41,29,12.1,4.1,3051,12.1,2019,FiFi 1 WS,30,3,Operational
+802,USHOU,Orca Guardian,USHOU-CON-0802,9679880,366621653,WDP5,US,Houston,Conventional,Conventional Twin Screw,Class D,Bisso Towboat,31,34.2,10.1,4.7,2352,10.3,2015,None,50,3,Operational
+803,USHOU,Hawk Guardian,USHOU-VSP-0803,9291599,366804593,WYLK34,US,Houston,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Atlantic Towing,69,29.8,12.9,4.8,5483,11.5,2022,FiFi 1,50,5,Standby
+804,USHOU,Pacific Warrior,USHOU-VSP-0804,9024013,366448048,WVQ9,US,Houston,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Crowley Maritime,65,34.3,13.3,4.6,4862,12.6,2000,FiFi 1 WS,75,4,Operational
+805,USHOU,Rotterdam 7,USHOU-TRC-0805,9606356,366413151,WTAC69,US,Houston,Tractor,Tractor Tug,Class B,McAllister Towing,61,31.5,14.5,5.2,4781,13.7,2007,None,75,6,Operational
+806,USHOU,Eagle 8,USHOU-VSP-0806,9951449,366340097,WNDW1,US,Houston,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Intertug,66,29,12.1,4.6,4442,11.7,2002,FiFi 1,30,4,Operational
+807,USHOU,Valiant Glory,USHOU-CON-0807,9017718,366485767,WRQ5,US,Houston,Conventional,Conventional Twin Screw,Class D,Intertug,36,34.4,9.3,4.8,4461,11.7,2000,None,75,5,Standby
+808,USHOU,Ocean Pride,USHOU-TRC-0808,9688430,576590950,YJYWB6,VU,Port Vila,Tractor,Tractor Tug,Class B,SAAM Towage,71,30.9,14.5,5.3,5077,14,2019,FiFi 1 WS,50,5,Standby
+809,USHOU,Wolf Guardian,USHOU-ASD-0809,9424536,366625851,WCM82,US,Houston,ASD,Azimuth Stern Drive,Class C,Foss Maritime,59,33.9,11.1,5.2,6451,13.3,2008,FiFi 2,75,4,Operational
+810,USHOU,Baltic 4,USHOU-ESC-0810,9559083,366981412,WUB6,US,Houston,Escort,Escort Tug,Class A,Wilson Sons,96,44.5,16.6,6.3,6680,16,1998,FiFi 2,50,4,Operational
+811,USHOU,Baltic 7,USHOU-ASD-0811,9063641,366298650,WSHY6,US,Houston,ASD,Azimuth Stern Drive,Class B,Moran Towing,67,34.3,13.5,5,6067,12.7,2017,None,200,5,Operational
+812,USHOU,Baltic Star,USHOU-ASD-0812,9020474,366479727,WLX8,US,Houston,ASD,Azimuth Stern Drive,Class B,G&H Towing,61,37.7,14.5,6.3,5059,13,1995,None,150,4,Operational
+813,USHOU,Aqua 9,USHOU-ESC-0813,9824307,366591072,WVC6,US,Houston,Escort,Escort Tug,Class A+,Ultratug,102,39.7,14.8,6.9,5649,15.8,2002,None,100,8,Maintenance
+814,USHOU,Triton II,USHOU-ASD-0814,9780470,366749757,WARH86,US,Houston,ASD,Azimuth Stern Drive,Class B,SAAM Towage,66,31.7,13.7,6.5,6112,13.2,2006,FiFi 1 WS,75,8,Operational
+815,USHOU,Neptune Guardian,USHOU-ASD-0815,9345153,366905940,WXA9,US,Houston,ASD,Azimuth Stern Drive,Class A,Bay-Houston Towing,87,29.1,14.3,5.2,6746,13.7,1996,FiFi 1,100,8,Operational
+816,USHOU,Tiger Pride,USHOU-CON-0816,9954429,366107892,WXDJ9,US,Houston,Conventional,Conventional Twin Screw,Class C,Crowley Maritime,45,30.9,11,4.1,3766,10,2001,None,75,4,Operational
+817,USHOU,Goliath Defender,USHOU-ASD-0817,9978363,366821467,WND8,US,Houston,ASD,Azimuth Stern Drive,Class C,G&H Towing,53,34.8,14,6,4882,13.4,2017,FiFi 1 WS,200,4,Operational
+818,USHOU,Hamburg Star,USHOU-ASD-0818,9017435,366741222,WSQH4,US,Houston,ASD,Azimuth Stern Drive,Class C,Smit Rebras,50,32.5,13,4.6,6285,12.2,2004,FiFi 1,100,4,Operational
+819,USHOU,Falcon V,USHOU-OCN-0819,9495911,366211601,WLSR7,US,Houston,Ocean-going,Ocean-going Salvage Tug,Class A+,Bay-Houston Towing,174,56.4,19.9,6.5,8164,15.4,2022,FiFi 1,50,10,Operational
+820,USHOU,Falcon Star,USHOU-VSP-0820,9895109,366544982,WUQ78,US,Houston,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Suderman & Young,52,33.8,11.2,4.5,4148,12.5,2019,None,30,5,Maintenance
+821,USHOU,Force Spirit,USHOU-VSP-0821,9431729,366418548,WLR9,US,Houston,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Smit Rebras,56,37.3,11.2,4.6,3362,11,2004,FiFi 1,50,6,Maintenance
+822,USHOU,Dolphin 8,USHOU-TRC-0822,9499479,366428896,WEW66,US,Houston,Tractor,Tractor Tug,Class C,McAllister Towing,51,35.3,12.6,5.5,4861,12.4,1998,FiFi 1,75,8,Operational
+823,USHOU,Atlantic 10,USHOU-CON-0823,9144715,366746634,WVKG7,US,Houston,Conventional,Conventional Twin Screw,Class D,McAllister Towing,39,32.2,9.6,4,2465,11.1,2004,None,30,3,Operational
+824,USHOU,Neptune 10,USHOU-ASD-0824,9759244,366419075,WZA3,US,Houston,ASD,Azimuth Stern Drive,Class A,Ultratug,81,32.6,14.1,5.3,6244,13,2002,FiFi 1,50,7,Operational
+825,USHOU,Condor Pioneer,USHOU-CON-0825,9112175,308725223,C6GE1,BS,Nassau,Conventional,Conventional Twin Screw,Class C,Moran Towing,49,30,10.3,4.3,2215,10,2015,None,30,5,Operational
+826,USHOU,Mighty Pride,USHOU-CON-0826,9583936,366961175,WAR5,US,Houston,Conventional,Conventional Twin Screw,Class D,Wilson Sons,33,25.3,11.1,5.3,2830,10.8,2015,None,50,5,Operational
+827,USMIA,Captain III,USMIA-ESC-0827,9260286,366877317,WQXB8,US,Miami,Escort,Escort Tug,Class A+,Bisso Towboat,117,42.8,17.4,6.1,8476,13.3,2015,FiFi 1,75,5,Operational
+828,USMIA,Steady Champion,USMIA-CON-0828,9951956,366243380,WAE95,US,Miami,Conventional,Conventional Twin Screw,Class C,Seabulk Towing,55,27.3,10.2,5.3,3020,10.9,2020,None,50,3,Maintenance
+829,USMIA,Master Guardian,USMIA-VSP-0829,9024496,366345794,WQYJ36,US,Miami,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Suderman & Young,67,31.1,12.6,5.4,3245,11.3,2010,FiFi 1,75,3,Operational
+830,USMIA,Dubai III,USMIA-CON-0830,9459040,636836548,ELYC3,LR,Monrovia,Conventional,Conventional Twin Screw,Class C,G&H Towing,47,25.7,9.6,4.3,3377,11.1,2017,None,30,4,Operational
+831,USMIA,Dolphin V,USMIA-TRC-0831,9913126,209612799,5BSES68,CY,Limassol,Tractor,Tractor Tug,Class B,McAllister Towing,76,31.7,13.1,6.4,5700,13.1,2004,FiFi 1 WS,50,5,Operational
+832,USMIA,Dolphin Voyager,USMIA-OCN-0832,9013202,366979041,WZR0,US,Miami,Ocean-going,Ocean-going Salvage Tug,Class A+,Bisso Towboat,109,74.5,19.3,7.1,17252,17.4,2006,FiFi 1,200,16,Operational
+833,USMIA,Mighty Voyager,USMIA-VSP-0833,9957042,366720499,WLP0,US,Miami,Voith-Schneider,Voith Schneider Propeller (VSP),Class D,Bisso Towboat,43,33.5,13.4,5.5,4993,12.3,2015,FiFi 1,75,4,Operational
+834,USMIA,Houston Pride,USMIA-ESC-0834,9658958,366324132,WZHH0,US,Miami,Escort,Escort Tug,Class A+,Foss Maritime,104,43,16.1,6.2,8954,14.9,2009,FiFi 1 WS,100,4,Operational
+835,USMIA,Titan II,USMIA-ASD-0835,9884176,366713028,WPDA42,US,Miami,ASD,Azimuth Stern Drive,Class A,Wilson Sons,81,31.3,14.1,5.8,6860,12.7,2015,None,120,7,Operational
+836,USMIA,Powerful Pioneer,USMIA-VSP-0836,9350200,366128795,WBEW7,US,Miami,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Atlantic Towing,58,33.5,13.7,5.4,4449,12.3,2007,FiFi 1,75,4,Operational
+837,USMIA,Wolf 4,USMIA-CON-0837,9828055,366787994,WEK20,US,Miami,Conventional,Conventional Twin Screw,Class C,Bisso Towboat,55,34,11.4,5,3067,10.7,2016,None,30,4,Operational
+838,USMIA,Hercules Voyager,USMIA-TRC-0838,9781214,366461327,WPHZ6,US,Miami,Tractor,Tractor Tug,Class C,Ultratug,59,34.1,14.9,6.4,4246,13.2,2004,FiFi 1,50,8,Operational
+839,USMIA,Powerful Guardian,USMIA-ASD-0839,9797737,366327183,WEC84,US,Miami,ASD,Azimuth Stern Drive,Class C,McAllister Towing,51,35.3,14.9,6.1,3944,12.9,2007,FiFi 1 WS,100,8,Operational
+840,USMIA,Master Spirit,USMIA-CON-0840,9353196,366307898,WUMU5,US,Miami,Conventional,Conventional Twin Screw,Class C,Bisso Towboat,53,34.4,10,4.3,3071,10.2,2009,None,75,4,Operational
+841,USMIA,Marine Guardian,USMIA-CON-0841,9819776,366430488,WSU66,US,Miami,Conventional,Conventional Twin Screw,Class C,Moran Towing,49,33.7,9.8,4.1,2556,10.6,1996,None,75,6,Operational
+842,CAVAN,Rotterdam Spirit,CAVAN-VSP-0842,9108594,316340192,CANR3,CA,Vancouver,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Foss Maritime,60,37.4,13.8,5.2,4576,12.9,2003,None,50,5,Operational
+843,CAVAN,Nimble Warrior,CAVAN-ESC-0843,9105642,316179537,CTCC7,CA,Vancouver,Escort,Escort Tug,Class B,Seabulk Towing,76,37,15.4,6,5828,14.2,2003,FiFi 1,75,8,Operational
+844,CAVAN,Neptune Spirit,CAVAN-ASD-0844,9613776,316955818,CUB03,CA,Vancouver,ASD,Azimuth Stern Drive,Class A,Foss Maritime,85,28.8,13.6,5.1,6621,12.2,1997,None,75,8,Maintenance
+845,CAVAN,Sea Guardian,CAVAN-ASD-0845,9916179,316995787,CJWM8,CA,Vancouver,ASD,Azimuth Stern Drive,Class B,Intertug,67,40.4,12,6.1,5445,12.9,2008,FiFi 2,120,6,Operational
+846,CAVAN,Goliath 7,CAVAN-ASD-0846,9015755,576349428,YJTRE05,VU,Port Vila,ASD,Azimuth Stern Drive,Class B,Smit Rebras,79,40.4,13.2,5.5,5613,12.9,2015,None,200,7,Operational
+847,CAVAN,Tiger Champion,CAVAN-TRC-0847,9998716,316707793,CGW8,CA,Vancouver,Tractor,Tractor Tug,Class C,G&H Towing,57,36.7,14,6.2,6414,13.3,2009,None,30,7,Operational
+848,CAVAN,Admiral 5,CAVAN-ASD-0848,9866251,316550898,CHD3,CA,Vancouver,ASD,Azimuth Stern Drive,Class B,Intertug,78,29.6,14.6,4.8,4816,12.9,2012,FiFi 1,50,8,Operational
+849,CAVAN,Pilot Glory,CAVAN-CON-0849,9576139,316540812,CZZC65,CA,Vancouver,Conventional,Conventional Twin Screw,Class D,Crowley Maritime,44,27.5,10.7,4.3,2974,10.1,2023,None,75,4,Maintenance
+850,CAVAN,Dubai 5,CAVAN-ASD-0850,9125356,538551276,V7TC1,MH,Majuro,ASD,Azimuth Stern Drive,Class B,SAAM Towage,72,30.9,12.4,4.8,3814,13.3,2013,None,100,5,Operational
+851,CAVAN,Power 7,CAVAN-TRC-0851,9665133,316144971,CFMZ0,CA,Vancouver,Tractor,Tractor Tug,Class B,Moran Towing,68,34.8,12.4,6.3,4521,13.9,2007,FiFi 1,50,7,Operational
+852,CAVAN,Wolf 7,CAVAN-VSP-0852,9489395,316541357,CHE62,CA,Vancouver,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Ultratug,65,36.8,11.5,5.3,4726,12.7,2006,FiFi 1,30,4,Operational
+853,CAVAN,Triton Defender,CAVAN-ASD-0853,9733941,316643575,CGFN96,CA,Vancouver,ASD,Azimuth Stern Drive,Class B,McAllister Towing,79,33.4,13.5,4.9,6821,13.6,2004,None,50,4,Operational
+854,CAVAN,Swift 9,CAVAN-ESC-0854,9658318,316849058,CHUJ4,CA,Vancouver,Escort,Escort Tug,Class B,G&H Towing,77,35.8,15.9,5.6,8374,14,2018,None,50,7,Operational
+855,CAVAN,Lion 10,CAVAN-TRC-0855,9893519,576226973,YJHL23,VU,Port Vila,Tractor,Tractor Tug,Class A,Ultratug,84,34.3,13.1,5.9,5768,13.9,2024,FiFi 1,75,6,Operational
+856,CAVAN,Aqua Defender,CAVAN-ESC-0856,9847066,316582439,CJSS72,CA,Vancouver,Escort,Escort Tug,Class A+,Smit Rebras,103,39.4,15.9,6.8,8874,14.5,2009,FiFi 1,120,6,Operational
+857,CAHFX,Ocean 7,CAHFX-ESC-0857,9111085,316448752,CCL63,CA,Halifax,Escort,Escort Tug,Class A,Moran Towing,88,35.3,17.7,5.7,6394,14.1,1999,FiFi 1 WS,120,5,Operational
+858,CAHFX,Hamburg Pioneer,CAHFX-TRC-0858,9014624,316835065,CEQG3,CA,Halifax,Tractor,Tractor Tug,Class C,Ultratug,50,35.7,14.4,5.2,4680,13.1,1995,None,75,6,Operational
+859,CAHFX,Shark 6,CAHFX-CON-0859,9847301,308924260,C6UUT13,BS,Nassau,Conventional,Conventional Twin Screw,Class C,Seabulk Towing,56,32.9,9.7,5.3,3433,10.4,2022,None,75,3,Operational
+860,CAHFX,Quick IV,CAHFX-OCN-0860,9121417,316401391,CVNJ7,CA,Halifax,Ocean-going,Ocean-going Salvage Tug,Class A+,Seabulk Towing,155,59.3,15.2,7.5,14648,14.8,2006,FiFi 1,100,17,Maintenance
+861,CAHFX,Wolf Voyager,CAHFX-CON-0861,9920873,316774878,CRFT5,CA,Halifax,Conventional,Conventional Twin Screw,Class C,Foss Maritime,56,30.1,10.4,4.6,2288,11.6,2018,None,50,3,Operational
+862,CAHFX,Shark Pioneer,CAHFX-VSP-0862,9666120,316426291,CTU4,CA,Halifax,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Ultratug,51,30.4,13.7,4,3789,11.9,2014,None,50,5,Operational
+863,CAHFX,Santos 3,CAHFX-TRC-0863,9592158,316744029,CWQ7,CA,Halifax,Tractor,Tractor Tug,Class B,Signet Maritime,74,32.6,15,5.7,5594,12.3,2008,None,50,7,Operational
+864,CAHFX,Shark I,CAHFX-TRC-0864,9054812,316717591,CWCG3,CA,Halifax,Tractor,Tractor Tug,Class C,Ultratug,57,38.8,14.8,5.2,5621,13.2,2015,FiFi 1,30,7,Operational
+865,CAHFX,Orca I,CAHFX-TRC-0865,9819885,215929796,9HNA89,MT,Valletta,Tractor,Tractor Tug,Class B,Crowley Maritime,78,34.6,13.1,5.3,4033,13.1,2020,FiFi 1,75,5,Operational
+866,CAHFX,Dubai Warrior,CAHFX-ASD-0866,9975410,316233003,CBT6,CA,Halifax,ASD,Azimuth Stern Drive,Class B,Intertug,78,37.3,11,6.2,3888,13.6,2024,None,150,5,Maintenance
+867,CAHFX,Lion V,CAHFX-TRC-0867,9385577,576331787,YJLNE9,VU,Port Vila,Tractor,Tractor Tug,Class B,G&H Towing,60,38.1,13.6,5.2,4448,12.5,2003,FiFi 1 WS,50,7,Operational
+868,CAHFX,Rotterdam 9,CAHFX-TRC-0868,9272512,636442199,ELWDM8,LR,Monrovia,Tractor,Tractor Tug,Class B,Foss Maritime,64,30.8,13.1,6.1,6170,12.3,2018,None,75,7,Operational
+869,CAHFX,Admiral Defender,CAHFX-TRC-0869,9828299,316604996,CQGE33,CA,Halifax,Tractor,Tractor Tug,Class B,Intertug,79,30.7,14.9,5.8,6102,12.9,2019,FiFi 1,50,6,Operational
+870,BRSSZ,Atlas Warrior,BRSSZ-CON-0870,9145188,710803419,PPHYX19,BR,Santos,Conventional,Conventional Twin Screw,Class D,Smit Rebras,34,26.7,9.7,4.7,4359,10.1,2003,None,75,4,Operational
+871,BRSSZ,Resolute I,BRSSZ-TRC-0871,9019013,710764565,PPQCH99,BR,Santos,Tractor,Tractor Tug,Class B,G&H Towing,63,32.2,13.1,6.1,4420,12.9,2017,None,75,8,Operational
+872,BRSSZ,Falcon Pioneer,BRSSZ-ESC-0872,9797457,710214215,PPBWW3,BR,Santos,Escort,Escort Tug,Class B,Crowley Maritime,77,44.3,16.9,6.6,7320,15.4,2022,FiFi 1,120,8,Operational
+873,BRSSZ,Captain 9,BRSSZ-CON-0873,9112176,636732023,ELDPW21,LR,Monrovia,Conventional,Conventional Twin Screw,Class D,Crowley Maritime,44,33.2,11.5,5,3838,11.2,2018,None,75,4,Operational
+874,BRSSZ,Shark Voyager,BRSSZ-CON-0874,9038369,710211692,PPNUD2,BR,Santos,Conventional,Conventional Twin Screw,Class C,G&H Towing,47,30.1,10.8,5.1,3707,11.2,2008,None,75,5,Operational
+875,BRSSZ,Powerful 5,BRSSZ-ESC-0875,9987107,710715053,PPVJ49,BR,Santos,Escort,Escort Tug,Class A+,Bay-Houston Towing,109,43.9,14.9,6.5,6125,14,2019,FiFi 1,120,5,Operational
+876,BRSSZ,Mumbai Glory,BRSSZ-TRC-0876,9041250,215812031,9HLYJ05,MT,Valletta,Tractor,Tractor Tug,Class B,Signet Maritime,62,38.3,12.7,5.7,6319,12.2,2012,FiFi 2,50,8,Maintenance
+877,BRSSZ,Falcon 2,BRSSZ-ASD-0877,9245178,710766726,PPMZ38,BR,Santos,ASD,Azimuth Stern Drive,Class B,Atlantic Towing,75,33.5,12.8,5.1,6491,13.9,2015,FiFi 1,120,4,Operational
+878,BRSSZ,Resolute 7,BRSSZ-VSP-0878,9474134,308527204,C6KQ6,BS,Nassau,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Suderman & Young,62,32.4,10.1,5.2,4082,11.6,2008,FiFi 1,75,6,Maintenance
+879,BRSSZ,Agile I,BRSSZ-ESC-0879,9027177,710361488,PPCK0,BR,Santos,Escort,Escort Tug,Class A,Seabulk Towing,89,38.9,17.8,6.9,7803,14.5,2015,FiFi 2,100,8,Operational
+880,BRSSZ,Falcon 3,BRSSZ-HBR-0880,9020056,710903176,PPPBN0,BR,Santos,Harbor,Harbor Assist Tug,Class D,McAllister Towing,42,27.2,9.5,4.3,2972,10.4,1998,None,75,3,Operational
+881,BRSSZ,Nimble 6,BRSSZ-ASD-0881,9461186,710566830,PPZXF94,BR,Santos,ASD,Azimuth Stern Drive,Class A,Bisso Towboat,88,32,13.5,5.6,5788,12.4,2019,FiFi 1 WS,150,8,Operational
+882,BRSSZ,Condor Voyager,BRSSZ-ASD-0882,9872823,710679828,PPKBG90,BR,Santos,ASD,Azimuth Stern Drive,Class A,G&H Towing,82,28.6,14.8,4.7,3970,12.8,2006,FiFi 1,150,4,Operational
+883,BRSSZ,Dolphin 1,BRSSZ-ASD-0883,9580713,710184820,PPUCK91,BR,Santos,ASD,Azimuth Stern Drive,Class A,Seabulk Towing,80,38.3,13.8,6,4519,12.3,2006,None,100,5,Operational
+884,BRSSZ,Strong 10,BRSSZ-CON-0884,9628752,710592961,PPQX1,BR,Santos,Conventional,Conventional Twin Screw,Class D,Ultratug,37,27.2,10.5,5.1,2916,10.8,2003,None,30,4,Standby
+885,BRSSZ,Titan 8,BRSSZ-CON-0885,9051611,209168609,5BHP67,CY,Limassol,Conventional,Conventional Twin Screw,Class C,Atlantic Towing,49,31.6,11.4,4.1,2070,10.8,2004,None,50,3,Operational
+886,BRSSZ,Dolphin IV,BRSSZ-TRC-0886,9653705,538613410,V7VKC2,MH,Majuro,Tractor,Tractor Tug,Class A,Foss Maritime,82,32.2,12,5.9,4171,12.1,2003,None,30,6,Operational
+887,BRSSZ,Poseidon 5,BRSSZ-ASD-0887,9190687,710730010,PPFAN4,BR,Santos,ASD,Azimuth Stern Drive,Class B,Crowley Maritime,79,32.5,13.9,5.9,5549,12.4,2023,FiFi 1 WS,100,6,Operational
+888,BRSSZ,Triton Voyager,BRSSZ-ASD-0888,9468550,710594291,PPUR34,BR,Santos,ASD,Azimuth Stern Drive,Class B,Crowley Maritime,67,33,11.5,6.4,5767,12.1,2000,None,75,6,Standby
+889,BRSSZ,Ocean Warrior,BRSSZ-ASD-0889,9422017,710102494,PPJF1,BR,Santos,ASD,Azimuth Stern Drive,Class B,Bisso Towboat,70,32.6,13.4,5.4,5383,13.8,2015,None,150,4,Operational
+890,BRSSZ,Victoria 4,BRSSZ-TRC-0890,9692339,710153618,PPZAG63,BR,Santos,Tractor,Tractor Tug,Class A,Foss Maritime,85,34.9,14.6,5,5469,12.7,2010,FiFi 2,75,4,Operational
+891,BRSSZ,Admiral 3,BRSSZ-TRC-0891,9912910,710607874,PPKQ1,BR,Santos,Tractor,Tractor Tug,Class B,Ultratug,76,33.8,13.6,5.4,5374,13.6,2006,FiFi 1,30,5,Operational
+892,BRSSZ,Victoria 6,BRSSZ-CON-0892,9887295,576671645,YJYTF7,VU,Port Vila,Conventional,Conventional Twin Screw,Class D,Bisso Towboat,34,30.6,10.3,4.2,3981,11.2,2020,None,50,3,Operational
+893,BRSSZ,Wolf 5,BRSSZ-ESC-0893,9419975,308388647,C6YEK7,BS,Nassau,Escort,Escort Tug,Class A,Foss Maritime,99,35.3,17.2,7,8815,14,2019,None,150,8,Operational
+894,BRSSZ,Victoria Star,BRSSZ-OCN-0894,9551190,710750994,PPHH2,BR,Santos,Ocean-going,Ocean-going Salvage Tug,Class A+,Crowley Maritime,180,53,17.9,6.3,16588,15.6,1998,None,150,10,Operational
+895,ARBUE,Santos IV,ARBUE-ASD-0895,9236829,701398327,LUDPW60,AR,Buenos,ASD,Azimuth Stern Drive,Class B,Atlantic Towing,74,32.6,13.3,5.4,3536,12.9,2008,FiFi 1,75,5,Maintenance
+896,ARBUE,Shark Spirit,ARBUE-ASD-0896,9978950,701155586,LUGU1,AR,Buenos,ASD,Azimuth Stern Drive,Class B,Signet Maritime,78,31,12.3,6.4,3986,13.9,1995,None,200,6,Standby
+897,ARBUE,Nimble IV,ARBUE-ASD-0897,9924265,701757456,LUZH64,AR,Buenos,ASD,Azimuth Stern Drive,Class A,Crowley Maritime,81,41.1,13.6,6,4258,12.2,2010,FiFi 1,120,8,Operational
+898,ARBUE,Santos 1,ARBUE-ASD-0898,9775979,351987552,HPRC19,PA,Panama City,ASD,Azimuth Stern Drive,Class B,Moran Towing,76,31.2,11,5.4,4888,13,2005,FiFi 1,75,7,Operational
+899,ARBUE,Strong Star,ARBUE-ASD-0899,9190230,701437811,LUEE05,AR,Buenos,ASD,Azimuth Stern Drive,Class B,McAllister Towing,70,36,11.8,6.1,5879,13.9,2017,FiFi 1 WS,150,8,Operational
+900,ARBUE,Titan 5,ARBUE-CON-0900,9526815,209730453,5BHB4,CY,Limassol,Conventional,Conventional Twin Screw,Class D,Bay-Houston Towing,40,34.8,11.7,4.2,4264,12,2016,None,50,4,Operational
+901,ARBUE,Houston Voyager,ARBUE-TRC-0901,9471822,701444245,LULN98,AR,Buenos,Tractor,Tractor Tug,Class B,Suderman & Young,63,34.7,14.6,6,6347,13.4,2013,FiFi 1,50,5,Operational
+902,ARBUE,Captain 5,ARBUE-CON-0902,9977773,701523241,LUMDB82,AR,Buenos,Conventional,Conventional Twin Screw,Class D,Suderman & Young,32,27.7,9.2,4,3881,10.3,1995,None,30,3,Operational
+903,ARBUE,Dolphin 5,ARBUE-TRC-0903,9068036,701955758,LUJLP99,AR,Buenos,Tractor,Tractor Tug,Class C,Suderman & Young,54,35.4,12.6,5.7,4332,12,2021,FiFi 1,30,7,Operational
+904,ARBUE,Marine 7,ARBUE-ESC-0904,9324037,701878140,LUZK1,AR,Buenos,Escort,Escort Tug,Class B,Wilson Sons,76,44.1,17.5,5.7,6804,13.1,2000,None,200,6,Operational
+905,ARBUE,Triton Pride,ARBUE-ASD-0905,9598658,701744246,LUKVX52,AR,Buenos,ASD,Azimuth Stern Drive,Class B,Seabulk Towing,64,38,13.6,5.9,5088,13.3,2012,FiFi 2,75,8,Operational
+906,ARBUE,Tiger 10,ARBUE-ESC-0906,9416878,701234575,LUESZ01,AR,Buenos,Escort,Escort Tug,Class A,Ultratug,92,37.6,16.7,6.8,8607,15.2,1995,FiFi 2,100,4,Operational
+907,ARBUE,Goliath Pride,ARBUE-TRC-0907,9642256,538969521,V7ZJZ03,MH,Majuro,Tractor,Tractor Tug,Class A,Seabulk Towing,83,30.3,14.9,5.3,4531,12.2,2021,FiFi 1,30,8,Operational
+908,ARBUE,Eagle Defender,ARBUE-VSP-0908,9059524,701428576,LUUXH1,AR,Buenos,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,McAllister Towing,68,34.6,10.4,5.2,5174,11.1,2001,FiFi 1,50,4,Standby
+909,ARBUE,Thor Warrior,ARBUE-TRC-0909,9053164,701859357,LUGDG0,AR,Buenos,Tractor,Tractor Tug,Class B,Bisso Towboat,69,39.1,14.2,5.8,4417,12.5,2016,FiFi 1,30,4,Standby
+910,PAMIT,Shark 2,PAMIT-ASD-0910,9199228,351860998,HPLLN02,PA,Manzanillo,ASD,Azimuth Stern Drive,Class C,Ultratug,56,32.2,13.1,6.2,6631,13.6,2020,FiFi 2,200,6,Operational
+911,PAMIT,Falcon 8,PAMIT-ASD-0911,9619801,351110191,HPFM54,PA,Manzanillo,ASD,Azimuth Stern Drive,Class A,SAAM Towage,86,29.6,13.5,5.9,4588,13.9,2010,FiFi 1,50,4,Operational
+912,PAMIT,Baltic 6,PAMIT-TRC-0912,9980673,351243376,HPMPZ09,PA,Manzanillo,Tractor,Tractor Tug,Class C,Atlantic Towing,53,32.9,13.7,5.1,4110,12.3,1995,FiFi 2,30,5,Operational
+913,PAMIT,Falcon Champion,PAMIT-VSP-0913,9175611,351462735,HPJKL19,PA,Manzanillo,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Bay-Houston Towing,70,35.3,10.3,4.4,4082,12.8,1998,FiFi 2,30,5,Operational
+914,PAMIT,Chief Voyager,PAMIT-ASD-0914,9362243,351599429,HPBEX2,PA,Manzanillo,ASD,Azimuth Stern Drive,Class C,Wilson Sons,54,38,12.1,6.1,5599,12.2,2014,FiFi 1,200,5,Operational
+915,PAMIT,Quick 3,PAMIT-ASD-0915,9242599,351212902,HPTE3,PA,Manzanillo,ASD,Azimuth Stern Drive,Class A,G&H Towing,89,36.5,13.1,5,5419,13.6,2011,FiFi 2,50,8,Maintenance
+916,PAMIT,Shark Champion,PAMIT-ASD-0916,9737258,351712709,HPHAD9,PA,Manzanillo,ASD,Azimuth Stern Drive,Class C,Smit Rebras,52,39.2,11.4,4.7,4221,12.3,2017,FiFi 1,120,8,Operational
+917,PAMIT,Hawk 6,PAMIT-ASD-0917,9042429,538328090,V7FPT07,MH,Majuro,ASD,Azimuth Stern Drive,Class B,Bay-Houston Towing,61,29.2,14.3,5.1,4095,12.2,2023,None,200,6,Operational
+918,PAMIT,Orca 9,PAMIT-VSP-0918,9923102,351349553,HPXBJ63,PA,Manzanillo,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Crowley Maritime,45,36,13.4,5.1,4233,11.1,2009,None,30,6,Operational
+919,PAMIT,Captain 1,PAMIT-ASD-0919,9027494,351105412,HPRW1,PA,Manzanillo,ASD,Azimuth Stern Drive,Class A,Intertug,90,31.6,11.9,4.5,3657,13.7,2012,FiFi 1,100,7,Operational
+920,PAMIT,Quick 9,PAMIT-VSP-0920,9092610,351991786,HPSFS1,PA,Manzanillo,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Signet Maritime,53,28.1,11,4.3,4579,12.8,1998,FiFi 2,75,5,Operational
+921,PAMIT,Reliable 6,PAMIT-ESC-0921,9976720,351771946,HPJLD2,PA,Manzanillo,Escort,Escort Tug,Class B,Ultratug,79,44.4,17.2,6.7,6012,14.3,2016,FiFi 1 WS,120,4,Operational
+922,PAMIT,Santos 7,PAMIT-ASD-0922,9597193,351519759,HPXBL9,PA,Manzanillo,ASD,Azimuth Stern Drive,Class C,Smit Rebras,57,30,12,4.6,4711,13.3,2004,FiFi 1,50,8,Operational
+923,PABLB,Sea 7,PABLB-CON-0923,9387811,351551516,HPTA4,PA,Balboa,Conventional,Conventional Twin Screw,Class D,Crowley Maritime,38,31.8,9.5,5.2,3950,11.2,2012,None,50,5,Standby
+924,PABLB,Mumbai 1,PABLB-HBR-0924,9748231,351767599,HPWSF95,PA,Balboa,Harbor,Harbor Assist Tug,Class D,Foss Maritime,42,21.7,9.7,3.7,2053,12,2011,None,50,5,Operational
+925,PABLB,Dolphin Spirit,PABLB-ASD-0925,9204368,351811710,HPUR9,PA,Balboa,ASD,Azimuth Stern Drive,Class B,Foss Maritime,73,41.2,12.5,5.9,4331,12,2019,FiFi 1,50,4,Operational
+926,PABLB,Falcon I,PABLB-ESC-0926,9336042,351954291,HPQWY2,PA,Balboa,Escort,Escort Tug,Class A+,Crowley Maritime,120,37,15.3,5.8,8090,13.1,2001,FiFi 1,120,8,Operational
+927,PABLB,Commodore 10,PABLB-ASD-0927,9942256,351116872,HPVRN87,PA,Balboa,ASD,Azimuth Stern Drive,Class B,Foss Maritime,61,28.4,12.5,5,4620,12.3,2006,FiFi 1 WS,200,8,Operational
+928,PABLB,Rotterdam III,PABLB-OCN-0928,9655395,351563000,HPWAH69,PA,Balboa,Ocean-going,Ocean-going Salvage Tug,Class A+,Ultratug,161,79.6,17.7,6.2,10507,14.2,2016,FiFi 1,120,10,Operational
+929,PABLB,Eagle Glory,PABLB-VSP-0929,9703794,351110133,HPZN7,PA,Balboa,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Wilson Sons,69,31,10.4,4.9,3177,11.7,1995,FiFi 1,30,3,Operational
+930,PABLB,Captain 2,PABLB-TRC-0930,9820388,351653611,HPTCD64,PA,Balboa,Tractor,Tractor Tug,Class B,Bisso Towboat,67,39.7,13,6.1,5570,13.7,2017,FiFi 1,30,4,Operational
+931,PABLB,Steady 9,PABLB-ASD-0931,9319676,351534084,HPCUJ16,PA,Balboa,ASD,Azimuth Stern Drive,Class B,G&H Towing,66,39.4,11.4,4.6,4276,12.2,2019,FiFi 2,100,8,Operational
+932,PABLB,Ocean Voyager,PABLB-TRC-0932,9031912,538874448,V7PP10,MH,Majuro,Tractor,Tractor Tug,Class C,Foss Maritime,50,30.3,12.8,5.5,5690,12,2012,FiFi 1,50,5,Maintenance
+933,PABLB,Force Star,PABLB-CON-0933,9739135,351705267,HPKX50,PA,Balboa,Conventional,Conventional Twin Screw,Class D,Wilson Sons,38,34,10.7,4.6,2625,10.5,1995,None,75,3,Operational
+934,PABLB,Shark Glory,PABLB-CON-0934,9065153,576825363,YJVZT9,VU,Port Vila,Conventional,Conventional Twin Screw,Class C,SAAM Towage,59,30.2,11.4,5.1,2330,11.4,2024,None,50,5,Operational
+935,AUMEL,Dolphin III,AUMEL-ASD-0935,9595422,503819837,VKTPX62,AU,Melbourne,ASD,Azimuth Stern Drive,Class A,Engage Marine,88,28.1,11.5,6.5,3858,12.2,2008,None,200,5,Operational
+936,AUMEL,Marine Champion,AUMEL-CON-0936,9701379,503108799,VKZX2,AU,Melbourne,Conventional,Conventional Twin Screw,Class D,Smit Marine Australia,40,30.5,11.1,4.3,4103,11.1,2020,None,50,6,Operational
+937,AUMEL,Dubai 7,AUMEL-CON-0937,9323329,503430096,VKQC5,AU,Melbourne,Conventional,Conventional Twin Screw,Class D,Teekay Shipping Australia,44,31.3,9.3,4.3,4254,11.4,2018,None,30,3,Operational
+938,AUMEL,Quick 4,AUMEL-ASD-0938,9765608,503957977,VKUF7,AU,Melbourne,ASD,Azimuth Stern Drive,Class A,Rivtow Marine,81,28,11.4,5.4,3697,13.6,2003,None,200,7,Operational
+939,AUMEL,Atlas 8,AUMEL-CON-0939,9135058,503425246,VKVU6,AU,Melbourne,Conventional,Conventional Twin Screw,Class D,Rivtow Marine,34,30.5,11.9,4.2,2506,11.4,2014,None,30,6,Operational
+940,AUMEL,Rotterdam 2,AUMEL-CON-0940,9801183,538704831,V7KTZ67,MH,Majuro,Conventional,Conventional Twin Screw,Class D,Rivtow Marine,43,30.3,11.2,4.1,2748,10.5,2007,None,75,3,Operational
+941,AUMEL,Triton V,AUMEL-ESC-0941,9765858,503987022,VKRTK77,AU,Melbourne,Escort,Escort Tug,Class A,Teekay Shipping Australia,88,38,17.8,5.5,7666,15.2,2012,FiFi 1,75,4,Operational
+942,AUMEL,Triton 4,AUMEL-ASD-0942,9442013,503899501,VKYKQ14,AU,Melbourne,ASD,Azimuth Stern Drive,Class B,PB Towage,74,34.2,11.6,5,5908,13.5,1995,None,75,5,Operational
+943,AUMEL,Hamburg V,AUMEL-VSP-0943,9089385,503158333,VKPXX0,AU,Melbourne,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Engage Marine,65,28.2,13.5,4.8,4476,11,1999,None,75,6,Operational
+944,AUMEL,Ocean Spirit,AUMEL-VSP-0944,9973947,503597314,VKNK4,AU,Melbourne,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Engage Marine,50,29.4,13.4,4.9,4298,11.4,1998,None,50,5,Operational
+945,AUMEL,Pilot Pioneer,AUMEL-CON-0945,9624042,308117430,C6WC0,BS,Nassau,Conventional,Conventional Twin Screw,Class C,Smit Marine Australia,59,30.7,10.3,5.5,2070,11.7,1995,None,75,4,Operational
+946,AUMEL,Singapore 1,AUMEL-ASD-0946,9957850,503386247,VKTEG66,AU,Melbourne,ASD,Azimuth Stern Drive,Class B,Svitzer Australia,66,31,13.2,6.3,5699,13.8,2011,FiFi 1,200,5,Operational
+947,AUMEL,Titan Star,AUMEL-ESC-0947,9730130,503958106,VKVD41,AU,Melbourne,Escort,Escort Tug,Class A+,Svitzer Australia,116,35,14.5,6.6,6129,13.8,2016,FiFi 1,75,5,Operational
+948,AUMEL,Atlas Champion,AUMEL-ASD-0948,9087919,503376820,VKWUU12,AU,Melbourne,ASD,Azimuth Stern Drive,Class C,Rivtow Marine,53,36.5,13.1,5.2,4531,13.4,2021,FiFi 1,75,4,Operational
+949,AUMEL,Mighty 6,AUMEL-ESC-0949,9109553,503347531,VKKU8,AU,Melbourne,Escort,Escort Tug,Class A,Ports of Auckland Tug,87,40.8,17.2,6.1,7848,14.3,2001,FiFi 1,100,6,Operational
+950,AUMEL,Sea 6,AUMEL-ASD-0950,9710599,503204732,VKRW27,AU,Melbourne,ASD,Azimuth Stern Drive,Class B,Rivtow Marine,69,30.9,12.4,4.6,3806,13,2022,FiFi 2,120,7,Operational
+951,AUMEL,Titan Warrior,AUMEL-ASD-0951,9128085,503758956,VKWHA84,AU,Melbourne,ASD,Azimuth Stern Drive,Class C,Engage Marine,57,39.2,13.5,5.4,5601,12.3,2017,FiFi 1 WS,50,7,Operational
+952,AUMEL,Chief 4,AUMEL-TRC-0952,9586487,503646544,VKVPJ10,AU,Melbourne,Tractor,Tractor Tug,Class B,Rivtow Marine,64,32.4,12.1,5.8,4002,13.5,2019,FiFi 2,75,8,Operational
+953,AUMEL,Santos 5,AUMEL-ASD-0953,9336784,503114428,VKZSG1,AU,Melbourne,ASD,Azimuth Stern Drive,Class B,Rivtow Marine,79,41.6,14.1,5.8,5520,13.1,2004,FiFi 1,100,7,Operational
+954,AUMEL,Sea Voyager,AUMEL-CON-0954,9473656,503802818,VKXVF61,AU,Melbourne,Conventional,Conventional Twin Screw,Class C,Teekay Shipping Australia,53,32.1,9.8,5.1,4129,10.8,2010,None,75,6,Operational
+955,AUMEL,Powerful 7,AUMEL-TRC-0955,9525291,209337605,5BXQ5,CY,Limassol,Tractor,Tractor Tug,Class B,Engage Marine,78,36.5,13.2,5.4,4041,12.1,2022,None,75,6,Operational
+956,AUMEL,Quick V,AUMEL-ASD-0956,9171475,503700909,VKMCZ89,AU,Melbourne,ASD,Azimuth Stern Drive,Class A,Svitzer Australia,80,41,14.4,5.9,6990,12.9,2010,FiFi 1 WS,120,8,Operational
+957,AUMEL,Marine V,AUMEL-ASD-0957,9900039,503997758,VKVKG44,AU,Melbourne,ASD,Azimuth Stern Drive,Class C,PB Towage,50,28,12.1,4.8,6154,13.9,2016,FiFi 1,120,5,Operational
+958,AUMEL,Orca Voyager,AUMEL-ASD-0958,9207931,503530352,VKLAM19,AU,Melbourne,ASD,Azimuth Stern Drive,Class B,Svitzer Australia,66,32.8,14.3,4.5,4583,13.2,2016,FiFi 2,100,6,Operational
+959,AUMEL,Neptune 6,AUMEL-HBR-0959,9226072,503779413,VKBP1,AU,Melbourne,Harbor,Harbor Assist Tug,Class D,Ports of Auckland Tug,31,26.2,8.6,4.6,2816,10,2013,None,75,4,Operational
+960,AUSYD,Captain V,AUSYD-TRC-0960,9543232,503481827,VKKC19,AU,Sydney,Tractor,Tractor Tug,Class B,Smit Marine Australia,60,37.8,12.3,5,6214,13.8,1995,FiFi 1 WS,30,4,Operational
+961,AUSYD,Nimble I,AUSYD-ASD-0961,9193160,503906661,VKBJQ0,AU,Sydney,ASD,Azimuth Stern Drive,Class C,PB Towage,53,31,12.6,6.5,5765,13.8,2008,None,120,8,Operational
+962,AUSYD,Dubai V,AUSYD-TRC-0962,9133812,503632515,VKPDG47,AU,Sydney,Tractor,Tractor Tug,Class C,Teekay Shipping Australia,53,32.9,15,5.1,6257,13.7,2006,FiFi 1,50,6,Operational
+963,AUSYD,Mumbai III,AUSYD-VSP-0963,9133093,503368060,VKMGM96,AU,Sydney,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Ports of Auckland Tug,59,36.9,12.9,4.7,3240,11.3,2008,None,75,3,Operational
+964,AUSYD,Commodore III,AUSYD-ASD-0964,9413470,503935878,VKGB58,AU,Sydney,ASD,Azimuth Stern Drive,Class A,Engage Marine,86,32.1,12.6,4.6,4969,13.6,2019,FiFi 1,120,6,Operational
+965,AUSYD,Lion 8,AUSYD-VSP-0965,9866974,503366895,VKUL77,AU,Sydney,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Rivtow Marine,59,35.5,11.9,5.5,5006,11.2,2001,FiFi 1 WS,30,3,Maintenance
+966,AUSYD,Agile Pride,AUSYD-ASD-0966,9715801,503770728,VKXM7,AU,Sydney,ASD,Azimuth Stern Drive,Class B,Engage Marine,69,30.3,11.5,6.3,6346,13.1,2018,FiFi 1,150,5,Operational
+967,AUSYD,Hawk Voyager,AUSYD-CON-0967,9746494,503410489,VKWYU9,AU,Sydney,Conventional,Conventional Twin Screw,Class D,Ports of Auckland Tug,33,29.5,11.7,4.2,4162,10.7,2003,None,50,4,Operational
+968,AUSYD,Strong I,AUSYD-TRC-0968,9007149,503217350,VKVD7,AU,Sydney,Tractor,Tractor Tug,Class C,Svitzer Australia,57,35.2,12.5,6.2,4004,12.4,2002,None,50,4,Operational
+969,AUSYD,Agile 7,AUSYD-CON-0969,9276675,503556701,VKZJ8,AU,Sydney,Conventional,Conventional Twin Screw,Class D,Rivtow Marine,38,29.9,9.1,4.9,4449,10.8,2009,None,75,3,Operational
+970,AUSYD,Hamburg 5,AUSYD-CON-0970,9905672,503633416,VKYAV3,AU,Sydney,Conventional,Conventional Twin Screw,Class C,Rivtow Marine,51,31,11.2,4.1,4314,11.8,2009,None,50,5,Operational
+971,AUSYD,Master 2,AUSYD-ASD-0971,9782154,503506719,VKJW66,AU,Sydney,ASD,Azimuth Stern Drive,Class A,Svitzer Australia,87,36.1,14.8,5.1,5207,13.6,2014,FiFi 1,50,7,Operational
+972,AUSYD,Quick Champion,AUSYD-VSP-0972,9234711,538146451,V7UQG0,MH,Majuro,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Ports of Auckland Tug,61,37.7,10.1,4.9,4162,12.1,2019,FiFi 1,75,4,Operational
+973,AUBNE,Strong Warrior,AUBNE-ASD-0973,9614886,636177074,ELCZF62,LR,Monrovia,ASD,Azimuth Stern Drive,Class B,Rivtow Marine,61,30.7,12.2,6.5,5179,14,2018,FiFi 2,50,7,Operational
+974,AUBNE,Hercules 8,AUBNE-ASD-0974,9100673,503371072,VKXUX9,AU,Brisbane,ASD,Azimuth Stern Drive,Class C,Engage Marine,55,29.4,12.7,4.9,4282,13.3,2007,FiFi 1 WS,200,7,Operational
+975,AUBNE,Nimble 5,AUBNE-VSP-0975,9308271,576617607,YJQXR22,VU,Port Vila,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Engage Marine,48,37,10.6,4.9,3439,11.4,2024,FiFi 2,75,5,Operational
+976,AUBNE,Triton 7,AUBNE-TRC-0976,9990355,503327782,VKPVM99,AU,Brisbane,Tractor,Tractor Tug,Class B,Teekay Shipping Australia,62,37.7,14.9,6.2,6373,13.4,2017,FiFi 1,50,4,Operational
+977,AUBNE,Orca V,AUBNE-ESC-0977,9889005,636883801,ELFAX0,LR,Monrovia,Escort,Escort Tug,Class A,Teekay Shipping Australia,82,38.4,16.9,6.3,6773,13.8,2008,FiFi 1,75,6,Operational
+978,AUBNE,Agile 6,AUBNE-TRC-0978,9938040,503712699,VKNSZ6,AU,Brisbane,Tractor,Tractor Tug,Class B,Svitzer Australia,73,35.1,14.3,5,5692,13.3,2013,FiFi 1,75,8,Operational
+979,AUBNE,Master 5,AUBNE-OCN-0979,9267273,503282304,VKNLU18,AU,Brisbane,Ocean-going,Ocean-going Salvage Tug,Class A+,Svitzer Australia,158,75.5,17.4,7.1,12635,14.2,2003,FiFi 2,50,13,Standby
+980,AUBNE,Quick Star,AUBNE-VSP-0980,9049609,503373469,VKRH9,AU,Brisbane,Voith-Schneider,Voith Schneider Propeller (VSP),Class B,Ports of Auckland Tug,60,33,11.5,4.6,4546,12.9,2017,FiFi 2,50,5,Maintenance
+981,AUBNE,Valiant 1,AUBNE-ESC-0981,9505008,538975178,V7NBQ10,MH,Majuro,Escort,Escort Tug,Class A+,PB Towage,108,41.8,14.5,5.9,7990,14.8,1999,None,200,7,Operational
+982,AUBNE,Houston Pioneer,AUBNE-ESC-0982,9766400,503855258,VKYVW93,AU,Brisbane,Escort,Escort Tug,Class B,PB Towage,78,36.4,17.8,5.9,7690,14,2004,FiFi 1 WS,50,7,Operational
+983,AUBNE,Ocean 6,AUBNE-ASD-0983,9303439,636633031,ELJPH9,LR,Monrovia,ASD,Azimuth Stern Drive,Class C,Ports of Auckland Tug,51,33,13.8,5.3,6968,12.1,2010,FiFi 1,50,8,Standby
+984,AUBNE,Tiger 6,AUBNE-CON-0984,9231197,503169079,VKPQ5,AU,Brisbane,Conventional,Conventional Twin Screw,Class C,Svitzer Australia,51,30.3,11.7,4.4,2387,12,1997,None,75,6,Operational
+985,AUBNE,Falcon 10,AUBNE-CON-0985,9485733,503177143,VKTWE7,AU,Brisbane,Conventional,Conventional Twin Screw,Class D,Svitzer Australia,30,31.7,10.7,4.3,4430,10.3,2008,None,50,3,Standby
+986,AUBNE,Ocean 3,AUBNE-CON-0986,9343409,503472513,VKVV4,AU,Brisbane,Conventional,Conventional Twin Screw,Class D,Teekay Shipping Australia,44,28.3,10.8,4.5,2273,11.4,2010,None,30,4,Operational
+987,AUBNE,Swift Glory,AUBNE-CON-0987,9231667,503375620,VKXT15,AU,Brisbane,Conventional,Conventional Twin Screw,Class C,PB Towage,52,31.3,11.4,5.4,3558,10.1,2003,None,75,6,Operational
+988,AUBNE,Dubai Pioneer,AUBNE-ASD-0988,9959817,503457801,VKXM6,AU,Brisbane,ASD,Azimuth Stern Drive,Class B,Engage Marine,68,34.9,14.2,5.7,3501,12.8,1998,FiFi 1,50,6,Operational
+989,AUBNE,Valiant 8,AUBNE-ASD-0989,9877797,503804847,VKYJN3,AU,Brisbane,ASD,Azimuth Stern Drive,Class B,Teekay Shipping Australia,63,35.3,13.6,6.2,4432,13.9,2017,FiFi 1 WS,120,5,Operational
+990,AUFRE,Triton Champion,AUFRE-ASD-0990,9279055,503238713,VKFH78,AU,Fremantle,ASD,Azimuth Stern Drive,Class B,PB Towage,62,34.6,11.8,6.2,4720,13.4,2018,FiFi 1 WS,120,6,Operational
+991,AUFRE,Rotterdam 8,AUFRE-HBR-0991,9810120,538897865,V7NPX46,MH,Majuro,Harbor,Harbor Assist Tug,Class D,Svitzer Australia,31,25.6,8.1,3.6,2526,11.9,2014,None,75,3,Operational
+992,AUFRE,Master 8,AUFRE-VSP-0992,9742829,503325366,VKHRN4,AU,Fremantle,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Ports of Auckland Tug,51,36,13.1,4.7,3241,11.3,2002,FiFi 1,75,5,Operational
+993,AUFRE,Agile 3,AUFRE-TRC-0993,9018229,538723527,V7LYL8,MH,Majuro,Tractor,Tractor Tug,Class A,Teekay Shipping Australia,81,34.2,13.2,6.4,5306,12.3,2000,None,50,8,Operational
+994,AUFRE,Hamburg III,AUFRE-CON-0994,9564903,503892998,VKVT9,AU,Fremantle,Conventional,Conventional Twin Screw,Class D,Teekay Shipping Australia,33,28,9.5,4.4,2297,11.9,2010,None,50,6,Operational
+995,AUFRE,Orca Champion,AUFRE-ASD-0995,9941045,503842510,VKEAU47,AU,Fremantle,ASD,Azimuth Stern Drive,Class B,Rivtow Marine,69,36.2,12.2,5.2,4842,12.2,2014,FiFi 1,150,6,Operational
+996,AUFRE,Thor 2,AUFRE-CON-0996,9539285,503822568,VKGX99,AU,Fremantle,Conventional,Conventional Twin Screw,Class C,Ports of Auckland Tug,58,25.6,11.8,4,3976,10,1998,None,75,3,Operational
+997,AUFRE,Triton 5,AUFRE-ASD-0997,9538974,503167269,VKQG7,AU,Fremantle,ASD,Azimuth Stern Drive,Class A,Rivtow Marine,87,32.8,13.5,5.9,6412,12.2,2001,FiFi 1,200,5,Operational
+998,AUFRE,Santos 6,AUFRE-CON-0998,9158945,503323192,VKDMU1,AU,Fremantle,Conventional,Conventional Twin Screw,Class C,Rivtow Marine,55,25.6,10.9,4.5,2764,11.1,2012,None,75,6,Operational
+999,AUFRE,Victoria 2,AUFRE-CON-0999,9695845,503850942,VKPEE3,AU,Fremantle,Conventional,Conventional Twin Screw,Class D,Svitzer Australia,34,34.7,11.8,4.4,2946,10.6,2013,None,50,3,Operational
+1000,AUFRE,Shark IV,AUFRE-HBR-1000,9858209,308663937,C6CKF51,BS,Nassau,Harbor,Harbor Assist Tug,Class E,Rivtow Marine,21,23,9.8,4,1747,11.1,2002,None,50,5,Operational
+1001,AUFRE,Thor II,AUFRE-ASD-1001,9661492,215950516,9HABL57,MT,Valletta,ASD,Azimuth Stern Drive,Class A,Teekay Shipping Australia,83,34.8,14.2,6.4,6845,12.5,2010,FiFi 2,50,5,Operational
+1002,AUFRE,Powerful III,AUFRE-CON-1002,9307909,503358678,VKGC2,AU,Fremantle,Conventional,Conventional Twin Screw,Class B,Rivtow Marine,60,25.2,9.3,5.2,2629,11.6,2019,None,50,4,Standby
+1003,AUFRE,Chief 1,AUFRE-ASD-1003,9654496,503444541,VKFXW32,AU,Fremantle,ASD,Azimuth Stern Drive,Class B,Engage Marine,76,30.6,12.1,6,6105,13.8,2012,FiFi 2,50,7,Operational
+1004,NZAKL,Force Voyager,NZAKL-CON-1004,9440400,512293047,ZLHE1,NZ,Auckland,Conventional,Conventional Twin Screw,Class D,Smit Marine Australia,44,27.2,10.3,4.2,2643,10.1,2022,None,50,4,Operational
+1005,NZAKL,Tiger IV,NZAKL-ESC-1005,9096683,512734197,ZLFHE52,NZ,Auckland,Escort,Escort Tug,Class A,PB Towage,83,44.4,14.2,6,7164,15.1,2007,FiFi 1,200,7,Operational
+1006,NZAKL,Dubai II,NZAKL-VSP-1006,9597922,512546142,ZLRQT50,NZ,Auckland,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Ports of Auckland Tug,53,29.8,11.2,5.1,4638,11.1,1997,FiFi 2,75,3,Operational
+1007,NZAKL,Victoria 5,NZAKL-CON-1007,9241234,215601811,9HGB8,MT,Valletta,Conventional,Conventional Twin Screw,Class C,Rivtow Marine,49,31.5,9.5,5.2,3176,12,1999,None,75,3,Maintenance
+1008,NZAKL,Rapid 6,NZAKL-VSP-1008,9717673,512211456,ZLUHA82,NZ,Auckland,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,PB Towage,55,31.7,13.5,4.1,4939,11.3,2008,None,75,6,Operational
+1009,NZAKL,Sea I,NZAKL-ASD-1009,9383941,209644407,5BKDY06,CY,Limassol,ASD,Azimuth Stern Drive,Class A,Ports of Auckland Tug,80,40.2,14.3,5.6,6881,13.3,2008,FiFi 1,100,5,Operational
+1010,NZAKL,Atlas Voyager,NZAKL-VSP-1010,9844896,512564290,ZLELX9,NZ,Auckland,Voith-Schneider,Voith Schneider Propeller (VSP),Class C,Svitzer Australia,48,32.6,10.1,4.1,4219,11.8,2024,FiFi 1,75,4,Operational
+1011,NZAKL,Triton 2,NZAKL-ASD-1011,9304887,512159516,ZLMZP52,NZ,Auckland,ASD,Azimuth Stern Drive,Class C,Teekay Shipping Australia,54,41.4,13,4.9,6122,13.9,2008,FiFi 1,75,8,Operational

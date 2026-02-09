@@ -1,0 +1,433 @@
+{
+  "timestamp": "2026-02-04T22:29:31.437596",
+  "model": "claude-opus-4-20250514",
+  "vessels_processed": 9,
+  "eta_predictions": [
+    {
+      "vessel_id": 24,
+      "vessel_name": "Indian Progress",
+      "current_position": [
+        18.9488,
+        72.9412
+      ],
+      "distance_nm": 0.22,
+      "current_speed": 3.0,
+      "weather_factor": 1.0,
+      "base_eta_hours": 0.07,
+      "adjusted_eta_hours": 0.07,
+      "predicted_eta": "2026-02-05T00:03:56.539533",
+      "confidence_score": 75.0,
+      "factors": {
+        "distance_nm": 0.22,
+        "current_speed": 3.0,
+        "adjusted_speed": 3.0,
+        "weather_factor": 1.0,
+        "wind_speed": 15.0,
+        "wave_height": 1.0,
+        "historical_delay_avg": 9.561570796460177,
+        "approach_time_hours": 1.5
+      },
+      "ai_explanation": "**ETA Analysis for MV Indian Progress:**\n\nThe vessel is extremely close to port (0.22 NM) at minimal speed (3.0 knots), suggesting it's likely in the approach channel or holding pattern awaiting berth availability, with an expected arrival in approximately 4-5 minutes under current conditions. The significant historical average delay of 9.6 hours for this vessel, combined with the 75% confidence score, indicates potential berthing slot conflicts or operational constraints that typically affect this bulk carrier's port calls.\n\n**Recommendation:** Given the vessel's deep draft (12.5m) against JNPT's 14.5m channel depth, coordinate immediate pilot boarding and tug assistance while monitoring current tide levels to ensure adequate UKC for safe berthing operations."
+    },
+    {
+      "vessel_id": 7,
+      "vessel_name": "MSC Perle",
+      "current_position": [
+        19.627633,
+        73.424411
+      ],
+      "distance_nm": 49.31,
+      "current_speed": 3.8,
+      "weather_factor": 1.0,
+      "base_eta_hours": 12.98,
+      "adjusted_eta_hours": 12.98,
+      "predicted_eta": "2026-02-05T12:58:23.659304",
+      "confidence_score": 75.0,
+      "factors": {
+        "distance_nm": 49.31,
+        "current_speed": 3.8,
+        "adjusted_speed": 3.8,
+        "weather_factor": 1.0,
+        "wind_speed": 15.0,
+        "wave_height": 1.0,
+        "historical_delay_avg": 9.30412598425197,
+        "approach_time_hours": 1.5
+      },
+      "ai_explanation": "Based on the vessel's current speed of 3.8 knots over 49.31 NM, MSC Perle's calculated ETA is approximately 13 hours, though historical data suggests an additional 9.3-hour delay is likely, resulting in a total expected arrival time of ~22 hours. The vessel's 14.5m draft exactly matches JNPT's channel depth, requiring careful tide window planning for safe entry, while the moderate confidence score (75%) reflects uncertainty from the unusually low speed and reliance on historical delay patterns.\n\nI recommend coordinating with the vessel to confirm if the reduced speed is intentional (fuel optimization/schedule alignment) or due to unreported issues, and pre-arranging pilot/tug resources for the critical tidal window given the zero UKC margin."
+    },
+    {
+      "vessel_id": 16,
+      "vessel_name": "ONE Competence",
+      "current_position": [
+        16.9183,
+        73.823211
+      ],
+      "distance_nm": 131.74,
+      "current_speed": 8.8,
+      "weather_factor": 1.0,
+      "base_eta_hours": 14.97,
+      "adjusted_eta_hours": 14.97,
+      "predicted_eta": "2026-02-05T14:58:14.975254",
+      "confidence_score": 80.0,
+      "factors": {
+        "distance_nm": 131.74,
+        "current_speed": 8.8,
+        "adjusted_speed": 8.8,
+        "weather_factor": 1.0,
+        "wind_speed": 15.0,
+        "wave_height": 1.0,
+        "historical_delay_avg": 9.30412598425197,
+        "approach_time_hours": 1.5
+      },
+      "ai_explanation": "The vessel ONE Competence is expected to arrive at JNPT in approximately 15 hours under current favorable conditions (weather factor 1.0), though historical data suggests an additional 9.3-hour delay is typical for vessels at this port. The 80% confidence score reflects good predictability given ideal weather conditions (15-knot winds, 1m waves) and consistent vessel speed at 8.8 knots.\n\n**Recommendation:** Pre-allocate berth and resources based on the predicted arrival window (24.3 hours total), and monitor for any speed changes as the vessel approaches the 50 NM mark where port congestion typically affects arrival times."
+    },
+    {
+      "vessel_id": 18,
+      "vessel_name": "ZIM Mumbai",
+      "current_position": [
+        16.60635,
+        71.071144
+      ],
+      "distance_nm": 176.45,
+      "current_speed": 15.9,
+      "weather_factor": 1.0,
+      "base_eta_hours": 11.1,
+      "adjusted_eta_hours": 11.1,
+      "predicted_eta": "2026-02-05T11:06:03.240223",
+      "confidence_score": 80.0,
+      "factors": {
+        "distance_nm": 176.45,
+        "current_speed": 15.9,
+        "adjusted_speed": 15.9,
+        "weather_factor": 1.0,
+        "wind_speed": 15.0,
+        "wave_height": 1.0,
+        "historical_delay_avg": 9.30412598425197,
+        "approach_time_hours": 1.5
+      },
+      "ai_explanation": "The ZIM Mumbai is expected to arrive in approximately 11.1 hours under current favorable conditions (weather factor 1.0), though historical data suggests an additional 9.3-hour delay is typical for this route, resulting in a total ETA of ~20.4 hours. The 80% confidence score reflects good predictability given ideal weather conditions (15kt winds, 1m waves) and consistent vessel speed.\n\nI recommend pre-allocating berth resources for the adjusted arrival time while monitoring for any speed changes during approach, as the vessel's 12.5m draft will require adequate tidal window planning at JNPT's 14.5m channel depth."
+    },
+    {
+      "vessel_id": 14,
+      "vessel_name": "HMM Promise",
+      "current_position": [
+        15.92765,
+        69.961678
+      ],
+      "distance_nm": 248.84,
+      "current_speed": 15.2,
+      "weather_factor": 1.0,
+      "base_eta_hours": 16.37,
+      "adjusted_eta_hours": 16.37,
+      "predicted_eta": "2026-02-05T16:22:41.025002",
+      "confidence_score": 75.0,
+      "factors": {
+        "distance_nm": 248.84,
+        "current_speed": 15.2,
+        "adjusted_speed": 15.2,
+        "weather_factor": 1.0,
+        "wind_speed": 15.0,
+        "wave_height": 1.0,
+        "historical_delay_avg": 9.30412598425197,
+        "approach_time_hours": 1.5
+      },
+      "ai_explanation": "Based on current conditions, HMM Promise is expected to arrive in approximately 16.4 hours (248.84 NM \u00f7 15.2 knots) under ideal weather conditions with no speed reduction required. However, the historical average delay of 9.3 hours suggests potential congestion at JNPT, which could extend the actual berthing time to approximately 25.7 hours from now. Given the vessel's maximum draft of 14.5m matching the channel depth limit, I recommend coordinating with the harbor master for optimal tidal window scheduling and pre-arranging pilot/tug services to minimize the typical delay pattern."
+    },
+    {
+      "vessel_id": 28,
+      "vessel_name": "Chem Galaxy",
+      "current_position": [
+        16.033767,
+        74.250822
+      ],
+      "distance_nm": 190.24,
+      "current_speed": 14.0,
+      "weather_factor": 1.0,
+      "base_eta_hours": 13.59,
+      "adjusted_eta_hours": 13.59,
+      "predicted_eta": "2026-02-05T13:35:54.922708",
+      "confidence_score": 80.0,
+      "factors": {
+        "distance_nm": 190.24,
+        "current_speed": 14.0,
+        "adjusted_speed": 14.0,
+        "weather_factor": 1.0,
+        "wind_speed": 15.0,
+        "wave_height": 1.0,
+        "historical_delay_avg": 8.792755102040816,
+        "approach_time_hours": 1.5
+      },
+      "ai_explanation": "Based on the analysis, Chem Galaxy is expected to arrive in approximately 13.6 hours under current favorable conditions (weather factor 1.0), though historical data suggests an additional 8.8-hour delay is typical for this route, bringing total ETA to ~22.4 hours. The 80% confidence score reflects good weather conditions and consistent vessel speed, but the significant historical delay pattern warrants attention.\n\n**Recommendation:** Pre-coordinate with liquid cargo berth operations and pilot services to minimize the typical 8.8-hour delay, particularly focusing on documentation readiness and ensuring tanker berth availability aligns with the vessel's arrival window."
+    },
+    {
+      "vessel_id": 2,
+      "vessel_name": "MSC Ines",
+      "current_position": [
+        15.4667,
+        70.2787
+      ],
+      "distance_nm": 258.67,
+      "current_speed": 16.8,
+      "weather_factor": 1.0,
+      "base_eta_hours": 15.4,
+      "adjusted_eta_hours": 15.4,
+      "predicted_eta": "2026-02-05T15:24:37.914194",
+      "confidence_score": 75.0,
+      "factors": {
+        "distance_nm": 258.67,
+        "current_speed": 16.8,
+        "adjusted_speed": 16.8,
+        "weather_factor": 1.0,
+        "wind_speed": 15.0,
+        "wave_height": 1.0,
+        "historical_delay_avg": 9.30412598425197,
+        "approach_time_hours": 1.5
+      },
+      "ai_explanation": "Based on current conditions, MSC Ines is expected to arrive in approximately 15.4 hours (258.67 NM \u00f7 16.8 knots), with favorable weather allowing the vessel to maintain optimal speed. However, the historical average delay of 9.3 hours at JNPT suggests the vessel will likely experience additional waiting time before berthing, bringing total time to berth to approximately 24.7 hours. Given the vessel's 16.0m draft exceeding the channel depth of 14.5m, I recommend coordinating arrival to coincide with high tide windows and pre-arranging pilot and tug services to minimize the expected delay."
+    },
+    {
+      "vessel_id": 4,
+      "vessel_name": "COSCO Shipping Lotus",
+      "current_position": [
+        15.7322,
+        76.5017
+      ],
+      "distance_nm": 280.84,
+      "current_speed": 19.7,
+      "weather_factor": 1.0,
+      "base_eta_hours": 14.26,
+      "adjusted_eta_hours": 14.26,
+      "predicted_eta": "2026-02-05T14:16:20.894631",
+      "confidence_score": 75.0,
+      "factors": {
+        "distance_nm": 280.84,
+        "current_speed": 19.7,
+        "adjusted_speed": 19.7,
+        "weather_factor": 1.0,
+        "wind_speed": 15.0,
+        "wave_height": 1.0,
+        "historical_delay_avg": 9.30412598425197,
+        "approach_time_hours": 1.5
+      },
+      "ai_explanation": "Based on the vessel's current speed of 19.7 knots and distance of 280.84 NM, the COSCO Shipping Lotus should arrive in approximately 14.3 hours under ideal conditions. However, with a historical average delay of 9.3 hours for similar vessels and the 16.0m draft requiring careful tidal window planning for JNPT's 14.5m channel depth, the actual berthing time will likely be 23-24 hours from now. I recommend early coordination with pilots for tide-dependent arrival and pre-allocating deep-water berth resources at BMCT or NSIGT to minimize waiting time, given the vessel's maximum dimensions and draft requirements."
+    },
+    {
+      "vessel_id": 9,
+      "vessel_name": "Hamburg Express",
+      "current_position": [
+        24.431,
+        70.1192
+      ],
+      "distance_nm": 364.99,
+      "current_speed": 15.9,
+      "weather_factor": 1.0,
+      "base_eta_hours": 22.96,
+      "adjusted_eta_hours": 22.96,
+      "predicted_eta": "2026-02-05T22:58:32.286181",
+      "confidence_score": 75.0,
+      "factors": {
+        "distance_nm": 364.99,
+        "current_speed": 15.9,
+        "adjusted_speed": 15.9,
+        "weather_factor": 1.0,
+        "wind_speed": 15.0,
+        "wave_height": 1.0,
+        "historical_delay_avg": 9.30412598425197,
+        "approach_time_hours": 1.5
+      },
+      "ai_explanation": "The Hamburg Express is expected to arrive in approximately 23 hours under current favorable conditions (weather factor 1.0), though historical data suggests an additional 9.3-hour delay is typical for this route, likely due to port congestion or documentation processes. With the vessel's 14.5m draft matching JNPT's channel depth limit, berthing must be carefully timed with high tide to ensure adequate UKC safety margins. I recommend pre-allocating pilot and tug resources for the expected arrival window and confirming berth availability at terminals capable of handling 366m LOA vessels to minimize potential delays."
+    }
+  ],
+  "berth_recommendations": [
+    {
+      "vessel_id": 24,
+      "vessel_name": "Indian Progress",
+      "recommended_berth": "NSFT-B01",
+      "terminal_name": "",
+      "score": 0,
+      "is_feasible": false,
+      "hard_constraint_violations": [
+        "LOA 225.0m exceeds limit 215.0m",
+        "Type mismatch: bulk vessel at container berth"
+      ],
+      "soft_constraint_scores": {
+        "physical_fit": 1.844499105545618,
+        "type_match": 0,
+        "utilization": 20,
+        "crane_availability": 15,
+        "priority_bonus": 10
+      },
+      "estimated_waiting_time": 0.0,
+      "ai_reasoning": "This berth recommendation indicates that **Indian Progress cannot be accommodated at any JNPT berth** due to critical compatibility issues. The vessel's 225m length exceeds NSFT Berth 1's maximum capacity of 215m, and as a bulk carrier, it is incompatible with JNPT's container-only terminals. The vessel should be redirected to Mumbai Port Trust or other nearby ports with dedicated bulk cargo facilities and appropriate berth dimensions."
+    },
+    {
+      "vessel_id": 7,
+      "vessel_name": "MSC Perle",
+      "recommended_berth": "NSFT-B01",
+      "terminal_name": "",
+      "score": 0,
+      "is_feasible": false,
+      "hard_constraint_violations": [
+        "LOA 366.0m exceeds limit 215.0m",
+        "Beam 51.0m exceeds limit 40.0m",
+        "Draft 14.5m exceeds limit 13.0m"
+      ],
+      "soft_constraint_scores": {
+        "physical_fit": -10.927101967799642,
+        "type_match": 25,
+        "utilization": 20,
+        "crane_availability": 15,
+        "priority_bonus": 10
+      },
+      "estimated_waiting_time": 0.0,
+      "ai_reasoning": "This berth recommendation indicates that MSC Perle cannot be safely accommodated at NSFT Berth 1 due to critical dimensional violations - the vessel's 366m length, 51m beam, and 14.5m draft all significantly exceed the berth's maximum capacity of 215m LOA, 40m beam, and 13m draft depth. Given these severe constraints and the 0/100 feasibility score, the vessel requires allocation to a larger deep-water berth at JNPT, such as those at BMCT or GTI terminals which are designed to handle ultra-large container vessels of this size."
+    },
+    {
+      "vessel_id": 16,
+      "vessel_name": "ONE Competence",
+      "recommended_berth": "BMCT-B01",
+      "terminal_name": "",
+      "score": 76.2,
+      "is_feasible": true,
+      "hard_constraint_violations": [],
+      "soft_constraint_scores": {
+        "physical_fit": 6.182692307692307,
+        "type_match": 25,
+        "utilization": 20,
+        "crane_availability": 15,
+        "priority_bonus": 10
+      },
+      "estimated_waiting_time": 0.0,
+      "ai_reasoning": "BMCT Berth 1 is recommended for ONE Competence as it can safely accommodate the vessel's 294m LOA and 13.5m draft with adequate under keel clearance, while maintaining good operational efficiency (76.2/100 score). This berth allocation is feasible with no constraint violations, ensuring smooth cargo operations without tidal restrictions for this deep-draft container vessel at JNPT's modern BMCT terminal."
+    },
+    {
+      "vessel_id": 18,
+      "vessel_name": "ZIM Mumbai",
+      "recommended_berth": "BMCT-B01",
+      "terminal_name": "",
+      "score": 76.8,
+      "is_feasible": true,
+      "hard_constraint_violations": [],
+      "soft_constraint_scores": {
+        "physical_fit": 6.807692307692307,
+        "type_match": 25,
+        "utilization": 20,
+        "crane_availability": 15,
+        "priority_bonus": 10
+      },
+      "estimated_waiting_time": 0.0,
+      "ai_reasoning": "The ZIM Mumbai (LOA 294m, Draft 12.5m) is optimally allocated to BMCT Berth 1, which offers sufficient length capacity and water depth to safely accommodate this container vessel without tidal restrictions. With a feasibility score of 76.8/100 and no operational violations, this berth provides the best combination of immediate availability, adequate crane resources, and efficient turnaround time compared to the other three evaluated options. The vessel's moderate draft of 12.5m ensures safe UKC margins at BMCT without requiring special tidal windows for berthing operations."
+    },
+    {
+      "vessel_id": 14,
+      "vessel_name": "HMM Promise",
+      "recommended_berth": "NSFT-B01",
+      "terminal_name": "",
+      "score": 0,
+      "is_feasible": false,
+      "hard_constraint_violations": [
+        "LOA 366.0m exceeds limit 215.0m",
+        "Beam 51.2m exceeds limit 40.0m",
+        "Draft 14.5m exceeds limit 13.0m"
+      ],
+      "soft_constraint_scores": {
+        "physical_fit": -10.977101967799642,
+        "type_match": 25,
+        "utilization": 20,
+        "crane_availability": 15,
+        "priority_bonus": 10
+      },
+      "estimated_waiting_time": 0.0,
+      "ai_reasoning": "The HMM Promise cannot be accommodated at NSFT Berth 1 due to critical dimensional violations - the vessel's 366m LOA, 51.2m beam, and 14.5m draft all significantly exceed the berth's operational limits of 215m LOA, 40m beam, and 13m draft respectively. This vessel requires a deep-water berth at one of JNPT's larger container terminals (JNPT, NSICT, GTI, or BMCT) that are specifically designed to handle ultra-large container vessels with these dimensions."
+    },
+    {
+      "vessel_id": 28,
+      "vessel_name": "Chem Galaxy",
+      "recommended_berth": "NSFT-B01",
+      "terminal_name": "",
+      "score": 0,
+      "is_feasible": false,
+      "hard_constraint_violations": [
+        "Type mismatch: tanker vessel at container berth"
+      ],
+      "soft_constraint_scores": {
+        "physical_fit": 4.59221824686941,
+        "type_match": 0,
+        "utilization": 20,
+        "crane_availability": 15,
+        "priority_bonus": 10
+      },
+      "estimated_waiting_time": 0.0,
+      "ai_reasoning": "This recommendation correctly identifies that Chem Galaxy, as a tanker vessel, cannot be accommodated at NSFT Berth 1, which is a container-only berth at JNPT. The feasibility score of 0/100 reflects the fundamental incompatibility between vessel type and berth designation, as container terminals lack the specialized equipment and safety systems required for tanker operations (liquid cargo handling arms, vapor recovery systems, spill containment).\n\nThe vessel should be directed to JNPT's liquid cargo berths at the Liquid Cargo Terminal, which are specifically equipped for tanker operations and comply with international safety standards for hazardous cargo handling."
+    },
+    {
+      "vessel_id": 2,
+      "vessel_name": "MSC Ines",
+      "recommended_berth": "NSFT-B01",
+      "terminal_name": "",
+      "score": 0,
+      "is_feasible": false,
+      "hard_constraint_violations": [
+        "LOA 400.0m exceeds limit 215.0m",
+        "Beam 61.5m exceeds limit 40.0m",
+        "Draft 16.0m exceeds limit 13.0m"
+      ],
+      "soft_constraint_scores": {
+        "physical_fit": -16.287343470483002,
+        "type_match": 25,
+        "utilization": 20,
+        "crane_availability": 15,
+        "priority_bonus": 10
+      },
+      "estimated_waiting_time": 0.0,
+      "ai_reasoning": "The MSC Ines cannot be accommodated at NSFT Berth 1 due to critical dimensional violations - the vessel's 400m LOA, 61.5m beam, and 16m draft significantly exceed the berth's maximum capacity of 215m LOA, 40m beam, and 13m draft. This ultra-large container vessel (ULCV) requires allocation to JNPT's deep-water terminals such as BMCT or the new fourth terminal, which are specifically designed to handle vessels of this size class with appropriate infrastructure and channel depth."
+    },
+    {
+      "vessel_id": 4,
+      "vessel_name": "COSCO Shipping Lotus",
+      "recommended_berth": "NSFT-B01",
+      "terminal_name": "",
+      "score": 0,
+      "is_feasible": false,
+      "hard_constraint_violations": [
+        "LOA 400.0m exceeds limit 215.0m",
+        "Beam 58.6m exceeds limit 40.0m",
+        "Draft 16.0m exceeds limit 13.0m"
+      ],
+      "soft_constraint_scores": {
+        "physical_fit": -15.562343470483007,
+        "type_match": 25,
+        "utilization": 20,
+        "crane_availability": 15,
+        "priority_bonus": 10
+      },
+      "estimated_waiting_time": 0.0,
+      "ai_reasoning": "The COSCO Shipping Lotus cannot be accommodated at NSFT Berth 1 due to critical dimensional constraints - the vessel's 400m length, 58.6m beam, and 16m draft significantly exceed the berth's maximum capacity of 215m LOA, 40m beam, and 13m draft depth. This ultra-large container vessel (ULCV) requires a deep-water berth at one of JNPT's larger terminals like BMCT or the new fourth terminal, which are specifically designed to handle vessels of this size class with appropriate depth and infrastructure."
+    },
+    {
+      "vessel_id": 9,
+      "vessel_name": "Hamburg Express",
+      "recommended_berth": "NSFT-B01",
+      "terminal_name": "",
+      "score": 0,
+      "is_feasible": false,
+      "hard_constraint_violations": [
+        "LOA 366.0m exceeds limit 215.0m",
+        "Beam 48.2m exceeds limit 40.0m",
+        "Draft 14.5m exceeds limit 13.0m"
+      ],
+      "soft_constraint_scores": {
+        "physical_fit": -10.227101967799644,
+        "type_match": 25,
+        "utilization": 20,
+        "crane_availability": 15,
+        "priority_bonus": 10
+      },
+      "estimated_waiting_time": 0.0,
+      "ai_reasoning": "This vessel cannot be accommodated at NSFT Berth 1 due to critical dimensional violations - the Hamburg Express significantly exceeds all berth limits with LOA 366m vs 215m capacity, beam 48.2m vs 40m limit, and draft 14.5m vs 13m maximum. The vessel requires a larger deep-water berth such as those available at JNPT's main container terminals (NSICT, GTI, or BMCT) which are designed to handle ultra-large container vessels of this size. Alternative berth allocation at a suitable terminal should be immediately pursued to avoid operational delays."
+    }
+  ],
+  "conflicts": [],
+  "summary": "**SmartBerth AI Pipeline Executive Summary**\n\nThe current berth planning cycle processed 9 vessels with complete ETA predictions and berth recommendations generated for all arrivals. However, operational constraints have significantly impacted allocation feasibility, with only 2 out of 9 vessels (22%) receiving viable berth assignments. This low feasibility rate indicates critical capacity constraints at JNPT, likely due to a combination of berth occupancy, vessel-berth compatibility mismatches, or resource availability limitations. Immediate attention is required to address the 7 pending vessels through alternative scheduling, resource reallocation, or consideration of anchorage holding patterns to prevent port congestion.",
+  "processing_time_seconds": 120.957555
+}

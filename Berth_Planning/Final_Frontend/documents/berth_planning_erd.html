@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Berth Planning System - ERD</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            overflow-x: auto;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            min-width: 1400px;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 32px;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 16px;
+        }
+        
+        .legend {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-bottom: 30px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .legend-box {
+            width: 30px;
+            height: 30px;
+            border-radius: 5px;
+            border: 2px solid #333;
+        }
+        
+        .core { background: #4CAF50; }
+        .operational { background: #2196F3; }
+        .external { background: #FF9800; }
+        .ai-ml { background: #9C27B0; }
+        .support { background: #607D8B; }
+        
+        .erd-container {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            position: relative;
+        }
+        
+        .entity {
+            border: 2px solid #333;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .entity:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 12px rgba(0,0,0,0.2);
+        }
+        
+        .entity-header {
+            padding: 12px;
+            color: white;
+            font-weight: bold;
+            text-align: center;
+            font-size: 14px;
+        }
+        
+        .entity-body {
+            background: white;
+            padding: 10px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        
+        .attribute {
+            padding: 6px 8px;
+            font-size: 12px;
+            border-bottom: 1px solid #eee;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .attribute:last-child {
+            border-bottom: none;
+        }
+        
+        .pk {
+            background: #fff3cd;
+            font-weight: bold;
+        }
+        
+        .fk {
+            background: #d1ecf1;
+            color: #0c5460;
+        }
+        
+        .attr-type {
+            color: #666;
+            font-size: 10px;
+            font-style: italic;
+        }
+        
+        .key-badge {
+            background: #333;
+            color: white;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 9px;
+            margin-left: 5px;
+        }
+        
+        .relationships {
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+        
+        .relationships h2 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 24px;
+        }
+        
+        .rel-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+        }
+        
+        .relationship {
+            background: white;
+            padding: 12px;
+            border-radius: 6px;
+            border-left: 4px solid #4CAF50;
+            font-size: 13px;
+        }
+        
+        .rel-entities {
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        
+        .rel-description {
+            color: #666;
+            font-size: 12px;
+        }
+        
+        .cardinality {
+            color: #2196F3;
+            font-weight: bold;
+        }
+        
+        @media print {
+            body {
+                background: white;
+            }
+            .container {
+                box-shadow: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚢 Berth Planning & Allocation Optimization System</h1>
+        <div class="subtitle">Entity Relationship Diagram (ERD) - Database Schema</div>
+        
+        <div class="legend">
+            <div class="legend-item">
+                <div class="legend-box core"></div>
+                <span>Core Entities</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box operational"></div>
+                <span>Operational Data</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box external"></div>
+                <span>External Data</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box ai-ml"></div>
+                <span>AI/ML Entities</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box support"></div>
+                <span>Support Tables</span>
+            </div>
+        </div>
+        
+        <div class="erd-container">
+            <!-- Row 1: Core Entities -->
+            <div class="entity">
+                <div class="entity-header core">VESSELS</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>VesselId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>VesselName</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>IMO <span class="key-badge">UK</span></span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>MMSI</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>VesselType</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>LOA (Length)</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Beam (Width)</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Draft (Depth)</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>GrossTonnage</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CargoType</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CargoVolume</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Priority</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CreatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>UpdatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entity">
+                <div class="entity-header core">BERTHS</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>BerthId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>BerthName</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>BerthCode <span class="key-badge">UK</span></span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Length</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Depth</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>MaxDraft</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>BerthType</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>NumberOfCranes</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>BollardCount</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>IsActive</span>
+                        <span class="attr-type">boolean</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Latitude</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Longitude</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CreatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>UpdatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entity">
+                <div class="entity-header operational">VESSEL_SCHEDULE</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>ScheduleId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute fk">
+                        <span>VesselId <span class="key-badge">FK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute fk">
+                        <span>BerthId <span class="key-badge">FK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ETA (Estimated Arrival)</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>PredictedETA (AI)</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ETD (Estimated Depart)</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ATA (Actual Arrival)</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ATB (Actual Berthing)</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ATD (Actual Depart)</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Status</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>DwellTime (minutes)</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>WaitingTime (minutes)</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>OptimizationScore</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>IsOptimized</span>
+                        <span class="attr-type">boolean</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ConflictCount</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entity">
+                <div class="entity-header operational">RESOURCES</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>ResourceId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ResourceType</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ResourceName</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Capacity</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>IsAvailable</span>
+                        <span class="attr-type">boolean</span>
+                    </div>
+                    <div class="attribute">
+                        <span>MaintenanceSchedule</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CreatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Row 2: Operational & External Data -->
+            <div class="entity">
+                <div class="entity-header operational">RESOURCE_ALLOCATION</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>AllocationId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute fk">
+                        <span>ScheduleId <span class="key-badge">FK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute fk">
+                        <span>ResourceId <span class="key-badge">FK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>AllocatedFrom</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>AllocatedTo</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Quantity</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Status</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CreatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entity">
+                <div class="entity-header external">WEATHER_DATA</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>WeatherId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>RecordedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>WindSpeed</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>WindDirection</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Visibility</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>WaveHeight</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Temperature</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Precipitation</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>WeatherCondition</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>IsAlert</span>
+                        <span class="attr-type">boolean</span>
+                    </div>
+                    <div class="attribute">
+                        <span>FetchedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entity">
+                <div class="entity-header external">TIDAL_DATA</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>TidalId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>TideTime</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>TideType</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Height</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CreatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entity">
+                <div class="entity-header external">AIS_DATA</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>AISId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute fk">
+                        <span>VesselId <span class="key-badge">FK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>MMSI</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Latitude</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Longitude</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Speed (knots)</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Course</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Heading</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>NavigationStatus</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>RecordedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>FetchedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Row 3: AI/ML & Support Tables -->
+            <div class="entity">
+                <div class="entity-header ai-ml">CONFLICTS</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>ConflictId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ConflictType</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute fk">
+                        <span>ScheduleId1 <span class="key-badge">FK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute fk">
+                        <span>ScheduleId2 <span class="key-badge">FK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Description</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Severity</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Status</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>DetectedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ResolvedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Resolution (JSON)</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entity">
+                <div class="entity-header ai-ml">OPTIMIZATION_RUNS</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>RunId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>RunType</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Algorithm</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>InputParameters (JSON)</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>OutputResults (JSON)</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ExecutionTime (ms)</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ImprovementScore</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Status</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CreatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CompletedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entity">
+                <div class="entity-header ai-ml">KNOWLEDGE_BASE</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>KnowledgeId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>DocumentType</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Title</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Content</span>
+                        <span class="attr-type">text</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Embedding (Vector)</span>
+                        <span class="attr-type">binary</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Metadata (JSON)</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CreatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entity">
+                <div class="entity-header support">VESSEL_HISTORY</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>HistoryId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute fk">
+                        <span>VesselId <span class="key-badge">FK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute fk">
+                        <span>BerthId <span class="key-badge">FK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>VisitDate</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ActualDwellTime</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ActualWaitingTime</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ETAAccuracy</span>
+                        <span class="attr-type">decimal</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Notes</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CreatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Row 4: Additional Support Tables -->
+            <div class="entity">
+                <div class="entity-header support">BERTH_MAINTENANCE</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>MaintenanceId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute fk">
+                        <span>BerthId <span class="key-badge">FK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>StartTime</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>EndTime</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>MaintenanceType</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Status</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Description</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CreatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entity">
+                <div class="entity-header support">ALERTS_NOTIFICATIONS</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>AlertId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>AlertType</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>RelatedEntityId</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>EntityType</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Severity</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Message</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>IsRead</span>
+                        <span class="attr-type">boolean</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CreatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                    <div class="attribute">
+                        <span>ReadAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entity">
+                <div class="entity-header support">USER_PREFERENCES</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>PreferenceId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>UserId</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>PreferenceKey</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>PreferenceValue</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>UpdatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entity">
+                <div class="entity-header support">AUDIT_LOG</div>
+                <div class="entity-body">
+                    <div class="attribute pk">
+                        <span>LogId <span class="key-badge">PK</span></span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>UserId</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>Action</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>EntityType</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>EntityId</span>
+                        <span class="attr-type">int</span>
+                    </div>
+                    <div class="attribute">
+                        <span>OldValue (JSON)</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>NewValue (JSON)</span>
+                        <span class="attr-type">string</span>
+                    </div>
+                    <div class="attribute">
+                        <span>CreatedAt</span>
+                        <span class="attr-type">datetime</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Relationships Section -->
+        <div class="relationships">
+            <h2>📊 Key Relationships</h2>
+            <div class="rel-grid">
+                <div class="relationship">
+                    <div class="rel-entities">VESSELS <span class="cardinality">1:N</span> VESSEL_SCHEDULE</div>
+                    <div class="rel-description">One vessel can have multiple schedule entries (current and historical)</div>
+                </div>
+                
+                <div class="relationship">
+                    <div class="rel-entities">BERTHS <span class="cardinality">1:N</span> VESSEL_SCHEDULE</div>
+                    <div class="rel-description">One berth can host multiple vessels over time</div>
+                </div>
+                
+                <div class="relationship">
+                    <div class="rel-entities">VESSEL_SCHEDULE <span class="cardinality">1:N</span> RESOURCE_ALLOCATION</div>
+                    <div class="rel-description">One schedule entry requires multiple resources (cranes, pilots, tugboats)</div>
+                </div>
+                
+                <div class="relationship">
+                    <div class="rel-entities">RESOURCES <span class="cardinality">1:N</span> RESOURCE_ALLOCATION</div>
+                    <div class="rel-description">One resource can be allocated to multiple vessels</div>
+                </div>
+                
+                <div class="relationship">
+                    <div class="rel-entities">VESSELS <span class="cardinality">1:N</span> AIS_DATA</div>
+                    <div class="rel-description">One vessel has multiple AIS position updates</div>
+                </div>
+                
+                <div class="relationship">
+                    <div class="rel-entities">VESSEL_SCHEDULE <span class="cardinality">1:N</span> CONFLICTS</div>
+                    <div class="rel-description">Schedule entries can be involved in conflicts</div>
+                </div>
+                
+                <div class="relationship">
+                    <div class="rel-entities">VESSELS <span class="cardinality">1:N</span> VESSEL_HISTORY</div>
+                    <div class="rel-description">Track historical visits of each vessel</div>
+                </div>
+                
+                <div class="relationship">
+                    <div class="rel-entities">BERTHS <span class="cardinality">1:N</span> VESSEL_HISTORY</div>
+                    <div class="rel-description">Track which vessels have used each berth</div>
+                </div>
+                
+                <div class="relationship">
+                    <div class="rel-entities">BERTHS <span class="cardinality">1:N</span> BERTH_MAINTENANCE</div>
+                    <div class="rel-description">Track maintenance schedules for each berth</div>
+                </div>
+                
+                <div class="relationship">
+                    <div class="rel-entities">WEATHER_DATA <span class="cardinality">Standalone</span></div>
+                    <div class="rel-description">Time-series weather data from external APIs</div>
+                </div>
+                
+                <div class="relationship">
+                    <div class="rel-entities">TIDAL_DATA <span class="cardinality">Standalone</span></div>
+                    <div class="rel-description">Time-series tidal data from external APIs</div>
+                </div>
+                
+                <div class="relationship">
+                    <div class="rel-entities">OPTIMIZATION_RUNS <span class="cardinality">Standalone</span></div>
+                    <div class="rel-description">Log all optimization executions for analysis</div>
+                </div>
+            </div>
+        </div>
+        
+        <div style="margin-top: 30px; padding: 20px; background: #e8f5e9; border-radius: 8px; border-left: 4px solid #4CAF50;">
+            <h3 style="color: #2e7d32; margin-bottom: 10px;">💡 ERD Notes</h3>
+            <ul style="color: #333; line-height: 1.8; padding-left: 20px;">
+                <li><strong>PK</strong> = Primary Key (unique identifier for each record)</li>
+                <li><strong>FK</strong> = Foreign Key (references another table's primary key)</li>
+                <li><strong>UK</strong> = Unique Key (must be unique across all records)</li>
+                <li><strong>Color Coding:</strong> Green = Core entities, Blue = Operational, Orange = External APIs, Purple = AI/ML, Gray = Support</li>
+                <li><strong>Indexes:</strong> All FK columns should have indexes for query performance</li>
+                <li><strong>JSON Fields:</strong> InputParameters, OutputResults, Resolution, Metadata stored as JSON for flexibility</li>
+                <li><strong>Vector Embeddings:</strong> Knowledge Base includes vector embeddings for similarity search (RAG)</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

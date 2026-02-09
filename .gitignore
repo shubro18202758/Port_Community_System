@@ -1,0 +1,67 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.env
+.env.local
+.env.production
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+
+# AI/ML artifacts
+chroma_db/
+chroma_db_backup/
+chroma_db_new/
+chroma_db_optimized/
+chroma_db_unified/
+models/
+*.gguf
+*.bin
+*.pt
+*.pth
+*.sqlite3
+*.pickle
+
+# Logs
+*.log
+stderr.log
+stdout.log
+training_stderr.log
+training_stdout.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.tmp
+*.temp

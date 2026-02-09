@@ -1,0 +1,108 @@
+{
+  "overall_accuracy": 0.92,
+  "overall_mrr": 0.915,
+  "total_queries": 50,
+  "total_correct": 46,
+  "avg_latency_ms": 18.812828063964844,
+  "p95_latency_ms": 16.080617904663086,
+  "categories": {
+    "tidal": {
+      "accuracy": 1.0,
+      "mrr": 1.0,
+      "correct": 5,
+      "total": 5
+    },
+    "vessel": {
+      "accuracy": 1.0,
+      "mrr": 1.0,
+      "correct": 5,
+      "total": 5
+    },
+    "berth": {
+      "accuracy": 1.0,
+      "mrr": 1.0,
+      "correct": 5,
+      "total": 5
+    },
+    "weather": {
+      "accuracy": 1.0,
+      "mrr": 0.9,
+      "correct": 5,
+      "total": 5
+    },
+    "ukc": {
+      "accuracy": 0.8,
+      "mrr": 0.8,
+      "correct": 4,
+      "total": 5
+    },
+    "pilot": {
+      "accuracy": 1.0,
+      "mrr": 1.0,
+      "correct": 5,
+      "total": 5
+    },
+    "ais": {
+      "accuracy": 1.0,
+      "mrr": 1.0,
+      "correct": 5,
+      "total": 5
+    },
+    "anchorage": {
+      "accuracy": 0.6,
+      "mrr": 0.6,
+      "correct": 3,
+      "total": 5
+    },
+    "schedule": {
+      "accuracy": 1.0,
+      "mrr": 1.0,
+      "correct": 5,
+      "total": 5
+    },
+    "terminal": {
+      "accuracy": 0.8,
+      "mrr": 0.85,
+      "correct": 4,
+      "total": 5
+    }
+  },
+  "failed_queries": [
+    {
+      "category": "ukc",
+      "query": "Squat calculation for vessels",
+      "correct": false,
+      "rank": null,
+      "top_source": "SmartBerth_AI_AIS_Parameters_Training_Data",
+      "top_domains": "vessel,berth,channel,ais",
+      "time_ms": 14.1
+    },
+    {
+      "category": "anchorage",
+      "query": "Vessel anchorage assignments",
+      "correct": false,
+      "rank": null,
+      "top_source": "AIS_DATA",
+      "top_domains": "berth,ais",
+      "time_ms": 15.1
+    },
+    {
+      "category": "anchorage",
+      "query": "Anchorage capacity at Mundra",
+      "correct": false,
+      "rank": null,
+      "top_source": "TERMINAL_DATA",
+      "top_domains": "terminal,berth",
+      "time_ms": 13.6
+    },
+    {
+      "category": "terminal",
+      "query": "Terminal capacity",
+      "correct": false,
+      "rank": 4,
+      "top_source": "Berth_Allocation_Knowledge",
+      "top_domains": "berth",
+      "time_ms": 14.0
+    }
+  ]
+}

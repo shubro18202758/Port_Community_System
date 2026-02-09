@@ -1,0 +1,124 @@
+{
+  "accuracy": 82.35294117647058,
+  "details": [
+    {
+      "category": "tidal",
+      "query": "What is the tidal pattern at Mundra Port?",
+      "correct": true,
+      "rank": 1,
+      "top_source": "SmartBerth_Constraint_Framework"
+    },
+    {
+      "category": "tidal",
+      "query": "Show me tide levels for Mundra",
+      "correct": true,
+      "rank": 1,
+      "top_source": "SmartBerth_Constraint_Framework"
+    },
+    {
+      "category": "tidal",
+      "query": "High tide and low tide times at Mundra",
+      "correct": true,
+      "rank": 1,
+      "top_source": "TIDAL_DATA"
+    },
+    {
+      "category": "vessel",
+      "query": "What vessels are scheduled at Mundra?",
+      "correct": true,
+      "rank": 1,
+      "top_source": "SmartBerth_AI_Anchorage_Parameters_Training_Data"
+    },
+    {
+      "category": "vessel",
+      "query": "Container vessel arrivals at Mundra Port",
+      "correct": true,
+      "rank": 1,
+      "top_source": "SmartBerth_AI_Anchorage_Parameters_Training_Data"
+    },
+    {
+      "category": "berth",
+      "query": "List all berths at Mundra Container Terminal",
+      "correct": true,
+      "rank": 1,
+      "top_source": "README_KNOWLEDGE_BASE"
+    },
+    {
+      "category": "berth",
+      "query": "Berth availability at Mundra Port",
+      "correct": true,
+      "rank": 1,
+      "top_source": "TIDAL_DATA"
+    },
+    {
+      "category": "weather",
+      "query": "Weather conditions at Mundra Port",
+      "correct": true,
+      "rank": 3,
+      "top_source": "TIDAL_DATA"
+    },
+    {
+      "category": "weather",
+      "query": "Wind speed and wave height at Mundra",
+      "correct": false,
+      "rank": 4,
+      "top_source": "TIDAL_DATA"
+    },
+    {
+      "category": "ukc",
+      "query": "Under keel clearance requirements at Mundra",
+      "correct": true,
+      "rank": 1,
+      "top_source": "SmartBerth_Domain_Knowledge"
+    },
+    {
+      "category": "ukc",
+      "query": "UKC calculations for deep draft vessels",
+      "correct": true,
+      "rank": 1,
+      "top_source": "SmartBerth_Constraint_Framework"
+    },
+    {
+      "category": "pilot",
+      "query": "Pilotage requirements at Mundra",
+      "correct": true,
+      "rank": 1,
+      "top_source": "SmartBerth_Domain_Knowledge"
+    },
+    {
+      "category": "pilot",
+      "query": "Pilot availability for vessel arrival",
+      "correct": false,
+      "rank": 5,
+      "top_source": "SmartBerth_Constraint_Framework"
+    },
+    {
+      "category": "ais",
+      "query": "AIS data for vessels near Mundra",
+      "correct": true,
+      "rank": 1,
+      "top_source": "SmartBerth_AI_AIS_Parameters_Training_Data"
+    },
+    {
+      "category": "ais",
+      "query": "Real-time vessel positions at Mundra",
+      "correct": true,
+      "rank": 1,
+      "top_source": "SmartBerth_AI_AIS_Parameters_Training_Data"
+    },
+    {
+      "category": "anchorage",
+      "query": "Anchorage areas at Mundra Port",
+      "correct": true,
+      "rank": 1,
+      "top_source": "ETA_Prediction_Knowledge"
+    },
+    {
+      "category": "anchorage",
+      "query": "Vessel anchorage assignments",
+      "correct": false,
+      "rank": null,
+      "top_source": "AIS_DATA"
+    }
+  ]
+}

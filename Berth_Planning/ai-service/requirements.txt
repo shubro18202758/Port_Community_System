@@ -1,0 +1,55 @@
+# SmartBerth AI Service - Requirements
+# Claude API with ML layers
+
+# Anthropic Claude API
+anthropic>=0.39.0
+
+# Core AI/ML
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.45.0
+accelerate>=0.27.0
+bitsandbytes>=0.43.0
+einops>=0.7.0
+
+# FastAPI Server
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.6
+pydantic>=2.5.0
+pydantic-settings>=2.0.0
+
+# Vector Database & Embeddings for RAG
+sentence-transformers>=2.2.2
+chromadb>=0.4.22
+langchain>=0.1.0
+langchain-community>=0.0.13
+rank-bm25>=0.2.2  # BM25 keyword search for hybrid retrieval
+
+# Database
+pyodbc>=5.0.0
+sqlalchemy>=2.0.0
+
+# Graph Database
+neo4j>=5.15.0
+
+# Utilities
+numpy>=1.24.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+httpx>=0.26.0
+apscheduler>=3.10.0
+pillow>=10.0.0
+
+# OpenAI SDK (for fallback/compatibility)
+openai>=1.0.0
+
+# Browser Automation (Agentic Capabilities)
+playwright>=1.40.0
+beautifulsoup4>=4.12.0
+
+# Screen Control (Windows full-screen agentic control)
+pyautogui>=0.9.54
+
+# WebSocket support
+websockets>=12.0

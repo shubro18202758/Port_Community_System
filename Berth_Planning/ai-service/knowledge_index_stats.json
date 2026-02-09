@@ -1,0 +1,14 @@
+{
+  "total_chunks": 601,
+  "chunks_by_type": {
+    "domain_concept": 259,
+    "domain_rule": 63,
+    "entity_profile": 158,
+    "operational_data": 100,
+    "historical": 21
+  },
+  "entities_indexed": 612,
+  "sources_processed": 0,
+  "build_time_seconds": 0.591129,
+  "build_timestamp": "2026-02-06T02:58:02.700222"
+}

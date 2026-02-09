@@ -1,0 +1,570 @@
+anchorageId,portId,anchorageName,anchorageType,latitude,longitude,depth,maxVessels,currentOccupancy,maxVesselLOA,maxVesselDraft,averageWaitingTime,stsCargOpsPermitted,quarantineAnchorage
+1,1,Port of Singapore General Anchorage,General,1.2814,103.766,15,32,13,286,11.2,5.9,FALSE,FALSE
+2,1,Port of Singapore General Anchorage Bravo,General,1.2075,103.7412,20.9,39,11,351,15.4,36.5,TRUE,FALSE
+3,1,Port of Singapore Waiting Anchorage,Waiting,1.1953,103.84,19.4,66,27,269,12,20.5,FALSE,FALSE
+4,1,Port of Singapore Waiting Anchorage 2,Waiting,1.2744,103.8401,19.6,50,23,254,14.9,8.5,FALSE,FALSE
+5,1,Port of Singapore Dangerous Goods Anchorage,Hazmat,1.2046,103.8224,15.2,15,8,295,12.7,52.9,FALSE,FALSE
+6,1,Port of Singapore Quarantine Anchorage,Quarantine,1.2589,103.8,15.4,6,0,264,11.1,140,FALSE,TRUE
+7,1,Port of Singapore STS Transfer Area,STS,1.2386,103.8346,21.9,9,4,370,15.5,46.2,TRUE,FALSE
+8,1,Port of Singapore STS Area 2,STS,1.2868,103.815,31.2,10,4,306,21.5,94.2,TRUE,FALSE
+9,2,Port of Shanghai General Anchorage,General,31.1572,121.5285,16.7,48,30,364,12.2,22.8,FALSE,FALSE
+10,2,Port of Shanghai General Anchorage Bravo,General,31.2529,121.5253,16.5,26,16,267,12.9,37.7,FALSE,FALSE
+11,2,Port of Shanghai Waiting Anchorage,Waiting,31.3049,121.4286,16,35,7,309,8.9,9.4,FALSE,FALSE
+12,2,Port of Shanghai Waiting Anchorage 2,Waiting,31.2018,121.3952,17.5,48,12,261,14,18.1,FALSE,FALSE
+13,2,Port of Shanghai Dangerous Goods Anchorage,Hazmat,31.2895,121.4432,28.2,10,7,360,17.7,70.9,FALSE,FALSE
+14,2,Port of Shanghai Quarantine Anchorage,Quarantine,31.2363,121.5024,10.9,5,3,228,8.4,58.9,FALSE,TRUE
+15,3,Port of Shenzhen General Anchorage,General,22.4214,113.9758,16.8,48,29,296,14.3,47.1,FALSE,FALSE
+16,3,Port of Shenzhen General Anchorage Bravo,General,22.4735,113.977,23.5,17,13,341,16.8,24,FALSE,FALSE
+17,3,Port of Shenzhen Waiting Anchorage,Waiting,22.5346,113.9488,17.2,68,6,316,10.2,15.4,FALSE,FALSE
+18,3,Port of Shenzhen Waiting Anchorage 2,Waiting,22.5495,113.8335,19,44,34,337,11.8,4.7,FALSE,FALSE
+19,3,Port of Shenzhen Dangerous Goods Anchorage,Hazmat,22.5299,113.9403,19.4,9,3,300,16.9,56.9,FALSE,FALSE
+20,3,Port of Shenzhen Quarantine Anchorage,Quarantine,22.4533,113.9209,15,9,4,208,9.6,114.1,FALSE,TRUE
+21,4,Ningbo-Zhoushan Port General Anchorage,General,29.9349,121.6171,12.2,38,2,257,9.7,15.7,FALSE,FALSE
+22,4,Ningbo-Zhoushan Port General Anchorage Bravo,General,29.8829,121.5135,15.1,46,11,254,12.6,44.1,FALSE,FALSE
+23,4,Ningbo-Zhoushan Port Waiting Anchorage,Waiting,29.8761,121.6153,15.3,37,8,264,12.8,7.6,FALSE,FALSE
+24,4,Ningbo-Zhoushan Port Waiting Anchorage 2,Waiting,29.8909,121.5928,19.1,46,28,300,8.9,3.4,FALSE,FALSE
+25,4,Ningbo-Zhoushan Port Dangerous Goods Anchorage,Hazmat,29.8068,121.563,28.8,11,8,321,14.4,48.4,FALSE,FALSE
+26,4,Ningbo-Zhoushan Port Quarantine Anchorage,Quarantine,29.907,121.5815,16.6,9,7,302,11.7,143.7,FALSE,TRUE
+27,5,Port of Qingdao General Anchorage,General,36.0097,120.3378,23.7,50,14,336,15.2,11.4,FALSE,FALSE
+28,5,Port of Qingdao General Anchorage Bravo,General,36.1239,120.3179,22,45,25,334,13.7,7.3,FALSE,FALSE
+29,5,Port of Qingdao Waiting Anchorage,Waiting,36.1404,120.3455,12.7,67,29,231,10.2,3.1,FALSE,FALSE
+30,5,Port of Qingdao Waiting Anchorage 2,Waiting,36.147,120.3619,14.9,30,24,211,8.2,14,FALSE,FALSE
+31,5,Port of Qingdao Dangerous Goods Anchorage,Hazmat,36.1315,120.3261,26.7,10,6,391,12.3,14.2,FALSE,FALSE
+32,5,Port of Qingdao Quarantine Anchorage,Quarantine,36.0915,120.3984,15.8,7,2,217,8.6,110.9,FALSE,TRUE
+33,6,Port of Tianjin General Anchorage,General,38.9316,117.7145,12.3,50,24,273,9.8,33.4,FALSE,FALSE
+34,6,Port of Tianjin Waiting Anchorage,Waiting,38.9411,117.7891,13.8,76,45,310,11.3,22.9,FALSE,FALSE
+35,6,Port of Tianjin Quarantine Anchorage,Quarantine,39.0243,117.6799,10.1,12,3,286,7.6,99.3,FALSE,TRUE
+36,7,Port of Xiamen General Anchorage,General,24.4301,118.1664,20.4,22,7,304,14.6,12.9,FALSE,FALSE
+37,7,Port of Xiamen Waiting Anchorage,Waiting,24.4025,118.1204,19.8,65,38,206,14,12.5,FALSE,FALSE
+38,7,Port of Xiamen Quarantine Anchorage,Quarantine,24.523,118.0178,12.7,11,5,226,10.2,151.3,FALSE,TRUE
+39,7,Port of Xiamen Dangerous Goods Anchorage,Hazmat,24.3989,118.087,18.9,12,1,335,16.4,30.9,FALSE,FALSE
+40,8,Port of Hong Kong General Anchorage,General,22.3411,114.2161,16.4,19,2,317,12.8,23.6,FALSE,FALSE
+41,8,Port of Hong Kong General Anchorage Bravo,General,22.3028,114.1471,12.6,18,11,268,10.1,19.3,FALSE,FALSE
+42,8,Port of Hong Kong Waiting Anchorage,Waiting,22.2762,114.1189,16.5,49,37,274,9.4,4.3,FALSE,FALSE
+43,8,Port of Hong Kong Waiting Anchorage 2,Waiting,22.2946,114.1158,11.2,40,13,342,8.9,16.5,FALSE,FALSE
+44,8,Port of Hong Kong Dangerous Goods Anchorage,Hazmat,22.2424,114.0823,21.8,7,3,293,12.3,28.4,FALSE,FALSE
+45,8,Port of Hong Kong Quarantine Anchorage,Quarantine,22.2305,114.1639,10.2,9,4,311,7.7,121.1,FALSE,TRUE
+46,9,Port of Busan General Anchorage,General,35.0657,129.0699,22.9,45,15,290,12.9,32.3,FALSE,FALSE
+47,9,Port of Busan General Anchorage Bravo,General,35.0405,128.9655,24,24,11,270,17.8,44,FALSE,FALSE
+48,9,Port of Busan Waiting Anchorage,Waiting,35.0541,129.0422,14.9,26,0,286,8.5,18.9,FALSE,FALSE
+49,9,Port of Busan Waiting Anchorage 2,Waiting,35.1445,129.0615,16,57,12,320,9.9,4.2,FALSE,FALSE
+50,9,Port of Busan Dangerous Goods Anchorage,Hazmat,35.1313,129.1074,29.5,12,6,341,17.9,44.7,FALSE,FALSE
+51,9,Port of Busan Quarantine Anchorage,Quarantine,35.082,129.0039,13.7,8,1,305,10.8,132.3,FALSE,TRUE
+52,10,Port of Yokohama General Anchorage,General,35.399,139.6211,19.5,31,8,268,17,5.9,FALSE,FALSE
+53,10,Port of Yokohama Waiting Anchorage,Waiting,35.4361,139.6218,11.7,53,11,253,8.4,16.7,FALSE,FALSE
+54,10,Port of Yokohama Quarantine Anchorage,Quarantine,35.3985,139.6642,10.7,15,11,293,8.2,61.3,FALSE,TRUE
+55,11,Port of Tokyo General Anchorage,General,35.6011,139.7571,15.9,47,3,344,10.8,18.1,FALSE,FALSE
+56,11,Port of Tokyo Waiting Anchorage,Waiting,35.6199,139.7164,16.1,55,14,210,9,23,FALSE,FALSE
+57,11,Port of Tokyo Quarantine Anchorage,Quarantine,35.6881,139.8083,13.8,7,4,219,11.3,146.6,FALSE,TRUE
+58,12,Port of Kobe General Anchorage,General,34.6604,135.1329,14.8,46,12,258,12.3,15.8,FALSE,FALSE
+59,12,Port of Kobe Waiting Anchorage,Waiting,34.714,135.1651,14.9,20,1,222,9.2,16.3,FALSE,FALSE
+60,12,Port of Kobe Quarantine Anchorage,Quarantine,34.7326,135.2631,16.6,9,5,277,12.2,67,FALSE,TRUE
+61,13,Port of Nagoya General Anchorage,General,35.1593,136.9396,18.6,48,2,278,12.5,15,FALSE,FALSE
+62,13,Port of Nagoya Waiting Anchorage,Waiting,35.1508,136.9474,15,50,1,228,11.6,22.2,FALSE,FALSE
+63,13,Port of Nagoya Quarantine Anchorage,Quarantine,35.0517,136.8573,14.5,11,3,249,11.8,24.2,FALSE,TRUE
+64,14,Port of Kaohsiung General Anchorage,General,22.5475,120.216,21.6,20,11,342,13,20.1,FALSE,FALSE
+65,14,Port of Kaohsiung Waiting Anchorage,Waiting,22.5949,120.2703,16.5,27,4,248,11.2,20.4,FALSE,FALSE
+66,14,Port of Kaohsiung Quarantine Anchorage,Quarantine,22.6489,120.2232,17.5,12,5,301,13.9,133.3,FALSE,TRUE
+67,15,Port of Taipei General Anchorage,General,25.123,121.7438,21.6,49,21,353,13,4,FALSE,FALSE
+68,15,Port of Taipei Waiting Anchorage,Waiting,25.1269,121.7555,10.8,59,24,324,8.3,4.3,FALSE,FALSE
+69,15,Port of Taipei Quarantine Anchorage,Quarantine,25.1045,121.7792,14.2,14,5,275,11.7,112.8,FALSE,TRUE
+70,16,Port Klang General Anchorage,General,2.9506,101.47,14.3,31,14,354,10.7,47.1,FALSE,FALSE
+71,16,Port Klang Waiting Anchorage,Waiting,2.9398,101.4131,11.4,40,11,285,8.9,11.1,FALSE,FALSE
+72,16,Port Klang Quarantine Anchorage,Quarantine,2.9615,101.326,10.8,14,10,203,8.3,48.4,FALSE,TRUE
+73,16,Port Klang Dangerous Goods Anchorage,Hazmat,2.9963,101.4466,23.7,13,10,351,18.1,60.6,FALSE,FALSE
+74,17,Port of Tanjung Pelepas General Anchorage,General,1.3634,103.5626,12.9,17,7,300,10.4,42.2,FALSE,FALSE
+75,17,Port of Tanjung Pelepas Waiting Anchorage,Waiting,1.298,103.5189,12.5,31,17,349,8.9,18.9,FALSE,FALSE
+76,17,Port of Tanjung Pelepas Quarantine Anchorage,Quarantine,1.4379,103.4967,14.2,9,2,247,11.7,30.3,FALSE,TRUE
+77,18,Port of Ho Chi Minh City General Anchorage,General,10.693,106.7133,17.5,42,20,343,15.1,20.8,FALSE,FALSE
+78,18,Port of Ho Chi Minh City Waiting Anchorage,Waiting,10.7186,106.7747,12.8,20,3,229,10.3,20,FALSE,FALSE
+79,18,Port of Ho Chi Minh City Quarantine Anchorage,Quarantine,10.7367,106.7553,10.4,11,5,270,7.9,105.5,FALSE,TRUE
+80,18,Port of Ho Chi Minh City Dangerous Goods Anchorage,Hazmat,10.7774,106.7367,20.2,5,0,343,18,48.4,FALSE,FALSE
+81,19,Port of Hai Phong General Anchorage,General,20.8325,106.7103,17.5,34,0,366,10.5,20.5,FALSE,FALSE
+82,19,Port of Hai Phong Waiting Anchorage,Waiting,20.7728,106.7466,11.9,75,57,288,9.4,21.7,FALSE,FALSE
+83,19,Port of Hai Phong Quarantine Anchorage,Quarantine,20.9069,106.7643,12.1,9,0,236,9.6,117.4,FALSE,TRUE
+84,20,Laem Chabang Port General Anchorage,General,13.0355,100.8053,16.4,40,1,255,10.7,16,FALSE,FALSE
+85,20,Laem Chabang Port Waiting Anchorage,Waiting,13.1067,100.9442,11.2,67,50,219,8.7,12.3,FALSE,FALSE
+86,20,Laem Chabang Port Quarantine Anchorage,Quarantine,13.1192,100.9243,15.9,14,9,222,8.7,124.2,FALSE,TRUE
+87,21,Port of Bangkok General Anchorage,General,13.6241,100.5206,15.6,17,3,304,13.1,41.1,FALSE,FALSE
+88,21,Port of Bangkok Waiting Anchorage,Waiting,13.6681,100.6287,16,73,49,344,9,7.2,FALSE,FALSE
+89,21,Port of Bangkok Quarantine Anchorage,Quarantine,13.7791,100.5446,15.6,8,0,219,12.2,92,FALSE,TRUE
+90,21,Port of Bangkok Dangerous Goods Anchorage,Hazmat,13.7519,100.6325,26.2,10,5,283,12.9,65.8,FALSE,FALSE
+91,22,Tanjung Priok Port General Anchorage,General,-6.0588,106.8491,19.4,26,17,336,11.8,25.9,FALSE,FALSE
+92,22,Tanjung Priok Port Waiting Anchorage,Waiting,-6.1785,106.8861,16.1,62,39,346,13.2,15,FALSE,FALSE
+93,22,Tanjung Priok Port Quarantine Anchorage,Quarantine,-6.1312,106.8232,12.5,14,0,297,10,78.6,FALSE,TRUE
+94,23,Port of Surabaya General Anchorage,General,-7.2183,112.6644,17.9,18,8,301,11.3,29.9,FALSE,FALSE
+95,23,Port of Surabaya Waiting Anchorage,Waiting,-7.1327,112.662,16.4,25,8,225,12.8,6.1,FALSE,FALSE
+96,23,Port of Surabaya Quarantine Anchorage,Quarantine,-7.2588,112.7181,17.1,12,1,313,13.8,129.6,FALSE,TRUE
+97,24,Port of Manila General Anchorage,General,14.5235,120.8908,17.4,49,21,356,10.2,10.3,FALSE,FALSE
+98,24,Port of Manila Waiting Anchorage,Waiting,14.5068,120.9558,14.9,62,1,332,8.4,9.9,FALSE,FALSE
+99,24,Port of Manila Quarantine Anchorage,Quarantine,14.6378,120.9354,11,9,2,273,8.5,75.5,FALSE,TRUE
+100,24,Port of Manila Dangerous Goods Anchorage,Hazmat,14.6279,120.9389,22.9,8,4,381,12.2,66.1,FALSE,FALSE
+101,25,Mumbai Port Trust General Anchorage,General,18.8857,72.8803,19.1,47,28,321,14.3,28.9,FALSE,FALSE
+102,25,Mumbai Port Trust Waiting Anchorage,Waiting,18.8806,72.8716,17.4,55,15,255,8.5,22.8,FALSE,FALSE
+103,25,Mumbai Port Trust Quarantine Anchorage,Quarantine,18.9798,72.7872,10.8,5,2,219,8.3,111.9,FALSE,TRUE
+104,26,Jawaharlal Nehru Port General Anchorage,General,18.9272,72.8817,23,45,35,281,15.5,40.8,FALSE,FALSE
+105,26,Jawaharlal Nehru Port Waiting Anchorage,Waiting,18.8828,72.9143,15.8,76,32,288,12.5,13.3,FALSE,FALSE
+106,26,Jawaharlal Nehru Port Quarantine Anchorage,Quarantine,18.899,72.9598,11.1,6,4,295,8.6,126.4,FALSE,TRUE
+107,27,Chennai Port General Anchorage,General,13.0676,80.3096,20.8,48,36,268,11,12.8,FALSE,FALSE
+108,27,Chennai Port Waiting Anchorage,Waiting,13.1619,80.2534,18.4,72,23,334,11.8,8.9,FALSE,FALSE
+109,27,Chennai Port Quarantine Anchorage,Quarantine,13.0409,80.2246,16,10,7,263,10.4,128,FALSE,TRUE
+110,28,Cochin Port General Anchorage,General,9.9544,76.3193,18.7,16,10,304,11.9,24.8,FALSE,FALSE
+111,28,Cochin Port Waiting Anchorage,Waiting,9.9891,76.2296,17.8,32,19,282,9.5,9.3,FALSE,FALSE
+112,28,Cochin Port Quarantine Anchorage,Quarantine,9.9643,76.2405,14.1,7,1,252,8.6,128.8,FALSE,TRUE
+113,29,Mundra Port General Anchorage,General,22.8825,69.7651,17.9,37,17,304,11.6,4.1,FALSE,FALSE
+114,29,Mundra Port Waiting Anchorage,Waiting,22.8211,69.6862,18.6,57,6,261,9.4,15.4,FALSE,FALSE
+115,29,Mundra Port Quarantine Anchorage,Quarantine,22.8637,69.7575,14.4,5,1,221,9.3,112.5,FALSE,TRUE
+116,30,Pipavav Port General Anchorage,General,20.9157,71.5688,20.8,45,5,362,15.1,30.2,FALSE,FALSE
+117,30,Pipavav Port Waiting Anchorage,Waiting,20.8523,71.5,11,74,12,232,8.5,11,FALSE,FALSE
+118,30,Pipavav Port Quarantine Anchorage,Quarantine,20.9743,71.6109,12.2,13,8,219,8.7,35.8,FALSE,TRUE
+119,31,Port of Colombo General Anchorage,General,6.9336,79.8661,19.2,45,8,272,12,31.6,FALSE,FALSE
+120,31,Port of Colombo Waiting Anchorage,Waiting,6.9026,79.9292,17.2,50,1,207,13,17.8,FALSE,FALSE
+121,31,Port of Colombo Quarantine Anchorage,Quarantine,6.9352,79.8362,13.4,14,3,262,9.8,36.3,FALSE,TRUE
+122,32,Port of Chittagong General Anchorage,General,22.3771,91.7998,17.1,35,19,319,14.6,42.8,FALSE,FALSE
+123,32,Port of Chittagong Waiting Anchorage,Waiting,22.4073,91.8485,14.5,77,4,214,8.6,11.3,FALSE,FALSE
+124,32,Port of Chittagong Quarantine Anchorage,Quarantine,22.3275,91.7284,16,5,2,292,13.7,52.4,FALSE,TRUE
+125,33,Port of Karachi General Anchorage,General,24.8566,67.056,12.6,36,0,258,10.1,28.2,FALSE,FALSE
+126,33,Port of Karachi Waiting Anchorage,Waiting,24.91,67.0502,18.8,51,3,296,8.1,20.1,FALSE,FALSE
+127,33,Port of Karachi Quarantine Anchorage,Quarantine,24.8081,67.0168,14.3,10,8,311,8.2,49.2,FALSE,TRUE
+128,34,Port Qasim General Anchorage,General,24.7704,67.3407,17.2,44,18,306,14.7,42.9,FALSE,FALSE
+129,34,Port Qasim Waiting Anchorage,Waiting,24.7608,67.2735,17.4,42,15,245,12.5,12.9,FALSE,FALSE
+130,34,Port Qasim Quarantine Anchorage,Quarantine,24.7077,67.3314,17.2,8,2,252,10.5,128.3,FALSE,TRUE
+131,35,Jebel Ali Port General Anchorage,General,25.0547,54.989,12.2,23,11,358,9.7,37.5,FALSE,FALSE
+132,35,Jebel Ali Port General Anchorage Bravo,General,24.9844,55.0512,19.3,50,10,252,13.5,10.6,FALSE,FALSE
+133,35,Jebel Ali Port Waiting Anchorage,Waiting,25.0515,54.9971,18,28,15,225,10.7,13.1,FALSE,FALSE
+134,35,Jebel Ali Port Waiting Anchorage 2,Waiting,24.9424,55.1237,18.4,58,24,260,12.1,18.2,FALSE,FALSE
+135,35,Jebel Ali Port Dangerous Goods Anchorage,Hazmat,24.9826,55.06,16.4,9,0,358,12.6,14,FALSE,FALSE
+136,35,Jebel Ali Port Quarantine Anchorage,Quarantine,24.9742,55.0788,10.2,8,2,257,7.7,151.8,FALSE,TRUE
+137,35,Jebel Ali Port Hazmat Anchorage 2,Hazmat,25.0838,55.0804,19.5,11,2,354,15.3,34,FALSE,FALSE
+138,36,Khalifa Port General Anchorage,General,24.8071,54.6009,20.4,47,24,282,12.8,40,FALSE,FALSE
+139,36,Khalifa Port Waiting Anchorage,Waiting,24.7961,54.65,13.7,29,19,315,11.2,17.1,FALSE,FALSE
+140,36,Khalifa Port Dangerous Goods Anchorage,Hazmat,24.8463,54.619,28.4,7,3,360,14.5,66.4,FALSE,FALSE
+141,36,Khalifa Port Hazmat Anchorage 2,Hazmat,24.8757,54.5262,20.8,15,6,303,12.7,67.5,FALSE,FALSE
+142,36,Khalifa Port Quarantine Anchorage,Quarantine,24.7455,54.5293,14.6,12,9,310,12.1,163.7,FALSE,TRUE
+143,37,Port Rashid General Anchorage,General,25.346,55.3597,13.7,15,1,358,11.2,42.1,FALSE,FALSE
+144,37,Port Rashid Waiting Anchorage,Waiting,25.3443,55.2945,13,79,39,251,10.5,9.3,FALSE,FALSE
+145,37,Port Rashid Quarantine Anchorage,Quarantine,25.3399,55.3101,17.6,7,0,301,12.1,118.6,FALSE,TRUE
+146,38,Port of Fujairah General Anchorage,General,25.1472,56.3694,21,17,11,250,14.5,29,TRUE,FALSE
+147,38,Port of Fujairah Waiting Anchorage,Waiting,25.1656,56.3745,18.1,28,12,324,13.1,9.7,FALSE,FALSE
+148,38,Port of Fujairah Dangerous Goods Anchorage,Hazmat,25.0885,56.3293,27.8,11,2,395,15.4,36.9,FALSE,FALSE
+149,38,Port of Fujairah Hazmat Anchorage 2,Hazmat,25.1539,56.3218,23.8,5,4,341,18.4,13.1,FALSE,FALSE
+150,38,Port of Fujairah Quarantine Anchorage,Quarantine,25.1376,56.3267,10.9,11,8,273,8.6,24.3,FALSE,TRUE
+151,38,Port of Fujairah STS Transfer Area,STS,25.1197,56.3334,25.7,3,2,373,17.1,54.8,TRUE,FALSE
+152,39,Jeddah Islamic Port General Anchorage,General,21.4727,39.1979,19,38,24,340,13.4,38.3,FALSE,FALSE
+153,39,Jeddah Islamic Port Waiting Anchorage,Waiting,21.4204,39.1617,12,79,50,239,8.8,13,FALSE,FALSE
+154,39,Jeddah Islamic Port Dangerous Goods Anchorage,Hazmat,21.435,39.2187,25.1,14,5,312,21.8,54,FALSE,FALSE
+155,39,Jeddah Islamic Port Hazmat Anchorage 2,Hazmat,21.5101,39.2206,21.9,6,3,376,14.3,62.7,FALSE,FALSE
+156,39,Jeddah Islamic Port Quarantine Anchorage,Quarantine,21.5516,39.2008,17.5,9,1,212,10.8,31.6,FALSE,TRUE
+157,40,King Abdulaziz Port Dammam General Anchorage,General,26.4968,50.0926,24.1,38,10,285,16.7,26.8,FALSE,FALSE
+158,40,King Abdulaziz Port Dammam Waiting Anchorage,Waiting,26.379,50.0257,16.4,69,47,313,8.1,8.3,FALSE,FALSE
+159,40,King Abdulaziz Port Dammam Dangerous Goods Anchorage,Hazmat,26.4496,50.0726,28.9,12,9,351,20.5,45,FALSE,FALSE
+160,40,King Abdulaziz Port Dammam Hazmat Anchorage 2,Hazmat,26.4145,50.1635,24.1,10,5,280,17.6,31.2,FALSE,FALSE
+161,40,King Abdulaziz Port Dammam Quarantine Anchorage,Quarantine,26.4559,50.1516,17.3,6,2,283,8.4,79.7,FALSE,TRUE
+162,41,King Abdullah Port General Anchorage,General,22.4374,39.1562,19.3,33,10,354,16.8,19,FALSE,FALSE
+163,41,King Abdullah Port Waiting Anchorage,Waiting,22.3854,39.1818,19.8,28,11,222,9.1,18.8,FALSE,FALSE
+164,41,King Abdullah Port Quarantine Anchorage,Quarantine,22.3354,39.0633,11.1,7,1,211,8.6,123.4,FALSE,TRUE
+165,42,Hamad Port General Anchorage,General,25.0419,51.5682,16.6,39,21,321,14.1,36.8,FALSE,FALSE
+166,42,Hamad Port Waiting Anchorage,Waiting,25.1058,51.5392,15.8,43,1,335,12.9,20.2,FALSE,FALSE
+167,42,Hamad Port Quarantine Anchorage,Quarantine,25.1017,51.4698,16.7,15,7,294,9.9,128.5,FALSE,TRUE
+168,42,Hamad Port Dangerous Goods Anchorage,Hazmat,24.9591,51.48,28,10,3,372,12.4,52.6,FALSE,FALSE
+169,43,Port of Salalah General Anchorage,General,16.9528,54.0148,16,25,0,343,13.5,16.1,FALSE,FALSE
+170,43,Port of Salalah Waiting Anchorage,Waiting,16.8816,54.017,19.7,49,11,317,12.8,21.5,FALSE,FALSE
+171,43,Port of Salalah Dangerous Goods Anchorage,Hazmat,16.8989,53.9813,18.2,9,5,297,15.7,24.3,FALSE,FALSE
+172,43,Port of Salalah Hazmat Anchorage 2,Hazmat,16.9554,54.0481,20.8,6,3,357,12.3,46.7,FALSE,FALSE
+173,43,Port of Salalah Quarantine Anchorage,Quarantine,16.9587,54.0581,17.7,13,5,261,12.8,80.9,FALSE,TRUE
+174,44,Port of Sohar General Anchorage,General,24.3768,56.6834,18.7,39,19,355,12.4,7.5,FALSE,FALSE
+175,44,Port of Sohar Waiting Anchorage,Waiting,24.2849,56.5629,18.1,74,44,211,8.8,7.8,FALSE,FALSE
+176,44,Port of Sohar Dangerous Goods Anchorage,Hazmat,24.3447,56.5786,18.3,11,0,355,15.8,50.5,FALSE,FALSE
+177,44,Port of Sohar Hazmat Anchorage 2,Hazmat,24.2764,56.5497,21.9,8,4,394,19.4,30.4,FALSE,FALSE
+178,44,Port of Sohar Quarantine Anchorage,Quarantine,24.3647,56.6268,13.8,6,0,270,11.3,149.4,FALSE,TRUE
+179,45,Mina Salman Port General Anchorage,General,26.155,50.5803,17.3,33,0,334,14.8,13.5,FALSE,FALSE
+180,45,Mina Salman Port Waiting Anchorage,Waiting,26.1843,50.5214,11.4,32,9,296,8.9,19.5,FALSE,FALSE
+181,45,Mina Salman Port Quarantine Anchorage,Quarantine,26.2519,50.5331,17.6,9,1,220,13.8,121,FALSE,TRUE
+182,45,Mina Salman Port Dangerous Goods Anchorage,Hazmat,26.1401,50.6174,16,7,0,359,13.5,7.1,FALSE,FALSE
+183,46,Port of Shuwaikh General Anchorage,General,29.3429,47.8672,17,43,10,290,14.5,38.1,FALSE,FALSE
+184,46,Port of Shuwaikh Waiting Anchorage,Waiting,29.3291,47.9625,12.3,69,24,312,9.8,13.8,FALSE,FALSE
+185,46,Port of Shuwaikh Quarantine Anchorage,Quarantine,29.3891,48.0094,14.4,15,12,293,10.4,135.9,FALSE,TRUE
+186,47,Port of Basra General Anchorage,General,30.5746,47.764,15.6,24,19,298,13.1,23.4,FALSE,FALSE
+187,47,Port of Basra Waiting Anchorage,Waiting,30.5632,47.8661,10.5,42,29,201,8,5,FALSE,FALSE
+188,47,Port of Basra Quarantine Anchorage,Quarantine,30.5635,47.9045,15.9,9,5,202,10.2,163.9,FALSE,TRUE
+189,47,Port of Basra Dangerous Goods Anchorage,Hazmat,30.571,47.8507,20.6,12,9,371,18.1,41.3,FALSE,FALSE
+190,48,Bandar Abbas Port General Anchorage,General,27.2287,56.1883,18.4,30,15,363,10.2,44.6,FALSE,FALSE
+191,48,Bandar Abbas Port Waiting Anchorage,Waiting,27.1669,56.3027,18.6,41,20,219,13.8,5.6,FALSE,FALSE
+192,48,Bandar Abbas Port Dangerous Goods Anchorage,Hazmat,27.2622,56.2255,18,10,0,332,15.5,36.4,FALSE,FALSE
+193,48,Bandar Abbas Port Hazmat Anchorage 2,Hazmat,27.1713,56.2371,16.1,10,8,303,13.6,7.6,FALSE,FALSE
+194,48,Bandar Abbas Port Quarantine Anchorage,Quarantine,27.1284,56.3038,14.8,7,1,303,12.3,25.5,FALSE,TRUE
+195,49,Bandar Imam Khomeini General Anchorage,General,30.407,49.0681,18.8,30,16,358,12.9,7.4,FALSE,FALSE
+196,49,Bandar Imam Khomeini Waiting Anchorage,Waiting,30.4635,49.0495,12.7,78,8,206,10.2,9.9,FALSE,FALSE
+197,49,Bandar Imam Khomeini Dangerous Goods Anchorage,Hazmat,30.5007,49.0559,22.6,9,4,343,20.3,36.6,FALSE,FALSE
+198,49,Bandar Imam Khomeini Hazmat Anchorage 2,Hazmat,30.4413,49.1005,22,5,0,312,19.5,70.2,FALSE,FALSE
+199,49,Bandar Imam Khomeini Quarantine Anchorage,Quarantine,30.4768,49.0821,11.7,8,3,244,9.2,160.1,FALSE,TRUE
+200,50,Port of Rotterdam General Anchorage,General,51.9703,4.5434,20.1,32,13,359,17.4,26.7,FALSE,FALSE
+201,50,Port of Rotterdam General Anchorage Bravo,General,51.876,4.4338,16.9,46,23,349,13.9,46.6,FALSE,FALSE
+202,50,Port of Rotterdam Waiting Anchorage,Waiting,51.9427,4.4882,18.7,22,2,320,13.4,7.1,FALSE,FALSE
+203,50,Port of Rotterdam Waiting Anchorage 2,Waiting,51.9423,4.4239,15.7,35,4,248,12.5,17.4,FALSE,FALSE
+204,50,Port of Rotterdam Dangerous Goods Anchorage,Hazmat,51.9764,4.4865,24.9,13,8,329,12.1,26.2,FALSE,FALSE
+205,50,Port of Rotterdam Quarantine Anchorage,Quarantine,51.9023,4.4557,16,9,2,211,13.8,29.8,FALSE,TRUE
+206,51,Port of Antwerp-Bruges General Anchorage,General,51.2994,4.3715,20.6,44,30,319,13,42.2,FALSE,FALSE
+207,51,Port of Antwerp-Bruges General Anchorage Bravo,General,51.2267,4.4154,17.3,49,36,336,11.3,44.8,FALSE,FALSE
+208,51,Port of Antwerp-Bruges Waiting Anchorage,Waiting,51.2932,4.3769,16.3,20,11,234,9.1,22.6,FALSE,FALSE
+209,51,Port of Antwerp-Bruges Waiting Anchorage 2,Waiting,51.2181,4.404,14.6,46,31,296,8.1,6.1,FALSE,FALSE
+210,51,Port of Antwerp-Bruges Dangerous Goods Anchorage,Hazmat,51.2336,4.3834,28.2,6,0,308,17,63.6,FALSE,FALSE
+211,51,Port of Antwerp-Bruges Quarantine Anchorage,Quarantine,51.3019,4.4457,15.4,9,0,310,9.7,150.3,FALSE,TRUE
+212,52,Port of Hamburg General Anchorage,General,53.5456,9.9484,17.4,43,3,316,14.9,18,FALSE,FALSE
+213,52,Port of Hamburg General Anchorage Bravo,General,53.5136,9.9841,21.7,50,8,279,16.5,37.8,FALSE,FALSE
+214,52,Port of Hamburg Waiting Anchorage,Waiting,53.5738,10.0155,13.5,52,3,292,11,6.9,FALSE,FALSE
+215,52,Port of Hamburg Waiting Anchorage 2,Waiting,53.5805,9.9337,10.4,48,4,329,7.9,8.9,FALSE,FALSE
+216,52,Port of Hamburg Dangerous Goods Anchorage,Hazmat,53.5987,9.9533,24.4,13,4,360,17.8,33,FALSE,FALSE
+217,52,Port of Hamburg Quarantine Anchorage,Quarantine,53.5119,9.95,17.1,10,7,231,13.8,146.1,FALSE,TRUE
+218,53,Port of Bremerhaven General Anchorage,General,53.5226,8.519,20.7,30,0,289,17.2,24.6,FALSE,FALSE
+219,53,Port of Bremerhaven Waiting Anchorage,Waiting,53.4788,8.6264,11.3,22,8,298,8.8,23,FALSE,FALSE
+220,53,Port of Bremerhaven Quarantine Anchorage,Quarantine,53.531,8.629,12.9,14,3,315,9.7,153.3,FALSE,TRUE
+221,54,Port of Felixstowe General Anchorage,General,51.8918,1.4023,15.5,27,3,302,13,17.1,FALSE,FALSE
+222,54,Port of Felixstowe Waiting Anchorage,Waiting,51.9033,1.2778,12.9,54,8,317,10.4,10.2,FALSE,FALSE
+223,54,Port of Felixstowe Quarantine Anchorage,Quarantine,51.9284,1.4202,14.9,13,4,249,8.1,67.3,FALSE,TRUE
+224,54,Port of Felixstowe Dangerous Goods Anchorage,Hazmat,51.9389,1.3826,22.6,5,4,376,16.7,20.3,FALSE,FALSE
+225,55,London Gateway Port General Anchorage,General,51.4817,0.3991,13.3,40,2,331,10.8,10.2,FALSE,FALSE
+226,55,London Gateway Port Waiting Anchorage,Waiting,51.471,0.537,14.7,38,25,243,10,10.8,FALSE,FALSE
+227,55,London Gateway Port Quarantine Anchorage,Quarantine,51.4735,0.5426,17.6,9,7,298,12.9,43.5,FALSE,TRUE
+228,56,Port of Southampton General Anchorage,General,50.8595,-1.3417,16,25,19,338,11,15.2,FALSE,FALSE
+229,56,Port of Southampton Waiting Anchorage,Waiting,50.8486,-1.3754,16.5,79,42,251,14,11.7,FALSE,FALSE
+230,56,Port of Southampton Quarantine Anchorage,Quarantine,50.9389,-1.3304,17,12,1,238,11.3,136,FALSE,TRUE
+231,57,Port of Le Havre General Anchorage,General,49.527,0.1795,13.7,34,19,307,11.2,8.8,FALSE,FALSE
+232,57,Port of Le Havre Waiting Anchorage,Waiting,49.4807,0.0373,20,48,5,326,9.3,18.4,FALSE,FALSE
+233,57,Port of Le Havre Quarantine Anchorage,Quarantine,49.4919,0.1785,13,10,2,265,10.9,25.3,FALSE,TRUE
+234,58,Port of Marseille General Anchorage,General,43.2804,5.3381,22.6,43,15,328,16.7,9.6,FALSE,FALSE
+235,58,Port of Marseille Waiting Anchorage,Waiting,43.3507,5.2763,18.4,60,40,313,9.4,19.5,FALSE,FALSE
+236,58,Port of Marseille Quarantine Anchorage,Quarantine,43.3301,5.3204,12.2,12,8,277,9.7,63,FALSE,TRUE
+237,59,Port of Valencia General Anchorage,General,39.5074,-0.3005,22.8,28,19,288,15.6,22.1,FALSE,FALSE
+238,59,Port of Valencia Waiting Anchorage,Waiting,39.4982,-0.3154,14,60,18,270,11.3,18,FALSE,FALSE
+239,59,Port of Valencia Quarantine Anchorage,Quarantine,39.3959,-0.3551,17.6,11,2,236,10.6,36.5,FALSE,TRUE
+240,60,Port of Algeciras General Anchorage,General,36.1602,-5.5072,17.1,42,31,266,11.4,35.6,FALSE,FALSE
+241,60,Port of Algeciras Waiting Anchorage,Waiting,36.1819,-5.4785,18.2,48,20,303,14.2,14.1,FALSE,FALSE
+242,60,Port of Algeciras STS Transfer Area,STS,36.1513,-5.4618,33,4,0,303,18.5,31.4,TRUE,FALSE
+243,60,Port of Algeciras STS Area 2,STS,36.0878,-5.3883,27.7,6,4,332,24.4,37.2,TRUE,FALSE
+244,60,Port of Algeciras Dangerous Goods Anchorage,Hazmat,36.1307,-5.4172,16.6,13,6,367,14.1,64,FALSE,FALSE
+245,60,Port of Algeciras Quarantine Anchorage,Quarantine,36.1442,-5.4579,17,15,1,250,10.7,93.9,FALSE,TRUE
+246,61,Port of Barcelona General Anchorage,General,41.3754,2.1278,17.4,50,20,328,13.5,5.7,FALSE,FALSE
+247,61,Port of Barcelona Waiting Anchorage,Waiting,41.3248,2.2048,19.5,72,47,210,11.4,23.7,FALSE,FALSE
+248,61,Port of Barcelona Quarantine Anchorage,Quarantine,41.2885,2.1834,14.5,13,4,226,9.8,125,FALSE,TRUE
+249,61,Port of Barcelona Dangerous Goods Anchorage,Hazmat,41.403,2.1626,21.5,6,3,364,14.8,39.4,FALSE,FALSE
+250,62,Port of Genoa General Anchorage,General,44.4561,8.9826,13.7,40,6,344,11.2,25.3,FALSE,FALSE
+251,62,Port of Genoa Waiting Anchorage,Waiting,44.3857,9.0238,15.4,23,3,233,10.6,8.9,FALSE,FALSE
+252,62,Port of Genoa Quarantine Anchorage,Quarantine,44.4292,9.01,15.5,15,12,247,9.6,142.2,FALSE,TRUE
+253,62,Port of Genoa Dangerous Goods Anchorage,Hazmat,44.4779,9.0284,16.2,10,5,347,13.7,15.4,FALSE,FALSE
+254,63,Port of Gioia Tauro General Anchorage,General,38.48,15.8849,12.5,28,21,263,10,16,FALSE,FALSE
+255,63,Port of Gioia Tauro Waiting Anchorage,Waiting,38.45,15.8655,19,73,38,301,14.3,14.2,FALSE,FALSE
+256,63,Port of Gioia Tauro Quarantine Anchorage,Quarantine,38.3655,15.8881,16,12,6,267,12.7,78.3,FALSE,TRUE
+257,63,Port of Gioia Tauro Dangerous Goods Anchorage,Hazmat,38.4912,15.9485,16.6,7,0,334,14.1,53.3,FALSE,FALSE
+258,64,Port of Piraeus General Anchorage,General,37.9016,23.7127,20.1,39,29,308,10.5,17.9,FALSE,FALSE
+259,64,Port of Piraeus Waiting Anchorage,Waiting,37.9736,23.5653,19.5,71,43,208,10,2.5,FALSE,FALSE
+260,64,Port of Piraeus Quarantine Anchorage,Quarantine,37.9775,23.6418,10.2,8,1,264,7.7,161.5,FALSE,TRUE
+261,65,Port of Istanbul General Anchorage,General,40.9945,29.0061,14,48,36,334,11.5,33.5,FALSE,FALSE
+262,65,Port of Istanbul Waiting Anchorage,Waiting,41.0745,28.8771,14.9,50,28,332,12.7,13.9,FALSE,FALSE
+263,65,Port of Istanbul Quarantine Anchorage,Quarantine,40.9396,29.0289,15.5,8,1,248,8.1,133.9,FALSE,TRUE
+264,65,Port of Istanbul Dangerous Goods Anchorage,Hazmat,41.0236,28.9267,19.3,7,5,284,16.8,58.1,FALSE,FALSE
+265,66,Port of Ambarli General Anchorage,General,41.0066,28.6607,20.2,19,15,302,16.4,20.4,FALSE,FALSE
+266,66,Port of Ambarli Waiting Anchorage,Waiting,40.9729,28.6227,15.7,36,27,285,10.4,21.8,FALSE,FALSE
+267,66,Port of Ambarli Quarantine Anchorage,Quarantine,40.9974,28.6484,14.5,13,3,235,10.7,124.9,FALSE,TRUE
+268,67,Big Port Saint Petersburg General Anchorage,General,59.9645,30.33,22.9,20,9,304,14.2,19.5,FALSE,FALSE
+269,67,Big Port Saint Petersburg Waiting Anchorage,Waiting,59.9366,30.2141,20,55,21,210,11.5,4.7,FALSE,FALSE
+270,67,Big Port Saint Petersburg Quarantine Anchorage,Quarantine,59.8898,30.281,12.6,7,3,230,8.1,68.3,FALSE,TRUE
+271,68,Port of Novorossiysk General Anchorage,General,44.6849,37.7524,23.4,43,4,320,14.1,41.2,FALSE,FALSE
+272,68,Port of Novorossiysk Waiting Anchorage,Waiting,44.7549,37.8103,19.4,29,8,305,9.8,6.9,FALSE,FALSE
+273,68,Port of Novorossiysk Dangerous Goods Anchorage,Hazmat,44.7784,37.8363,23.3,11,8,313,17.1,10.5,FALSE,FALSE
+274,68,Port of Novorossiysk Hazmat Anchorage 2,Hazmat,44.7024,37.8111,28.8,11,6,312,19.5,6.9,FALSE,FALSE
+275,68,Port of Novorossiysk Quarantine Anchorage,Quarantine,44.7777,37.7174,15.4,11,4,233,8.2,98.7,FALSE,TRUE
+276,69,Port of Gdansk General Anchorage,General,54.3333,18.5973,19.7,48,9,360,13.6,35.8,FALSE,FALSE
+277,69,Port of Gdansk Waiting Anchorage,Waiting,54.3023,18.6733,18,26,13,227,14.7,23.2,FALSE,FALSE
+278,69,Port of Gdansk Quarantine Anchorage,Quarantine,54.4256,18.647,11.5,6,3,309,9,144.3,FALSE,TRUE
+279,69,Port of Gdansk Dangerous Goods Anchorage,Hazmat,54.352,18.7076,18.6,9,3,307,16.1,31.4,FALSE,FALSE
+280,70,Port of Gothenburg General Anchorage,General,57.7028,11.9615,18.8,41,28,280,14.9,21.1,FALSE,FALSE
+281,70,Port of Gothenburg Waiting Anchorage,Waiting,57.7384,12.0543,13.3,51,16,306,11,18.9,FALSE,FALSE
+282,70,Port of Gothenburg Quarantine Anchorage,Quarantine,57.75,11.9538,11.1,8,3,216,8.6,144.5,FALSE,TRUE
+283,70,Port of Gothenburg Dangerous Goods Anchorage,Hazmat,57.6757,12.013,22.5,9,2,361,14.9,55.8,FALSE,FALSE
+284,71,Port Said Port General Anchorage,General,31.3081,32.2039,24.1,29,20,323,11,46.6,FALSE,FALSE
+285,71,Port Said Port Waiting Anchorage,Waiting,31.3241,32.2582,19.8,66,7,270,8.7,6.3,FALSE,FALSE
+286,71,Port Said Port Quarantine Anchorage,Quarantine,31.2652,32.2113,13.9,9,5,272,11.4,28.6,FALSE,TRUE
+287,72,Port of Alexandria General Anchorage,General,31.1783,29.8375,21.3,25,10,298,16.2,47.9,FALSE,FALSE
+288,72,Port of Alexandria Waiting Anchorage,Waiting,31.269,29.9142,16.3,72,57,283,11.8,5.9,FALSE,FALSE
+289,72,Port of Alexandria Quarantine Anchorage,Quarantine,31.2389,29.8997,10.7,5,4,216,8.1,123.9,FALSE,TRUE
+290,73,Tanger Med Port General Anchorage,General,35.8642,-5.5288,12.9,44,15,365,10.4,20.4,FALSE,FALSE
+291,73,Tanger Med Port Waiting Anchorage,Waiting,35.8995,-5.5232,13.5,80,46,344,11,10.8,FALSE,FALSE
+292,73,Tanger Med Port STS Transfer Area,STS,35.8479,-5.4251,27.7,5,0,318,18.7,75,TRUE,FALSE
+293,73,Tanger Med Port STS Area 2,STS,35.8119,-5.519,29.2,3,2,316,18.7,24.1,TRUE,FALSE
+294,73,Tanger Med Port Dangerous Goods Anchorage,Hazmat,35.8149,-5.4528,17.1,14,11,386,14.6,25.5,FALSE,FALSE
+295,73,Tanger Med Port Quarantine Anchorage,Quarantine,35.9377,-5.4552,15.7,12,8,316,12.6,130.5,FALSE,TRUE
+296,74,Port of Casablanca General Anchorage,General,33.6005,-7.6709,23,48,0,335,16.5,43.3,FALSE,FALSE
+297,74,Port of Casablanca Waiting Anchorage,Waiting,33.653,-7.638,19.9,35,26,322,11.5,17.8,FALSE,FALSE
+298,74,Port of Casablanca Quarantine Anchorage,Quarantine,33.5426,-7.676,13.5,12,9,219,11,46.6,FALSE,TRUE
+299,74,Port of Casablanca Dangerous Goods Anchorage,Hazmat,33.6249,-7.6417,27.2,5,1,375,18.7,36.8,FALSE,FALSE
+300,75,Port of Durban General Anchorage,General,-29.8687,31.0757,16.1,39,8,347,11,19.1,FALSE,FALSE
+301,75,Port of Durban Waiting Anchorage,Waiting,-29.9051,31.0877,12.7,50,28,329,10.2,12.8,FALSE,FALSE
+302,75,Port of Durban Quarantine Anchorage,Quarantine,-29.801,30.9818,16.5,14,4,229,11.4,27,FALSE,TRUE
+303,76,Port of Cape Town General Anchorage,General,-33.8353,18.4189,24.7,24,4,351,17,36.4,FALSE,FALSE
+304,76,Port of Cape Town Waiting Anchorage,Waiting,-33.8314,18.4398,12.8,37,28,217,9.1,22.8,FALSE,FALSE
+305,76,Port of Cape Town Quarantine Anchorage,Quarantine,-33.9636,18.4657,11.4,7,2,262,8.9,105,FALSE,TRUE
+306,76,Port of Cape Town Dangerous Goods Anchorage,Hazmat,-33.8572,18.4014,20,12,3,354,17.5,20.3,FALSE,FALSE
+307,77,Port of Lagos (Apapa) General Anchorage,General,6.399,3.4435,16.3,20,5,348,13.2,29.3,FALSE,FALSE
+308,77,Port of Lagos (Apapa) Waiting Anchorage,Waiting,6.3579,3.3619,14,39,10,214,11.5,13.8,FALSE,FALSE
+309,77,Port of Lagos (Apapa) Quarantine Anchorage,Quarantine,6.4438,3.3666,10,13,9,262,7.5,131.5,FALSE,TRUE
+310,78,Port of Mombasa General Anchorage,General,-4.1079,39.6584,16.2,19,5,351,10.7,32.8,FALSE,FALSE
+311,78,Port of Mombasa Waiting Anchorage,Waiting,-4.0537,39.6268,18.2,36,2,335,10.3,7.1,FALSE,FALSE
+312,78,Port of Mombasa Quarantine Anchorage,Quarantine,-4.0602,39.7377,12.3,10,8,208,9.8,62.3,FALSE,TRUE
+313,79,Port of Djibouti General Anchorage,General,11.5222,43.1164,17.3,46,1,357,14.8,9.5,FALSE,FALSE
+314,79,Port of Djibouti Waiting Anchorage,Waiting,11.5513,43.0956,13.5,50,16,299,9.8,15.1,FALSE,FALSE
+315,79,Port of Djibouti Quarantine Anchorage,Quarantine,11.5449,43.1569,11.4,12,1,232,8.9,97.6,FALSE,TRUE
+316,80,Port Louis General Anchorage,General,-20.1384,57.5452,12.9,49,11,330,10.4,18.5,FALSE,FALSE
+317,80,Port Louis Waiting Anchorage,Waiting,-20.1406,57.4473,16.1,61,31,338,12,7.3,FALSE,FALSE
+318,80,Port Louis Quarantine Anchorage,Quarantine,-20.1599,57.4628,14.9,8,5,295,11.7,160.8,FALSE,TRUE
+319,81,Port of Los Angeles General Anchorage,General,33.793,-118.2614,20.9,15,7,321,13.9,13.7,FALSE,FALSE
+320,81,Port of Los Angeles General Anchorage Bravo,General,33.6737,-118.2716,23.5,49,3,298,11.2,37.3,FALSE,FALSE
+321,81,Port of Los Angeles Waiting Anchorage,Waiting,33.7611,-118.2924,11.8,43,20,204,9.3,20.9,FALSE,FALSE
+322,81,Port of Los Angeles Waiting Anchorage 2,Waiting,33.7346,-118.2296,15.6,57,32,310,12.6,11.5,FALSE,FALSE
+323,81,Port of Los Angeles Dangerous Goods Anchorage,Hazmat,33.775,-118.2059,17.6,5,2,282,15.1,21.3,FALSE,FALSE
+324,81,Port of Los Angeles Quarantine Anchorage,Quarantine,33.7782,-118.2456,14.7,5,1,235,10.5,33.3,FALSE,TRUE
+325,82,Port of Long Beach General Anchorage,General,33.6783,-118.1824,17.2,44,34,255,13.2,45.1,FALSE,FALSE
+326,82,Port of Long Beach General Anchorage Bravo,General,33.6818,-118.111,15.3,31,2,253,12,28,FALSE,FALSE
+327,82,Port of Long Beach Waiting Anchorage,Waiting,33.808,-118.1355,11,40,19,221,8.5,13.7,FALSE,FALSE
+328,82,Port of Long Beach Waiting Anchorage 2,Waiting,33.6899,-118.168,19.4,37,17,291,13,12.6,FALSE,FALSE
+329,82,Port of Long Beach Dangerous Goods Anchorage,Hazmat,33.8209,-118.1184,20.3,10,1,281,16.1,55.8,FALSE,FALSE
+330,82,Port of Long Beach Quarantine Anchorage,Quarantine,33.7037,-118.24,16.1,13,6,288,12.5,167.6,FALSE,TRUE
+331,83,Port of New York/New Jersey General Anchorage,General,40.6399,-74.1083,19.6,24,15,256,11.8,13.2,FALSE,FALSE
+332,83,Port of New York/New Jersey General Anchorage Bravo,General,40.6744,-74.0652,13.1,15,9,275,10.6,29.3,FALSE,FALSE
+333,83,Port of New York/New Jersey Waiting Anchorage,Waiting,40.6399,-73.9597,11.5,59,14,215,9,8.2,FALSE,FALSE
+334,83,Port of New York/New Jersey Waiting Anchorage 2,Waiting,40.7011,-74.0171,14.6,56,23,206,12.1,2.9,FALSE,FALSE
+335,83,Port of New York/New Jersey Dangerous Goods Anchorage,Hazmat,40.7503,-74.1061,15.7,13,8,308,12.9,69.1,FALSE,FALSE
+336,83,Port of New York/New Jersey Quarantine Anchorage,Quarantine,40.6539,-74.0414,14.3,6,1,300,12,80,FALSE,TRUE
+337,84,Port of Savannah General Anchorage,General,32.0759,-81.0142,18.5,25,4,258,11.9,44,FALSE,FALSE
+338,84,Port of Savannah General Anchorage Bravo,General,32.0805,-81.0519,20.7,28,12,342,16.3,29.7,FALSE,FALSE
+339,84,Port of Savannah Waiting Anchorage,Waiting,32.0449,-81.1524,10.1,26,6,318,7.6,9.3,FALSE,FALSE
+340,84,Port of Savannah Waiting Anchorage 2,Waiting,32.0395,-81.1372,14,30,8,203,11.5,5.1,FALSE,FALSE
+341,84,Port of Savannah Dangerous Goods Anchorage,Hazmat,32.1194,-81.0125,25.4,12,6,395,14.6,64,FALSE,FALSE
+342,84,Port of Savannah Quarantine Anchorage,Quarantine,32.1138,-81.0045,15,15,2,247,11.3,123.3,FALSE,TRUE
+343,85,Port of Houston General Anchorage,General,29.717,-95.0464,19.9,30,15,313,14.8,27.1,FALSE,FALSE
+344,85,Port of Houston General Anchorage Bravo,General,29.6818,-95.0777,21,24,6,254,16.5,47.8,FALSE,FALSE
+345,85,Port of Houston Waiting Anchorage,Waiting,29.7171,-95.1459,18.3,21,15,343,8.4,7.5,FALSE,FALSE
+346,85,Port of Houston Waiting Anchorage 2,Waiting,29.8292,-95.0485,12.5,73,42,276,10,6.4,FALSE,FALSE
+347,85,Port of Houston Dangerous Goods Anchorage,Hazmat,29.8147,-95.0533,23.3,8,3,291,20.8,61.8,FALSE,FALSE
+348,85,Port of Houston Quarantine Anchorage,Quarantine,29.6873,-95.1552,17,15,4,270,9,61.6,FALSE,TRUE
+349,85,Port of Houston Hazmat Anchorage 2,Hazmat,29.8053,-95.0157,18.6,12,6,339,12.2,18,FALSE,FALSE
+350,86,Port of Charleston General Anchorage,General,32.7341,-79.9575,22.9,29,23,283,11.3,12.5,FALSE,FALSE
+351,86,Port of Charleston Waiting Anchorage,Waiting,32.7434,-79.9289,16.6,70,39,215,10.4,22.3,FALSE,FALSE
+352,86,Port of Charleston Quarantine Anchorage,Quarantine,32.7546,-80.0061,13,6,3,205,10.5,64.3,FALSE,TRUE
+353,87,Port of Seattle General Anchorage,General,47.534,-122.2997,24.5,25,11,349,11.4,46.2,FALSE,FALSE
+354,87,Port of Seattle Waiting Anchorage,Waiting,47.5689,-122.343,10,71,27,346,7.5,4.2,FALSE,FALSE
+355,87,Port of Seattle Quarantine Anchorage,Quarantine,47.5332,-122.3792,11.1,10,2,202,8.6,130.3,FALSE,TRUE
+356,88,Port of Tacoma General Anchorage,General,47.2104,-122.4025,20.2,37,17,353,13.1,44.6,FALSE,FALSE
+357,88,Port of Tacoma Waiting Anchorage,Waiting,47.2298,-122.4554,15.9,43,12,349,9.1,8.2,FALSE,FALSE
+358,88,Port of Tacoma Quarantine Anchorage,Quarantine,47.2769,-122.4907,13.8,8,4,250,11.3,145.9,FALSE,TRUE
+359,88,Port of Tacoma Dangerous Goods Anchorage,Hazmat,47.3161,-122.389,16.5,12,6,290,14,31,FALSE,FALSE
+360,89,Port of Oakland General Anchorage,General,37.8156,-122.3487,12.4,44,29,332,9.9,44.7,FALSE,FALSE
+361,89,Port of Oakland Waiting Anchorage,Waiting,37.7907,-122.3506,15.4,31,19,255,9.2,11.5,FALSE,FALSE
+362,89,Port of Oakland Quarantine Anchorage,Quarantine,37.7401,-122.208,17.9,9,4,269,14,142.6,FALSE,TRUE
+363,89,Port of Oakland Dangerous Goods Anchorage,Hazmat,37.7273,-122.2737,24.5,7,3,312,21.6,59.2,FALSE,FALSE
+364,90,Port of Miami General Anchorage,General,25.7754,-80.1404,23.1,38,7,255,12.7,43,FALSE,FALSE
+365,90,Port of Miami Waiting Anchorage,Waiting,25.8206,-80.1382,11.9,71,26,279,9.4,4.3,FALSE,FALSE
+366,90,Port of Miami Quarantine Anchorage,Quarantine,25.838,-80.0884,17.6,5,1,242,12.1,94.6,FALSE,TRUE
+367,90,Port of Miami Dangerous Goods Anchorage,Hazmat,25.819,-80.2319,28.9,6,0,392,16.6,34.3,FALSE,FALSE
+368,91,Port of Norfolk General Anchorage,General,36.8639,-76.242,21.8,29,7,336,15.2,47.5,FALSE,FALSE
+369,91,Port of Norfolk Waiting Anchorage,Waiting,36.7856,-76.2378,16.9,72,51,216,12.9,14.8,FALSE,FALSE
+370,91,Port of Norfolk Quarantine Anchorage,Quarantine,36.7851,-76.2315,10.9,10,8,200,8.4,133.6,FALSE,TRUE
+371,92,Port of Boston General Anchorage,General,42.3422,-70.9835,24.7,50,9,313,13.4,13,FALSE,FALSE
+372,92,Port of Boston Waiting Anchorage,Waiting,42.3987,-71.1169,13.5,72,36,207,11,14.6,FALSE,FALSE
+373,92,Port of Boston Quarantine Anchorage,Quarantine,42.3365,-71.0584,14.6,15,2,291,11.5,66.3,FALSE,TRUE
+374,92,Port of Boston Dangerous Goods Anchorage,Hazmat,42.4092,-70.9742,16.3,8,5,311,13.8,55.4,FALSE,FALSE
+375,93,Port of Montreal General Anchorage,General,45.555,-73.5082,14.1,15,2,289,11.6,13.7,FALSE,FALSE
+376,93,Port of Montreal Waiting Anchorage,Waiting,45.5177,-73.5896,14.7,74,5,260,12.2,16.4,FALSE,FALSE
+377,93,Port of Montreal Quarantine Anchorage,Quarantine,45.5055,-73.6186,10.5,10,0,284,8,132.4,FALSE,TRUE
+378,94,Port of Vancouver General Anchorage,General,49.2531,-123.191,14.1,32,7,314,12,45.9,FALSE,FALSE
+379,94,Port of Vancouver Waiting Anchorage,Waiting,49.2818,-123.1221,11.4,59,1,217,8.5,5.7,FALSE,FALSE
+380,94,Port of Vancouver Quarantine Anchorage,Quarantine,49.3545,-123.1076,15.5,6,4,262,12,102.5,FALSE,TRUE
+381,95,Port of Halifax General Anchorage,General,44.596,-63.635,13.6,16,1,266,11.1,7.9,FALSE,FALSE
+382,95,Port of Halifax Waiting Anchorage,Waiting,44.6247,-63.5312,17,37,22,335,11.3,16.7,FALSE,FALSE
+383,95,Port of Halifax Quarantine Anchorage,Quarantine,44.6869,-63.4893,11,7,0,301,8.2,139.5,FALSE,TRUE
+384,96,Port of Prince Rupert General Anchorage,General,54.2633,-130.2945,15.9,19,5,258,13.4,16.9,FALSE,FALSE
+385,96,Port of Prince Rupert Waiting Anchorage,Waiting,54.3251,-130.4021,10.6,40,28,201,8.1,6,FALSE,FALSE
+386,96,Port of Prince Rupert Quarantine Anchorage,Quarantine,54.306,-130.2707,17,14,4,313,13.7,36,FALSE,TRUE
+387,96,Port of Prince Rupert Dangerous Goods Anchorage,Hazmat,54.3493,-130.3925,26.7,6,2,296,19.3,21.9,FALSE,FALSE
+388,97,Port of Manzanillo General Anchorage,General,18.9809,-104.3206,18.9,18,10,261,13.9,47.2,FALSE,FALSE
+389,97,Port of Manzanillo Waiting Anchorage,Waiting,19.04,-104.3788,11.9,34,27,274,9.4,7,FALSE,FALSE
+390,97,Port of Manzanillo Quarantine Anchorage,Quarantine,19.0649,-104.2653,13.9,15,8,312,11.4,47.1,FALSE,TRUE
+391,97,Port of Manzanillo Dangerous Goods Anchorage,Hazmat,18.9924,-104.2413,18.6,9,7,355,15.8,40.8,FALSE,FALSE
+392,98,Port of Lazaro Cardenas General Anchorage,General,17.8942,-102.1099,22.3,30,16,310,14.9,27.7,FALSE,FALSE
+393,98,Port of Lazaro Cardenas Waiting Anchorage,Waiting,17.9288,-102.1048,10.8,71,26,224,8.3,11.6,FALSE,FALSE
+394,98,Port of Lazaro Cardenas Quarantine Anchorage,Quarantine,17.9026,-102.1726,17.3,5,1,227,9.8,70.7,FALSE,TRUE
+395,99,Port of Veracruz General Anchorage,General,19.194,-96.0717,19.2,32,25,347,13,5.2,FALSE,FALSE
+396,99,Port of Veracruz Waiting Anchorage,Waiting,19.1803,-96.2089,17.9,20,14,235,14.1,15.8,FALSE,FALSE
+397,99,Port of Veracruz Quarantine Anchorage,Quarantine,19.2684,-96.1737,17.9,6,0,224,11.6,79.2,FALSE,TRUE
+398,100,Port of Santos General Anchorage,General,-23.8785,-46.3357,17.1,33,1,311,14.6,40.2,FALSE,FALSE
+399,100,Port of Santos Waiting Anchorage,Waiting,-23.9855,-46.3569,19,37,2,207,10.4,3.7,FALSE,FALSE
+400,100,Port of Santos Quarantine Anchorage,Quarantine,-23.9577,-46.3047,11.9,13,3,265,8.7,92.5,FALSE,TRUE
+401,101,Port of Rio de Janeiro General Anchorage,General,-22.9408,-43.1597,22.4,28,12,291,16.9,39.6,FALSE,FALSE
+402,101,Port of Rio de Janeiro Waiting Anchorage,Waiting,-22.8087,-43.1862,15.6,29,23,258,12.9,13.3,FALSE,FALSE
+403,101,Port of Rio de Janeiro Quarantine Anchorage,Quarantine,-22.9017,-43.1142,17.5,14,1,305,13.7,33.9,FALSE,TRUE
+404,101,Port of Rio de Janeiro Dangerous Goods Anchorage,Hazmat,-22.8186,-43.0877,19.2,10,3,391,16.7,69.5,FALSE,FALSE
+405,102,Port of Paranagua General Anchorage,General,-25.588,-48.5802,21.3,37,12,281,17.2,4.3,FALSE,FALSE
+406,102,Port of Paranagua Waiting Anchorage,Waiting,-25.5528,-48.5268,11.8,42,22,350,9.3,3.2,FALSE,FALSE
+407,102,Port of Paranagua Quarantine Anchorage,Quarantine,-25.4899,-48.5548,16.6,11,4,320,11.2,68.1,FALSE,TRUE
+408,103,Port of Buenos Aires General Anchorage,General,-34.6755,-58.3784,12.3,15,11,282,9.8,35.2,FALSE,FALSE
+409,103,Port of Buenos Aires Waiting Anchorage,Waiting,-34.5319,-58.3363,11.6,43,10,200,8.3,8.2,FALSE,FALSE
+410,103,Port of Buenos Aires Quarantine Anchorage,Quarantine,-34.5217,-58.2946,18,6,4,272,11.7,118,FALSE,TRUE
+411,104,Port of San Antonio General Anchorage,General,-33.5315,-71.5869,13.9,46,7,281,11.4,19.4,FALSE,FALSE
+412,104,Port of San Antonio Waiting Anchorage,Waiting,-33.5709,-71.6782,12.3,55,1,322,9.8,4.6,FALSE,FALSE
+413,104,Port of San Antonio Quarantine Anchorage,Quarantine,-33.6107,-71.6628,17.3,7,1,281,8.9,98.3,FALSE,TRUE
+414,105,Port of Valparaiso General Anchorage,General,-33.0166,-71.6453,18.6,21,15,319,12.2,47.6,FALSE,FALSE
+415,105,Port of Valparaiso Waiting Anchorage,Waiting,-33.1048,-71.5832,17.7,70,40,200,8.4,4.2,FALSE,FALSE
+416,105,Port of Valparaiso Quarantine Anchorage,Quarantine,-33.1078,-71.593,16.2,14,7,238,12.7,164.7,FALSE,TRUE
+417,106,Port of Callao General Anchorage,General,-12.0501,-77.2135,20.2,46,15,264,10.1,41.2,FALSE,FALSE
+418,106,Port of Callao Waiting Anchorage,Waiting,-12.1063,-77.126,17.1,54,25,335,10.7,20.3,FALSE,FALSE
+419,106,Port of Callao Quarantine Anchorage,Quarantine,-12.1221,-77.1459,15.8,14,6,291,12.7,100.4,FALSE,TRUE
+420,107,Port of Buenaventura General Anchorage,General,3.8312,-77.0676,20.9,48,20,317,17.4,46.9,FALSE,FALSE
+421,107,Port of Buenaventura Waiting Anchorage,Waiting,3.8105,-77.0841,16.2,22,4,205,8.1,10.5,FALSE,FALSE
+422,107,Port of Buenaventura Quarantine Anchorage,Quarantine,3.8234,-77.0292,15.3,15,8,297,11.2,155,FALSE,TRUE
+423,108,Port of Guayaquil General Anchorage,General,-2.284,-79.9175,24,29,6,322,13.2,16.4,FALSE,FALSE
+424,108,Port of Guayaquil Waiting Anchorage,Waiting,-2.2595,-79.8422,18.4,34,24,264,10.2,5,FALSE,FALSE
+425,108,Port of Guayaquil Quarantine Anchorage,Quarantine,-2.153,-79.9464,11.2,8,6,208,8.7,123.6,FALSE,TRUE
+426,109,Manzanillo International Terminal General Anchorage,General,9.3429,-79.857,24.8,47,14,268,15.4,43.4,FALSE,FALSE
+427,109,Manzanillo International Terminal Waiting Anchorage,Waiting,9.3305,-79.8692,13.4,58,44,326,10.9,9.2,FALSE,FALSE
+428,109,Manzanillo International Terminal Quarantine Anchorage,Quarantine,9.3255,-79.9131,14.9,8,6,201,11.6,31.7,FALSE,TRUE
+429,110,Balboa Port General Anchorage,General,8.9389,-79.6198,22.3,19,1,302,10.9,17,FALSE,FALSE
+430,110,Balboa Port Waiting Anchorage,Waiting,8.942,-79.499,13.5,73,53,211,11,13.4,FALSE,FALSE
+431,110,Balboa Port Quarantine Anchorage,Quarantine,8.9455,-79.5034,15.8,11,0,288,12.6,136.9,FALSE,TRUE
+432,110,Balboa Port Dangerous Goods Anchorage,Hazmat,9.0145,-79.6035,29.2,6,3,280,21.1,26.4,FALSE,FALSE
+433,111,Panama Canal Ports General Anchorage,General,9.3921,-79.8976,15,36,22,288,12.5,42,FALSE,FALSE
+434,111,Panama Canal Ports Waiting Anchorage,Waiting,9.4156,-79.8483,12.6,55,8,203,10.1,22.7,FALSE,FALSE
+435,111,Panama Canal Ports Quarantine Anchorage,Quarantine,9.325,-79.8925,11.1,15,6,242,8.6,121.5,FALSE,TRUE
+436,112,Port of Kingston General Anchorage,General,18.0422,-76.8783,24.8,16,12,261,12.7,9.8,FALSE,FALSE
+437,112,Port of Kingston Waiting Anchorage,Waiting,18.0178,-76.7994,17.8,59,19,334,13.1,16.4,FALSE,FALSE
+438,112,Port of Kingston Quarantine Anchorage,Quarantine,17.9243,-76.8053,15.4,10,6,309,10.2,140,FALSE,TRUE
+439,113,Port of Caucedo General Anchorage,General,18.48,-69.5829,23.3,28,7,315,13.1,46.6,FALSE,FALSE
+440,113,Port of Caucedo Waiting Anchorage,Waiting,18.3746,-69.6208,15.9,37,28,255,10,21.6,FALSE,FALSE
+441,113,Port of Caucedo Quarantine Anchorage,Quarantine,18.4546,-69.5769,11,9,0,267,8.5,130.5,FALSE,TRUE
+442,113,Port of Caucedo Dangerous Goods Anchorage,Hazmat,18.4425,-69.6339,29.2,11,3,282,12.2,60.9,FALSE,FALSE
+443,114,Freeport Container Port General Anchorage,General,26.5339,-78.6741,17.7,50,23,281,15.2,36.3,FALSE,FALSE
+444,114,Freeport Container Port Waiting Anchorage,Waiting,26.5016,-78.6385,19.6,20,13,223,14.2,5.7,FALSE,FALSE
+445,114,Freeport Container Port Quarantine Anchorage,Quarantine,26.5461,-78.7146,17.5,5,1,206,11.4,141.6,FALSE,TRUE
+446,115,Port of Spain General Anchorage,General,10.6214,-61.5489,12.3,45,13,338,9.8,42.1,FALSE,FALSE
+447,115,Port of Spain Waiting Anchorage,Waiting,10.6253,-61.4775,18.4,32,0,293,9.5,16.6,FALSE,FALSE
+448,115,Port of Spain Quarantine Anchorage,Quarantine,10.6093,-61.5936,14.5,14,1,223,8.4,149.1,FALSE,TRUE
+449,116,Port of Melbourne General Anchorage,General,-37.8817,144.8737,20.6,18,14,305,10.2,7.6,FALSE,FALSE
+450,116,Port of Melbourne Waiting Anchorage,Waiting,-37.9216,144.9728,16.7,66,40,267,10.7,21.2,FALSE,FALSE
+451,116,Port of Melbourne Quarantine Anchorage,Quarantine,-37.8185,144.9914,11.5,13,7,221,9,28,FALSE,TRUE
+452,116,Port of Melbourne Dangerous Goods Anchorage,Hazmat,-37.8759,144.9619,17,9,7,364,14.5,30.4,FALSE,FALSE
+453,117,Port of Sydney General Anchorage,General,-33.7813,151.1634,20.7,26,8,350,16.3,15.4,FALSE,FALSE
+454,117,Port of Sydney Waiting Anchorage,Waiting,-33.9005,151.233,18.6,38,25,330,12,4.5,FALSE,FALSE
+455,117,Port of Sydney Quarantine Anchorage,Quarantine,-33.7981,151.1237,12.5,12,3,216,8.1,71,FALSE,TRUE
+456,118,Port of Brisbane General Anchorage,General,-27.3461,153.2044,13.9,49,35,316,11.4,46.3,FALSE,FALSE
+457,118,Port of Brisbane Waiting Anchorage,Waiting,-27.3099,153.1759,18.7,46,12,200,9.1,23.3,FALSE,FALSE
+458,118,Port of Brisbane Quarantine Anchorage,Quarantine,-27.3783,153.1858,15.2,15,4,204,9.2,159.9,FALSE,TRUE
+459,119,Port of Fremantle General Anchorage,General,-32.0273,115.7614,23.7,21,9,339,13.9,23.4,FALSE,FALSE
+460,119,Port of Fremantle Waiting Anchorage,Waiting,-32.0882,115.7143,10,66,2,220,7.5,14.8,FALSE,FALSE
+461,119,Port of Fremantle Quarantine Anchorage,Quarantine,-32.1255,115.6898,12.8,11,0,219,10.3,61.5,FALSE,TRUE
+462,119,Port of Fremantle Dangerous Goods Anchorage,Hazmat,-32.0488,115.7926,19.4,7,2,381,16.9,69.5,FALSE,FALSE
+463,120,Port of Adelaide General Anchorage,General,-34.8374,138.5631,19.1,43,4,302,10.1,38.8,FALSE,FALSE
+464,120,Port of Adelaide Waiting Anchorage,Waiting,-34.7407,138.4474,18.6,32,2,279,11.5,3,FALSE,FALSE
+465,120,Port of Adelaide Quarantine Anchorage,Quarantine,-34.7215,138.465,11.4,14,9,281,8,56.5,FALSE,TRUE
+466,121,Port of Auckland General Anchorage,General,-36.7718,174.7698,20.6,16,9,362,17.1,6.7,FALSE,FALSE
+467,121,Port of Auckland Waiting Anchorage,Waiting,-36.8544,174.7123,12.4,62,34,271,9.9,18.1,FALSE,FALSE
+468,121,Port of Auckland Quarantine Anchorage,Quarantine,-36.8862,174.7252,11.1,15,12,282,8.6,107,FALSE,TRUE
+469,122,Port of Tauranga General Anchorage,General,-37.6776,176.1393,20.6,23,12,343,11.6,43.5,FALSE,FALSE
+470,122,Port of Tauranga Waiting Anchorage,Waiting,-37.7195,176.2416,17,73,2,296,13.4,19.6,FALSE,FALSE
+471,122,Port of Tauranga Quarantine Anchorage,Quarantine,-37.6035,176.1536,15.1,14,6,235,12.5,86.8,FALSE,TRUE
+472,123,Port of Lyttelton General Anchorage,General,-43.5523,172.6787,19.3,37,22,336,10.5,9.1,FALSE,FALSE
+473,123,Port of Lyttelton Waiting Anchorage,Waiting,-43.6106,172.7834,11.9,66,12,342,9.4,8,FALSE,FALSE
+474,123,Port of Lyttelton Quarantine Anchorage,Quarantine,-43.5484,172.7823,17.5,12,8,263,12.3,105.7,FALSE,TRUE
+475,124,Port Moresby General Anchorage,General,-9.42,147.2235,24.1,22,6,342,17.4,48,FALSE,FALSE
+476,124,Port Moresby Waiting Anchorage,Waiting,-9.5365,147.158,16,49,27,263,12.9,19.3,FALSE,FALSE
+477,124,Port Moresby Quarantine Anchorage,Quarantine,-9.4659,147.0731,16.5,5,3,264,9,35.6,FALSE,TRUE
+478,125,Port of Suva General Anchorage,General,-18.1139,178.4401,15.6,39,27,275,13.1,45.5,FALSE,FALSE
+479,125,Port of Suva Waiting Anchorage,Waiting,-18.0649,178.446,13.1,46,7,220,9.7,21.6,FALSE,FALSE
+480,125,Port of Suva Quarantine Anchorage,Quarantine,-18.1877,178.3696,17.7,15,3,301,10.6,121.7,FALSE,TRUE
+481,126,Malta Freeport General Anchorage,General,35.8248,14.4672,12.2,16,9,360,10,25,FALSE,FALSE
+482,126,Malta Freeport Waiting Anchorage,Waiting,35.8598,14.5048,16.2,74,9,275,9.3,15.8,FALSE,FALSE
+483,126,Malta Freeport STS Transfer Area,STS,35.7502,14.5989,27.3,3,1,327,18.9,80,TRUE,FALSE
+484,126,Malta Freeport STS Area 2,STS,35.8571,14.4925,23.1,6,1,357,16.9,15,TRUE,FALSE
+485,126,Malta Freeport Dangerous Goods Anchorage,Hazmat,35.8053,14.5509,17,6,3,398,14.5,21.3,FALSE,FALSE
+486,126,Malta Freeport Quarantine Anchorage,Quarantine,35.7663,14.589,10.9,10,6,283,8.4,60.9,FALSE,TRUE
+487,127,Port of Limassol General Anchorage,General,34.744,32.9983,24,27,1,338,11.7,43.5,FALSE,FALSE
+488,127,Port of Limassol Waiting Anchorage,Waiting,34.7335,33.0003,17.5,21,11,350,12.8,3,FALSE,FALSE
+489,127,Port of Limassol Quarantine Anchorage,Quarantine,34.6005,33.044,14.2,14,5,282,11.7,162.1,FALSE,TRUE
+490,128,Port of Haifa General Anchorage,General,32.8182,34.9311,12.3,32,18,356,9.8,31.5,FALSE,FALSE
+491,128,Port of Haifa Waiting Anchorage,Waiting,32.8733,34.9424,13.3,40,8,232,10.8,19.9,FALSE,FALSE
+492,128,Port of Haifa Quarantine Anchorage,Quarantine,32.7615,34.9947,15.4,7,2,221,10.8,88.4,FALSE,TRUE
+493,128,Port of Haifa Dangerous Goods Anchorage,Hazmat,32.7952,35.073,20.4,15,1,355,17.9,68.4,FALSE,FALSE
+494,129,Port of Ashdod General Anchorage,General,31.8401,34.5606,13.1,50,2,341,10.6,13,FALSE,FALSE
+495,129,Port of Ashdod Waiting Anchorage,Waiting,31.8052,34.5899,14.9,59,17,270,8.7,19.2,FALSE,FALSE
+496,129,Port of Ashdod Quarantine Anchorage,Quarantine,31.8058,34.6913,11.6,5,1,266,8.2,43.5,FALSE,TRUE
+497,129,Port of Ashdod Dangerous Goods Anchorage,Hazmat,31.7322,34.5826,21.2,13,10,392,13.5,69.5,FALSE,FALSE
+498,130,Port of Aqaba General Anchorage,General,29.5069,35.0661,24.3,15,0,337,12.3,42.3,FALSE,FALSE
+499,130,Port of Aqaba Waiting Anchorage,Waiting,29.5688,35.0495,14.5,43,27,314,8.3,23.5,FALSE,FALSE
+500,130,Port of Aqaba Quarantine Anchorage,Quarantine,29.5875,34.9209,14,11,3,248,9.5,151.8,FALSE,TRUE
+501,131,Port of Beirut General Anchorage,General,33.9662,35.5793,15.4,43,15,253,12.9,6.2,FALSE,FALSE
+502,131,Port of Beirut Waiting Anchorage,Waiting,33.9327,35.5221,16.8,65,43,334,9,9.6,FALSE,FALSE
+503,131,Port of Beirut Quarantine Anchorage,Quarantine,33.8813,35.5328,13.6,7,5,230,9.8,160.7,FALSE,TRUE
+504,132,Port of Latakia General Anchorage,General,35.5323,35.7222,17.9,25,11,331,15.4,7.8,FALSE,FALSE
+505,132,Port of Latakia Waiting Anchorage,Waiting,35.4792,35.8121,11.2,33,11,265,8.7,17.3,FALSE,FALSE
+506,132,Port of Latakia Quarantine Anchorage,Quarantine,35.5249,35.7407,15.1,15,8,217,8.6,141.6,FALSE,TRUE
+507,133,Port of Yangon General Anchorage,General,16.8025,96.2223,16.4,27,3,348,13.9,43,FALSE,FALSE
+508,133,Port of Yangon Waiting Anchorage,Waiting,16.7535,96.2104,17.2,61,5,320,14.5,23.1,FALSE,FALSE
+509,133,Port of Yangon Quarantine Anchorage,Quarantine,16.8082,96.1939,12.1,10,2,288,9.6,117.5,FALSE,TRUE
+510,134,Port of Sihanoukville General Anchorage,General,10.5863,103.4402,18.6,50,2,331,15,19.4,FALSE,FALSE
+511,134,Port of Sihanoukville Waiting Anchorage,Waiting,10.6445,103.5417,10.1,61,24,298,7.6,14,FALSE,FALSE
+512,134,Port of Sihanoukville Quarantine Anchorage,Quarantine,10.5848,103.4801,13,15,0,311,9.9,119.3,FALSE,TRUE
+513,135,Port of Phnom Penh General Anchorage,General,11.6435,104.948,20.9,37,18,336,17.2,45.4,FALSE,FALSE
+514,135,Port of Phnom Penh Waiting Anchorage,Waiting,11.5413,104.9685,15.6,78,49,252,13.4,20.8,FALSE,FALSE
+515,135,Port of Phnom Penh Quarantine Anchorage,Quarantine,11.503,104.8821,10.5,15,9,214,8,70.2,FALSE,TRUE
+516,135,Port of Phnom Penh Dangerous Goods Anchorage,Hazmat,11.5372,104.8967,18.8,11,1,339,13.3,24.1,FALSE,FALSE
+517,136,CentrePort Wellington General Anchorage,General,-41.2115,174.8028,18.3,38,12,253,11,24.3,FALSE,FALSE
+518,136,CentrePort Wellington Waiting Anchorage,Waiting,-41.2213,174.7843,18.9,70,19,239,12.7,11.7,FALSE,FALSE
+519,136,CentrePort Wellington Quarantine Anchorage,Quarantine,-41.2816,174.7987,11.3,10,2,249,8.8,86.5,FALSE,TRUE
+520,137,Immingham Port General Anchorage,General,53.6951,-0.2575,24.8,47,36,251,14.1,8.2,FALSE,FALSE
+521,137,Immingham Port Waiting Anchorage,Waiting,53.6617,-0.1545,11.3,32,19,227,8.8,12.7,FALSE,FALSE
+522,137,Immingham Port Quarantine Anchorage,Quarantine,53.7089,-0.1934,15.1,5,1,280,8.9,46.6,FALSE,TRUE
+523,138,Port of Liverpool General Anchorage,General,53.435,-3.0442,24.6,36,9,285,10.6,14,FALSE,FALSE
+524,138,Port of Liverpool Waiting Anchorage,Waiting,53.4552,-3.0117,13.8,72,4,329,11.3,19.8,FALSE,FALSE
+525,138,Port of Liverpool Quarantine Anchorage,Quarantine,53.3467,-2.9132,15.1,14,1,253,11.5,82.6,FALSE,TRUE
+526,138,Port of Liverpool Dangerous Goods Anchorage,Hazmat,53.361,-2.9044,29.2,12,1,335,16,26.5,FALSE,FALSE
+527,139,Dublin Port General Anchorage,General,53.3085,-6.2562,24,24,3,285,11,36.2,FALSE,FALSE
+528,139,Dublin Port Waiting Anchorage,Waiting,53.3634,-6.1404,13.6,36,7,286,9.8,20.5,FALSE,FALSE
+529,139,Dublin Port Quarantine Anchorage,Quarantine,53.4019,-6.2726,14,9,0,314,8.1,69.4,FALSE,TRUE
+530,139,Dublin Port Dangerous Goods Anchorage,Hazmat,53.3457,-6.1974,22.6,13,10,290,20.2,70.3,FALSE,FALSE
+531,140,Port of Cork General Anchorage,General,51.8023,-8.2355,20.4,35,2,329,11.5,16.2,FALSE,FALSE
+532,140,Port of Cork Waiting Anchorage,Waiting,51.8311,-8.226,14.2,70,24,234,8.6,21.6,FALSE,FALSE
+533,140,Port of Cork Quarantine Anchorage,Quarantine,51.7956,-8.3581,13.4,12,3,298,8.8,98.5,FALSE,TRUE
+534,140,Port of Cork Dangerous Goods Anchorage,Hazmat,51.7919,-8.3421,21.5,12,5,307,19.2,56,FALSE,FALSE
+535,141,Port of Sines General Anchorage,General,37.9886,-8.8123,15.9,47,5,265,13.4,27.7,FALSE,FALSE
+536,141,Port of Sines Waiting Anchorage,Waiting,37.9034,-8.8757,12.3,27,10,350,8.6,11.2,FALSE,FALSE
+537,141,Port of Sines Dangerous Goods Anchorage,Hazmat,37.9342,-8.8965,19.3,13,7,364,12.6,71.8,FALSE,FALSE
+538,141,Port of Sines Hazmat Anchorage 2,Hazmat,38.0245,-8.856,25.1,5,3,363,14.3,37.9,FALSE,FALSE
+539,141,Port of Sines Quarantine Anchorage,Quarantine,38.0089,-8.7953,13.7,5,3,248,11.4,63.6,FALSE,TRUE
+540,142,Port of Leixoes General Anchorage,General,41.2411,-8.7795,12.6,42,4,347,10.1,38.4,FALSE,FALSE
+541,142,Port of Leixoes Waiting Anchorage,Waiting,41.1891,-8.7584,18.5,24,5,265,10.1,8.6,FALSE,FALSE
+542,142,Port of Leixoes Quarantine Anchorage,Quarantine,41.1354,-8.6416,12,13,0,208,8.2,69.1,FALSE,TRUE
+543,143,Port of Frederikstad General Anchorage,General,59.2124,10.9009,24.9,35,28,304,15.1,14.2,FALSE,FALSE
+544,143,Port of Frederikstad Waiting Anchorage,Waiting,59.1275,10.9796,18.2,76,59,206,11.2,21.1,FALSE,FALSE
+545,143,Port of Frederikstad Quarantine Anchorage,Quarantine,59.1928,10.8828,17.2,7,1,315,11.1,163,FALSE,TRUE
+546,144,Port of Oslo General Anchorage,General,59.9773,10.7648,13.6,38,1,320,11.1,27.8,FALSE,FALSE
+547,144,Port of Oslo Waiting Anchorage,Waiting,59.8377,10.7419,13.4,78,8,233,11.2,10.6,FALSE,FALSE
+548,144,Port of Oslo Quarantine Anchorage,Quarantine,59.9539,10.8254,14.8,6,1,315,9.1,52.1,FALSE,TRUE
+549,144,Port of Oslo Dangerous Goods Anchorage,Hazmat,59.8802,10.6917,18.1,11,7,318,15.6,27.9,FALSE,FALSE
+550,145,Port of Aarhus General Anchorage,General,56.1609,10.1593,24.9,18,5,274,13.6,20.6,FALSE,FALSE
+551,145,Port of Aarhus Waiting Anchorage,Waiting,56.0773,10.2928,13.5,25,16,210,9,21.5,FALSE,FALSE
+552,145,Port of Aarhus Quarantine Anchorage,Quarantine,56.1562,10.2552,17.2,13,4,279,10.9,105.8,FALSE,TRUE
+553,145,Port of Aarhus Dangerous Goods Anchorage,Hazmat,56.1634,10.1514,16.8,11,7,304,13.6,34.1,FALSE,FALSE
+554,146,Copenhagen Malmö Port General Anchorage,General,55.6092,12.5753,15.2,31,17,289,12.7,12.3,FALSE,FALSE
+555,146,Copenhagen Malmö Port Waiting Anchorage,Waiting,55.7386,12.537,14.1,55,33,209,11.6,2.5,FALSE,FALSE
+556,146,Copenhagen Malmö Port Quarantine Anchorage,Quarantine,55.6257,12.562,13.1,6,0,297,10.6,141.5,FALSE,TRUE
+557,147,Port of Helsinki General Anchorage,General,60.2267,25.0299,24.8,34,22,340,11.7,43.7,FALSE,FALSE
+558,147,Port of Helsinki Waiting Anchorage,Waiting,60.119,24.9393,19.8,26,6,267,14.5,23.5,FALSE,FALSE
+559,147,Port of Helsinki Quarantine Anchorage,Quarantine,60.1697,24.9957,15.1,10,2,203,11.8,122.3,FALSE,TRUE
+560,148,Port of Tallinn General Anchorage,General,59.4431,24.8073,17,41,5,357,10.7,42.3,FALSE,FALSE
+561,148,Port of Tallinn Waiting Anchorage,Waiting,59.3754,24.7264,16.5,37,9,322,8.2,7.9,FALSE,FALSE
+562,148,Port of Tallinn Quarantine Anchorage,Quarantine,59.4384,24.8204,14.3,14,8,223,11.8,128.1,FALSE,TRUE
+563,148,Port of Tallinn Dangerous Goods Anchorage,Hazmat,59.4403,24.702,27.4,15,3,294,18.9,10.4,FALSE,FALSE
+564,149,Freeport of Riga General Anchorage,General,56.9921,24.1193,17.9,21,15,337,15.4,36,FALSE,FALSE
+565,149,Freeport of Riga Waiting Anchorage,Waiting,56.9441,24.0651,14.8,50,13,269,12.3,4.4,FALSE,FALSE
+566,149,Freeport of Riga Quarantine Anchorage,Quarantine,56.9317,24.1147,16.5,15,11,226,13.7,118.6,FALSE,TRUE
+567,150,Port of Klaipeda General Anchorage,General,55.7118,21.1982,23.9,46,33,277,12.3,37.5,FALSE,FALSE
+568,150,Port of Klaipeda Waiting Anchorage,Waiting,55.6505,21.0634,12.8,24,4,336,8.9,17.4,FALSE,FALSE
+569,150,Port of Klaipeda Quarantine Anchorage,Quarantine,55.62,21.1668,11.4,15,9,287,8.9,109.6,FALSE,TRUE

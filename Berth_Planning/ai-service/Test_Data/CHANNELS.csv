@@ -1,0 +1,5 @@
+﻿ChannelId,PortId,ChannelName,ChannelLength,ChannelWidth,ChannelDepth,ChannelDepthAtChartDatum,OneWayOrTwoWay,MaxVesselLOA,MaxVesselBeam,MaxVesselDraft,TrafficSeparationScheme,SpeedLimit,TidalWindowRequired,PilotageCompulsory,TugEscortRequired,DayNightRestrictions,VisibilityMinimum,WindSpeedLimit,CurrentSpeedLimit,ChannelSegments,AnchorageAreaId,IsActive,CreatedAt
+1,1,JNPT Main Approach Channel,35.00,600.00,15.00,14.50,Two-Way,400.00,59.00,15.00,1,10,0,1,1,Night Restricted,1,40,3.50,NULL,NULL,1,2026-02-04 10:39:53.8000000
+2,1,JNPT Inner Harbour Channel,8.00,350.00,13.10,12.50,Two-Way,350.00,52.00,13.00,0,8,0,1,1,None,1,35,3.00,NULL,NULL,1,2026-02-04 10:39:53.8000000
+3,1,BMCT Deep Water Approach,5.00,400.00,16.50,16.00,One-Way,400.00,61.50,16.35,1,6,0,1,1,Day Only,2,30,2.50,NULL,NULL,1,2026-02-04 10:39:53.8000000
+4,1,JNPT Shallow Water Channel,3.00,200.00,10.00,9.50,One-Way,300.00,32.00,9.00,0,6,1,1,0,Night Restricted,1,35,3.00,NULL,NULL,1,2026-02-04 10:39:53.8000000

@@ -1,0 +1,21 @@
+{
+  "total_chunks": 2149,
+  "global_chunks": 1384,
+  "mundra_chunks": 575,
+  "chunks_by_type": {
+    "domain_concept": 128,
+    "domain_rule": 80,
+    "entity_profile": 1308,
+    "operational_data": 72,
+    "mundra_specific": 561
+  },
+  "graph_nodes": 18093,
+  "graph_edges": 5534,
+  "entities_indexed": 2062,
+  "build_time_seconds": 137.94072,
+  "build_timestamp": "2026-02-05T21:40:05.556427",
+  "data_sources": {
+    "global": "C:\\Users\\sayan\\Downloads\\Team1\\Berth_Planning\\ai-service\\Train_Database",
+    "mundra": "C:\\Users\\sayan\\Downloads\\Team1\\Berth_Planning\\documents\\Data\\Mundra"
+  }
+}

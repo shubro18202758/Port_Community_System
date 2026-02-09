@@ -1,0 +1,17 @@
+{
+  "before_accuracy": 68.75,
+  "after_accuracy": 78.125,
+  "total_chunks": 82696,
+  "category_results": {
+    "tidal": 66.66666666666666,
+    "vessel": 100.0,
+    "berth": 100.0,
+    "weather": 100.0,
+    "ukc": 66.66666666666666,
+    "pilot": 66.66666666666666,
+    "ais": 100.0,
+    "anchorage": 66.66666666666666,
+    "schedule": 66.66666666666666,
+    "terminal": 60.0
+  }
+}

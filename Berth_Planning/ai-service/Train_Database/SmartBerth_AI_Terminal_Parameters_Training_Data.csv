@@ -1,0 +1,654 @@
+terminalId,portId,terminalCode,terminalName,terminalType,operatorName,latitude,longitude,isActive,totalBerths
+1,1,SGSIN-CT01,Deep Water Container Terminal,Container,PSA International,1.2496,103.8297,TRUE,5
+2,1,SGSIN-CT02,Main Container Terminal 2,Container,PSA International,1.2453,103.8295,TRUE,3
+3,1,SGSIN-CT03,Container Terminal 3,Container,Eurogate,1.2648,103.8214,TRUE,8
+4,1,SGSIN-CT04,West Container Terminal,Container,PSA International,1.2672,103.8081,TRUE,8
+5,1,SGSIN-BT01,Iron Ore Terminal,Bulk,PSA International,1.2688,103.822,TRUE,4
+6,1,SGSIN-GT01,General Cargo Terminal 1,General,PSA International,1.2597,103.8377,TRUE,2
+7,1,SGSIN-RT01,Car Carrier Terminal,RoRo,PSA International,1.262,103.8167,FALSE,3
+8,1,SGSIN-PT01,Passenger Terminal,Passenger,PSA International,1.2641,103.8065,TRUE,1
+9,2,CNSHA-CT01,Container Terminal 1,Container,COSCO Shipping Ports,31.2442,121.4934,TRUE,5
+10,2,CNSHA-CT02,Gateway Container Terminal,Container,COSCO Shipping Ports,31.235,121.4887,TRUE,8
+11,2,CNSHA-CT03,South Container Terminal,Container,CMA CGM Terminals,31.2396,121.4634,TRUE,7
+12,2,CNSHA-CT04,Gateway Container Terminal,Container,China Merchants Port,31.2455,121.456,TRUE,4
+13,2,CNSHA-BT01,Minerals Terminal,Bulk,COSCO Shipping Ports,31.2319,121.4542,TRUE,2
+14,2,CNSHA-GT01,Breakbulk Terminal,General,Multipurpose Terminal,31.2204,121.4805,TRUE,4
+15,3,CNSZX-CT01,South Container Terminal,Container,COSCO Shipping Ports,22.4922,113.9155,TRUE,7
+16,3,CNSZX-CT02,South Container Terminal,Container,Ningbo Zhoushan Port Co,22.489,113.9194,TRUE,6
+17,3,CNSZX-CT03,North Container Terminal,Container,Shanghai International Port Group,22.4646,113.9011,TRUE,3
+18,3,CNSZX-CT04,North Container Terminal,Container,Ningbo Zhoushan Port Co,22.4613,113.9112,TRUE,6
+19,3,CNSZX-BT01,Dry Bulk Terminal,Bulk,Rio Tinto Terminal,22.4987,113.9004,TRUE,5
+20,3,CNSZX-GT01,Heavy Lift Terminal,General,Shanghai International Port Group,22.4751,113.8932,TRUE,4
+21,3,CNSZX-RT01,Auto Terminal,RoRo,Höegh Autoliners Terminal,22.4884,113.9154,TRUE,4
+22,3,CNSZX-PT01,International Cruise Terminal,Passenger,Port Authority Cruise Terminal,22.4642,113.9103,TRUE,1
+23,3,CNSZX-MPT01,Universal Terminal,Multi-Purpose,Ningbo Zhoushan Port Co,22.4736,113.9179,TRUE,4
+24,3,CNSZX-BT02,Dry Bulk Terminal,Bulk,COSCO Shipping Ports,22.4754,113.9289,TRUE,5
+25,4,CNNBO-CT01,Gateway Container Terminal,Container,COSCO Shipping Ports,29.8593,121.5379,TRUE,5
+26,4,CNNBO-CT02,International Container Terminal 2,Container,Ningbo Zhoushan Port Co,29.8692,121.5639,TRUE,3
+27,4,CNNBO-CT03,International Container Terminal 3,Container,China Merchants Port,29.8497,121.5242,TRUE,7
+28,4,CNNBO-CT04,East Container Terminal,Container,China Merchants Port,29.8563,121.5249,TRUE,6
+29,4,CNNBO-BT01,Dry Bulk Terminal,Bulk,Cargill Terminal,29.8747,121.5445,TRUE,5
+30,4,CNNBO-GT01,Project Cargo Terminal,General,COSCO Shipping Ports,29.8733,121.5638,TRUE,4
+31,5,CNQIN-CT01,South Container Terminal,Container,COSCO Shipping Ports,36.0551,120.3831,TRUE,6
+32,5,CNQIN-CT02,Main Container Terminal 2,Container,Terminal Investment Limited,36.0506,120.3652,TRUE,8
+33,5,CNQIN-CT03,Gateway Container Terminal,Container,COSCO Shipping Ports,36.0825,120.3904,TRUE,7
+34,5,CNQIN-CT04,Main Container Terminal 4,Container,Ningbo Zhoushan Port Co,36.0676,120.3817,TRUE,3
+35,5,CNQIN-BT01,Grain Terminal,Bulk,Ningbo Zhoushan Port Co,36.0664,120.3849,TRUE,3
+36,5,CNQIN-GT01,Breakbulk Terminal,General,Ningbo Zhoushan Port Co,36.0813,120.3987,TRUE,2
+37,6,CNTXG-CT01,Deep Water Container Terminal,Container,Gulftainer,38.9908,117.7432,TRUE,6
+38,6,CNTXG-CT02,North Container Terminal,Container,Shanghai International Port Group,39.0034,117.7395,FALSE,8
+39,6,CNTXG-BT01,Coal Terminal,Bulk,ADM Terminal,38.9673,117.75,TRUE,2
+40,6,CNTXG-GT01,Breakbulk Terminal,General,Ningbo Zhoushan Port Co,38.9758,117.7347,TRUE,2
+41,6,CNTXG-LT01,Tank Terminal,Liquid,Shell Terminal,38.9692,117.7329,TRUE,4
+42,7,CNXMN-CT01,International Container Terminal 1,Container,CMA CGM Terminals,24.4627,118.1087,TRUE,7
+43,7,CNXMN-CT02,Gateway Container Terminal,Container,COSCO Shipping Ports,24.4395,118.1057,TRUE,7
+44,7,CNXMN-BT01,Agri-Bulk Terminal,Bulk,Port Authority,24.4665,118.0789,TRUE,5
+45,7,CNXMN-GT01,General Cargo Terminal 1,General,Ningbo Zhoushan Port Co,24.4465,118.0798,TRUE,4
+46,8,HKHKG-CT01,Main Container Terminal 1,Container,ICTSI,22.2728,114.1409,TRUE,4
+47,8,HKHKG-CT02,International Container Terminal 2,Container,Gulftainer,22.2669,114.1725,TRUE,6
+48,8,HKHKG-CT03,West Container Terminal,Container,Port Authority,22.2821,114.1495,TRUE,6
+49,8,HKHKG-CT04,North Container Terminal,Container,PSA International,22.2844,114.1647,TRUE,7
+50,8,HKHKG-BT01,Minerals Terminal,Bulk,Port Authority,22.2799,114.1692,TRUE,5
+51,8,HKHKG-GT01,Project Cargo Terminal,General,Port Authority General Cargo,22.2891,114.15,TRUE,2
+52,8,HKHKG-RT01,Vehicle Terminal,RoRo,NYK RoRo Terminal,22.2717,114.1498,TRUE,2
+53,8,HKHKG-PT01,Passenger Terminal,Passenger,Port Authority,22.2788,114.1435,TRUE,1
+54,9,KRPUS-CT01,East Container Terminal,Container,Terminal Investment Limited,35.0843,129.0592,TRUE,6
+55,9,KRPUS-CT02,North Container Terminal,Container,Terminal Investment Limited,35.12,129.0587,TRUE,8
+56,9,KRPUS-CT03,Container Terminal 3,Container,Terminal Investment Limited,35.1175,129.0273,TRUE,4
+57,9,KRPUS-CT04,East Container Terminal,Container,ICTSI,35.1216,129.0527,TRUE,8
+58,9,KRPUS-BT01,Bulk Cargo Terminal 1,Bulk,Bunge Terminal,35.1059,129.0545,TRUE,5
+59,9,KRPUS-GT01,General Cargo Terminal 1,General,Breakbulk Terminal,35.1053,129.0481,TRUE,4
+60,10,JPYOK-CT01,Container Terminal 1,Container,Hutchison Ports,35.4407,139.6259,TRUE,3
+61,10,JPYOK-CT02,South Container Terminal,Container,Port Authority,35.4521,139.6334,TRUE,8
+62,10,JPYOK-BT01,Grain Terminal,Bulk,Port Authority,35.427,139.6198,TRUE,4
+63,10,JPYOK-GT01,Project Cargo Terminal,General,Breakbulk Terminal,35.4613,139.6566,TRUE,2
+64,10,JPYOK-LT01,Fuel Terminal,Liquid,Port Authority,35.434,139.6483,TRUE,2
+65,11,JPTYO-CT01,Main Container Terminal 1,Container,APM Terminals,35.6054,139.7651,TRUE,5
+66,11,JPTYO-CT02,International Container Terminal 2,Container,Evergreen Marine,35.6376,139.7798,TRUE,7
+67,11,JPTYO-BT01,Grain Terminal,Bulk,Cargill Terminal,35.6219,139.7886,TRUE,2
+68,11,JPTYO-GT01,General Cargo Terminal 1,General,Breakbulk Terminal,35.6335,139.7619,TRUE,4
+69,12,JPKOB-CT01,South Container Terminal,Container,COSCO Shipping Ports,34.7048,135.2101,TRUE,7
+70,12,JPKOB-CT02,Container Terminal 2,Container,MSC Terminal,34.7064,135.1799,TRUE,4
+71,12,JPKOB-BT01,Bulk Cargo Terminal 1,Bulk,Port Authority,34.7054,135.1992,TRUE,3
+72,12,JPKOB-GT01,Project Cargo Terminal,General,Port Authority,34.6778,135.1942,TRUE,4
+73,12,JPKOB-LT01,Fuel Terminal,Liquid,Port Authority,34.6916,135.2111,TRUE,3
+74,12,JPKOB-RT01,Vehicle Terminal,RoRo,Port Authority,34.6924,135.2071,TRUE,3
+75,13,JPNGO-CT01,South Container Terminal,Container,PSA International,35.0779,136.8719,TRUE,4
+76,13,JPNGO-CT02,East Container Terminal,Container,Terminal Investment Limited,35.087,136.8632,TRUE,5
+77,13,JPNGO-BT01,Dry Bulk Terminal,Bulk,Port Authority Bulk,35.0897,136.8888,TRUE,4
+78,13,JPNGO-GT01,Project Cargo Terminal,General,Port Authority General Cargo,35.0681,136.8884,TRUE,4
+79,14,TWKHH-CT01,Gateway Container Terminal,Container,Evergreen Marine,22.6254,120.2866,TRUE,6
+80,14,TWKHH-CT02,Container Terminal 2,Container,Hutchison Ports,22.6106,120.2655,TRUE,7
+81,14,TWKHH-BT01,Iron Ore Terminal,Bulk,ADM Terminal,22.5964,120.2697,TRUE,3
+82,14,TWKHH-GT01,Project Cargo Terminal,General,Multipurpose Terminal,22.6032,120.2969,TRUE,3
+83,14,TWKHH-LT01,Oil Terminal,Liquid,Chevron Terminal,22.6244,120.2783,TRUE,3
+84,15,TWTPE-CT01,Deep Water Container Terminal,Container,APM Terminals,25.1407,121.7236,TRUE,4
+85,15,TWTPE-CT02,Main Container Terminal 2,Container,Terminal Investment Limited,25.1689,121.7378,TRUE,8
+86,15,TWTPE-BT01,Minerals Terminal,Bulk,Glencore Terminal,25.1491,121.7467,TRUE,5
+87,15,TWTPE-GT01,Breakbulk Terminal,General,Multipurpose Terminal,25.1468,121.7507,TRUE,3
+88,15,TWTPE-LT01,Liquid Bulk Terminal 1,Liquid,Oiltanking,25.145,121.7206,TRUE,2
+89,16,MYKLG-CT01,Main Container Terminal 1,Container,COSCO Shipping Ports,2.9852,101.3818,TRUE,6
+90,16,MYKLG-CT02,Gateway Container Terminal,Container,Gulftainer,3.0005,101.4182,TRUE,6
+91,16,MYKLG-BT01,Bulk Cargo Terminal 1,Bulk,Glencore Terminal,3.0091,101.4153,TRUE,4
+92,16,MYKLG-GT01,General Cargo Terminal 1,General,Port Authority,2.9854,101.3806,TRUE,4
+93,16,MYKLG-LT01,Petroleum Terminal,Liquid,ADNOC Terminal,2.9898,101.4003,TRUE,3
+94,16,MYKLG-RT01,Car Carrier Terminal,RoRo,Port Authority,3.0105,101.4038,TRUE,3
+95,17,MYTPP-CT01,International Container Terminal 1,Container,COSCO Shipping Ports,1.3599,103.5308,TRUE,3
+96,17,MYTPP-CT02,Main Container Terminal 2,Container,Terminal Investment Limited,1.3498,103.5698,TRUE,5
+97,17,MYTPP-BT01,Iron Ore Terminal,Bulk,Cargill Terminal,1.3509,103.5662,TRUE,2
+98,17,MYTPP-GT01,Breakbulk Terminal,General,Port Authority General Cargo,1.3494,103.5615,TRUE,4
+99,18,VNSGN-CT01,West Container Terminal,Container,SSA Marine,10.7405,106.7368,TRUE,8
+100,18,VNSGN-CT02,West Container Terminal,Container,Eurogate,10.7544,106.7479,FALSE,5
+101,18,VNSGN-BT01,Dry Bulk Terminal,Bulk,Bunge Terminal,10.7388,106.7385,TRUE,2
+102,18,VNSGN-GT01,Heavy Lift Terminal,General,Breakbulk Terminal,10.7639,106.7416,TRUE,4
+103,18,VNSGN-LT01,Oil Terminal,Liquid,Saudi Aramco Terminal,10.7377,106.7495,TRUE,2
+104,19,VNHPH-CT01,Main Container Terminal 1,Container,ICTSI,20.8292,106.6953,TRUE,6
+105,19,VNHPH-CT02,East Container Terminal,Container,DP World,20.8513,106.6937,TRUE,5
+106,19,VNHPH-BT01,Grain Terminal,Bulk,Rio Tinto Terminal,20.8547,106.6887,TRUE,2
+107,19,VNHPH-GT01,Breakbulk Terminal,General,Port Authority,20.8555,106.6791,TRUE,3
+108,20,THLCH-CT01,South Container Terminal,Container,Evergreen Marine,13.068,100.8893,FALSE,7
+109,20,THLCH-CT02,Container Terminal 2,Container,PSA International,13.0748,100.8943,TRUE,7
+110,20,THLCH-BT01,Bulk Cargo Terminal 1,Bulk,Bunge Terminal,13.0871,100.8932,TRUE,3
+111,20,THLCH-GT01,Breakbulk Terminal,General,Breakbulk Terminal,13.0821,100.8643,TRUE,4
+112,20,THLCH-LT01,Crude Oil Terminal,Liquid,ExxonMobil Terminal,13.0803,100.8817,TRUE,5
+113,21,THBKK-CT01,North Container Terminal,Container,Eurogate,13.7164,100.5867,TRUE,3
+114,21,THBKK-CT02,Main Container Terminal 2,Container,Gulftainer,13.7134,100.5948,TRUE,8
+115,21,THBKK-BT01,Minerals Terminal,Bulk,Cargill Terminal,13.6821,100.5846,TRUE,2
+116,21,THBKK-GT01,General Cargo Terminal 1,General,Port Authority General Cargo,13.7115,100.5611,TRUE,2
+117,21,THBKK-LT01,Liquid Bulk Terminal 1,Liquid,Port Authority,13.7083,100.5785,TRUE,3
+118,21,THBKK-RT01,Ferry Terminal,RoRo,Port Authority,13.6849,100.598,TRUE,2
+119,22,IDTPP-CT01,International Container Terminal 1,Container,Eurogate,-6.1007,106.8823,TRUE,6
+120,22,IDTPP-CT02,East Container Terminal,Container,Evergreen Marine,-6.1173,106.8699,TRUE,3
+121,22,IDTPP-BT01,Dry Bulk Terminal,Bulk,Port Authority,-6.0896,106.896,TRUE,2
+122,22,IDTPP-GT01,Breakbulk Terminal,General,Breakbulk Terminal,-6.1219,106.8983,TRUE,3
+123,23,IDSUB-CT01,Deep Water Container Terminal,Container,DP World,-7.181,112.7156,TRUE,6
+124,23,IDSUB-CT02,East Container Terminal,Container,MSC Terminal,-7.1961,112.7206,TRUE,8
+125,23,IDSUB-BT01,Grain Terminal,Bulk,Bunge Terminal,-7.2021,112.7371,TRUE,5
+126,23,IDSUB-GT01,Heavy Lift Terminal,General,Multipurpose Terminal,-7.1922,112.7516,TRUE,3
+127,24,PHMNL-CT01,Gateway Container Terminal,Container,Hutchison Ports,14.59,120.9614,TRUE,5
+128,24,PHMNL-CT02,North Container Terminal,Container,CMA CGM Terminals,14.5712,120.975,TRUE,6
+129,24,PHMNL-BT01,Dry Bulk Terminal,Bulk,Glencore Terminal,14.5941,120.9833,TRUE,4
+130,24,PHMNL-GT01,General Cargo Terminal 1,General,Port Authority,14.573,120.9845,TRUE,3
+131,25,INBOM-CT01,East Container Terminal,Container,Adani Ports,18.932,72.8343,TRUE,4
+132,25,INBOM-CT02,East Container Terminal,Container,CMA CGM Terminals,18.9357,72.8609,TRUE,8
+133,25,INBOM-BT01,Agri-Bulk Terminal,Bulk,JSW Infrastructure,18.9158,72.8574,TRUE,3
+134,25,INBOM-GT01,General Cargo Terminal 1,General,JSW Infrastructure,18.933,72.8394,TRUE,3
+135,25,INBOM-LT01,Chemical Terminal,Liquid,APM Terminals Mumbai,18.9219,72.8472,TRUE,2
+136,26,INNSA-CT01,West Container Terminal,Container,CMA CGM Terminals,18.9421,72.9658,TRUE,3
+137,26,INNSA-CT02,North Container Terminal,Container,DP World Nhava Sheva,18.9456,72.9542,TRUE,4
+138,26,INNSA-BT01,Bulk Cargo Terminal 1,Bulk,DP World Nhava Sheva,18.9643,72.9383,TRUE,3
+139,26,INNSA-GT01,Breakbulk Terminal,General,APM Terminals Mumbai,18.9308,72.9395,TRUE,4
+140,27,INMAA-CT01,South Container Terminal,Container,Evergreen Marine,13.0947,80.2575,TRUE,5
+141,27,INMAA-CT02,Container Terminal 2,Container,JSW Infrastructure,13.0976,80.2537,TRUE,6
+142,27,INMAA-BT01,Coal Terminal,Bulk,JSW Infrastructure,13.0918,80.2516,TRUE,4
+143,27,INMAA-GT01,General Cargo Terminal 1,General,Port Authority General Cargo,13.0788,80.2707,TRUE,3
+144,27,INMAA-LT01,Crude Oil Terminal,Liquid,DP World Nhava Sheva,13.0984,80.2583,TRUE,2
+145,27,INMAA-RT01,Vehicle Terminal,RoRo,UECC Terminal,13.085,80.2732,TRUE,3
+146,28,INCOK-CT01,Gateway Container Terminal,Container,ICTSI,9.9621,76.2484,TRUE,6
+147,28,INCOK-CT02,Deep Water Container Terminal,Container,Port Authority,9.9858,76.2691,TRUE,7
+148,28,INCOK-BT01,Dry Bulk Terminal,Bulk,Adani Ports,9.9769,76.2718,TRUE,4
+149,28,INCOK-GT01,Project Cargo Terminal,General,Breakbulk Terminal,9.9655,76.2623,TRUE,2
+150,29,INMUN-CT01,Gateway Container Terminal,Container,MSC Terminal,22.8285,69.7396,TRUE,3
+151,29,INMUN-CT02,North Container Terminal,Container,DP World,22.8369,69.7368,TRUE,7
+152,29,INMUN-BT01,Grain Terminal,Bulk,Port Authority,22.8315,69.7402,TRUE,3
+153,29,INMUN-GT01,Breakbulk Terminal,General,Port Authority,22.858,69.7293,TRUE,2
+154,30,INPAV-CT01,North Container Terminal,Container,APM Terminals,20.9203,71.5305,TRUE,8
+155,30,INPAV-CT02,East Container Terminal,Container,Adani Ports,20.897,71.5182,TRUE,3
+156,30,INPAV-BT01,Grain Terminal,Bulk,Glencore Terminal,20.9158,71.5185,TRUE,4
+157,30,INPAV-GT01,Project Cargo Terminal,General,Multipurpose Terminal,20.8991,71.5328,TRUE,3
+158,30,INPAV-LT01,Petroleum Terminal,Liquid,IMTT,20.9014,71.5492,TRUE,4
+159,30,INPAV-RT01,RoRo Terminal 1,RoRo,K Line RoRo,20.9088,71.5384,FALSE,3
+160,31,LKCMB-CT01,Deep Water Container Terminal,Container,SSA Marine,6.9592,79.8664,TRUE,4
+161,31,LKCMB-CT02,Container Terminal 2,Container,APM Terminals,6.9363,79.8643,TRUE,7
+162,31,LKCMB-BT01,Dry Bulk Terminal,Bulk,Port Authority,6.9589,79.845,TRUE,5
+163,31,LKCMB-GT01,Project Cargo Terminal,General,Breakbulk Terminal,6.9587,79.8413,TRUE,3
+164,31,LKCMB-LT01,Fuel Terminal,Liquid,IMTT,6.9314,79.8463,TRUE,4
+165,32,BDCGP-CT01,West Container Terminal,Container,Hutchison Ports,22.3112,91.7869,TRUE,5
+166,32,BDCGP-CT02,East Container Terminal,Container,Hutchison Ports,22.319,91.8007,TRUE,4
+167,32,BDCGP-BT01,Minerals Terminal,Bulk,Cargill Terminal,22.3424,91.7925,TRUE,2
+168,32,BDCGP-GT01,Breakbulk Terminal,General,Port Authority General Cargo,22.3491,91.7817,TRUE,4
+169,32,BDCGP-LT01,Liquid Bulk Terminal 1,Liquid,Oiltanking,22.3151,91.7883,TRUE,2
+170,32,BDCGP-RT01,Vehicle Terminal,RoRo,NYK RoRo Terminal,22.331,91.7834,TRUE,3
+171,33,PKKAR-CT01,South Container Terminal,Container,SSA Marine,24.8306,66.9889,TRUE,6
+172,33,PKKAR-CT02,South Container Terminal,Container,APM Terminals,24.8303,66.979,TRUE,3
+173,33,PKKAR-BT01,Coal Terminal,Bulk,Cargill Terminal,24.8612,66.994,TRUE,5
+174,33,PKKAR-GT01,Project Cargo Terminal,General,Multipurpose Terminal,24.854,66.9798,TRUE,3
+175,34,PKQCT-CT01,East Container Terminal,Container,CMA CGM Terminals,24.7793,67.3421,TRUE,7
+176,34,PKQCT-CT02,North Container Terminal,Container,DP World,24.7713,67.3365,TRUE,5
+177,34,PKQCT-BT01,Minerals Terminal,Bulk,Louis Dreyfus,24.8014,67.331,TRUE,5
+178,34,PKQCT-GT01,Heavy Lift Terminal,General,Multipurpose Terminal,24.783,67.3638,TRUE,4
+179,35,AEJEA-CT01,East Container Terminal,Container,Gulftainer,25.0088,55.0679,TRUE,3
+180,35,AEJEA-CT02,West Container Terminal,Container,Hutchison Ports,25.0038,55.0754,TRUE,7
+181,35,AEJEA-LT01,Oil Terminal,Liquid,DP World,25.0132,55.0598,TRUE,5
+182,35,AEJEA-LT02,Chemical Terminal,Liquid,Port Authority,25.031,55.0529,TRUE,5
+183,35,AEJEA-LT03,Oil Terminal,Liquid,Abu Dhabi Ports,25.0145,55.0481,TRUE,6
+184,35,AEJEA-LNG01,LNG Import Terminal,LNG,Hutchison Ports,25.0174,55.0646,TRUE,2
+185,36,AEKLF-CT01,South Container Terminal,Container,Evergreen Marine,24.8071,54.5952,TRUE,3
+186,36,AEKLF-CT02,Main Container Terminal 2,Container,Abu Dhabi Ports,24.8269,54.5865,TRUE,3
+187,36,AEKLF-LT01,Crude Oil Terminal,Liquid,Hutchison Ports,24.8318,54.6048,TRUE,5
+188,36,AEKLF-LT02,Crude Oil Terminal,Liquid,Chevron Terminal,24.8204,54.6092,TRUE,2
+189,36,AEKLF-LT03,Petroleum Terminal,Liquid,Gulftainer,24.8298,54.5908,TRUE,4
+190,36,AEKLF-LNG01,Gas Terminal,LNG,JERA LNG Terminal,24.8352,54.5958,TRUE,1
+191,37,AERUH-CT01,East Container Terminal,Container,SSA Marine,25.2643,55.2827,TRUE,7
+192,37,AERUH-CT02,West Container Terminal,Container,PSA International,25.2861,55.2758,TRUE,7
+193,37,AERUH-LT01,Liquid Bulk Terminal 1,Liquid,ExxonMobil Terminal,25.2717,55.2759,TRUE,4
+194,37,AERUH-LT02,Fuel Terminal,Liquid,DP World,25.2759,55.2984,FALSE,2
+195,37,AERUH-LT03,Oil Terminal,Liquid,Shell Terminal,25.273,55.2659,TRUE,3
+196,38,AEFJR-CT01,Main Container Terminal 1,Container,Hutchison Ports,25.1241,56.3241,TRUE,4
+197,38,AEFJR-CT02,Deep Water Container Terminal,Container,DP World,25.1023,56.3428,TRUE,7
+198,38,AEFJR-LT01,Fuel Terminal,Liquid,Shell Terminal,25.1061,56.3292,TRUE,3
+199,38,AEFJR-LT02,Liquid Bulk Terminal 2,Liquid,Port Authority,25.1204,56.3393,TRUE,4
+200,39,SAJED-CT01,South Container Terminal,Container,CMA CGM Terminals,21.4822,39.1929,TRUE,7
+201,39,SAJED-CT02,East Container Terminal,Container,CMA CGM Terminals,21.4951,39.1907,TRUE,5
+202,39,SAJED-LT01,Crude Oil Terminal,Liquid,Port Authority,21.4837,39.1959,TRUE,6
+203,39,SAJED-LT02,Petroleum Terminal,Liquid,Shell Terminal,21.4684,39.1909,TRUE,2
+204,39,SAJED-LT03,Petroleum Terminal,Liquid,Vopak Terminal,21.4871,39.1975,TRUE,6
+205,39,SAJED-LNG01,Gas Terminal,LNG,Abu Dhabi Ports,21.4687,39.1968,TRUE,3
+206,40,SADMM-CT01,South Container Terminal,Container,ICTSI,26.4426,50.0971,TRUE,6
+207,40,SADMM-CT02,East Container Terminal,Container,Saudi Ports Authority,26.4585,50.1057,TRUE,7
+208,40,SADMM-LT01,Tank Terminal,Liquid,Koole Terminals,26.4456,50.101,TRUE,6
+209,40,SADMM-LT02,Crude Oil Terminal,Liquid,Saudi Aramco Terminal,26.4651,50.0851,TRUE,5
+210,40,SADMM-LT03,Liquid Bulk Terminal 3,Liquid,Port Authority,26.4621,50.1067,TRUE,3
+211,40,SADMM-LNG01,LNG Export Terminal,LNG,DP World,26.4591,50.0911,TRUE,2
+212,41,SAKAC-CT01,South Container Terminal,Container,Abu Dhabi Ports,22.3956,39.1114,TRUE,6
+213,41,SAKAC-CT02,West Container Terminal,Container,DP World,22.4085,39.1105,TRUE,3
+214,41,SAKAC-LT01,Tank Terminal,Liquid,Hutchison Ports,22.4035,39.1128,TRUE,3
+215,41,SAKAC-LT02,Crude Oil Terminal,Liquid,Hutchison Ports,22.4131,39.1185,TRUE,4
+216,42,QAHAM-CT01,Main Container Terminal 1,Container,DP World,25.0468,51.5412,TRUE,8
+217,42,QAHAM-CT02,Deep Water Container Terminal,Container,Evergreen Marine,25.0193,51.5303,TRUE,3
+218,42,QAHAM-LT01,Liquid Bulk Terminal 1,Liquid,DP World,25.0208,51.5176,TRUE,5
+219,42,QAHAM-LT02,Tank Terminal,Liquid,Saudi Ports Authority,25.0105,51.536,TRUE,3
+220,43,OMSLL-CT01,Main Container Terminal 1,Container,Port Authority,16.9307,54.0032,TRUE,6
+221,43,OMSLL-CT02,West Container Terminal,Container,Gulftainer,16.9694,53.9917,TRUE,5
+222,43,OMSLL-LT01,Crude Oil Terminal,Liquid,Port Authority,16.967,53.9921,TRUE,2
+223,43,OMSLL-LT02,Fuel Terminal,Liquid,Port Authority,16.9451,53.9985,TRUE,3
+224,44,OMSOH-CT01,South Container Terminal,Container,Port Authority,24.3577,56.6062,TRUE,6
+225,44,OMSOH-CT02,Main Container Terminal 2,Container,Terminal Investment Limited,24.3579,56.6167,TRUE,6
+226,44,OMSOH-LT01,Petroleum Terminal,Liquid,Vopak Terminal,24.3228,56.6387,TRUE,6
+227,44,OMSOH-LT02,Oil Terminal,Liquid,Port Authority,24.3393,56.6343,TRUE,3
+228,45,BWASB-CT01,Main Container Terminal 1,Container,CMA CGM Terminals,26.2265,50.6165,TRUE,3
+229,45,BWASB-CT02,Container Terminal 2,Container,CMA CGM Terminals,26.204,50.5878,TRUE,8
+230,45,BWASB-LT01,Liquid Bulk Terminal 1,Liquid,IMTT,26.2265,50.6173,TRUE,4
+231,45,BWASB-LT02,Oil Terminal,Liquid,ADNOC Terminal,26.2059,50.6044,TRUE,2
+232,46,KWSAA-CT01,Gateway Container Terminal,Container,MSC Terminal,29.3439,47.9347,TRUE,7
+233,46,KWSAA-CT02,East Container Terminal,Container,SSA Marine,29.3465,47.9561,TRUE,5
+234,46,KWSAA-LT01,Tank Terminal,Liquid,Port Authority,29.3442,47.9536,TRUE,2
+235,46,KWSAA-LT02,Petroleum Terminal,Liquid,BP Terminal,29.3388,47.9276,TRUE,4
+236,46,KWSAA-LT03,Oil Terminal,Liquid,Chevron Terminal,29.3527,47.9574,TRUE,5
+237,47,IQBSR-CT01,West Container Terminal,Container,Hutchison Ports,30.5294,47.8376,TRUE,5
+238,47,IQBSR-CT02,East Container Terminal,Container,ICTSI,30.4979,47.8327,TRUE,4
+239,47,IQBSR-LT01,Fuel Terminal,Liquid,Vopak Terminal,30.5088,47.8362,TRUE,2
+240,47,IQBSR-LT02,Liquid Bulk Terminal 2,Liquid,Saudi Aramco Terminal,30.5086,47.8174,TRUE,6
+241,47,IQBSR-LT03,Tank Terminal,Liquid,ExxonMobil Terminal,30.5061,47.8426,TRUE,6
+242,48,IRBND-CT01,International Container Terminal 1,Container,PSA International,27.1741,56.2784,TRUE,3
+243,48,IRBND-CT02,Deep Water Container Terminal,Container,Port Authority,27.182,56.2783,TRUE,7
+244,48,IRBND-LT01,Tank Terminal,Liquid,Koole Terminals,27.197,56.2556,TRUE,5
+245,48,IRBND-LT02,Chemical Terminal,Liquid,Vopak Terminal,27.1677,56.2776,TRUE,3
+246,49,IRBKM-CT01,Gateway Container Terminal,Container,DP World,30.4434,49.0492,TRUE,3
+247,49,IRBKM-CT02,Gateway Container Terminal,Container,Terminal Investment Limited,30.4285,49.081,TRUE,8
+248,49,IRBKM-LT01,Tank Terminal,Liquid,Oiltanking,30.451,49.0577,TRUE,2
+249,49,IRBKM-LT02,Chemical Terminal,Liquid,Port Authority,30.4339,49.0517,TRUE,2
+250,49,IRBKM-LT03,Liquid Bulk Terminal 3,Liquid,Shell Terminal,30.4345,49.0611,TRUE,2
+251,50,NLRTM-CT01,Gateway Container Terminal,Container,HHLA,51.9081,4.4974,TRUE,4
+252,50,NLRTM-CT02,Main Container Terminal 2,Container,Eurogate,51.913,4.5153,TRUE,6
+253,50,NLRTM-CT03,East Container Terminal,Container,HHLA,51.9106,4.5061,TRUE,8
+254,50,NLRTM-CT04,Deep Water Container Terminal,Container,DP World Antwerp,51.9103,4.5099,TRUE,8
+255,50,NLRTM-BT01,Coal Terminal,Bulk,APM Terminals,51.8811,4.5026,TRUE,3
+256,50,NLRTM-GT01,Breakbulk Terminal,General,Port Authority General Cargo,51.9022,4.5173,TRUE,4
+257,50,NLRTM-RT01,RoRo Terminal 1,RoRo,Port Authority,51.8945,4.5156,TRUE,4
+258,50,NLRTM-PT01,Ferry Passenger Terminal,Passenger,HHLA,51.9049,4.51,TRUE,3
+259,50,NLRTM-MPT01,Flexible Cargo Terminal,Multi-Purpose,APM Terminals,51.9045,4.4959,TRUE,2
+260,50,NLRTM-CT05,Gateway Container Terminal,Container,DP World Antwerp,51.9075,4.491,TRUE,6
+261,51,BEANR-CT01,Container Terminal 1,Container,DP World Antwerp,51.2518,4.3801,TRUE,3
+262,51,BEANR-CT02,Gateway Container Terminal,Container,Terminal Investment Limited,51.2652,4.3991,TRUE,3
+263,51,BEANR-CT03,Gateway Container Terminal,Container,COSCO Shipping Ports,51.2629,4.3993,TRUE,7
+264,51,BEANR-CT04,International Container Terminal 4,Container,PSA Antwerp,51.278,4.4124,TRUE,3
+265,51,BEANR-BT01,Grain Terminal,Bulk,HHLA,51.2558,4.3941,TRUE,2
+266,51,BEANR-GT01,Heavy Lift Terminal,General,Port Authority,51.276,4.4117,TRUE,3
+267,52,DEHAM-CT01,North Container Terminal,Container,SSA Marine,53.5319,9.9537,TRUE,4
+268,52,DEHAM-CT02,North Container Terminal,Container,Eurogate,53.5529,9.9772,TRUE,5
+269,52,DEHAM-CT03,South Container Terminal,Container,Eurogate,53.5333,9.9747,TRUE,8
+270,52,DEHAM-CT04,South Container Terminal,Container,DP World Antwerp,53.54,9.9642,TRUE,8
+271,52,DEHAM-BT01,Agri-Bulk Terminal,Bulk,ADM Terminal,53.5382,9.9815,TRUE,3
+272,52,DEHAM-GT01,Heavy Lift Terminal,General,PSA Antwerp,53.5294,9.9625,TRUE,2
+273,52,DEHAM-RT01,RoRo Terminal 1,RoRo,DP World Antwerp,53.5265,9.9608,TRUE,2
+274,52,DEHAM-PT01,Passenger Terminal,Passenger,Port Authority Cruise Terminal,53.5319,9.956,TRUE,1
+275,53,DEBRV-CT01,Deep Water Container Terminal,Container,HHLA,53.5231,8.5929,TRUE,5
+276,53,DEBRV-CT02,Container Terminal 2,Container,CMA CGM Terminals,53.5474,8.5741,TRUE,6
+277,53,DEBRV-BT01,Coal Terminal,Bulk,DP World Antwerp,53.5404,8.58,TRUE,2
+278,53,DEBRV-GT01,Heavy Lift Terminal,General,Eurogate,53.5229,8.5679,TRUE,2
+279,53,DEBRV-LT01,Fuel Terminal,Liquid,Saudi Aramco Terminal,53.5478,8.5733,TRUE,3
+280,53,DEBRV-RT01,Car Carrier Terminal,RoRo,PSA Antwerp,53.5224,8.5869,TRUE,4
+281,54,GBFXT-CT01,Deep Water Container Terminal,Container,Port Authority,51.9404,1.3434,TRUE,8
+282,54,GBFXT-CT02,Gateway Container Terminal,Container,Eurogate,51.9399,1.3396,TRUE,6
+283,54,GBFXT-BT01,Agri-Bulk Terminal,Bulk,Vale Terminal,51.9331,1.3331,TRUE,4
+284,54,GBFXT-GT01,Project Cargo Terminal,General,Breakbulk Terminal,51.9314,1.3395,TRUE,3
+285,54,GBFXT-LT01,Petroleum Terminal,Liquid,IMTT,51.9553,1.3642,TRUE,5
+286,55,GBLGP-CT01,Container Terminal 1,Container,SSA Marine,51.4791,0.4854,TRUE,3
+287,55,GBLGP-CT02,North Container Terminal,Container,PSA International,51.4793,0.4813,TRUE,7
+288,55,GBLGP-BT01,Bulk Cargo Terminal 1,Bulk,ADM Terminal,51.4882,0.4767,TRUE,3
+289,55,GBLGP-GT01,Project Cargo Terminal,General,Port Authority General Cargo,51.4741,0.4749,TRUE,3
+290,55,GBLGP-LT01,Fuel Terminal,Liquid,Port Authority,51.5012,0.4574,TRUE,5
+291,55,GBLGP-RT01,Vehicle Terminal,RoRo,Port Authority,51.474,0.4727,TRUE,2
+292,56,GBSOU-CT01,Container Terminal 1,Container,COSCO Shipping Ports,50.8956,-1.4038,TRUE,7
+293,56,GBSOU-CT02,West Container Terminal,Container,Eurogate,50.8937,-1.3921,TRUE,3
+294,56,GBSOU-PT01,International Cruise Terminal,Passenger,MSC Cruises Terminal,50.8927,-1.4219,TRUE,2
+295,56,GBSOU-PT02,Passenger Terminal,Passenger,Port Authority,50.9059,-1.4175,TRUE,3
+296,57,FRLEH-CT01,International Container Terminal 1,Container,Gulftainer,49.4987,0.1161,TRUE,4
+297,57,FRLEH-CT02,International Container Terminal 2,Container,DP World,49.5032,0.1029,TRUE,6
+298,57,FRLEH-BT01,Bulk Cargo Terminal 1,Bulk,BHP Terminal,49.4658,0.1178,TRUE,5
+299,57,FRLEH-GT01,General Cargo Terminal 1,General,Multipurpose Terminal,49.4923,0.1135,TRUE,2
+300,58,FRMRS-CT01,Container Terminal 1,Container,CMA CGM Terminals,43.3374,5.2806,FALSE,4
+301,58,FRMRS-CT02,Deep Water Container Terminal,Container,DP World,43.3605,5.3095,TRUE,5
+302,58,FRMRS-BT01,Dry Bulk Terminal,Bulk,Glencore Terminal,43.3328,5.3195,TRUE,2
+303,58,FRMRS-GT01,General Cargo Terminal 1,General,Port Authority,43.3447,5.2977,TRUE,4
+304,58,FRMRS-LT01,Liquid Bulk Terminal 1,Liquid,Port Authority,43.3382,5.3042,TRUE,4
+305,58,FRMRS-RT01,RoRo Terminal 1,RoRo,Höegh Autoliners Terminal,43.3498,5.296,TRUE,3
+306,59,ESVLC-CT01,International Container Terminal 1,Container,SSA Marine,39.4581,-0.313,TRUE,4
+307,59,ESVLC-CT02,East Container Terminal,Container,ICTSI,39.4538,-0.3341,TRUE,3
+308,59,ESVLC-BT01,Iron Ore Terminal,Bulk,Port Authority,39.4368,-0.3101,TRUE,5
+309,59,ESVLC-GT01,Breakbulk Terminal,General,Port Authority General Cargo,39.434,-0.317,TRUE,4
+310,59,ESVLC-LT01,Tank Terminal,Liquid,Port Authority,39.4668,-0.3362,TRUE,6
+311,59,ESVLC-RT01,Ferry Terminal,RoRo,Grimaldi Terminal,39.4343,-0.3341,TRUE,3
+312,60,ESALG-CT01,Main Container Terminal 1,Container,ICTSI,36.1215,-5.4367,TRUE,5
+313,60,ESALG-CT02,Main Container Terminal 2,Container,CMA CGM Terminals,36.1188,-5.4304,TRUE,6
+314,60,ESALG-BT01,Dry Bulk Terminal,Bulk,Vale Terminal,36.1196,-5.4231,TRUE,2
+315,60,ESALG-GT01,Project Cargo Terminal,General,Breakbulk Terminal,36.1294,-5.4178,TRUE,4
+316,61,ESBCN-CT01,International Container Terminal 1,Container,COSCO Shipping Ports,41.3478,2.1513,TRUE,8
+317,61,ESBCN-CT02,Container Terminal 2,Container,Gulftainer,41.3439,2.1708,TRUE,7
+318,61,ESBCN-PT01,Passenger Terminal,Passenger,Port Authority,41.3568,2.184,TRUE,2
+319,61,ESBCN-PT02,Passenger Terminal,Passenger,Norwegian Cruise Terminal,41.3639,2.1717,TRUE,1
+320,62,ITGOA-CT01,South Container Terminal,Container,CMA CGM Terminals,44.3806,8.9351,TRUE,6
+321,62,ITGOA-CT02,Main Container Terminal 2,Container,Hutchison Ports,44.4149,8.9469,FALSE,7
+322,62,ITGOA-BT01,Dry Bulk Terminal,Bulk,Glencore Terminal,44.3957,8.9471,TRUE,3
+323,62,ITGOA-GT01,Heavy Lift Terminal,General,Breakbulk Terminal,44.4166,8.9337,TRUE,3
+324,62,ITGOA-LT01,Crude Oil Terminal,Liquid,Chevron Terminal,44.4136,8.9334,TRUE,5
+325,62,ITGOA-RT01,Ferry Terminal,RoRo,EUKOR Terminal,44.4004,8.956,TRUE,4
+326,63,ITGIT-CT01,East Container Terminal,Container,PSA International,38.4319,15.8993,TRUE,4
+327,63,ITGIT-CT02,Deep Water Container Terminal,Container,CMA CGM Terminals,38.4307,15.9097,TRUE,6
+328,63,ITGIT-BT01,Dry Bulk Terminal,Bulk,Port Authority,38.4216,15.9195,FALSE,2
+329,63,ITGIT-GT01,Breakbulk Terminal,General,Breakbulk Terminal,38.4462,15.8833,TRUE,4
+330,64,GRPIR-CT01,South Container Terminal,Container,COSCO Shipping Ports,37.9417,23.6136,TRUE,5
+331,64,GRPIR-CT02,South Container Terminal,Container,ICTSI,37.9343,23.6422,TRUE,3
+332,64,GRPIR-BT01,Iron Ore Terminal,Bulk,Louis Dreyfus,37.955,23.6184,TRUE,3
+333,64,GRPIR-GT01,Breakbulk Terminal,General,Breakbulk Terminal,37.9499,23.6176,TRUE,4
+334,64,GRPIR-LT01,Chemical Terminal,Liquid,BP Terminal,37.9397,23.6177,TRUE,3
+335,64,GRPIR-RT01,Auto Terminal,RoRo,UECC Terminal,37.9423,23.6441,TRUE,2
+336,65,TRIST-CT01,West Container Terminal,Container,Eurogate,40.9959,28.9491,TRUE,3
+337,65,TRIST-CT02,Gateway Container Terminal,Container,ICTSI,40.9966,28.9406,TRUE,8
+338,65,TRIST-BT01,Iron Ore Terminal,Bulk,Vale Terminal,41.0064,28.9501,TRUE,3
+339,65,TRIST-GT01,Heavy Lift Terminal,General,Breakbulk Terminal,41.0008,28.955,TRUE,3
+340,65,TRIST-LT01,Oil Terminal,Liquid,IMTT,41.0041,28.9458,TRUE,3
+341,66,TRAMB-CT01,South Container Terminal,Container,SSA Marine,40.9957,28.6806,TRUE,8
+342,66,TRAMB-CT02,Main Container Terminal 2,Container,Hutchison Ports,40.9899,28.6848,TRUE,6
+343,66,TRAMB-BT01,Iron Ore Terminal,Bulk,Port Authority,41.0027,28.6877,TRUE,5
+344,66,TRAMB-GT01,Heavy Lift Terminal,General,Multipurpose Terminal,40.9997,28.7085,TRUE,2
+345,66,TRAMB-LT01,Petroleum Terminal,Liquid,Stolthaven,40.9683,28.7065,TRUE,3
+346,67,RULED-CT01,Deep Water Container Terminal,Container,DP World,59.9424,30.266,TRUE,3
+347,67,RULED-CT02,International Container Terminal 2,Container,ICTSI,59.9478,30.2639,TRUE,5
+348,67,RULED-BT01,Iron Ore Terminal,Bulk,ADM Terminal,59.958,30.2406,TRUE,2
+349,67,RULED-GT01,Heavy Lift Terminal,General,Port Authority,59.9399,30.2541,TRUE,2
+350,67,RULED-LT01,Petroleum Terminal,Liquid,IMTT,59.9515,30.2404,TRUE,6
+351,68,RUNVS-CT01,South Container Terminal,Container,Eurogate,44.7198,37.7919,TRUE,5
+352,68,RUNVS-CT02,West Container Terminal,Container,SSA Marine,44.7159,37.7868,TRUE,5
+353,68,RUNVS-BT01,Grain Terminal,Bulk,Rio Tinto Terminal,44.7344,37.7861,TRUE,5
+354,68,RUNVS-GT01,General Cargo Terminal 1,General,Breakbulk Terminal,44.7035,37.7914,TRUE,4
+355,68,RUNVS-LT01,Crude Oil Terminal,Liquid,Port Authority,44.7183,37.787,TRUE,5
+356,68,RUNVS-RT01,RoRo Terminal 1,RoRo,Port Authority,44.734,37.7824,TRUE,2
+357,69,PLGDN-CT01,International Container Terminal 1,Container,Terminal Investment Limited,54.3665,18.6551,TRUE,8
+358,69,PLGDN-CT02,Main Container Terminal 2,Container,Hutchison Ports,54.3492,18.6505,TRUE,6
+359,69,PLGDN-BT01,Dry Bulk Terminal,Bulk,Port Authority,54.3531,18.6632,TRUE,3
+360,69,PLGDN-GT01,Heavy Lift Terminal,General,Port Authority General Cargo,54.367,18.6463,TRUE,3
+361,69,PLGDN-LT01,Chemical Terminal,Liquid,Shell Terminal,54.3585,18.6333,TRUE,3
+362,69,PLGDN-RT01,Ferry Terminal,RoRo,K Line RoRo,54.3758,18.6608,TRUE,2
+363,70,SEGOT-CT01,International Container Terminal 1,Container,Hutchison Ports,57.6965,11.9585,TRUE,6
+364,70,SEGOT-CT02,South Container Terminal,Container,Port Authority,57.7062,11.9725,TRUE,4
+365,70,SEGOT-BT01,Dry Bulk Terminal,Bulk,Port Authority,57.7237,11.9556,TRUE,2
+366,71,EGPSD-CT01,Main Container Terminal 1,Container,Port Authority,31.2681,32.2929,FALSE,3
+367,71,EGPSD-CT02,Container Terminal 2,Container,ICTSI,31.2386,32.3003,TRUE,3
+368,71,EGPSD-BT01,Minerals Terminal,Bulk,Louis Dreyfus,31.2464,32.2937,TRUE,5
+369,71,EGPSD-GT01,General Cargo Terminal 1,General,Multipurpose Terminal,31.2554,32.2998,TRUE,2
+370,72,EGALX-CT01,South Container Terminal,Container,Terminal Investment Limited,31.1924,29.9089,TRUE,7
+371,72,EGALX-CT02,Main Container Terminal 2,Container,Evergreen Marine,31.1801,29.9313,TRUE,3
+372,73,MATNG-CT01,Container Terminal 1,Container,ICTSI,35.8833,-5.5024,TRUE,8
+373,73,MATNG-CT02,East Container Terminal,Container,CMA CGM Terminals,35.9032,-5.4827,TRUE,6
+374,74,MACAS-CT01,Gateway Container Terminal,Container,Terminal Investment Limited,33.5704,-7.6267,TRUE,4
+375,74,MACAS-CT02,Container Terminal 2,Container,Gulftainer,33.5645,-7.6317,TRUE,8
+376,75,ZADUR-CT01,Deep Water Container Terminal,Container,ICTSI,-29.885,31.0491,TRUE,5
+377,75,ZADUR-CT02,Deep Water Container Terminal,Container,Evergreen Marine,-29.8472,31.0399,TRUE,8
+378,76,ZACPT-CT01,East Container Terminal,Container,Gulftainer,-33.8907,18.4195,TRUE,5
+379,76,ZACPT-CT02,International Container Terminal 2,Container,Port Authority,-33.9007,18.4208,TRUE,8
+380,76,ZACPT-BT01,Agri-Bulk Terminal,Bulk,Port Authority Bulk,-33.914,18.4135,TRUE,5
+381,77,NGLOS-CT01,West Container Terminal,Container,Eurogate,6.415,3.3954,TRUE,7
+382,77,NGLOS-CT02,East Container Terminal,Container,PSA International,6.4446,3.3867,TRUE,5
+383,77,NGLOS-BT01,Grain Terminal,Bulk,Port Authority Bulk,6.4299,3.3873,TRUE,2
+384,77,NGLOS-GT01,Breakbulk Terminal,General,Breakbulk Terminal,6.4407,3.386,TRUE,4
+385,78,KEMBA-CT01,Main Container Terminal 1,Container,MSC Terminal,-4.0664,39.6554,TRUE,8
+386,78,KEMBA-CT02,North Container Terminal,Container,MSC Terminal,-4.0691,39.6706,TRUE,3
+387,79,DJJIB-CT01,West Container Terminal,Container,Eurogate,11.5831,43.1406,TRUE,5
+388,79,DJJIB-CT02,Deep Water Container Terminal,Container,SSA Marine,11.6097,43.1376,TRUE,3
+389,79,DJJIB-BT01,Iron Ore Terminal,Bulk,Port Authority,11.5964,43.1607,TRUE,3
+390,79,DJJIB-GT01,General Cargo Terminal 1,General,Multipurpose Terminal,11.5984,43.1571,TRUE,4
+391,80,MUPUT-CT01,International Container Terminal 1,Container,Hutchison Ports,-20.1445,57.5064,TRUE,5
+392,80,MUPUT-CT02,West Container Terminal,Container,PSA International,-20.152,57.4833,TRUE,7
+393,81,USLAX-CT01,North Container Terminal,Container,PSA International,33.7522,-118.2674,TRUE,3
+394,81,USLAX-CT02,North Container Terminal,Container,ICTSI,33.7361,-118.2601,TRUE,5
+395,81,USLAX-CT03,Deep Water Container Terminal,Container,COSCO Shipping Ports,33.7619,-118.2663,TRUE,5
+396,81,USLAX-CT04,Deep Water Container Terminal,Container,SSA Marine,33.7642,-118.2721,TRUE,7
+397,81,USLAX-BT01,Grain Terminal,Bulk,Bunge Terminal,33.7586,-118.2769,TRUE,2
+398,81,USLAX-GT01,Project Cargo Terminal,General,Port Authority,33.7638,-118.2579,TRUE,3
+399,81,USLAX-RT01,RoRo Terminal 1,RoRo,Port Authority,33.744,-118.2652,TRUE,2
+400,81,USLAX-PT01,Ferry Passenger Terminal,Passenger,Carnival Cruise Terminal,33.7634,-118.2742,TRUE,3
+401,82,USLGB-CT01,Main Container Terminal 1,Container,Ports America,33.7401,-118.1688,TRUE,3
+402,82,USLGB-CT02,Deep Water Container Terminal,Container,Gulftainer,33.7308,-118.1719,TRUE,7
+403,82,USLGB-CT03,International Container Terminal 3,Container,Evergreen Marine,33.7487,-118.1854,TRUE,6
+404,82,USLGB-CT04,Main Container Terminal 4,Container,SSA Marine,33.7496,-118.1805,TRUE,5
+405,82,USLGB-BT01,Agri-Bulk Terminal,Bulk,Port Authority,33.7601,-118.1905,TRUE,4
+406,82,USLGB-GT01,Project Cargo Terminal,General,Ports America,33.7476,-118.1848,TRUE,4
+407,82,USLGB-RT01,Ferry Terminal,RoRo,Port Authority,33.7613,-118.1697,TRUE,4
+408,82,USLGB-PT01,Passenger Terminal,Passenger,Port Authority,33.7574,-118.1911,TRUE,2
+409,82,USLGB-MPT01,Universal Terminal,Multi-Purpose,Integrated Terminal,33.764,-118.1953,TRUE,4
+410,82,USLGB-CT05,Gateway Container Terminal,Container,TraPac,33.7572,-118.1992,TRUE,8
+411,83,USNYC-CT01,South Container Terminal,Container,ICTSI,40.6737,-74.0171,TRUE,8
+412,83,USNYC-CT02,West Container Terminal,Container,APM Terminals,40.7,-74.0454,TRUE,4
+413,83,USNYC-BT01,Agri-Bulk Terminal,Bulk,Port Authority Bulk,40.6752,-74.0197,TRUE,3
+414,83,USNYC-GT01,Project Cargo Terminal,General,Port Authority,40.6704,-74.0344,FALSE,2
+415,83,USNYC-LT01,Liquid Bulk Terminal 1,Liquid,IMTT,40.6744,-74.0467,TRUE,4
+416,83,USNYC-RT01,Car Carrier Terminal,RoRo,SSA Marine,40.6834,-74.0388,TRUE,3
+417,84,USSAV-CT01,Gateway Container Terminal,Container,Fenix Marine Services,32.0953,-81.0729,TRUE,7
+418,84,USSAV-CT02,South Container Terminal,Container,ICTSI,32.0762,-81.0818,TRUE,3
+419,84,USSAV-BT01,Agri-Bulk Terminal,Bulk,Port Authority,32.0846,-81.0667,TRUE,3
+420,84,USSAV-GT01,General Cargo Terminal 1,General,Ports America,32.0971,-81.0686,FALSE,2
+421,84,USSAV-LT01,Petroleum Terminal,Liquid,ExxonMobil Terminal,32.0791,-81.1006,TRUE,2
+422,84,USSAV-RT01,Auto Terminal,RoRo,Ports America,32.0639,-81.0832,TRUE,4
+423,84,USSAV-MPT01,Universal Terminal,Multi-Purpose,Port Authority,32.0797,-81.0906,TRUE,2
+424,84,USSAV-BT02,Dry Bulk Terminal,Bulk,Ports America,32.0744,-81.0978,TRUE,5
+425,84,USSAV-LT02,Liquid Bulk Terminal 2,Liquid,Ports America,32.0957,-81.0641,TRUE,6
+426,84,USSAV-LT03,Chemical Terminal,Liquid,Chevron Terminal,32.0983,-81.0736,TRUE,5
+427,85,USHOU-CT01,Container Terminal 1,Container,CMA CGM Terminals,29.759,-95.0833,TRUE,5
+428,85,USHOU-CT02,Main Container Terminal 2,Container,Gulftainer,29.7478,-95.0843,TRUE,8
+429,85,USHOU-BT01,Dry Bulk Terminal,Bulk,Vale Terminal,29.7526,-95.0857,TRUE,4
+430,85,USHOU-GT01,Breakbulk Terminal,General,Breakbulk Terminal,29.7447,-95.0987,TRUE,2
+431,85,USHOU-LT01,Tank Terminal,Liquid,Shell Terminal,29.7509,-95.0886,TRUE,2
+432,85,USHOU-RT01,Car Carrier Terminal,RoRo,Wallenius Wilhelmsen,29.7334,-95.0672,TRUE,4
+433,86,USCHA-CT01,East Container Terminal,Container,SSA Marine,32.8088,-79.9424,FALSE,3
+434,86,USCHA-CT02,North Container Terminal,Container,COSCO Shipping Ports,32.8068,-79.9359,TRUE,4
+435,86,USCHA-BT01,Coal Terminal,Bulk,ADM Terminal,32.7867,-79.9517,TRUE,4
+436,86,USCHA-GT01,General Cargo Terminal 1,General,Port Authority General Cargo,32.8093,-79.9436,TRUE,3
+437,86,USCHA-LT01,Crude Oil Terminal,Liquid,APM Terminals,32.7838,-79.9272,TRUE,2
+438,87,USSEA-CT01,Gateway Container Terminal,Container,SSA Marine,47.573,-122.3503,TRUE,8
+439,87,USSEA-CT02,Container Terminal 2,Container,TraPac,47.5764,-122.3325,TRUE,8
+440,87,USSEA-BT01,Agri-Bulk Terminal,Bulk,Port Authority,47.5945,-122.3699,TRUE,4
+441,87,USSEA-GT01,Breakbulk Terminal,General,APM Terminals,47.5721,-122.3346,TRUE,3
+442,87,USSEA-LT01,Liquid Bulk Terminal 1,Liquid,APM Terminals,47.5769,-122.3601,TRUE,3
+443,87,USSEA-RT01,Vehicle Terminal,RoRo,K Line RoRo,47.5696,-122.3544,TRUE,4
+444,88,USTAC-CT01,South Container Terminal,Container,Terminal Investment Limited,47.273,-122.4012,TRUE,7
+445,88,USTAC-CT02,Main Container Terminal 2,Container,Hutchison Ports,47.2549,-122.4053,TRUE,6
+446,88,USTAC-BT01,Iron Ore Terminal,Bulk,Ports America,47.2725,-122.4049,TRUE,4
+447,88,USTAC-GT01,Breakbulk Terminal,General,Multipurpose Terminal,47.2499,-122.4158,TRUE,3
+448,88,USTAC-LT01,Liquid Bulk Terminal 1,Liquid,Oiltanking,47.2581,-122.4052,TRUE,4
+449,89,USOAK-CT01,Deep Water Container Terminal,Container,Fenix Marine Services,37.801,-122.2941,FALSE,3
+450,89,USOAK-CT02,Main Container Terminal 2,Container,Eurogate,37.7988,-122.2793,TRUE,5
+451,89,USOAK-BT01,Bulk Cargo Terminal 1,Bulk,ADM Terminal,37.7776,-122.2926,TRUE,2
+452,89,USOAK-GT01,Heavy Lift Terminal,General,Breakbulk Terminal,37.804,-122.2901,TRUE,2
+453,90,USMIA-CT01,North Container Terminal,Container,DP World,25.7694,-80.1699,TRUE,6
+454,90,USMIA-CT02,West Container Terminal,Container,COSCO Shipping Ports,25.7908,-80.1784,TRUE,5
+455,90,USMIA-PT01,Cruise Terminal 1,Passenger,Port Authority,25.7586,-80.1644,TRUE,1
+456,90,USMIA-PT02,Cruise Terminal 2,Passenger,Norwegian Cruise Terminal,25.7938,-80.1711,FALSE,3
+457,90,USMIA-GT01,General Cargo Terminal 1,General,Fenix Marine Services,25.7578,-80.1609,TRUE,4
+458,91,USNOR-CT01,International Container Terminal 1,Container,Eurogate,36.8462,-76.3126,TRUE,5
+459,91,USNOR-CT02,East Container Terminal,Container,DP World,36.8365,-76.2805,TRUE,3
+460,91,USNOR-BT01,Dry Bulk Terminal,Bulk,SSA Marine,36.8452,-76.3041,TRUE,2
+461,91,USNOR-GT01,General Cargo Terminal 1,General,Breakbulk Terminal,36.851,-76.2891,TRUE,4
+462,91,USNOR-LT01,Fuel Terminal,Liquid,Shell Terminal,36.8613,-76.3169,TRUE,3
+463,92,USBOS-CT01,North Container Terminal,Container,Ports America,42.3697,-71.0342,TRUE,7
+464,92,USBOS-CT02,Container Terminal 2,Container,SSA Marine,42.3327,-71.0302,TRUE,6
+465,92,USBOS-BT01,Coal Terminal,Bulk,APM Terminals,42.3301,-71.0609,TRUE,4
+466,92,USBOS-GT01,Breakbulk Terminal,General,Fenix Marine Services,42.341,-71.0306,FALSE,3
+467,92,USBOS-LT01,Petroleum Terminal,Liquid,TraPac,42.3505,-71.0471,TRUE,3
+468,92,USBOS-RT01,Car Carrier Terminal,RoRo,Port Authority,42.3609,-71.038,TRUE,3
+469,93,CAMTR-CT01,Gateway Container Terminal,Container,Hutchison Ports,45.4888,-73.5381,TRUE,6
+470,93,CAMTR-CT02,West Container Terminal,Container,Evergreen Marine,45.5056,-73.5683,TRUE,8
+471,93,CAMTR-BT01,Coal Terminal,Bulk,Port Authority Bulk,45.4818,-73.5311,TRUE,2
+472,93,CAMTR-GT01,Project Cargo Terminal,General,Port Authority,45.4823,-73.5614,TRUE,4
+473,94,CAVAN-CT01,Main Container Terminal 1,Container,Hutchison Ports,49.2862,-123.1077,TRUE,7
+474,94,CAVAN-CT02,Container Terminal 2,Container,COSCO Shipping Ports,49.2694,-123.1095,TRUE,4
+475,94,CAVAN-BT01,Coal Terminal,Bulk,Vale Terminal,49.2974,-123.1284,TRUE,2
+476,94,CAVAN-GT01,General Cargo Terminal 1,General,Breakbulk Terminal,49.2785,-123.1167,TRUE,3
+477,95,CAHFX-CT01,Main Container Terminal 1,Container,MSC Terminal,44.6417,-63.5811,TRUE,5
+478,95,CAHFX-CT02,International Container Terminal 2,Container,Hutchison Ports,44.6523,-63.5547,TRUE,4
+479,95,CAHFX-BT01,Agri-Bulk Terminal,Bulk,Rio Tinto Terminal,44.6577,-63.5767,TRUE,5
+480,95,CAHFX-GT01,Heavy Lift Terminal,General,Breakbulk Terminal,44.6433,-63.5539,TRUE,3
+481,96,CAPRR-CT01,International Container Terminal 1,Container,PSA International,54.3021,-130.3356,TRUE,3
+482,96,CAPRR-CT02,North Container Terminal,Container,COSCO Shipping Ports,54.3021,-130.3269,TRUE,3
+483,96,CAPRR-BT01,Bulk Cargo Terminal 1,Bulk,Glencore Terminal,54.3334,-130.3196,TRUE,5
+484,96,CAPRR-GT01,Heavy Lift Terminal,General,Multipurpose Terminal,54.3187,-130.3279,FALSE,4
+485,97,MXMAN-CT01,International Container Terminal 1,Container,Evergreen Marine,19.0334,-104.3352,TRUE,4
+486,97,MXMAN-CT02,Gateway Container Terminal,Container,COSCO Shipping Ports,19.043,-104.3,TRUE,3
+487,97,MXMAN-BT01,Dry Bulk Terminal,Bulk,BHP Terminal,19.0432,-104.3106,TRUE,4
+488,97,MXMAN-GT01,General Cargo Terminal 1,General,Multipurpose Terminal,19.0322,-104.3106,TRUE,2
+489,97,MXMAN-LT01,Chemical Terminal,Liquid,Chevron Terminal,19.0444,-104.326,TRUE,6
+490,97,MXMAN-RT01,Vehicle Terminal,RoRo,Port Authority,19.0329,-104.3115,TRUE,3
+491,98,MXLZC-CT01,North Container Terminal,Container,Eurogate,17.9404,-102.1718,TRUE,5
+492,98,MXLZC-CT02,Gateway Container Terminal,Container,Eurogate,17.9524,-102.1681,TRUE,6
+493,98,MXLZC-BT01,Iron Ore Terminal,Bulk,BHP Terminal,17.9509,-102.1811,TRUE,4
+494,98,MXLZC-GT01,General Cargo Terminal 1,General,Breakbulk Terminal,17.9488,-102.1796,TRUE,3
+495,99,MXVER-CT01,South Container Terminal,Container,Terminal Investment Limited,19.2186,-96.1406,TRUE,5
+496,99,MXVER-CT02,International Container Terminal 2,Container,Gulftainer,19.1949,-96.1384,TRUE,3
+497,99,MXVER-BT01,Coal Terminal,Bulk,Rio Tinto Terminal,19.2176,-96.1145,TRUE,3
+498,99,MXVER-GT01,Breakbulk Terminal,General,Breakbulk Terminal,19.1905,-96.1415,TRUE,4
+499,99,MXVER-LT01,Petroleum Terminal,Liquid,ADNOC Terminal,19.2187,-96.1189,TRUE,5
+500,100,BRSSZ-CT01,West Container Terminal,Container,Terminal Investment Limited,-23.9544,-46.3097,TRUE,5
+501,100,BRSSZ-CT02,Container Terminal 2,Container,APM Terminals,-23.9552,-46.3208,TRUE,7
+502,100,BRSSZ-BT01,Minerals Terminal,Bulk,Bunge Terminal,-23.9404,-46.3035,TRUE,5
+503,100,BRSSZ-GT01,Project Cargo Terminal,General,Breakbulk Terminal,-23.934,-46.2978,TRUE,3
+504,101,BRRJR-CT01,South Container Terminal,Container,Port Authority,-22.903,-43.1551,TRUE,3
+505,101,BRRJR-CT02,East Container Terminal,Container,ICTSI,-22.8819,-43.1501,TRUE,5
+506,101,BRRJR-BT01,Dry Bulk Terminal,Bulk,Port Authority Bulk,-22.9031,-43.1696,TRUE,3
+507,102,BRPNG-CT01,Container Terminal 1,Container,CMA CGM Terminals,-25.5027,-48.552,TRUE,6
+508,102,BRPNG-CT02,North Container Terminal,Container,PSA International,-25.5001,-48.5157,TRUE,5
+509,102,BRPNG-BT01,Bulk Cargo Terminal 1,Bulk,Bunge Terminal,-25.5251,-48.5235,TRUE,3
+510,103,ARBUE-CT01,East Container Terminal,Container,Hutchison Ports,-34.6104,-58.3526,TRUE,6
+511,103,ARBUE-CT02,International Container Terminal 2,Container,MSC Terminal,-34.6001,-58.3502,TRUE,4
+512,104,CLSAI-CT01,North Container Terminal,Container,SSA Marine,-33.564,-71.6024,TRUE,3
+513,104,CLSAI-CT02,Gateway Container Terminal,Container,Terminal Investment Limited,-33.5707,-71.6278,TRUE,8
+514,104,CLSAI-BT01,Minerals Terminal,Bulk,Port Authority,-33.5788,-71.6067,TRUE,3
+515,105,CLVAP-CT01,Deep Water Container Terminal,Container,SSA Marine,-33.0182,-71.6266,TRUE,8
+516,105,CLVAP-CT02,East Container Terminal,Container,Port Authority,-33.0362,-71.6312,FALSE,5
+517,105,CLVAP-BT01,Agri-Bulk Terminal,Bulk,Port Authority,-33.0487,-71.6264,TRUE,5
+518,105,CLVAP-GT01,Heavy Lift Terminal,General,Multipurpose Terminal,-33.0136,-71.614,TRUE,3
+519,106,PECLL-CT01,Gateway Container Terminal,Container,PSA International,-12.0687,-77.1657,TRUE,8
+520,106,PECLL-CT02,South Container Terminal,Container,Evergreen Marine,-12.0465,-77.1567,TRUE,8
+521,106,PECLL-BT01,Minerals Terminal,Bulk,Port Authority,-12.0311,-77.1503,TRUE,3
+522,106,PECLL-GT01,General Cargo Terminal 1,General,Port Authority General Cargo,-12.0375,-77.1512,TRUE,4
+523,107,COBUN-CT01,Main Container Terminal 1,Container,Terminal Investment Limited,3.8741,-77.0624,TRUE,4
+524,107,COBUN-CT02,West Container Terminal,Container,COSCO Shipping Ports,3.8979,-77.0637,TRUE,4
+525,107,COBUN-BT01,Iron Ore Terminal,Bulk,Vale Terminal,3.8868,-77.0451,TRUE,5
+526,107,COBUN-GT01,Heavy Lift Terminal,General,Multipurpose Terminal,3.8938,-77.0656,TRUE,2
+527,108,ECGYE-CT01,International Container Terminal 1,Container,Terminal Investment Limited,-2.2094,-79.8956,TRUE,5
+528,108,ECGYE-CT02,West Container Terminal,Container,SSA Marine,-2.2194,-79.8846,TRUE,3
+529,108,ECGYE-BT01,Iron Ore Terminal,Bulk,Bunge Terminal,-2.2277,-79.8869,TRUE,4
+530,109,PAMIT-CT01,East Container Terminal,Container,Port Authority,9.3492,-79.8595,TRUE,3
+531,109,PAMIT-CT02,West Container Terminal,Container,Eurogate,9.3649,-79.8827,TRUE,6
+532,109,PAMIT-BT01,Dry Bulk Terminal,Bulk,Glencore Terminal,9.3706,-79.8558,TRUE,2
+533,110,PABLB-CT01,Gateway Container Terminal,Container,CMA CGM Terminals,8.9516,-79.586,TRUE,7
+534,110,PABLB-CT02,North Container Terminal,Container,Hutchison Ports,8.9534,-79.5566,TRUE,8
+535,110,PABLB-BT01,Minerals Terminal,Bulk,Louis Dreyfus,8.9492,-79.5514,TRUE,5
+536,110,PABLB-GT01,Breakbulk Terminal,General,Multipurpose Terminal,8.9367,-79.5624,FALSE,3
+537,111,PAPCN-CT01,Container Terminal 1,Container,APM Terminals,9.3661,-79.9155,TRUE,7
+538,111,PAPCN-CT02,East Container Terminal,Container,Terminal Investment Limited,9.3483,-79.905,TRUE,5
+539,112,JMKIN-CT01,East Container Terminal,Container,Port Authority,17.9645,-76.8016,TRUE,7
+540,112,JMKIN-CT02,West Container Terminal,Container,APM Terminals,17.9559,-76.7878,TRUE,7
+541,112,JMKIN-BT01,Agri-Bulk Terminal,Bulk,Rio Tinto Terminal,17.9655,-76.7874,TRUE,4
+542,112,JMKIN-GT01,General Cargo Terminal 1,General,Multipurpose Terminal,17.9864,-76.7918,TRUE,2
+543,113,DOFDC-CT01,Gateway Container Terminal,Container,PSA International,18.4343,-69.6331,TRUE,8
+544,113,DOFDC-CT02,Container Terminal 2,Container,MSC Terminal,18.4365,-69.6306,TRUE,8
+545,113,DOFDC-BT01,Bulk Cargo Terminal 1,Bulk,ADM Terminal,18.4377,-69.6447,TRUE,5
+546,113,DOFDC-GT01,Breakbulk Terminal,General,Multipurpose Terminal,18.447,-69.6184,TRUE,4
+547,114,BSFPO-CT01,West Container Terminal,Container,DP World,26.5165,-78.7155,TRUE,6
+548,114,BSFPO-CT02,Main Container Terminal 2,Container,Eurogate,26.5282,-78.7332,TRUE,3
+549,115,TTPOS-CT01,North Container Terminal,Container,SSA Marine,10.6384,-61.5018,TRUE,5
+550,115,TTPOS-CT02,West Container Terminal,Container,APM Terminals,10.636,-61.5262,TRUE,7
+551,116,AUMEL-CT01,West Container Terminal,Container,APM Terminals,-37.8404,144.9098,TRUE,4
+552,116,AUMEL-CT02,Container Terminal 2,Container,Port Authority,-37.8464,144.9266,TRUE,3
+553,117,AUSYD-CT01,Deep Water Container Terminal,Container,Gulftainer,-33.8564,151.2191,TRUE,4
+554,117,AUSYD-CT02,Container Terminal 2,Container,Port Authority,-33.862,151.1823,TRUE,8
+555,118,AUBNE-CT01,Main Container Terminal 1,Container,SSA Marine,-27.3666,153.178,TRUE,3
+556,118,AUBNE-CT02,Deep Water Container Terminal,Container,PSA International,-27.3883,153.1596,TRUE,5
+557,118,AUBNE-BT01,Iron Ore Terminal,Bulk,Louis Dreyfus,-27.3763,153.1797,TRUE,4
+558,118,AUBNE-GT01,General Cargo Terminal 1,General,Breakbulk Terminal,-27.4012,153.1754,TRUE,3
+559,119,AUFRE-CT01,South Container Terminal,Container,CMA CGM Terminals,-32.0335,115.7391,FALSE,5
+560,119,AUFRE-CT02,South Container Terminal,Container,CMA CGM Terminals,-32.0505,115.7454,TRUE,7
+561,120,AUADL-CT01,East Container Terminal,Container,Eurogate,-34.8022,138.5077,TRUE,5
+562,120,AUADL-CT02,Container Terminal 2,Container,COSCO Shipping Ports,-34.7984,138.5083,TRUE,3
+563,120,AUADL-BT01,Dry Bulk Terminal,Bulk,Port Authority Bulk,-34.7997,138.4914,TRUE,5
+564,121,NZAKL-CT01,Container Terminal 1,Container,CMA CGM Terminals,-36.8432,174.7401,TRUE,6
+565,121,NZAKL-CT02,North Container Terminal,Container,DP World,-36.8524,174.7581,TRUE,4
+566,121,NZAKL-BT01,Grain Terminal,Bulk,Cargill Terminal,-36.8302,174.7659,TRUE,4
+567,121,NZAKL-GT01,Heavy Lift Terminal,General,Multipurpose Terminal,-36.8389,174.746,TRUE,2
+568,122,NZTAU-CT01,East Container Terminal,Container,APM Terminals,-37.6687,176.1768,TRUE,7
+569,122,NZTAU-CT02,International Container Terminal 2,Container,Port Authority,-37.6651,176.171,TRUE,8
+570,122,NZTAU-BT01,Minerals Terminal,Bulk,Glencore Terminal,-37.6643,176.1749,TRUE,2
+571,122,NZTAU-GT01,Heavy Lift Terminal,General,Multipurpose Terminal,-37.6413,176.1545,TRUE,3
+572,123,NZLYT-CT01,Deep Water Container Terminal,Container,PSA International,-43.601,172.7243,TRUE,3
+573,123,NZLYT-CT02,Deep Water Container Terminal,Container,CMA CGM Terminals,-43.6037,172.7058,TRUE,5
+574,123,NZLYT-BT01,Minerals Terminal,Bulk,Port Authority,-43.6071,172.7263,TRUE,2
+575,124,PGPOM-CT01,North Container Terminal,Container,DP World,-9.4517,147.1393,TRUE,7
+576,124,PGPOM-CT02,Main Container Terminal 2,Container,Port Authority,-9.4734,147.1369,TRUE,3
+577,125,FJSUV-CT01,International Container Terminal 1,Container,DP World,-18.1357,178.4106,TRUE,3
+578,125,FJSUV-CT02,South Container Terminal,Container,DP World,-18.1479,178.4187,TRUE,6
+579,125,FJSUV-BT01,Agri-Bulk Terminal,Bulk,ADM Terminal,-18.1394,178.4205,TRUE,4
+580,126,MTMLA-CT01,Gateway Container Terminal,Container,DP World,35.8023,14.5464,TRUE,4
+581,126,MTMLA-CT02,South Container Terminal,Container,MSC Terminal,35.8359,14.516,TRUE,3
+582,126,MTMLA-BT01,Minerals Terminal,Bulk,Glencore Terminal,35.8154,14.5188,TRUE,5
+583,126,MTMLA-GT01,Project Cargo Terminal,General,Multipurpose Terminal,35.8144,14.5227,TRUE,3
+584,127,CYLMS-CT01,North Container Terminal,Container,ICTSI,34.6538,33.029,TRUE,8
+585,127,CYLMS-CT02,South Container Terminal,Container,CMA CGM Terminals,34.6813,33.0188,FALSE,4
+586,127,CYLMS-BT01,Bulk Cargo Terminal 1,Bulk,ADM Terminal,34.655,33.0193,TRUE,4
+587,127,CYLMS-GT01,Project Cargo Terminal,General,Port Authority,34.6569,33.0326,TRUE,3
+588,128,ILHFA-CT01,East Container Terminal,Container,DP World,32.8186,34.9873,TRUE,6
+589,128,ILHFA-CT02,Container Terminal 2,Container,Hutchison Ports,32.8359,35.0132,TRUE,6
+590,128,ILHFA-BT01,Iron Ore Terminal,Bulk,ADM Terminal,32.8168,34.9967,TRUE,4
+591,128,ILHFA-GT01,General Cargo Terminal 1,General,Port Authority,32.8002,35.0049,TRUE,3
+592,129,ILASH-CT01,North Container Terminal,Container,Eurogate,31.8058,34.6454,TRUE,7
+593,129,ILASH-CT02,Main Container Terminal 2,Container,Port Authority,31.7912,34.6278,TRUE,5
+594,130,JOAQJ-CT01,Deep Water Container Terminal,Container,CMA CGM Terminals,29.5062,34.9865,TRUE,7
+595,130,JOAQJ-CT02,International Container Terminal 2,Container,Eurogate,29.5268,34.9837,TRUE,4
+596,131,LBBEY-CT01,Gateway Container Terminal,Container,MSC Terminal,33.9083,35.4974,TRUE,8
+597,131,LBBEY-CT02,International Container Terminal 2,Container,APM Terminals,33.8904,35.5156,TRUE,7
+598,131,LBBEY-BT01,Iron Ore Terminal,Bulk,Bunge Terminal,33.8807,35.5266,TRUE,2
+599,132,SYJLT-CT01,North Container Terminal,Container,Hutchison Ports,35.5269,35.7869,TRUE,6
+600,132,SYJLT-CT02,Main Container Terminal 2,Container,Evergreen Marine,35.5256,35.787,TRUE,7
+601,132,SYJLT-BT01,Bulk Cargo Terminal 1,Bulk,ADM Terminal,35.497,35.776,TRUE,2
+602,133,MMRGN-CT01,Gateway Container Terminal,Container,Hutchison Ports,16.764,96.1839,TRUE,8
+603,133,MMRGN-CT02,Container Terminal 2,Container,APM Terminals,16.7649,96.2022,TRUE,3
+604,133,MMRGN-BT01,Minerals Terminal,Bulk,Vale Terminal,16.7794,96.1958,TRUE,4
+605,133,MMRGN-GT01,Heavy Lift Terminal,General,Multipurpose Terminal,16.7782,96.1745,TRUE,3
+606,134,KHMPS-CT01,East Container Terminal,Container,SSA Marine,10.6447,103.4813,TRUE,4
+607,134,KHMPS-CT02,Container Terminal 2,Container,Evergreen Marine,10.6318,103.5082,TRUE,6
+608,134,KHMPS-BT01,Agri-Bulk Terminal,Bulk,ADM Terminal,10.6419,103.4912,TRUE,4
+609,135,KHPNH-CT01,Gateway Container Terminal,Container,ICTSI,11.578,104.9019,TRUE,5
+610,135,KHPNH-CT02,Main Container Terminal 2,Container,Hutchison Ports,11.5521,104.9366,TRUE,8
+611,136,NZWLG-CT01,Gateway Container Terminal,Container,Hutchison Ports,-41.2918,174.797,TRUE,4
+612,136,NZWLG-CT02,Container Terminal 2,Container,APM Terminals,-41.2965,174.7832,TRUE,6
+613,136,NZWLG-BT01,Coal Terminal,Bulk,BHP Terminal,-41.2678,174.7925,TRUE,3
+614,137,GBIMM-CT01,West Container Terminal,Container,Hutchison Ports,53.616,-0.1997,TRUE,5
+615,137,GBIMM-CT02,South Container Terminal,Container,Hutchison Ports,53.6491,-0.1691,TRUE,6
+616,137,GBIMM-BT01,Grain Terminal,Bulk,Port Authority,53.6279,-0.1996,TRUE,3
+617,138,GBLIV-CT01,West Container Terminal,Container,MSC Terminal,53.3883,-2.9751,TRUE,5
+618,138,GBLIV-CT02,Deep Water Container Terminal,Container,Terminal Investment Limited,53.4196,-2.9689,TRUE,3
+619,138,GBLIV-BT01,Iron Ore Terminal,Bulk,Glencore Terminal,53.4126,-2.9985,TRUE,4
+620,139,IEDUB-CT01,Container Terminal 1,Container,MSC Terminal,53.3331,-6.1934,TRUE,5
+621,139,IEDUB-CT02,Main Container Terminal 2,Container,Terminal Investment Limited,53.3655,-6.1828,TRUE,8
+622,139,IEDUB-BT01,Grain Terminal,Bulk,Port Authority,53.3461,-6.2121,TRUE,3
+623,140,IECOR-CT01,Main Container Terminal 1,Container,Hutchison Ports,51.87,-8.2887,TRUE,8
+624,140,IECOR-CT02,West Container Terminal,Container,Port Authority,51.8325,-8.3085,TRUE,7
+625,140,IECOR-BT01,Minerals Terminal,Bulk,Louis Dreyfus,51.8392,-8.2821,TRUE,4
+626,140,IECOR-GT01,General Cargo Terminal 1,General,Multipurpose Terminal,51.8613,-8.2971,TRUE,4
+627,141,PTSIE-CT01,International Container Terminal 1,Container,Gulftainer,37.9622,-8.8715,TRUE,3
+628,141,PTSIE-CT02,Gateway Container Terminal,Container,DP World,37.9305,-8.8594,TRUE,4
+629,142,PTLEI-CT01,East Container Terminal,Container,ICTSI,41.1819,-8.6807,FALSE,5
+630,142,PTLEI-CT02,South Container Terminal,Container,CMA CGM Terminals,41.1955,-8.6875,TRUE,6
+631,143,NOFRK-CT01,Deep Water Container Terminal,Container,SSA Marine,59.1999,10.9673,TRUE,4
+632,143,NOFRK-CT02,Deep Water Container Terminal,Container,CMA CGM Terminals,59.2021,10.9398,TRUE,5
+633,143,NOFRK-BT01,Grain Terminal,Bulk,Port Authority,59.2131,10.9619,FALSE,2
+634,144,NOOSL-CT01,East Container Terminal,Container,DP World,59.9097,10.7405,TRUE,6
+635,144,NOOSL-CT02,Gateway Container Terminal,Container,SSA Marine,59.9097,10.7643,TRUE,5
+636,145,DKAAR-CT01,Container Terminal 1,Container,CMA CGM Terminals,56.1367,10.217,TRUE,5
+637,145,DKAAR-CT02,East Container Terminal,Container,PSA International,56.1303,10.2349,TRUE,3
+638,146,DKCPH-CT01,Deep Water Container Terminal,Container,PSA International,55.6885,12.5686,TRUE,7
+639,146,DKCPH-CT02,Container Terminal 2,Container,Hutchison Ports,55.6722,12.5871,TRUE,4
+640,146,DKCPH-BT01,Grain Terminal,Bulk,Louis Dreyfus,55.6899,12.6017,TRUE,3
+641,147,FIHEL-CT01,Deep Water Container Terminal,Container,DP World,60.1528,24.9528,TRUE,4
+642,147,FIHEL-CT02,West Container Terminal,Container,DP World,60.1546,24.9825,TRUE,7
+643,147,FIHEL-BT01,Agri-Bulk Terminal,Bulk,Port Authority Bulk,60.1356,24.9856,TRUE,2
+644,147,FIHEL-GT01,Project Cargo Terminal,General,Port Authority,60.1426,24.9713,TRUE,2
+645,148,EEKLR-CT01,North Container Terminal,Container,Hutchison Ports,59.4417,24.7763,TRUE,8
+646,148,EEKLR-CT02,Deep Water Container Terminal,Container,Evergreen Marine,59.4589,24.7732,TRUE,3
+647,148,EEKLR-BT01,Grain Terminal,Bulk,Port Authority,59.4605,24.7797,TRUE,5
+648,149,LVRIX-CT01,South Container Terminal,Container,ICTSI,56.9835,24.085,TRUE,4
+649,149,LVRIX-CT02,Container Terminal 2,Container,Terminal Investment Limited,56.9617,24.0953,FALSE,3
+650,149,LVRIX-BT01,Bulk Cargo Terminal 1,Bulk,Cargill Terminal,56.967,24.0992,TRUE,2
+651,150,LTKLJ-CT01,East Container Terminal,Container,Hutchison Ports,55.7061,21.1412,TRUE,6
+652,150,LTKLJ-CT02,Container Terminal 2,Container,Hutchison Ports,55.6985,21.117,TRUE,4
+653,150,LTKLJ-BT01,Grain Terminal,Bulk,Rio Tinto Terminal,55.6949,21.1287,TRUE,5

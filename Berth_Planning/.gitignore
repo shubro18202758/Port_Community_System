@@ -1,0 +1,9 @@
+/src/.vs
+/src/BerthPlanning.API/obj
+/src/BerthPlanning.Core/bin
+/src/BerthPlanning.Core/obj
+/src/BerthPlanning.Infrastructure/bin
+/src/BerthPlanning.Infrastructure/obj
+/src/BerthPlanning.API/bin
+/.claude
+/frontend-react/node_modules

@@ -1,0 +1,151 @@
+portId,portCode,portName,country,city,timezone,latitude,longitude,contactEmail,contactPhone,isActive
+1,SGSIN,Port of Singapore,Singapore,Singapore,Asia/Singapore,1.2644,103.82,info@mpa.gov.sg,+65-6375-1600,TRUE
+2,CNSHA,Port of Shanghai,China,Shanghai,Asia/Shanghai,31.2304,121.4737,info@portshanghai.com.cn,+86-21-65966666,TRUE
+3,CNSZX,Port of Shenzhen,China,Shenzhen,Asia/Shanghai,22.48,113.91,info@szport.com.cn,+86-755-26691000,TRUE
+4,CNNBO,Ningbo-Zhoushan Port,China,Ningbo,Asia/Shanghai,29.8683,121.544,info@nbport.com.cn,+86-574-87286888,TRUE
+5,CNQIN,Port of Qingdao,China,Qingdao,Asia/Shanghai,36.0671,120.3826,info@qdport.com,+86-532-82985999,TRUE
+6,CNTXG,Port of Tianjin,China,Tianjin,Asia/Shanghai,38.986,117.733,info@ptacn.com,+86-22-25706688,TRUE
+7,CNXMN,Port of Xiamen,China,Xiamen,Asia/Shanghai,24.4534,118.0894,info@xmport.com.cn,+86-592-2022300,TRUE
+8,HKHKG,Port of Hong Kong,Hong Kong SAR,Hong Kong,Asia/Hong_Kong,22.2855,114.1577,enquiry@mardep.gov.hk,+852-2852-3001,TRUE
+9,KRPUS,Port of Busan,South Korea,Busan,Asia/Seoul,35.1028,129.0403,info@busanpa.com,+82-51-999-3000,TRUE
+10,JPYOK,Port of Yokohama,Japan,Yokohama,Asia/Tokyo,35.4437,139.638,info@city.yokohama.jp,+81-45-671-2888,TRUE
+11,JPTYO,Port of Tokyo,Japan,Tokyo,Asia/Tokyo,35.6204,139.774,info@tptc.co.jp,+81-3-5500-2500,TRUE
+12,JPKOB,Port of Kobe,Japan,Kobe,Asia/Tokyo,34.6901,135.1956,info@kobe-meriken.or.jp,+81-78-322-5670,TRUE
+13,JPNGO,Port of Nagoya,Japan,Nagoya,Asia/Tokyo,35.082,136.883,info@port-of-nagoya.jp,+81-52-654-7840,TRUE
+14,TWKHH,Port of Kaohsiung,Taiwan,Kaohsiung,Asia/Taipei,22.6163,120.284,info@khb.gov.tw,+886-7-562-1171,TRUE
+15,TWTPE,Port of Taipei,Taiwan,Taipei,Asia/Taipei,25.15,121.74,info@klhb.gov.tw,+886-2-2420-6000,TRUE
+16,MYKLG,Port Klang,Malaysia,Port Klang,Asia/Kuala_Lumpur,3,101.4,info@pka.gov.my,+60-3-3168-8211,TRUE
+17,MYTPP,Port of Tanjung Pelepas,Malaysia,Johor Bahru,Asia/Kuala_Lumpur,1.3667,103.55,info@ptp.com.my,+60-7-504-2222,TRUE
+18,VNSGN,Port of Ho Chi Minh City,Vietnam,Ho Chi Minh City,Asia/Ho_Chi_Minh,10.75,106.75,info@saigonport.com.vn,+84-28-3940-0888,TRUE
+19,VNHPH,Port of Hai Phong,Vietnam,Hai Phong,Asia/Ho_Chi_Minh,20.8449,106.6881,info@haiphongport.com.vn,+84-225-384-2335,TRUE
+20,THLCH,Laem Chabang Port,Thailand,Chonburi,Asia/Bangkok,13.0833,100.8833,info@laemchabangport.com,+66-38-409-100,TRUE
+21,THBKK,Port of Bangkok,Thailand,Bangkok,Asia/Bangkok,13.7,100.58,info@port.co.th,+66-2-269-3000,TRUE
+22,IDTPP,Tanjung Priok Port,Indonesia,Jakarta,Asia/Jakarta,-6.105,106.88,info@indonesiaport.co.id,+62-21-4301080,TRUE
+23,IDSUB,Port of Surabaya,Indonesia,Surabaya,Asia/Jakarta,-7.2,112.7333,info@pelindo.co.id,+62-31-329-8631,TRUE
+24,PHMNL,Port of Manila,Philippines,Manila,Asia/Manila,14.5833,120.9667,info@ppa.com.ph,+63-2-527-8356,TRUE
+25,INBOM,Mumbai Port Trust,India,Mumbai,Asia/Kolkata,18.926,72.8438,info@mumbaiport.gov.in,+91-22-22617712,TRUE
+26,INNSA,Jawaharlal Nehru Port,India,Navi Mumbai,Asia/Kolkata,18.95,72.95,info@jnport.gov.in,+91-22-27244000,TRUE
+27,INMAA,Chennai Port,India,Chennai,Asia/Kolkata,13.0827,80.2707,info@chennaiport.gov.in,+91-44-25362201,TRUE
+28,INCOK,Cochin Port,India,Kochi,Asia/Kolkata,9.9667,76.2667,info@cochinport.gov.in,+91-484-2666420,TRUE
+29,INMUN,Mundra Port,India,Mundra,Asia/Kolkata,22.8389,69.7219,info@adaniports.com,+91-2838-255000,TRUE
+30,INPAV,Pipavav Port,India,Pipavav,Asia/Kolkata,20.9167,71.5333,info@pipavavport.com,+91-2794-242200,TRUE
+31,LKCMB,Port of Colombo,Sri Lanka,Colombo,Asia/Colombo,6.95,79.85,info@slpa.lk,+94-11-2421201,TRUE
+32,BDCGP,Port of Chittagong,Bangladesh,Chittagong,Asia/Dhaka,22.33,91.8,info@cpa.gov.bd,+880-31-2510869,TRUE
+33,PKKAR,Port of Karachi,Pakistan,Karachi,Asia/Karachi,24.85,66.98,info@kpt.gov.pk,+92-21-99214800,TRUE
+34,PKQCT,Port Qasim,Pakistan,Karachi,Asia/Karachi,24.7833,67.35,info@pqa.gov.pk,+92-21-99272111,TRUE
+35,AEJEA,Jebel Ali Port,UAE,Dubai,Asia/Dubai,25.015,55.06,info@dpworld.com,+971-4-881-5555,TRUE
+36,AEKLF,Khalifa Port,UAE,Abu Dhabi,Asia/Dubai,24.8167,54.6,info@adports.ae,+971-2-695-2000,TRUE
+37,AERUH,Port Rashid,UAE,Dubai,Asia/Dubai,25.27,55.28,info@dpworld.ae,+971-4-345-5555,TRUE
+38,AEFJR,Port of Fujairah,UAE,Fujairah,Asia/Dubai,25.12,56.34,info@fujairahport.ae,+971-9-222-8800,TRUE
+39,SAJED,Jeddah Islamic Port,Saudi Arabia,Jeddah,Asia/Riyadh,21.4858,39.1925,info@mawani.gov.sa,+966-12-647-1200,TRUE
+40,SADMM,King Abdulaziz Port Dammam,Saudi Arabia,Dammam,Asia/Riyadh,26.45,50.1,info@mawani.gov.sa,+966-13-857-1111,TRUE
+41,SAKAC,King Abdullah Port,Saudi Arabia,KAEC,Asia/Riyadh,22.41,39.13,info@kingabdullahport.com.sa,+966-12-510-7777,TRUE
+42,QAHAM,Hamad Port,Qatar,Doha,Asia/Qatar,25.03,51.53,info@mwani.com.qa,+974-4449-5555,TRUE
+43,OMSLL,Port of Salalah,Oman,Salalah,Asia/Muscat,16.95,54,info@salalahport.com,+968-2320-1000,TRUE
+44,OMSOH,Port of Sohar,Oman,Sohar,Asia/Muscat,24.34,56.62,info@soharportandfreezone.com,+968-2685-2500,TRUE
+45,BWASB,Mina Salman Port,Bahrain,Manama,Asia/Bahrain,26.22,50.6,info@bahrainports.com,+973-17-725-555,TRUE
+46,KWSAA,Port of Shuwaikh,Kuwait,Kuwait City,Asia/Kuwait,29.35,47.94,info@kpa.gov.kw,+965-2484-0000,TRUE
+47,IQBSR,Port of Basra,Iraq,Basra,Asia/Baghdad,30.5167,47.8333,info@iraqiports.com,+964-40-219-9000,TRUE
+48,IRBND,Bandar Abbas Port,Iran,Bandar Abbas,Asia/Tehran,27.1833,56.2667,info@pmo.ir,+98-76-3355-2000,TRUE
+49,IRBKM,Bandar Imam Khomeini,Iran,Bandar Imam,Asia/Tehran,30.4333,49.0667,info@bikport.ir,+98-61-5222-3000,TRUE
+50,NLRTM,Port of Rotterdam,Netherlands,Rotterdam,Europe/Amsterdam,51.9,4.5,info@portofrotterdam.com,+31-10-252-1010,TRUE
+51,BEANR,Port of Antwerp-Bruges,Belgium,Antwerp,Europe/Brussels,51.26,4.4,info@portofantwerpbruges.com,+32-3-205-2011,TRUE
+52,DEHAM,Port of Hamburg,Germany,Hamburg,Europe/Berlin,53.545,9.966,info@hafen-hamburg.de,+49-40-37709-0,TRUE
+53,DEBRV,Port of Bremerhaven,Germany,Bremerhaven,Europe/Berlin,53.5396,8.5809,info@bremenports.de,+49-471-309-0,TRUE
+54,GBFXT,Port of Felixstowe,United Kingdom,Felixstowe,Europe/London,51.95,1.35,info@hfrh.co.uk,+44-1394-604500,TRUE
+55,GBLGP,London Gateway Port,United Kingdom,Stanford-le-Hope,Europe/London,51.4833,0.4667,info@londongateway.com,+44-1375-648300,TRUE
+56,GBSOU,Port of Southampton,United Kingdom,Southampton,Europe/London,50.8967,-1.4044,info@abports.co.uk,+44-23-8048-8800,TRUE
+57,FRLEH,Port of Le Havre,France,Le Havre,Europe/Paris,49.4833,0.1167,info@haropaport.com,+33-2-32-74-74-00,TRUE
+58,FRMRS,Port of Marseille,France,Marseille,Europe/Paris,43.35,5.3,info@marseille-port.fr,+33-4-91-39-40-00,TRUE
+59,ESVLC,Port of Valencia,Spain,Valencia,Europe/Madrid,39.45,-0.3167,info@valenciaport.com,+34-96-393-9500,TRUE
+60,ESALG,Port of Algeciras,Spain,Algeciras,Europe/Madrid,36.1333,-5.4333,info@apba.es,+34-956-585-400,TRUE
+61,ESBCN,Port of Barcelona,Spain,Barcelona,Europe/Madrid,41.35,2.1667,info@portdebarcelona.cat,+34-93-298-6000,TRUE
+62,ITGOA,Port of Genoa,Italy,Genoa,Europe/Rome,44.4,8.95,info@porto.genova.it,+39-010-241-2411,TRUE
+63,ITGIT,Port of Gioia Tauro,Italy,Gioia Tauro,Europe/Rome,38.4333,15.9,info@portodigioiatauro.it,+39-0966-794-111,TRUE
+64,GRPIR,Port of Piraeus,Greece,Piraeus,Europe/Athens,37.95,23.6333,info@olp.gr,+30-210-455-0000,TRUE
+65,TRIST,Port of Istanbul,Turkey,Istanbul,Europe/Istanbul,41.0053,28.955,info@marport.com.tr,+90-212-866-8080,TRUE
+66,TRAMB,Port of Ambarli,Turkey,Istanbul,Europe/Istanbul,40.9833,28.7,info@marport.com.tr,+90-212-875-8000,TRUE
+67,RULED,Big Port Saint Petersburg,Russia,Saint Petersburg,Europe/Moscow,59.95,30.25,info@port-spb.ru,+7-812-327-2511,TRUE
+68,RUNVS,Port of Novorossiysk,Russia,Novorossiysk,Europe/Moscow,44.7167,37.7833,info@nmtp.info,+7-8617-609-111,TRUE
+69,PLGDN,Port of Gdansk,Poland,Gdansk,Europe/Warsaw,54.3667,18.65,info@portgdansk.pl,+48-58-737-9111,TRUE
+70,SEGOT,Port of Gothenburg,Sweden,Gothenburg,Europe/Stockholm,57.7089,11.9746,info@portofgothenburg.com,+46-31-368-7500,TRUE
+71,EGPSD,Port Said Port,Egypt,Port Said,Africa/Cairo,31.25,32.2833,info@sczone.com.eg,+20-66-322-6999,TRUE
+72,EGALX,Port of Alexandria,Egypt,Alexandria,Africa/Cairo,31.2,29.9167,info@apa.gov.eg,+20-3-480-0901,TRUE
+73,MATNG,Tanger Med Port,Morocco,Tangier,Africa/Casablanca,35.8833,-5.5,info@tangermed.ma,+212-539-337-000,TRUE
+74,MACAS,Port of Casablanca,Morocco,Casablanca,Africa/Casablanca,33.5833,-7.6167,info@anp.org.ma,+212-522-232-424,TRUE
+75,ZADUR,Port of Durban,South Africa,Durban,Africa/Johannesburg,-29.8667,31.05,info@transnetnational.net,+27-31-361-8100,TRUE
+76,ZACPT,Port of Cape Town,South Africa,Cape Town,Africa/Johannesburg,-33.9,18.4333,info@transnetnational.net,+27-21-449-3911,TRUE
+77,NGLOS,Port of Lagos (Apapa),Nigeria,Lagos,Africa/Lagos,6.4333,3.3833,info@nigerianports.gov.ng,+234-1-587-0900,TRUE
+78,KEMBA,Port of Mombasa,Kenya,Mombasa,Africa/Nairobi,-4.0667,39.6667,info@kpa.co.ke,+254-41-211-2999,TRUE
+79,DJJIB,Port of Djibouti,Djibouti,Djibouti,Africa/Djibouti,11.5917,43.1456,info@portdedjibouti.com,+253-21-352-331,TRUE
+80,MUPUT,Port Louis,Mauritius,Port Louis,Indian/Mauritius,-20.15,57.5,info@maborport.mu,+230-206-5400,TRUE
+81,USLAX,Port of Los Angeles,United States,Los Angeles,America/Los_Angeles,33.75,-118.2667,info@portoflosangeles.org,+1-310-732-3508,TRUE
+82,USLGB,Port of Long Beach,United States,Long Beach,America/Los_Angeles,33.75,-118.1833,info@polb.com,+1-562-283-7000,TRUE
+83,USNYC,Port of New York/New Jersey,United States,Newark,America/New_York,40.6833,-74.0333,info@panynj.gov,+1-212-435-7000,TRUE
+84,USSAV,Port of Savannah,United States,Savannah,America/New_York,32.0833,-81.0833,info@gaports.com,+1-912-964-3811,TRUE
+85,USHOU,Port of Houston,United States,Houston,America/Chicago,29.75,-95.0833,info@porthouston.com,+1-713-670-2400,TRUE
+86,USCHA,Port of Charleston,United States,Charleston,America/New_York,32.8,-79.9333,info@scspa.com,+1-843-577-8100,TRUE
+87,USSEA,Port of Seattle,United States,Seattle,America/Los_Angeles,47.5833,-122.35,info@nwseaportalliance.com,+1-206-787-3000,TRUE
+88,USTAC,Port of Tacoma,United States,Tacoma,America/Los_Angeles,47.2667,-122.4167,info@nwseaportalliance.com,+1-253-383-5841,TRUE
+89,USOAK,Port of Oakland,United States,Oakland,America/Los_Angeles,37.795,-122.278,info@portofoakland.com,+1-510-627-1100,TRUE
+90,USMIA,Port of Miami,United States,Miami,America/New_York,25.775,-80.1667,info@miamidade.gov,+1-305-347-4800,TRUE
+91,USNOR,Port of Norfolk,United States,Norfolk,America/New_York,36.85,-76.3,info@portofvirginia.com,+1-757-683-8000,TRUE
+92,USBOS,Port of Boston,United States,Boston,America/New_York,42.35,-71.05,info@massport.com,+1-617-568-5000,TRUE
+93,CAMTR,Port of Montreal,Canada,Montreal,America/Toronto,45.5,-73.55,info@port-montreal.com,+1-514-283-7011,TRUE
+94,CAVAN,Port of Vancouver,Canada,Vancouver,America/Vancouver,49.2833,-123.1167,info@portvancouver.com,+1-604-665-9000,TRUE
+95,CAHFX,Port of Halifax,Canada,Halifax,America/Halifax,44.65,-63.5667,info@portofhalifax.ca,+1-902-426-8222,TRUE
+96,CAPRR,Port of Prince Rupert,Canada,Prince Rupert,America/Vancouver,54.3167,-130.3333,info@rupertport.com,+1-250-627-8899,TRUE
+97,MXMAN,Port of Manzanillo,Mexico,Manzanillo,America/Mexico_City,19.05,-104.3167,info@puertomanzanillo.com.mx,+52-314-331-1400,TRUE
+98,MXLZC,Port of Lazaro Cardenas,Mexico,Lazaro Cardenas,America/Mexico_City,17.9333,-102.1833,info@puertolazarocardenas.com.mx,+52-753-533-0700,TRUE
+99,MXVER,Port of Veracruz,Mexico,Veracruz,America/Mexico_City,19.2,-96.1333,info@apiver.com,+52-229-923-2170,TRUE
+100,BRSSZ,Port of Santos,Brazil,Santos,America/Sao_Paulo,-23.95,-46.3167,info@portodesantos.com.br,+55-13-3202-6565,TRUE
+101,BRRJR,Port of Rio de Janeiro,Brazil,Rio de Janeiro,America/Sao_Paulo,-22.8833,-43.1667,info@portosrio.gov.br,+55-21-2219-8585,TRUE
+102,BRPNG,Port of Paranagua,Brazil,Paranagua,America/Sao_Paulo,-25.5167,-48.5333,info@appa.pr.gov.br,+55-41-3420-1100,TRUE
+103,ARBUE,Port of Buenos Aires,Argentina,Buenos Aires,America/Argentina/Buenos_Aires,-34.6,-58.3667,info@puertobuenosaires.gob.ar,+54-11-4342-1212,TRUE
+104,CLSAI,Port of San Antonio,Chile,San Antonio,America/Santiago,-33.5833,-71.6167,info@sanantonioport.cc,+56-35-220-3000,TRUE
+105,CLVAP,Port of Valparaiso,Chile,Valparaiso,America/Santiago,-33.0333,-71.6333,info@puertovalparaiso.cl,+56-32-244-8800,TRUE
+106,PECLL,Port of Callao,Peru,Callao,America/Lima,-12.05,-77.15,info@apn.gob.pe,+51-1-429-9210,TRUE
+107,COBUN,Port of Buenaventura,Colombia,Buenaventura,America/Bogota,3.8833,-77.05,info@sprbun.com,+57-2-241-0700,TRUE
+108,ECGYE,Port of Guayaquil,Ecuador,Guayaquil,America/Guayaquil,-2.2167,-79.9,info@apg.gob.ec,+593-4-248-1700,TRUE
+109,PAMIT,Manzanillo International Terminal,Panama,Colon,America/Panama,9.3667,-79.8667,info@mitpan.com,+507-430-8100,TRUE
+110,PABLB,Balboa Port,Panama,Panama City,America/Panama,8.95,-79.5667,info@ppc.com.pa,+507-232-6000,TRUE
+111,PAPCN,Panama Canal Ports,Panama,Colon,America/Panama,9.35,-79.9,info@pancanal.com,+507-272-7602,TRUE
+112,JMKIN,Port of Kingston,Jamaica,Kingston,America/Jamaica,17.9667,-76.8,info@portjam.com,+1-876-922-0290,TRUE
+113,DOFDC,Port of Caucedo,Dominican Republic,Santo Domingo,America/Santo_Domingo,18.4333,-69.6333,info@dpcaucedo.com.do,+1-809-523-4400,TRUE
+114,BSFPO,Freeport Container Port,Bahamas,Freeport,America/Nassau,26.5333,-78.7167,info@hfrh.co.uk,+1-242-350-8000,TRUE
+115,TTPOS,Port of Spain,Trinidad and Tobago,Port of Spain,America/Port_of_Spain,10.65,-61.5167,info@patnt.com,+1-868-625-5451,TRUE
+116,AUMEL,Port of Melbourne,Australia,Melbourne,Australia/Melbourne,-37.85,144.9167,info@portofmelbourne.com,+61-3-9683-1500,TRUE
+117,AUSYD,Port of Sydney,Australia,Sydney,Australia/Sydney,-33.85,151.2,info@nswports.com.au,+61-2-9296-4999,TRUE
+118,AUBNE,Port of Brisbane,Australia,Brisbane,Australia/Brisbane,-27.3833,153.1667,info@portbris.com.au,+61-7-3258-4888,TRUE
+119,AUFRE,Port of Fremantle,Australia,Fremantle,Australia/Perth,-32.05,115.75,info@fremantleports.com.au,+61-8-9430-3555,TRUE
+120,AUADL,Port of Adelaide,Australia,Adelaide,Australia/Adelaide,-34.7833,138.5,info@flindersports.com.au,+61-8-8447-0611,TRUE
+121,NZAKL,Port of Auckland,New Zealand,Auckland,Pacific/Auckland,-36.84,174.76,info@poal.co.nz,+64-9-348-5000,TRUE
+122,NZTAU,Port of Tauranga,New Zealand,Tauranga,Pacific/Auckland,-37.65,176.1667,info@port-tauranga.co.nz,+64-7-572-8899,TRUE
+123,NZLYT,Port of Lyttelton,New Zealand,Lyttelton,Pacific/Auckland,-43.6,172.7167,info@lpc.co.nz,+64-3-328-8198,TRUE
+124,PGPOM,Port Moresby,Papua New Guinea,Port Moresby,Pacific/Port_Moresby,-9.4667,147.15,info@pngports.com.pg,+675-321-1400,TRUE
+125,FJSUV,Port of Suva,Fiji,Suva,Pacific/Fiji,-18.1333,178.4167,info@fijiports.com.fj,+679-331-2700,TRUE
+126,MTMLA,Malta Freeport,Malta,Marsaxlokk,Europe/Malta,35.8167,14.5333,info@maltafreeport.com.mt,+356-2165-0200,TRUE
+127,CYLMS,Port of Limassol,Cyprus,Limassol,Asia/Nicosia,34.6667,33.0333,info@cpa.gov.cy,+357-25-817200,TRUE
+128,ILHFA,Port of Haifa,Israel,Haifa,Asia/Jerusalem,32.8167,35,info@haifaport.co.il,+972-4-851-8551,TRUE
+129,ILASH,Port of Ashdod,Israel,Ashdod,Asia/Jerusalem,31.8,34.6333,info@ashdodport.co.il,+972-8-851-7777,TRUE
+130,JOAQJ,Port of Aqaba,Jordan,Aqaba,Asia/Amman,29.5167,35,info@apc.com.jo,+962-3-209-2050,TRUE
+131,LBBEY,Port of Beirut,Lebanon,Beirut,Asia/Beirut,33.9,35.5167,info@portdebeyrouth.com,+961-1-580-211,TRUE
+132,SYJLT,Port of Latakia,Syria,Latakia,Asia/Damascus,35.5167,35.7833,info@latakiaport.gov.sy,+963-41-475-900,FALSE
+133,MMRGN,Port of Yangon,Myanmar,Yangon,Asia/Yangon,16.7833,96.1833,info@mpa.gov.mm,+95-1-398-555,TRUE
+134,KHMPS,Port of Sihanoukville,Cambodia,Sihanoukville,Asia/Phnom_Penh,10.6333,103.5,info@pas.gov.kh,+855-34-933-888,TRUE
+135,KHPNH,Port of Phnom Penh,Cambodia,Phnom Penh,Asia/Phnom_Penh,11.5667,104.9167,info@ppap.gov.kh,+855-23-723-888,TRUE
+136,NZWLG,CentrePort Wellington,New Zealand,Wellington,Pacific/Auckland,-41.2833,174.7833,info@centreport.co.nz,+64-4-495-3800,TRUE
+137,GBIMM,Immingham Port,United Kingdom,Immingham,Europe/London,53.6333,-0.1833,info@abports.co.uk,+44-1469-571555,TRUE
+138,GBLIV,Port of Liverpool,United Kingdom,Liverpool,Europe/London,53.4,-2.9833,info@peelports.com,+44-151-949-6000,TRUE
+139,IEDUB,Dublin Port,Ireland,Dublin,Europe/Dublin,53.35,-6.2,info@dublinport.ie,+353-1-887-6000,TRUE
+140,IECOR,Port of Cork,Ireland,Cork,Europe/Dublin,51.85,-8.3,info@portofcork.ie,+353-21-427-3125,TRUE
+141,PTSIE,Port of Sines,Portugal,Sines,Europe/Lisbon,37.95,-8.8667,info@portodesines.pt,+351-269-860-600,TRUE
+142,PTLEI,Port of Leixoes,Portugal,Porto,Europe/Lisbon,41.1833,-8.7,info@apdl.pt,+351-229-995-500,TRUE
+143,NOFRK,Port of Frederikstad,Norway,Frederikstad,Europe/Oslo,59.2,10.95,info@borg-havn.no,+47-69-35-2600,TRUE
+144,NOOSL,Port of Oslo,Norway,Oslo,Europe/Oslo,59.9,10.75,info@oslohavn.no,+47-21-80-2100,TRUE
+145,DKAAR,Port of Aarhus,Denmark,Aarhus,Europe/Copenhagen,56.15,10.2167,info@aarhushavn.dk,+45-86-13-3266,TRUE
+146,DKCPH,Copenhagen Malmö Port,Denmark,Copenhagen,Europe/Copenhagen,55.6833,12.5833,info@cmport.com,+45-35-46-1111,TRUE
+147,FIHEL,Port of Helsinki,Finland,Helsinki,Europe/Helsinki,60.15,24.9667,info@portofhelsinki.fi,+358-9-310-1621,TRUE
+148,EEKLR,Port of Tallinn,Estonia,Tallinn,Europe/Tallinn,59.45,24.7667,info@ts.ee,+372-631-8555,TRUE
+149,LVRIX,Freeport of Riga,Latvia,Riga,Europe/Riga,56.9667,24.1,info@rop.lv,+371-6703-0800,TRUE
+150,LTKLJ,Port of Klaipeda,Lithuania,Klaipeda,Europe/Vilnius,55.7,21.1333,info@portofklaipeda.lt,+370-46-499-600,TRUE

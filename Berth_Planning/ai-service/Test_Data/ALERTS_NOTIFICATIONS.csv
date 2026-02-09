@@ -1,0 +1,9 @@
+﻿AlertId,AlertType,RelatedEntityId,EntityType,Severity,Message,IsRead,CreatedAt,ReadAt
+0,VesselDeparted,1,Schedule,Low,"Vessel MSC Ivana has departed. Dwell: 13.87h, Wait: 0.92h",0,2026-02-04 11:17:12.8000000,NULL
+1,VesselDeparted,2,Schedule,Low,"Vessel Maersk Mumbai has departed. Dwell: 9.87h, Wait: 0.92h",0,2026-02-04 11:17:12.8000000,NULL
+2,VesselDeparted,3,Schedule,Low,"Vessel Maersk Salalah has departed. Dwell: 7.87h, Wait: 0.92h",0,2026-02-04 11:17:12.8000000,NULL
+3,VesselDeparted,4,Schedule,Low,"Vessel COSCO India has departed. Dwell: 11.87h, Wait: 0.92h",0,2026-02-04 11:17:12.8000000,NULL
+4,VesselDeparted,6,Schedule,Low,"Vessel Ratna Shruti has departed. Dwell: 17.87h, Wait: 0.92h",0,2026-02-04 11:17:12.8000000,NULL
+5,VesselBerthed,7,Schedule,Low,"Vessel CMA CGM Mumbai has berthed. Resources: 2 pilots, 3 tugs, 2 cranes assigned.",0,2026-02-04 11:17:12.8633333,NULL
+6,VesselBerthed,8,Schedule,Low,"Vessel Berlin Express has berthed. Resources: 2 pilots, 3 tugs, 3 cranes assigned.",0,2026-02-04 11:17:12.8700000,NULL
+7,ScheduleGenerated,0,System,Low,Auto-generated 7 new vessel schedules for upcoming days.,0,2026-02-04 11:17:13.7600000,NULL
